@@ -1,0 +1,100 @@
+Plano 
+
+Apresentação (saber o que vc tem a dizer)
+
+Pesquisa de grupo (como se encontra no memento o conhecimento de agilidade)
+
+Mood marbles (saber o conhecimento vs se funciona)
+
+Agilidade é conhecimento visual 
+
+Delta: podemos mudar 
++: O que você achou legal 
+Parking lot: área onde você tem uma dúvida só que já passou (dúvida)
+
+Importância e estar presente
+
+?vou aplicar isso na sala de aula, como vou saber se isso esta obsoleto (só sei pq vim na IBM) 
+
+• Manifesto ágil:
+- Interações e indivíduos são mais importantes que os processos e ferramentas  (não falavam entre si)
+- softwar funcionando é mais importante que uma doc 
+- colaboração com o cliente mais importante que contrato
+- responder a mudanças mais importante que seguir um plano 
+
+• Benefícios
+- atender o mercado mais rápido 
+- qualidade (aprender fazendo, fazer um planejamento gigante -> errado, depois de uma semana você já sabe e vai fazendo melhor)
+- mais faturamento (imediato)
+- pessoas felizes 
+- clientes felizes 
+- NO FINAL DE TUDO VAMOS GANHAR VALOR E LUCRATIVIDADE E OS ACIONISTAS + FELIZES 
+
+• Práticas ágeis 
+- Não adianta a camada superior boa se a nada é ruim 
+- práticas ágeis (basicamente copiar, emprestar o brilhantismo, acho bom eu copio)
+- princípios ágeis (você vai querer ser ágil)
+- valores ágeis 
+
+E isso tudo deve provocar mudança no comportamento das pessoas
+
+Agilidade: mentalidade + forma de agir 
+
+• Valor ágeis da IBM 
+- respeito
+- abertura (clareza, transparência) 
+- empatia 
+- confiança (requer conhecimento 
+- coragem (ação)
+
+• Princípios 
+- clareza no resultado (entender)
+- ouça, faça e corrija 
+- encoraje o auto-direcionamento (autonomia, não queria mandar nos outros) 
+
+Práticas ágeis 
+- Contrato social (doc construido pela equipe e contém algumas regras de cooperação, 5 é o ideal)
+- indicador de humor (como está o humor hoje, bolas em uma jarra se tiver tudo vermelho fudeo)
+- alvo de problemas (qual e o problema mais crítico)
+- gráfico de progresso 
+
+SCRUM 
+Backlog total do projeto (lista de coisas do que tem que ser feita, para que o projeto chegue ao final) 
+quem precisa o que para que?
+
+Product Owner: cara que defini o que tem que ser feito, o que
+
+Team: como fazer, implementar
+
+Scrum master: agilista, se preocupa na saúde da equipe, princípios, motiva o time, facilitador 
+
+- Epica: é grande (várias histórias dentro, você deve quebrar e fazer as histórias) meses 
+- Feature: tangíveis, 1-2 semanas 
+- Histórias: funcionalidade, a fazer (geralmente em dias, 2-4), independentes
+- task: horas 
+
+
+Febonati 
+
+Geralmente uma história vai direto para DONE 
+
+
+Geralmente as tesks(quebra de histórias) vão para o DOING 
+
+• Daily Scrum 
+O que eu terminei e o que eu vou terminar 
+• Showcase 
+• Restropectiva 
+O que fizemos bem, o que n fizemos bem, o que podemos fazer para resolver 
+
+Acadêmic iniciative 
+
+Depois de tudo isso como é discutida as métricas? Como eu planejo sem medir?
+
+- Satisfação do time: (de 1-5 foi 4)
+
+- Satisfação do cliente: ()
+
+- Métricas de processo: (só do time, quantas tinhas quantas entreguei), Lead time (entrou no backlog ele começa a contar quanto tempo demorou para ir para o DONE) e o cycle time e quando começou a fazer e quanto tempo acabou, quanto tempo a história tá pra fazer (se tiver muito tempo é que é uma história bosta)
+
+- Custos: o que vc está fazendo tá velendo a pena (DONE)
