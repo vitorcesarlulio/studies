@@ -1,0 +1,16 @@
+https://www.mysqltutorial.org/mysql-grant.aspx
+
+https://wiki.mandic.com.br/servidores-cloud/servidor-cloud/cloud-linux/banco-de-dados/excluindo-usuario-mysql
+
+https://www.elitevisual.com.br/sites/aprenda-como-listar-usuarios-no-mysql-usando-linux/
+
+https://receitasdecodigo.com.br/banco-de-dados/criar-usuario-no-mysql-e-conceder-permissoes
+
+Permitir acesso remoto ao Mysql no Ubuntu
+	https://oxidigital.com.br/permitir-acesso-remoto-ao-mysql-no-ubuntu/
+	
+	https://bitmingw.com/2019/08/28/ubuntu-update-alternatives/
+	
+	https://stackoverflow.com/questions/24641536/how-to-set-java-home-in-linux-for-all-users
+	
+	https://linuxize.com/post/how-to-install-tomcat-9-on-ubuntu-20-04/
