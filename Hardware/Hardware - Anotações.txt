@@ -7,6 +7,14 @@ Corsair melhor marca
 Os selos (bronze, parata) que dizer o quanto não vai desperdiçar de energia e claro a qualidade
 
 # PROCESSADOR
+	CONDUTIVIDADE TÉRMICA
+		82 w/m k
+		watts metros kelvin
+	
+		media é 5
+	
+		quanto maior melhor
+		
 	Antes era só pela quantidade de GHZ dava para saber se o processador era bom, porém quando chegou em 3.8 Ghz já nao dava mais pra saber isso uma porque começou a ficar muito quente e gastar muita energia. 
 		Intel Quark: IOT
 		Intel Atom: mobile
