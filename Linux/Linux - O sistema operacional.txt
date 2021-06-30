@@ -1,0 +1,30 @@
+Referencia: https://www.youtube.com/watch?v=fM3G7yLNAjQ&list=PLbEOwbQR9lqyGUhHQHEBXxeBbE1jq8r_c&index=5
+
+Linux
+	Sistema operacional de livre distribuição baseado no sistema unix
+	
+	Código aberto
+	Richard stalmon criou o projeto GNU que a ideia seria uma versão do Linux com código aberto
+	Em 1985 criou o tratado GPL contra Copyright
+	Liberar o programa para qualquer propósito
+	Estudar como programa funciona e adaptalo a você 
+	Redistribuir cópias para ajudar o próximo
+	Liberdade de aperfeiçoar o programa
+	
+	Ela garante a propriedade intelectual ao criador
+	
+	Tux 
+		Mascote do linix
+	
+	The Linux fundation
+		Fundação sem fins lucriativos para fomentar o crescimento do Linux 
+		Patrocina o trabalho do Linus e é mantida pelas principais empresas de tecnologia e dês.
+	
+	
+	Lpi certificação Linux
+	
+	John madoghall
+	
+	Distribuição Linux
+	É formada pelo kernel mais um conjunto de aplicações e serviços
+	
