@@ -1,0 +1,2 @@
+# Limpar memória de hora em hora
+55 * * * * echo 3 > /proc/sys/vm/drop_caches
