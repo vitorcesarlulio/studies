@@ -192,6 +192,9 @@ CPU primeiro buscar dados para processar na memória cachê (que é muito rápid
 
 
 ARMAZENAMENTO
+	SSD
+		Conecte ele na entrada sata nativa da placa mae
+		
 	Ver estado do HD
 		hdd regenerator ou hdd tuning
 
