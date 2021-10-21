@@ -1,0 +1,1 @@
+O Módulo (Óptico) Foto Interruptor KY-010 é constituído basicamente de um emissor e um detector óptico (infravermelho), onde um feixe de luz é emitido do emissor para o receptor e quando este feixe é bloqueado, a saída do módulo sofre alteração e se o mesmo estiver conectado a uma plataforma microcontrolada, uma ação poderá ser executada sempre que a saída do módulo for alterada.

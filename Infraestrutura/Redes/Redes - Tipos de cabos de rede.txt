@@ -1,0 +1,10 @@
+https://www.youtube.com/watch?v=mc4mS5nmF2M
+
+Cabos de redes
+FTP
+	Cabo blindado com fita aluminada protegendo as 8 vias
+	pode ser utilizado em condutes junto com cabos elétricos
+STP
+	Cabo blindado com fita aluminada protegendo as 8 vias + blindagem em malha externa 
+SFTP
+	Fita aluminada em cada par + malha protegendo as 8 vias

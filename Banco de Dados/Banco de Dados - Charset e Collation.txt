@@ -1,0 +1,43 @@
+Referencias
+	https://www.linhadecomando.com/mysql/mysql-descobrindo-o-collation-e-o-charset-de-uma-tabela-ou-banco
+	https://pt.stackoverflow.com/questions/30329/qual-a-diferen%C3%A7a-entre-charset-e-collation-em-banco-de-dados
+	https://duvidas.bem-vindo.net/347/charsets-e-collations-no-mysql
+	https://www.youtube.com/watch?v=q5teAs_158o
+	https://www.youtube.com/watch?v=0q-e8LuctEQ
+
+https://collation-charts.org/
+
+Charset
+	Um Charset (character set) é um conjunto de símbolos e codificações. 
+	conjunto de caracteres que você irá utilizar para armazenar dados em forma de texto
+	
+	Visualizar os charsets que o MySQL suporta
+		show character set;
+		
+	Para ver a lista de collations de um determinado charset, use:
+		show collation where charset='latin1';
+
+Collation
+	Um Collation é um conjunto de regras para comparar caracteres em um conjunto de caracteres (charset).
+	Elas definem as regras para comparação entre caracteres do charset
+	Há collations para comparar caracteres de diferentes idiomas, para ignorar (ou não) letras minúsculas e maiúsculas, ou acentuação.
+	
+	Além disso, a collation também define se o sistema irá diferenciar caracteres acentuados ou se será case sensitive, por exemplo a collation Latin1_General_CI_AS define que o sistema deverá tratar os caracteres como case insensitive (CI) e acentue sensitive (AS). Exemplos:
+		latin1_general_ci: Não há distinção entre letras maiúsculas e minúsculas. Buscando por “teste”, registros como “Teste” ou “TESTE” serão retornados.
+		latin1_general_cs: Distingue letras maiúsculas e minúsculas. Buscando por “teste” somente retornará “teste”. Opções como “Teste” e “TESTE” não serão retornadas.
+		latin1_swedish_ci: Não distingue letras minúsculas e maiúsculas e nem caracteres acentuados e com cedilha, ou seja, o registro que contém a palavra “Intuição” será retornado quando houver uma procura pela palavra “intúicao”
+	Mesmo que você troque o collation do banco de dados os objetos previamente criados não terão o collation alterado, para isso você terá que RECRIAR O OBJETO.
+	
+	A tendência atualmente é usar o charset UTF-8 nos bancos de dados (especificamente o utf8mb4 no MySQL), pois serve para qualquer idioma.
+	
+	CREATE TABLE `Usuarios` (
+	`Usuario` varchar(30) NOT NULL DEFAULT '',
+	`Senha` varchar(100) NOT NULL DEFAULT '',
+	PRIMARY KEY (`Usuario`)
+	) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+	
+	SQL Server
+		SELECT * FROM fn_helpcollations()
+		
+	Ver collations do servidor
+		SELECT * FROM SERVERPROPERTY('Collation');

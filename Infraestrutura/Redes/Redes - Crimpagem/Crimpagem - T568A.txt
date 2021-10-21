@@ -1,0 +1,12 @@
+/*
+	Crimpagem T568A
+*/
+
+Verde claro
+Verde escuro
+Laranja claro
+Azul escuro
+Azul claro
+Laranja escuro
+Marrom claro
+Marrom escuro

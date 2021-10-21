@@ -1,0 +1,3 @@
+O Módulo Encoder Rotativo KY-040 é um componente de medição regular desenvolvido com a finalidade de converter movimentos rotativos (ou lineares) em impulsos elétricos de onda quadrada. Os impulsos elétricos produzidos pelo encoder podem ser interpretados por plataformas microcontroladas e estes impulsos produzem uma quantidade exata (de 20 pulsos por rotação) em cada volta.
+
+O Módulo Encoder Rotativo KY-040 tem a aparência de um potenciômetro, contudo seu funcionamento é diferente. Além disso, este encoder possui rotação contínua e tem um botão embutido em seu eixo, bastando pressionar o eixo para acionamento do botão.

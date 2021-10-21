@@ -1,0 +1,25 @@
+TERMINAIS
+	Anel/olhal	
+	ilhos: usar 2 cabos no mesmo terminal
+	Forquilha
+	Pino
+	Engate macho e femea
+	
+	Quando for decapar, decapar somente no tamanho do terminal e não no da capa plastica, se nao vai acabar passando do terminal ou sobrando antes do terminal
+
+ISOLANTE TERMO RETRÁTIL
+luva de emenda
+
+ALICATES
+	CR21-A 
+		de 0,50 a 6,00 mm²
+	CE21-B TOP++
+		de 0,50 a 6,00 mm²
+	CR22
+		de 6,00 a 16,00 mm²
+	CR34
+		de 10,00 a 50,00 mm²
+	CR35
+	de 50,00 a 95	,00 mm²
+	
+	https://mlighting.com.br/produto/100-conectores-wago-legitimo-222-412-2-polos-ate-4mm/

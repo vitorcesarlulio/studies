@@ -1,0 +1,1 @@
+O sensor de som KY-037 com microfone é uma versão mais atualizada do módulo, agora com o chip LM393. O princípio de funcionamento é simples: ao detectar som, o microfone varia a tensão na saída analógica A0, e também aciona a saída digital D0 conforme o ajuste do potenciômetro presente no módulo.

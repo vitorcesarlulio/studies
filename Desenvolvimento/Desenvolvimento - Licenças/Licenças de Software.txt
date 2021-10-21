@@ -1,0 +1,41 @@
+https://www.youtube.com/watch?v=fPfzp6ov2bQ
+Software Gratuito (Freeware)
+	- Sua utilização não implica em pagamento de licença de uso ou roids;
+	- Pode não ter código aberto;
+	- Pode limitar uso comercial, redistribuição, modificação não autorizada;
+	- Não necessariamente significa código aberto.
+	
+Shareware
+	Disponibilizado de maneira gratuita mas com algumas restrições desde funcionalidades limitadas, tempo de uso gratuito limitado ou com disponibilidade de recursos limitado.
+	
+Licença de Aquisição perpetua
+	Libera o uso do software por tempo indeterminado desde que os requisitos do contrato sejam cumpridos.
+	
+Software Proprietário
+	- Qualquer tipo de cópia, redistribuição ou alteração é vedada e proibida completamente;
+	- Intuito de lucro;
+	- Photoshop, Window, Microsoft Office etc;
+	
+Saas (Software as a service)
+	Aplicações que podem ser usadas no computador, tablet ou smartphone de maneira simples e remota, não é instalado no dispositivo e é utilizado através de uma conexão através de internet;
+	- Netflix, Amazon Prime, Spotfy etc.
+	
+Software Livre
+	Liberdade do usuário acessar, executar e modificar seu código fonte. Também é possível redistribuir código com suas modificações.
+	Estabelecido pela Free Software Foundation (FSF)
+	Linux, Gimb, FireFox
+	Possibilita o estudo, a unico exigencia é que ao redistribuir o programa é que ele permanece livre para ser novamente alterado por outros usuários.
+	
+OpenSource
+	As pessoas podem modificar a vontade, mas é o desenvolvedor original que determina condições de uso e distribuição.
+	CopyLeft, a liberdade de modificação e distribuição são garantidas, tanto em um projeto original quanto em um derivado.
+	
+	Uma pessoa ou organização não poderá ter um software livre modifica-lo e distribui-lo de maneira restrita, devendo compartilhar o programa seja ele alterado ou não pelas mesmas condições que obteve.
+	
+	GNU GPL
+		Geralmente recomentado para maioria dos pacotes de software. A versão 3 não é compatível com a versão 2 da licença.
+	Apache 2.0
+		É compatível com GNU 3.0, permite que o usuário do software distribua, modifique ou use o software para qualquer proposito desde que o usuário compra com os termos da licença que não é permitido remover direitos autorais, patentes, marcas registradas e avisos de atribuição.
+	MIT License
+		Qualquer pessoa que teve uma cópia do Software os arquivos associados, o direto de usar, modificar, fundir, distribuir, publicar, sub-licenciar e vender copias do software.
+	GNU LGPL

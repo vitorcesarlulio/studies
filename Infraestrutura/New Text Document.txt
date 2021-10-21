@@ -1,0 +1,4 @@
+Sempre quando pedir para executar como adm pedir a senha, mesmo estando logado a pessoa n vai conseguir instalar
+
+qual a quantidade ideal de armazenamento disponível servidor
+qual a porcentagem de armazenamento ideal para deixar disponivel servidor linux

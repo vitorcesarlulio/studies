@@ -1,0 +1,36 @@
+Ficar atento ao des. software
+
+	Se preocupar com usuário, não posso deixar espamar um erro lá, tudo tem que ter try catch
+	
+	Em envio de e-mails, SMS, essas coisas, fazer um esquema para que a aplicação demore um pouco, deixa a tela dar uma carregada tals porque, por trás já está sendo enviada a mensagem kkkkk
+	
+	Segurança
+		Lembrete de verificação de privacidade 
+		
+		De alguma forma tratar o usuário através de um código, algo do tipo
+			Por exemplo na redefinição de senha colocar o código do usuário "Redefina sua senha CVBALSD88128921"
+			Fica um pouco seguro mas impessoal
+		
+		Código anti-shipping
+			tudo o que for enviar, vai com esse código, emails, sms
+		
+		Senha para funções especificas
+		
+		Qualquer geração de códigos ou hash não deixar repetir número e ter número próximos
+		
+		Tenha controle sobre parâmetros, acho bom nao ter muuuito
+		
+		inatividade por sessão
+		
+		bloqueio de login por tentativas (só desbloqueia lá no login) e bloqueio para logar também? dependendo do ramo isso pode atrapalhar, demorar muito
+		
+		capchat
+		
+	Logs
+		7 dias ou 100gb
+		
+		API que faça isso a parte
+		Banco de dados separado
+		Pense na estrutura do banco, vou trabalhar mais com escrita ou leitura?
+
+		quem fará os logs? banco? sistema? ou um terceiro?

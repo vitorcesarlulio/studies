@@ -1,0 +1,1 @@
+Chaves do módulo sensor de temperatura do Arduino KY-001, permite a medição da temperatura ambiente usando o barramento serial digital. 

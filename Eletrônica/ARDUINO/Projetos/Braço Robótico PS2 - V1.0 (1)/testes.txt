@@ -1,0 +1,8 @@
+Serial.println("BASE: ");
+Serial.println(base_position);
+
+Serial.println("FRENTE E TRAS: ");
+Serial.println( elbow_position);
+
+Serial.println("ALTURA: ");
+Serial.println(shoulder_position);

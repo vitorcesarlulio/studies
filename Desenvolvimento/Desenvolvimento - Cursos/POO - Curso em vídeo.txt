@@ -1,0 +1,140 @@
+Referencias
+	https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY
+	
+
+POO
+	Programação Orientada a Objeto
+
+	Objetivo
+		Aproximar o mundo digital ao mundo real
+
+	Como era antes
+		Programação de baixo nível, as instruções eram dadas ao computador da maneira que ele entendia
+		se fosse binário, as instruções que você iria dar deveriam ser em binário
+		se fosse decimal, as instruções eram em decimal
+		
+		Programação linear (linguagem de alto nível)
+			Era de cima para baixo, sem muito desvio, sem rotinas
+			como se fosse uma lista de compras
+			
+		Programação Estruturada
+			pedaços da programação linear só que organizados de uma maneira que elas pudessem ser executadas fora da ordem natural das coisas
+	
+		Programação modular
+			pequenos módulos estruturados valorizando dados e funcionalidades e colocá-los em pequenas capsulas, protegidos, que iriam compor sistemas maiores e maiores
+			
+		POO
+			Alan Key que criou
+			
+			Criou a primeira linguagem OO, SmallTalk
+			Foi o pai do notebook e outras invenções como mouse, pois ele trabalhava na xerox
+
+	Vantagens
+		COMERNada
+		
+		C - Confiável
+			Isolamento entre as partes gera software seguro. Ao alterar uma parte, nenhuma outra é afetada.
+			
+		O - Oportuno
+			Ao dividir tudo em partes, varias delas podem ser desenvolvidas em paralelo.
+			
+		M - Manutenível
+			Atualizar um software é mais fácil, Uma pequena modificação vai beneficiar todas as partes que usarem o objeto.
+			
+		E - Extensível
+			O software não é estático. Ele deve crescer para permanecer util.
+			
+		R - Reutilizável
+			Podemos usar objetos de um sistema que criamos em outro sistema futuro.
+			
+		N - Natural
+			Mais fácil de entender. Você se preocupa mais na funcionalidade do que nos detalhes de implantação
+		
+		
+	Objetos
+		é a instancia de uma classe
+		Coisa material ou abstrata que pode ser percebida pelos sentidos e descrita por meio das suas CARACTERÍSTICAS, COMPORTAMENTOS E ESTADO ATUAL.
+	
+		Pode ser algo concreto
+		
+		é algo material?
+		Pode ser percebida pelos sentidos?
+		Pode ser descrito ou classificado de acordo com suas características, comportamentos ou estado atual.
+		
+		Todos os obejtos seguem o mesmo formato 
+		a mesma CLASSIFICAÇÃO
+		
+		Os objetos são baseados em uma mesma classificação, da mesma forma
+		Por exemplo uma caneta, ela tem um molde a ser seguido
+		
+		Então voce tem a caneta (objeto) e o modelo (classe)
+	
+	Classe
+		Defini os atributos e métodos comuns que serão compartilhados por um objeto
+		toda caneta vai ter os métodos e atributos que tem minha classe
+		
+		Se pergunte
+		Que coisas eu tenho = ATRIBUTOS
+			Modelo 	BIC Cristal
+			Cor		Azul
+			Ponta	0.5
+			Carga	90
+			Tampada	falso
+			
+		Que coisas eu faço = METODOS
+			Escrever
+			Rabiscar
+			Pintar
+			Tampar
+			Destampar
+			
+		Como eu estou agora = ESTADO
+			é determinado no momento especifico
+				Destampada
+				Azul
+				90% de carga
+				...
+		
+		Classe Caneta
+			modelo: Caractere
+			cor: Caractere
+			ponta: Real
+			carga: Inteiro
+			tampada: Logico
+			
+			Metodo rabiscar()
+				Se (tampada) entao
+					escreva("")
+				senao
+				
+				FimSe
+			FimMetodo
+			
+			Metodo tampar()
+				tampada = verdadeiro
+			FimMetodo
+			
+		FimClasse
+		
+		Instanciar
+			Pegar a classe e gerar um objeto
+			c1 			= nova Caneta
+			c1.cor 		= "Azul"
+			c1.ponta 	= 0.5
+			c1.tampada 	= falso
+			c1.rabiscar()
+			
+			//c2 não tem ligação nenhuma com c1, somente são oriundos da mesma classe
+			c2 			= nova Caneta
+			c2.cor 		= "Vermelho"
+			c2.ponta 	= 0.7
+			c2.tampada 	= falso
+			c2.tampar()
+			
+			
+	Abstração
+		A ideia de objetos da mesma classe, tem estados diferentes, mesmo tendo os mesmos atributos (somente valores diferentes, que seja igual, cada um é cada um)
+		
+		Quais os atributos que me importam nesse momento
+		
+		Um dos pilares da POO

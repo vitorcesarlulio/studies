@@ -1,0 +1,22 @@
+VETORES E MATRIZES
+	- Vetores e Matrizes são estruturas de armazenamento, assim como as variáveis comuns (int, double, char), porem, são arranjos que permitem referenciarmos múltiplos valores.
+		- estruturas que possuem tipo rígido (após declarada, não podemos mais modificar seu tipo)
+			int vetValores[10]; //fixamos que possuem 10 elementos (0....9)
+			
+		- Os índices de um vetor/matriz variam de 0 a N-1, em que N representa o números de elementos comportados pelo vetor
+	
+		- Uma vez que definimos um array (vetor ou matriz) sua manipulação ao percorrer, ordenar, excluir e etc passa a ser sempre por meio do índice (se forma sequencial)
+			Posição 1 = índice 0 (posição - 1)
+			Posição 2 = índice 1 (posição - 1)
+	
+	- Vetores são Arrays unidimensionais. Podem ser uma linha ou uma coluna 
+		int vetValor[10];
+	- Matrizes são Arrays multidimensionais 
+		int vetNotas[5][2]; //5 disciplinas e para cada disciplina tenho 2 notas, 5 linhas 2 colunas
+		
+	- Símbolos
+		& - Remete ao endereço de memória
+		<vazio> - Remete ao valor contido no endereço de memória
+		int x = 10;
+		printf("%i", x); // 10
+		printf("%i", &x); //Endereço em que variável foi declarada 2274164

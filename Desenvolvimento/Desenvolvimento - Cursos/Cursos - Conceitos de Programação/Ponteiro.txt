@@ -1,0 +1,32 @@
+PONTEIRO
+referencias de memoria
+
+	Uma forma indireta de ligar o valor guardado em uma variável 
+	consigo transitar o endereço de memoria de uma determinada variável
+	
+	por exemplo
+	main(){
+		int valor = 19;
+		int valora = 3, valorB = 10;
+		int *ponteiro = &valor;
+		
+		//imprimo o valor da variável que é 19
+		printf("Imprimir [valor] valor %i\n", valor); 
+		
+		//Imprimo o local de memoria da variável
+		printf("Imprimir [valor] endereco %i\n", &valor); 
+		
+		//
+		printf("Imprimir [valor] referencia %i\n", *ponteiro); 
+		
+		//Imprimo o local de memoria da variável ponteiro
+		printf("Imprimir [valor] endereco ponteiro %i\n", &ponteiro); 
+		
+		//ele vai devolver o endereço de memoria da variável valor (que está armazenado no ponteiro)
+		printf("Imprimir [valor] conteudo ponteiro %i\n", ponteiro); 
+		
+		//com isso eu posso mudar o valor de um ponteiro
+		*ponteiro = 23;
+		printf("Imprimir [valor] valor atualizado %i\n", valor);
+		a variavel valor passa a valer 23 pois no meu ponteiro eu referencio a variavel valor
+		

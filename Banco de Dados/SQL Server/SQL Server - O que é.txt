@@ -1,0 +1,16 @@
+O que é o SQL SERVER?
+	Database Engine (SSDE)
+		onde é armazenado os dados
+		
+	Integration Services (SSIS)
+		Ferramenta de ETL (extract transform load)
+
+	Reporting Services (SSRS)
+		Ferramenta para relatórios 
+		1 - Desenvolvimento  (pode ser feito pelo .net)
+		2 - Disponibilizar (share point microsoft)
+		
+	Analysis Services (SSAS)
+		Data warehouse é um banco multidirecional falamos em cubo, direções, profundidade
+		Enquanto no mundo relacional existem tabelas, colunas e linhas 
+		

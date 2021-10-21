@@ -1,0 +1,49 @@
+PARTICIONAMENTO DE TABELAS
+	Uma tabela fica em um disco e a outra em outro disco
+	Dessa forma quando for fazer um join, vão ser discos separados
+	
+	Tem que avaliar
+	pois se for uma coluna que é muito utilizada, vale apena particionar
+	
+	1 Criação de um grupo de arquivos
+		
+	2 Criação da função de particionamento
+		particionar uma tabela pela coluna de data
+		pegar todos os dados de cada ano e cada ano vai fazer parte de uma partição
+		Função basedo na coluna de data
+		
+	3 Criar um schema
+		vai ser responsável por vincular a função com o grupo de arquivos
+		
+	4 Criar a tabela particionada ou altear uma já existente
+		Para função de particionamento usar o schema para que ele utilize aquela função e o schema ira armazenar os dados no grupo de arquivos
+		
+ÍNDICES
+	Quando ele está muito desfragmentado
+	o sql gasta um recurso extra pois ele vai vasculhar paginas que podem estar em branco, ou a mais 
+	para juntar dados de registros que estão em paginas separadas e para ler essas paginas vc vai usar processamento
+
+	Quando desfragmentado o índice você elimina	essas paginas em branco e reorganiza para os dados ficar mais unidos possível
+
+LIKES - PERFORMACE 
+	SET STATISTICS TIME ON
+	--CTRL + M
+
+	SELECT COUNT(*)
+	FROM tabela
+	WHERE coluna COLLATE Latin_General_CS_AS LIKE '%Vitor César%' 
+	--Colation meio default
+	--CS: Case sensitive
+	--AS: acente sensitive
+	
+	SELECT COUNT(*)
+	FROM tabela
+	WHERE coluna COLLATE SQL_Latin_General_CPI_CS_AS LIKE '%Vitor César%' --Colation meio default
+	
+	SELECT COUNT(*)
+	FROM tabela
+	WHERE coluna COLLATE Latin_General_BIN LIKE '%Vitor César%' -- Proteus 
+	
+	-- Obs.:
+	--	Se possível utilizar apenas um % (no final) já máxima muito o desempenho
+	--	Se as colunas forem Nvarchar, não muda nada.
