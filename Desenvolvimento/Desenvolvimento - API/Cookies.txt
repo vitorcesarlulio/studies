@@ -1,0 +1,20 @@
+COOKIES
+	Os cookies são arquivos ou strings e não são programas executáveis
+	Foi criado pela Netscape para solucionar o problema do envio e solicitação de arquivos, que era esquecido pelo servidor e que poderia ser usado por outros computadores com o mesmo IP conforme (TANEMBAUM, 2003), o que causava problemas, pois não se sabia na realidade se era ou não aquele usuário mesmo.
+	Serve para manter a persistência das sessões HTTP
+	Basicamente ele é um grupo de dados trocados entre o servidor de páginas e o navegador colocado em um ficheiro criado no computador do usuário
+	
+	Este cookie pode ter até 5 campos (figura abaixo): 
+		Domain
+			Domain informa de onde veio o cookie. O navegador confirma que os servidores estão enviando dados fieis a respeito de seu domínio. Cada domínio pode armazenar no MÁXIMO 20 COOKIES POR CLIENTE.
+		Path
+			O campo Path é um caminho na estrutura de diretórios do servidor que identifica as partes da árvore de arquivos do servidor que podem usar o cookie. Frequentemente, ele obtém o símbolo / (barra), que representa a árvore inteira.
+		Content
+			O campo Content utiliza a forma nome = valor, podendo o servidor definir da maneira que quiser tanto o valor quanto o nome, e é nele que fica armazenado o CONTEÚDO DO COOKIE.
+		Expires
+			Expires é o campo que faz o cookie persistir, nele contém a data e o horário, e se ele estiver ausente o navegador descartara automaticamente após o termino da sessão.
+		Secure
+			O último campo define se ele é seguro ou não.
+			
+	
+	O cookie é usado para identificar um usuário que configurou uma página web, para que na próxima vez que ele entrar ela esteja configurada do modo em que ele deixou. Pode ser usado também quando se faz a solicitação de armazenamento de senha, na vez posterior em que entrar no site, a sua senha será lembrada. É usado também em sites de compra, como e-commerce, armazenando os produtos que o cliente colocou no carrinho para que no final da compra não necessite fazer todo o processo novamente.

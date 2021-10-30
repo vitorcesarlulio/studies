@@ -1,0 +1,172 @@
+https://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+
+HYPERTEXT TRANSFER PROTOCOL
+
+	é a base para a comunicação de dados da World Wide Web.
+	
+	Hipertexto é o texto estruturado que utiliza ligações lógicas (hiperlinks) entre nós contendo texto. 
+	
+	O HTTP é o protocolo para a troca ou transferência de hipertexto.
+	
+	O HTTP é projetado para permitir intermediações de elementos de rede para melhorar ou habilitar comunicações entre clientes e servidores
+	
+	Sites web de alto tráfego geralmente se beneficiam dos servidores de cache web
+	
+	Metodo de requisição mais antigo HTTP/0.9
+		GET
+	Depois vieram HTTP/1.0
+		POST e HEAD
+		
+	Um cliente HTTP inicia uma requisição estabelecendo uma conexão Transmission Control Protocol (TCP) para uma porta particular de um servidor (normalmente a porta 80. Veja Lista de portas dos protocolos TCP e UDP)
+	
+	paradigma de requisição e resposta
+	
+	Um programa requisitante (cliente) estabelece uma conexão com um outro programa receptor (servidor) e envia-lhe uma requisição, contendo a URI, a versão do protocolo, uma mensagem MIME (padrão utilizado para codificar dados em formato de textos ASCII para serem transmitidos pela Internet) contendo os modificadores da requisição, informações sobre o cliente e, possivelmente, o conteúdo no corpo da mensagem.
+
+	O servidor responde com uma linha de status (status line) incluindo sua versão de protocolo e com os códigos de erro informando se a operação foi bem sucedida ou fracasso, seguido pelas informações do servidor, metainformações da entidade e possível conteúdo no corpo da mensagem. Após o envio da resposta pelo servidor, encerra-se a conexão estabelecida.
+	
+	O cliente envia uma mensagem de requisição de um recurso e o servidor envia uma mensagem de resposta ao cliente com a solicitação
+	
+	Cabeçalho da mensagem (header)
+		é utilizado para transmitir informações adicionais entre o cliente e o servidor.
+		tanto para a requisição do cliente quanto para a resposta do servidor, seguido de dois pontos (:) e um valor.
+		Quatro tipos de cabeçalhos que poderão ser incluídos na mensagem os quais são: general-header, request-header, response-header e entity-header.
+		
+		Esses cabeçalhos são utilizados para enviar informações adicionais sobre a mensagem transmitida (general-header), a requisição e os clientes (request-header) que comunicam suas configurações e os formatos de documentos desejados como resposta
+		
+	Corpo da mensagem
+		Uma mensagem HTTP pode conter um corpo de dados que são enviados abaixo das linhas de cabeçalho.
+		o corpo pode conter dados que serão enviados diretamente pelo usuário ou um arquivo que será enviado para o servidor
+		 
+		Quando uma mensagem HTTP tiver um corpo, poderão ser incluídos cabeçalhos de entidades que descrevem suas características, como por exemplo, o Content-Type que informa o tipo MIME dos dados no corpo da mensagem e o Content-Length que informa a quantidade de bytes que o corpo da mensagem contém. A tabela ao lado apresenta alguns tipos MIME.
+			text/plain
+				Arquivo no formato texto (ASCII)
+			text/html
+				Arquivo no formato HTML, utilizado
+			como padrão para documentos Web
+			Image/gif
+				Imagem com o formato GIF
+			Image/jpeg
+				Imagem com o formato JPEG
+			application/zip
+				Arquivo compactado
+			application/json
+				Arquivo no formato JSON
+			application/xml (ou text/xml)
+				Arquivo no formato XML
+				
+	Requisição
+		uma mensagem de requisição do cliente é composta pelos seguintes campos
+			linha inicial (Request-Line)
+				três partes separadas por espaços
+					método (Method)
+					identificação do URI (Request-URI)
+						identifica sobre qual recurso será aplicada a requisição. No protocolo HTTP, o tipo de URI utilizado é chamado de URL (Uniform Resource Locator), composto pela identificação do protocolo, pelo endereço do computador servidor e pelo documento requisitado.
+					versão do HTTP (HTTP-Version) utilizado
+			linhas de cabeçalhos (Request-header)
+			uma linha em branco obrigatória e um corpo de mensagem opcional
+		
+		Métodos de solicitação
+			GET, POST, PUT, PATCH, DELETE, OPTIONS E HEAD.
+			
+			é uma maneira do navegador mostrar uma página da internet utilizando um dos oito métodos de solicitação do protocolo HTTP
+			Além de solicitar um determinado arquivo, envia várias informação para o servidor, sendo elas: o seu IP, a versão do navegador que está usando, que página utilizou para pedir a HTTP Request e a idioma que você usa, entre outros.
+			oito métodos
+			Um servidor HTTP deve implementar AO MENOS OS MÉTODOS GET E HEAD. Os métodos GET e POST SÃO OS QUE APARECEM mais comumente durante o desenvolvimento web.
+			requisita uma representação do recurso especificado
+			GET
+				requisita uma representação do recurso especificado
+				devem apenas recuperar dados
+				e não devem ter qualquer outro efeito
+				
+				Safe e idempotente
+				Jamais deveria, criar, atualizar, ou deletar um recurso.
+				
+				O resultado dele, sempre será o mesmo para um determinado conjunto de informações.
+				
+				É o único verbo que o browser faz cache, seu eu usar um POST o browser não será capaz de armazenar essa informação. Dessa forma eu poderia poupar requisições poupando cache do browser.
+				
+				Buscar uma informação
+			HEAD
+				Variação do GET em que o recurso não é retornado. É usado para obter metainformações por meio do cabeçalho da resposta, sem ter que recuperar todo o conteúdo.
+				Por exemplo, você bater em um end-point HEAD e ele trazer no headers a opção Cache-Control, visualizando se é possível realizar cache
+			POST
+				Envia dados para serem processados (por exemplo, dados de um formulário HTML)
+				Os dados são incluídos no corpo do comando
+				Por isso, esse método oferece uma maior segurança em relação aos dados transferidos, ao contrário do método GET que os dados são anexados a URL, ficando visíveis ao usuário.
+				
+				Mais sensível
+				se chamar ele 1k vez, vai gerar 1k novos recursos
+				Não é Safe 
+				Não é idempotente
+					Eu crio um usuário com e-mail mas na segunda eu já não posso criar esse user
+					De uma chamada para outra eu mudo a resposta
+			PUT
+				O método PUT envia os dados de forma semelhante ao POST, através do corpo do HTTP a diferença entre os 2 métodos é semântica. Por exemplo:
+
+				Caso você necessite atualizar os dados de um usuário, utilizando o método PUT você pode os atualizar diversas vezes, pois o PUT vai sobrescrever os dados com isso ficará somente com um único registro atualizado.
+				
+				Se você executasse este mesmo procedimento utilizando o método POST, você criaria diversos registros para cada requisição realizada.
+				
+				Atualiza o recurso por completo, todos os campos.
+				Porem o retorno do servidor deve ser sempre igual
+				
+				Imagina um recurso que tenha os atributos nome e idade
+				Ai fazemos uma chamada put para que o nome seja alterado para João
+				Na 1ª vez que é alterado o servidor retorna 200 OK e houve uma atualização no banco de dados (não é safe)
+				na segunda chamada, toda vez que for feita a solicitação para nome joao o recurso não é alterado mas o servidor da 200
+				Bom exemplo de impotência
+				A API entendeu que nada precisava ser alterado, mas retornamos 200 OK
+				
+				Atualizar recurso como todo
+			DELETE
+				Exclui o recurso.
+				Remove o recurso
+				É idempotente, mas não é safe
+				Boa pratica não remover, você altera o status de algum registro e sempre retorna um 200 trazendo as informações da pessoa 
+			TRACE
+				Ecoa o pedido, de maneira que o cliente possa saber o que os servidores intermediários estão mudando em seu pedido.
+			OPTIONS
+				Recupera os métodos HTTP que o servidor aceita.
+				Retorna os metodos HTTPD de um recurso e outras opções
+				Opções de Cors
+				Se fizermos um options em um determinado end-point de uma API pode ser retornado no HEAD do end-point uma propriedade Allow, exibindo os metodos aceitos.
+			PATCH
+				Atualiza parcialmente um recurso, possui comandos que da direções de como atualizará os recursos
+				Geralmente estão em sistema real time, que possui alto volume atualizações de um mesmo recurso
+				Não é safe nem idempotente
+				É analogo ao conceito de atualização
+				Conjunto de instruções sobre como modificar um recurso 
+				Replase, no primeiro nome para João por exemplo
+				
+				Parcialmente atualizar um recurso
+			CONNECT
+				Serve para uso com um proxy que possa se tornar um túnel SSL e TLS (um túnel pode ser usado, por exemplo, para criar uma conexão segura).
+				
+	Códigos de estado
+		HTTP/1.0 em diante
+		Códigos de estado personalizados podem ser usados, uma vez que, se o agente de usuário encontrar um código que ele não reconheça, ele pode usar o primeiro dígito do código para determinar a classe geral da resposta.
+		
+	Resposta
+		Códigos de retorno
+			A linha inicial de uma resposta HTTP indica ao cliente se sua requisição foi bem sucedida ou não. Essa situação é fornecida através de um código de retorno (Status-Code) e uma frase explicativa (Reason-Phrase)
+			o código de status é formado por três dígitos e o primeiro dígito representa a classe que pertence classificada em cinco tipos:
+			
+			1xx: Informational (Informação) – utilizada para enviar informações para o cliente de que sua requisição foi recebida e está sendo processada;
+			2xx: Success (Sucesso) – indica que a requisição do cliente foi bem sucedida;
+			3xx: Redirection (Redirecionamento) – informa a ação adicional que deve ser tomada para completar a requisição;
+			4xx: Client Error (Erro no cliente) – avisa que o cliente fez uma requisição que não pode ser atendida;
+			5xx: Server Error (Erro no servidor) – ocorreu um erro no servidor ao cumprir uma requisição válida.
+			O protocolo HTTP define somente alguns códigos em cada classe descritos na RFC 2616, mas cada servidor pode definir seus próprios códigos.
+			
+	Conexões
+		as conexões entre um cliente e um servidor são encerradas após o envio de cada requisição ou resposta
+		Cada vez que uma conexão é estabelecida ou encerrada, é consumida uma grande quantidade de TEMPO DA CPU, de LARGURA DE BANDA e de MEMÓRIA.
+		
+		O ideal seria que apenas uma conexão fosse utilizada para os pedidos e as respostas HTTP
+		
+		conexão persistente
+		protocolo HTTP/1.1, possibilita que uma conexão seja estabelecida para enviar várias requisições em seqüência sem a necessidade de esperar por cada resposta
+		
+		Se uma requisição incluir o cabeçalho Connection: close, a conexão será encerrada após o envio da resposta correspondente.
+		Utiliza-se este cabeçalho quando não há suporte a conexões persistentes, quando for a última requisição a ser enviada nesta conexão, ou ainda, sempre que quiser encerrar a conexão mesmo que nem todas as requisições tenham sido completadas. Além disso, o servidor pode fechar uma conexão se estiver ociosa por um determinado período de tempo.

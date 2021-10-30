@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=9qgfDWaeqBk&list=PLaixkA84eZy6dH-rZsQOAoJoyfwKBXRow&index=2
+
+Estilo de arquitetura que force padrões para comunicação entre sistemas
+na arquitetura rest os clientes devem enviar requisições para recuperar ou modificar recursos do servidor e o servidor envia respostas para essas requisições 
+
+Rest não é um padrão exclusivo para HTTP
+
+Apis RestFul
+	São apis que implementam rest
+	todo recurso deve ter identificador único URI 
+	Não há nenhuma restrição sobre as URIs se devem ser verbos ou não
+	RFC 3986 que trata as URIs

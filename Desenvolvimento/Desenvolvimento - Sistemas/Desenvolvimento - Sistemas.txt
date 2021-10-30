@@ -26,6 +26,8 @@ Ficar atento ao des. software
 		
 		capchat
 		
+		Primeiro eu verifico se o usuário existe no banco e se ele está ativo, se sim ai eu confiro a senha
+		
 	Logs
 		7 dias ou 100gb
 		

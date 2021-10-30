@@ -1,0 +1,15 @@
+
+https://www.youtube.com/watch?v=IEdgikorO5Q
+
+Boas praticas RESTFUL
+	Respeitar os verbos HTTPD
+	Cada método tem duas características
+		Safe
+			Métodos read-only, são seguros, independente de quantas vezes eu chamar ele não irá alterar o estado do recurso
+		Idempotente
+			Recurso pode ser chamado varias vezes, sem resultados diferentes
+			O resultado deve ser sempre o mesmo.
+	
+	Base do rest
+		Baseado em recursos
+		Tudo o que pode ser nomeado, documento, imagem, serviço.
