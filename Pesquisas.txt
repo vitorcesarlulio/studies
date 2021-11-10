@@ -1,4 +1,15 @@
 Pesquisas
+	Sistema para manipulação de arquivos em massa
+
+
+	Brainstoming
+	Braindrawing
+	Elicitacão de requisitos
+	Road Map
+	Discovery
+
+	NFC
+
 	https://yagovcb.medium.com/o-que-voc%C3%AA-precisa-saber-sobre-ddd-e-design-patterns-3-3-9c3483d7d514
 
 	RespBerry
