@@ -1,12 +1,14 @@
-eletricidade estatica
-https://produto.mercadolivre.com.br/MLB-1246390916-manta-antiestatica-esd-condutiva-1-camada-statron-1700x500mm-_JM
-so de relar em uma bancada de ferro, tem que ser direto no ferro mesmo, sem esmalte, tinta ele descarrega sua eletricidade estática
+ELETRICIDADE ESTÁTICA
+	https://produto.mercadolivre.com.br/MLB-1246390916-manta-antiestatica-esd-condutiva-1-camada-statron-1700x500mm-_JM
+	so de relar em uma bancada de ferro, tem que ser direto no ferro mesmo, sem esmalte, tinta ele descarrega sua eletricidade estática
+	Descarregar energia eletrostática
+	No ferro sem esmalte ou borracha
 
-# FONTE 
-Corsair melhor marca
-Os selos (bronze, parata) que dizer o quanto não vai desperdiçar de energia e claro a qualidade
+FONTE 
+	Corsair melhor marca
+	Os selos (bronze, parata) que dizer o quanto não vai desperdiçar de energia e claro a qualidade
 
-# PROCESSADOR
+PROCESSADOR
 	CONDUTIVIDADE TÉRMICA
 		82 w/m k
 		watts metros kelvin
@@ -53,27 +55,27 @@ Os selos (bronze, parata) que dizer o quanto não vai desperdiçar de energia e 
 	APUs 4....., quer dizer que já vem com processamento gráfico
 
 
-# MEMORIA RAM
-CUIDADO PARA NÃO EXTRAPOLAR O CONTROLADOR DE MEMORIA
-Socket 1151
-Intel
-Processadores 6ª geração: utilizando as placas mãe h110, h170, b150 (não possuem chipset Z). A memoria fica no limite do processador, que no caso dos 6 geração é uns 2133mhz
-Processadores 7ª geração: memoria em 2400mhz, isso com placas z170 ou z270, isso pois essas placas permitem OC (caso o processador tenha K no finak). Porem se voce pegar um processador de 6 geração e colocar nessas placas mae (liberadas para OC) a memoria pode ir até quanto a placa mae deixar)
+MEMORIA RAM
+	CUIDADO PARA NÃO EXTRAPOLAR O CONTROLADOR DE MEMORIA
+	Socket 1151
+	Intel
+	Processadores 6ª geração: utilizando as placas mãe h110, h170, b150 (não possuem chipset Z). A memoria fica no limite do processador, que no caso dos 6 geração é uns 2133mhz
+	Processadores 7ª geração: memoria em 2400mhz, isso com placas z170 ou z270, isso pois essas placas permitem OC (caso o processador tenha K no finak). Porem se voce pegar um processador de 6 geração e colocar nessas placas mae (liberadas para OC) a memoria pode ir até quanto a placa mae deixar)
 
-H110 = 6ª geração e 7ª
-H310 = 8ª e 9ª
+	H110 = 6ª geração e 7ª
+	H310 = 8ª e 9ª
+	
+	Quando for instalar as memoria colocar no A2 e B2, pula 1 pente e coloca no segundo, pula 3 e coloca no 4.
+	Isso por exemplo na B450 (ASUS) com amd 3600x, quando você liga o XMP ( que na ASUS é DOCP) não da imagem, pq as memorias estão nos pentes errados.
+	Primeiro SLOT geralmente é para 4 memorias, ele so é usado quando tem 4 memorias
+	VER MANUAL
+	
+	AMD
+		1ª geração: 3000mhz a 3400mhz
+		2ª geração: 3200 a 3600
+		3ª geração: 2 chips e um núcleo só para conversar com a memoria, ai numa b450 por exemplo já dava pra bater 4000mhz com um processador 3 geração. Compre uma memoria 3600mhz para conversar com processador, pra cima disso o sofre latência, o processador não aguenta.
 
-Quando for instalar as memoria colocar no A2 e B2, pula 1 pente e coloca no segundo, pula 3 e coloca no 4.
-Isso por exemplo na B450 (ASUS) com amd 3600x, quando você liga o XMP ( que na ASUS é DOCP) não da imagem, pq as memorias estão nos pentes errados.
-Primeiro SLOT geralmente é para 4 memorias, ele so é usado quando tem 4 memorias
-VER MANUAL
-
-AMD
-1ª geração: 3000mhz a 3400mhz
-2ª geração: 3200 a 3600
-3ª geração: 2 chips e um núcleo só para conversar com a memoria, ai numa b450 por exemplo já dava pra bater 4000mhz com um processador 3 geração. Compre uma memoria 3600mhz para conversar com processador, pra cima disso o sofre latência, o processador não aguenta.
-
-# PLACAS MAE
+PLACAS MAE
 	Socket do tipo AM4 PGA: os pinos são no processador (geralmente AMD)
 	Socket LGA: pinos na placa mãe
 	
@@ -90,23 +92,23 @@ AMD
 	
 	2 pentes de memoria 3200mhz (nunca mais se vai mexer) + b450 (so vai trocar se queimar) + raizem 5800 = Gasta apenas 1x
 
-# ORÇAMENTO
-AMD A8 9600 (gpu integrada)
-Placa mãe am4 (bioestar, mas pode ser outra marca)]
-Memoria ddr4 (crucial)
+ORÇAMENTO
+	AMD A8 9600 (gpu integrada)
+	Placa mãe am4 (bioestar, mas pode ser outra marca)]
+	Memoria ddr4 (crucial)
 
-# IMPRESSORA WIFI NÃO ENCONTRADA NA REDE
-se for uma rede 5ghz não encontra, as impressoras so trabalham em 2.4, entao voce deve conectar o notebook na 2.4
+IMPRESSORA WIFI NÃO ENCONTRADA NA REDE
+	se for uma rede 5ghz não encontra, as impressoras so trabalham em 2.4, entao voce deve conectar o notebook na 2.4
 
-# NOTEBOOK NÃO LIGA
-Pode ser BIOS
-Tire a bateria, tire da tomada, tire a bateria 5v e pressione o btn power por 5 minutos.
+NOTEBOOK NÃO LIGA
+	Pode ser BIOS
+	Tire a bateria, tire da tomada, tire a bateria 5v e pressione o btn power por 5 minutos.
 
-# INSTALAR WINDOWS NOTEBOOK (PRINICIPALMENTE SANSUMG)
-Se não tiver passando da tela de instalação, desliga na mão a plaquinha wifi
+INSTALAR WINDOWS NOTEBOOK (PRINICIPALMENTE SANSUMG)
+	Se não tiver passando da tela de instalação, desliga na mão a plaquinha wifi
 
-# VIRUS
-Malware bytes
+VIRUS
+	Malware bytes
 
 Placa de vídeo pode ser que ela não funciona em 16x e só em 8x, você coloca no 16x só que o Pc indentifica como 8x, aí é problema em um resistor do PCI da placa
 

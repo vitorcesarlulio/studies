@@ -36,3 +36,14 @@ Ficar atento ao des. software
 		Pense na estrutura do banco, vou trabalhar mais com escrita ou leitura?
 
 		quem fará os logs? banco? sistema? ou um terceiro?
+		
+	Filtros
+		Salvar em cache ou por usuário
+		
+	Conexão com banco de dados
+		Usuários diferentes para executar comandos no banco
+		
+		Ter muito cuidado sobre as conexões, onde abrir, onde fechar, commit, rollback (quando é uma tabela venda e tabela de itens)
+	
+	Tratar tudo no meu bean pra chegar no controler pronto pra eu jogar no banco
+	Quanto mais puro eu chegar no banco melhor

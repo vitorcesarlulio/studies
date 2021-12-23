@@ -1,0 +1,41 @@
+https://www.youtube.com/watch?v=O-ZCjGCDMxM
+https://www.youtube.com/watch?v=tdi3B6zZlr8
+
+URI
+	tal.com.br/v1/cadastro
+	tal.com.br/v2/cadastro
+	Geralmente mais utilizado pela visibilidade e questão de cache
+	
+Media Type
+	Passado no Header um parâmetro para direcionamento
+	
+Quebra de contrato	
+	Geralmente há a necessidade da criação de uma nova versão quando
+	Quem consome continua como está e novos ja pegam a nova versão.
+		Acontece quando uma alteração na estrutura da API gera erro no cliente caso	ele se mantenha chamando a API da mesma forma.
+		
+		- Remoção de atributos de resposta;
+		- Adição de atributos, headers, query parameters etc. Obrigatórios na requisição;
+		- Remoção de recursos (URLs);
+		- Alteração de atributos, headers, query parameters, URLS etc.	obrigatórios ou não.
+		
+Alteração de contrato
+	Acontece quando uma alteração na estrutura da API não gera erro no cliente caso ele se mantenha chamando a API da mesma forma.
+	
+		- Adição de atributos de resposta;
+		- Adição de atributos, headers, query parameters etc. Não obrigatórios na requisição.
+		- Adição de recursos (URLs);
+		- Quando se tem um documento da especificação da API, altere alguma descrição ou exemplo.
+
+Semantic Version
+	Tres partes
+	
+	Major
+		Quebra de contrato
+		Numero levado para URL
+	Minor
+		Alteração de contrato
+		Quando crio algo novo, uma url, atributos, headers.
+	Patch
+		Incrementando pequenas alterações, descrição, exemplos.
+	

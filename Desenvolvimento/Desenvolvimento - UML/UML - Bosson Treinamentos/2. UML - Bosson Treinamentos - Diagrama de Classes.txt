@@ -118,7 +118,7 @@ Diagrama de classes UML
 					
 					
 				Representação
-					- com diamante na ponta vazado
+					- com diamante na ponta zvazado
 					A ponta indica quem está agregando (Departamento é preenchido com vários instrutores)
 
 			Composição

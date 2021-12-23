@@ -13,3 +13,37 @@ Boas praticas RESTFUL
 	Base do rest
 		Baseado em recursos
 		Tudo o que pode ser nomeado, documento, imagem, serviço.
+		
+metadata
+	count: Quantidades que está vindo
+	offset: onde estou, pagina
+	limit: qual limite, pode ser false
+	size: 2
+	
+POST
+	Retornar no header um location pra depois de um cadastro o cara ser direcionado pra ele ver as infos daquele cadastro, tipo, pra onde ele vai depois que criou
+	no edit não, pq ele ja sabe kkkk
+
+DELETE
+	delete eu posso retornar um 204, que é sem conteudo mas que deu certo
+	é bacana retornar no header um entity com id do cara deletado 
+
+Versionamento
+	XXXX
+
+Eu não tenho ações na minha URI, as ações ficam por conta dos verbos HTTP
+
+pego parâmetros da URL e não do corpo (ou parâmetros)
+
+
+
+GET
+	Num get eu posso ter um HATEOAS que é literalmente um link q aponta para outro end-point assim você não carrega seu response. Porem num dispositivo móvel vc acaba consumindo mais memoria, bateria pq é uma nova requisição
+	Só que, eu posso posso tratar isso
+	extends true ou false ou HATEOAS true ou false que ai eu trago ou não de uma forma ou outra
+	
+	geralmente mesmo status code do get tem que ser no put
+
+Erros
+	Ao invés de eu trabalhar muito sobre os status code eu jogo um 400 e devolvo um array com todos os erros, email errado, nome sem preencher. Se não o cara vai ter que toda hora enviar e voltar, enviar e voltar.
+	https://jsonapi.org/examples/#error-objects-error-codes

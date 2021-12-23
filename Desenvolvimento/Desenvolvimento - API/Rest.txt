@@ -1,4 +1,5 @@
 https://www.youtube.com/watch?v=9qgfDWaeqBk&list=PLaixkA84eZy6dH-rZsQOAoJoyfwKBXRow&index=2
+https://www.youtube.com/watch?v=5I56m9o4TvI
 
 Estilo de arquitetura que force padrões para comunicação entre sistemas
 na arquitetura rest os clientes devem enviar requisições para recuperar ou modificar recursos do servidor e o servidor envia respostas para essas requisições 
@@ -10,3 +11,24 @@ Apis RestFul
 	todo recurso deve ter identificador único URI 
 	Não há nenhuma restrição sobre as URIs se devem ser verbos ou não
 	RFC 3986 que trata as URIs
+	
+Stateless
+	Quando é feita uma requisição e quando fecha-la, quando realizar uma nova requisição será uma nova requisição, sem resquícios da requisição anterior.
+	Não trabalha com sessão, isso torna mais escalável a aplicação
+	
+Levels
+	Level 0 The Swamp of POX
+		Quais são meus recursos?
+		
+	Level 1 Recursos
+		Mapeei os recursos e criei uma rota e estou devolvendo dados
+		
+	Level 2 Verbos HTTP
+		Utilizar verbos
+		
+	Level 3 Controle de Hypermidia
+		Forma de controlar os dados, limitações, filtros.
+		
+Controle de erros
+
+Nunca deixe o cliente sem informação, feedback

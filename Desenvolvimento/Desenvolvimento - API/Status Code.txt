@@ -1,4 +1,5 @@
 https://www.youtube.com/watch?v=3AIj-Q3iocQ
+https://github.com/waldemarnt/http-status-codes
 
 HTTP é connection 
 	Quando você client, envia para servidor algum request, ele vai processar essa informação e independente da ação do client ele devolverá uma resposta.
