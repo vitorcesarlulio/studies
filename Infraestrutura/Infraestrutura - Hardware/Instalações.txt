@@ -1,0 +1,53 @@
+Formatar
+ativar windows
+baixar winrar
+ativar winrar
+pacote office
+ativar pacote office
+google
+google drive
+acrobat reader
+ImageGlass
+5KPlayer
+netbeans
+coreldraw
+ativar coreldraw
+steam
+cs go 
+photsohp
+ativar photsohp
+autocad
+ativar autocad
+sketchup
+ativar sketchup
+visual studio
+ativar visual studio
+impressoras
+dreamweaver
+ativar dreamweaver
+atualizar drives
+ativar atualizar drives
+whatsapp
+teamviewer
+Notepad++
+deamondtools (montar iso)
+firebird
+delphi
+ibxpert
+Nvidia Experience
+CPUID HWMonitor
+MSI Afterburner
+5Kplayer (reprodutor de áudio)
+ImageGlass (visualizador de imagem)
+
+
+FORMATAR PENDRIVE
+HP USB Disk Storage Format Tool
+
+EXTRAIR ISO
+rufus-3.0
+
+MONTAR UMA IMAGEM ISO
+DAEMON Tools
+
+

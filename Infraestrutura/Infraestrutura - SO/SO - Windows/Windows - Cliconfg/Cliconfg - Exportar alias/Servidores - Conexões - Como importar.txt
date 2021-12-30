@@ -1,0 +1,12 @@
+Obs.: verifique se a maquina é 64 bits, se sim, pegue esse cliconfg "C:\Windows\SysWOW64\cliconfg.exe"
+
+Caminho do regedit
+Pressione as teclas Windows + R
+digite regedit
+COle esse caminho na busca
+HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\MSSQLServer\Client\ConnectTo
+
+Na hora de importar pode ser que não tenha a pasta ConnectTo
+até ai ok
+
+ai voce vai no menu arquivo > importar > selecione o arquivo em \\192.168.10.10\Transfere\Web\Web - Backups\Servidores - Conexões\

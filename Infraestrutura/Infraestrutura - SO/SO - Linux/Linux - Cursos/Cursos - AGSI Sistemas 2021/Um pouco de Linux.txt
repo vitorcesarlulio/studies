@@ -1,0 +1,24 @@
+Bom dia Pessoal!
+
+Espero que estejam todos bem! : )
+
+Encaminho para vocês o slide utilizado ontem durante a apresentação sobre o sistema operacional Linux.
+
+Relembrando um pouco do que vimos ... 
+
+1. O que é Linux?
+2. Kernel
+3. História
+4. Comandos
+5. Scripts
+6. Estrutura dos scripts
+7. Fazendo um script
+8. Próximos passos
+
+O foco foi completamente voltado à realidade do que utilizamos e do que precisamos fazer em nosso dia a dia, quando o assunto é relacionado a navegação, instalação e operações nos sistemas operacionais Linux. Seguem algumas leituras interessantes referentes ao assunto, caso desejem se aprofundar: 
+
+1. Material para apoio
+
+Em caso de dúvidas, podem me chamar! Lembrando sempre, como dizia o nosso ancião Emerson, "A sua dúvida, pode ser a mesma que a minha!". Ou como dizia o penugem, "Hmnnnn, boa pergunta!"
+
+Para a próxima semana, iremos alinhar os próximos passos e retorno para vocês!

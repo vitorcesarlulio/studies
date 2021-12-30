@@ -1,0 +1,16 @@
+Respondendo a sua pergunta: Não o AP não pega automaticamente essas informações, você tem que ir até o AP e informar a ele para ele usar a VLANx no SSID tal, como mostrei no vídeo, aqui tenho 3 SSID.
+
+Hoje temos vários tipos de switch/hub, temos o não gerenciável, mais conhecido como um switch burro. Ele recebe um pacote numa porta e encaminha esse pacote para todas as outras portas, ou seja, todos os dispositivos que estão ali conectados se comunicam. Um HUB/Switch não gerenciável, ele só tem 1 domínio de broadcast (Procure no google o que é isso, seria 1 endereço somente, por isso ele não consegue direcionar a informações para quem ele realmente deseja, dai ele joga a informação para todos da rede. Se ele tivesse mais que 1 broadcast, poderia definir um broadcast para enviar cada informaçao para realmente quem precisa dela). Diferente de quando crio VLANs, onde cada VLAN é um domínio de broadcast.
+
+O que eu tenho aqui é um switch gerenciável, ou seja, em cada porta dele, posso fazer uma configuração única. Em miúdos, na porta 1 está conectado o meu notebook, ele está na VLAN principal, meu NAS, está conectado na porta 2 e ela está configurada como VLAN10.
+Nisso temos 2 domínios de broadcast, onde o switch em cada porta só vai passar pacotes a VLAN que ele esta configurada (Porta 1 - VLAN principal e Porta 2 VLAN10), e o roteador não propaga domínio de broadcast, ou seja, se eu tentar acessar o meu NAS a partir do meu computador, não irei conseguir, pois estou em domínios de broadcast diferentes. O que tenho que fazer para ter essa comunicação? Regra de firewall. Informar ao meu roteador que quando o meu notebook da VLAN principal, quer acessar o NAS que está na VLAN 10 na porta XXX, ele permitir.
+
+O que eu tenho aqui é um switch gerenciável, ou seja, em cada porta dele, posso fazer uma configuração única. Em miúdos, na porta 1 está conectado o meu notebook, ele está na VLAN principal, meu NAS, está conectado na porta 2 e ela está configurada como VLAN10.
+Nisso temos 2 domínios de broadcast, onde o switch em cada porta só vai passar pacotes a VLAN que ele esta configurada (Porta 1 - VLAN principal e Porta 2 VLAN10), e o roteador não propaga domínio de broadcast, ou seja, se eu tentar acessar o meu NAS a partir do meu computador, não irei conseguir, pois estou em domínios de broadcast diferentes. O que tenho que fazer para ter essa comunicação? Regra de firewall. Informar ao meu roteador que quando o meu notebook da VLAN principal, quer acessar o NAS que está na VLAN 10 na porta XXX, ele permitir.
+
+(É que aqui não da pra desenhar, mas uma configuração seria assim:
+Porta1: VLAN principal onde está o meu note
+Porta2: VLAN10 - meu NAS
+Porta8: VLAN principal e VLAN10 (Sim, você pode configurar mais de 1 VLAN em cada porta), pq fiz isso? Pois a Porta 8 se conecta ao roteador. Lembra? Roteador, faz a comunicação entre as redes.)
+
+Ai o pacote vai sair do meu note, passar pela porta 1 do Switch, ir para a porta 8 do switch e chegar ao roteador e ele perguntar: Quero acessar o NAS la da outra rede. o Roteador olha as regras de firewall e fala: Permitido, pode ir, o pacote sai do roteador, chega na porta 8 do switch e vai na porta 2 que está o meu NAS e consigo acessar. (Falei num linguajar bem simples, mas por trás disso tem muito mais coisa, toda essa informação fica no cabeçalho do Protocolo TCP/IP)

@@ -1,0 +1,4 @@
+O Pc tem consumo quando troca a frequência 
+0 pra 1, 1 pra 0
+Baixar o GHz consome menos
+Ele troca de estado muito rápido
