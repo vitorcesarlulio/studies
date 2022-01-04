@@ -22,6 +22,10 @@ Opção
 	ou
 	
 	$ sudo rm -Rf /tmp/*
+
+Disco
+	monitorar entradas saídas disco
+	iotop or sar from the sysstat package to monitor your disk input/output rates
  
 
 Passos para limpeza total de cache, DNS, temporários e etc. no Linux

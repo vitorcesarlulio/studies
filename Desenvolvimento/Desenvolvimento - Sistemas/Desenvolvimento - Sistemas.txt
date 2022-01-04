@@ -4,6 +4,9 @@ Ficar atento ao des. software
 	
 	Em envio de e-mails, SMS, essas coisas, fazer um esquema para que a aplicação demore um pouco, deixa a tela dar uma carregada tals porque, por trás já está sendo enviada a mensagem kkkkk
 	
+	Banco de dados
+		Desenvolvimento do banco de dados definir os index
+	
 	Segurança
 		Lembrete de verificação de privacidade 
 		
@@ -39,6 +42,7 @@ Ficar atento ao des. software
 		
 	Filtros
 		Salvar em cache ou por usuário
+		ao fazer filtro salva em cache
 		
 	Conexão com banco de dados
 		Usuários diferentes para executar comandos no banco

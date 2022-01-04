@@ -1,4 +1,15 @@
 NÃO VISTOS
+	Estudar
+	Turing award
+	Polímata
+		Conhecimento em assuntos diversos
+	
+	Técnica do noting
+
+	Configure somente as extensões padrões do IIS (wndows ), desativando extensões de SDK ou programação (tais como .VSDISCO, .SHTML, etc);
+	
+	https://dzone.com/articles/memory-wasted-by-spring-boot-application
+
 	Entendendo Coesão e Acoplamento
 	Entendendo Coesão e Acoplamento
 	Ihc interface homem computador
