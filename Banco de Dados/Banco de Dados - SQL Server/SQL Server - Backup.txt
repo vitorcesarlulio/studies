@@ -1,0 +1,9 @@
+Backup
+		Check Sam para verificar backup na geração
+		Backup Full, todas tabelas, estruturas, dados, objetos (tomar cuidado com armazenamento e periodicidade desse backup)
+		Backup Diff, se eu fiz um backup Full a 00h00 e as 06h00 fiz um backup diff, esse backup vai conter tudo o que foi alterado da 00h00 as 06h00
+		se for feito um outro diff as 12h00, vai conter tudo da 00h00 as 12h00
+		Backup de log transacional, alterando o banco de dados o Recovery Model para Full, você diz ao SQL server para ele armazenar os logs de transação, isso é, ele vai armazenar todos os INSERTS, UPDATES etc
+			Tendo esse backup, você vai ter todas as transações executadas, dai possibilita do que é chamado de point in time, restaurar o banco de dados em uma hora minuto e segundo especifico. Só que esse backup ele vai funcionar assim, fiz um backup 01h00, outro a 01h30, no segundo backup só vai conter as transações da 01h00 as 01h30.
+			
+		O correto é o backup ficar em outro servidor, disco. Se perder o server, vai perder os backups também

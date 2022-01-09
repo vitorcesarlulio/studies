@@ -1,0 +1,22 @@
+Download: https://docs.microsoft.com/pt-br/sysinternals/downloads/autoruns
+
+Ideal seria utilizar com modo de segurança do Windows dai ele desabilita drivers etc
+depois é bom rodar no windows normal que ele pode trazer mais coisa inútil
+
+é possivel identificar porque o login é tão demorado
+
+Como se fosse um MSConfig porém é mais completo
+Verifica o que está sendo indicado junto com Windows, o que está em tempo de execução
+
+Após abrir o AutoRun vá até o menu > Options > Selecione as opções "Hide Microsoft Entries" (Principalmente ele pra você não desativar coisa errada) "Hide Windows Entries" 
+
+O que está em amarelo é o que está com problemas
+em vermelho ele nao sabe se é bom ou ruim
+
+a aba task schudeler é bom pois ele mostra as tarefas agendadas
+
+Clicando sobre um processo tem como usar a opção "Check virus total"
+
+"BACKUP"
+Antes de fazer as alterções voce pode ir em file > save que ele ira salvar um arquivo .arn dos serviços naquele momento
+depois que voce mexer novamente voce pode ir em File > compare e comprar com aquele arquivo

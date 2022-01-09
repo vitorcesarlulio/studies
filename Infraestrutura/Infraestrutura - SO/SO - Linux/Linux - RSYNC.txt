@@ -1,0 +1,68 @@
+rsync [modifcadores opcionais] [SRC]<diretório de origem> [DEST] <diretório ou a máquina de destino>
+
+via ssh
+	PULL
+	rsync [modificadores opcionais] [USUÁRIO@]HOST:SRC [DEST]
+	
+	Para acessar o shell remoto (PUSH), use este comando rsync:
+	rsync [modificadores opcionais] SRC [USUÁRIO@]HOST:[DEST]
+	
+	apt-get install rsync
+	yum install rsync
+	
+	Este dá a você uma saída visual que mostra o progresso do processo.
+	-v, --verbose
+	
+	Já o próximo exibe o output num formato legível para humanos.
+	-h, --human-readable format
+	
+	Esse aqui comprime os dados dos arquivos durante a transferência.
+	-z, --compress
+	
+	Para finaliza, este copia os dados recursivamente
+	-r
+	
+	Como Adicionar uma Barra de Progresso
+	-p
+	
+	$ rsync -azP [SRC] [DEST]
+	
+	#rsync -avz root@maquina_remota:/origem_dos_dados/ /destino_dos_dados/
+	
+	rsync --backup --backup-dir=`date +%d-%m-%Y-%R` -a /local_origina/ /local_da _copia/
+	Na Primeira ele cria um backup full e nas proximas se tiver algo alterado ele cria uma pasta com a data e joga o antigo para la e sobrescreve o mais recente no full.
+
+	Tem muita coisa mais completa por ai procure por "backup diferencial rsync"
+	Para instalar o rsync:
+	apt-get install rsync
+	
+	Pode alterar para jogar isso para outra maquina usando ssh sem senha:
+	http://www.vivaolinux.com.br/dica/SSH-sem-senha
+	
+	Quanto ao cron:
+	
+	crontab -e
+	# adicione a linha:
+	00 17 * * 1-5 /usr/local/nomedoscript.sh
+	
+	/não esqueça de colocar o caminho completo do bin do rsync no script (/usr/bin/rsync
+	): alem de permissão de execução (chmod +x /usr/local/script.sh)
+
+
+#!/bin/bash
+#
+# backup.sh
+#Script para fazer copia de arquivos do servidor para a maquina de backup
+#
+# Criado por Paulino Michelazzo - paulino@michelazzo.com.br
+# Versão 1.0 - marco/04
+#
+#
+SYNC_LOG=/var/log/rsync.log # local onde o arquivo de log será armazenado
+# Delimitador de entrada de log
+echo "******************************" >> $SYNC_LOG
+date >> $SYNC_LOG
+echo "Inicio da sincronização" >> $SYNC_LOG
+rsync -avz root@maquina_remota:/origem_dos_dados/ /destino_dos_dados/ >> $SYNC_LOG
+echo "Fim da sincronização" >> $SYNC_LOG
+echo "******************************" >> $SYNC_LOG

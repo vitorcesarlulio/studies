@@ -51,3 +51,11 @@ Ficar atento ao des. software
 	
 	Tratar tudo no meu bean pra chegar no controler pronto pra eu jogar no banco
 	Quanto mais puro eu chegar no banco melhor
+	
+	Automatização
+		Tudo que é automático é bom ter cautela
+		Pois pode ser que não vai, pode ser que duplica, aí bo é seu
+		Aí pode ser um relatório pra ver pra quem vai enviar emails o cara seleciona e envia para quem ele quiser
+		
+		Mas meio nada haver, so serviria de desculpa pra vc
+		pq se for pra da bo ia da de qualquer forma

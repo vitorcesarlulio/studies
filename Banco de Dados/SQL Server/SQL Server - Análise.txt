@@ -1,8 +1,0 @@
-IOPS
-	Input output
-	Deve acompanhar Perfmon no Windows
-	Escolher ali nele as opções de escrita e leitura por segundo e somar os dois, esse será o consumo de IOPs do seu ambiente.
-	Ver um vídeo mais sobre isso
-	
-Query Store
-	é um repositório de querys que é possível guardar o histórico dos planos de execução das querys

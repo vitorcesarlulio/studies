@@ -1,0 +1,9 @@
+https://alvinalexander.com/mysql/mysql-database-backup-dump-shell-script-crontab/
+
+https://www.vivaolinux.com.br/script/Backup-mysqldump-usando-Shell-Script
+
+https://www.vivaolinux.com.br/script/Script-de-backup-MySQL-melhorado
+
+https://codeburst.io/easy-mysqldump-backups-by-example-107cc1f6d608
+
+https://dev.to/nejremeslnici/mysql-shell-the-best-tool-for-your-logical-backups-44fk
