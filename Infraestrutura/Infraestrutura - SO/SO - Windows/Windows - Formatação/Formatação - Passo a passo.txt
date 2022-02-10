@@ -1,3 +1,29 @@
+Atualização de segurança > opções avançadas > otimização de entrega > desabilite "Permitir download de outro computador"
+
+Ainda na tela > opções avançadas > porcentagem de largura e coloque tudo no mínimo
+
+Configurações de upload e coloque tudo no mínimo
+
+Windows + Seta
+Vai jogar a tela para um dos cantos ou minimizar
+Um snap
+
+Aerokip
+Pegar a janela e arrastar ela para um dos cantos
+
+
+Formatar e limpar pc
+Não sei se vai ser boa ideia colocar windows 11 Pc muito antigo
+Ver no site da Microsoft processadores compativeis com windows 11 (somente da 5 pra frente)
+Na verdade tem nada haver, própria Microsoft falou que vai fornecer pra quem tem Pc antigo então marcha
+
+Rodar um Crystal disk Mark
+Ver quanto tá batendo de cpu etc
+
+Clonar HD
+Minitool shadomaker 
+Ferramentas > clone disk > selecione a fonte disco  e do lado direito o destino
+
 DESCONECTE DA INTERNET PARA FORMATACAO
 
 tpm
@@ -167,6 +193,7 @@ BIOS
 	NAO DA BOOT
 		Habilite External device boot
 		Desabilite securet boot
+		Pode ser que seja memoria, mesmo que de boot depois e nao passa da tela do windows ou da tela azul
 		
 CRIAR MIDIA BOOTAVEL
 	Certifique-se de seu pendrive, se o mesmo é bom
@@ -325,39 +352,7 @@ DEPOIS DE FORMATADO
 	Windows + R > msconfig > aba Inicialização do sistema > Opções avançadas: marque a opção número de processadores e coloque no máximo, memória RAM desmarque a caixinha para que seja usada roda memória RAM 
 	
 	- Windows update
-	- Ativar Windows 
-	- Baixar cpu id e WH monitor Pro
-	- GPU Z
-	Google Chrome
-		ativar barra de favorito
-		pedir para baixar
-		colocar os downloads para cair na área de trabalho
-		tirar mecanismo de pesquisa, verificar Atualizações
-		chorme://components
-		
-		Se possível baixar a versão standalone (que é offline, então ela vem completa)
-	
-		Mostrar botão inicial
-			coloque para abrir no google mesmo
-		
-		Mostrar barra de favoritos
-	
-		Gerenciar mecanismo de pesquisa > remove todos deixa só o google
-	
-		Torne ele como navegador padrão
-			Na seção "Navegador padrão" da pra definir isso
-		
-		Gerenciar nas paginas de inicialização
-			Abrir uma pagina especifica ou um conjunto de paginas
-			cole o endereço do google
-		
-		Habilite
-			Proteger você e seu dispositivo de sites perigoso
-		
-		Usar aceleração de hardware disponível
-
-		Acesse chrome://components/
-			verifique a atualização de todos os componentes
+	- Ativar Windows
 	
 	baixar e ativar winrar: 
 		Itens do menu de contexto > deixar somente:
@@ -453,7 +448,11 @@ SISTEMA
 OPÇÕES DE ENERGIA
 	Colocar desempenho máximo (opções de energia: powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61)
 	colocar na opção desempenho máximo
-	Alterar configurações do plano > alterar configurações de energia avançadas > Disco rígido > Desligar o disco rígido após: coloque nunca ou um valor alto
+	Alterar configurações do plano > alterar configurações de energia avançadas
+		Disco rígido > Desligar o disco rígido após: coloque nunca ou um valor alto
+		Gerenciamento de energia do processador > Estado de desempenho máximo: coloque nunca ou um valor alto 
+			Obs.: em pcs mais fracos, sem refrigeração é bacana deixar nuns 80%
+			Barulho também pode ser que seja necessário ajustar isso
 	Escolher a função dos botões de energia: nada a fazer/nada a fazer
 	Opcional: não deixar hibernar (powercfg.exe /hibernate off) (economia de espaço)
 	Opcional: não deixar suspender (desempenho)
@@ -598,12 +597,14 @@ SOFTWARES
 		Notepad++ (Configurações > preferências > backup: dimua o tempo, configurações > Configurador de estilos > escolha o estilo)
 			C:\Git\estudos\Notepad++
 		CodeBlocks
+		Oracle VM VirtualBox
 
 	JOGO
 		Nvidia Gforce Experience
 		Gamers Club Anti-Cheat
 		Epic Games Launcher
 		Steam
+		Discord
 
 	OFFICE 
 		Word > conta > desabilitar atualizações
@@ -612,6 +613,7 @@ SOFTWARES
 
 	PERFORMACE
 		CPUID CPU-Z
+		CPUID CPUID
 		CPUID HWMonitor
 		
 		AI Suite II - controlar ventuinha
@@ -625,40 +627,147 @@ SOFTWARES
 				https://www.asus.com/br/support/FAQ/1012780
 				
 		MSI Afterburner
-
-	BENCHMARK
-		PCMark
-			pago
-		Passmark
-			software portátil azarado
 		
+		BENCHMARK
+			PCMark
+				pago
+			Passmark
+				software portátil azarado
+
+	FERRAMENTAS
+		ARMAZENAMENTO
+			hdd regenerator
+				Restaurar HDD
+			DiskGenius
+				Acessar HDD
+		NNite (baixa os programas tudo de uma vez)
+		
+		Revo unistaller
+			desinstalar tudo, varias coisas.
+
+	TRABALHO
+		Skype
+
+	PESSOAL
+		Chrome Canary
+			Google de testes
+		WhatsApp
+		Acrobat Reader DC
+		AnyDesk MSI
+		KeePassXC
+			Z:\MINHAS COISAS\Configurações\Configurações - KeePassXC
+		Microsoft Teams
+		Opera gx
+		Google Drive
+		EPSON Scan
+		Google Chrome
+			Extensões
+				Volume Master
+					https://chrome.google.com/webstore/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke
+				
+				AdBlock
+					https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom
+				
+				Floating Player
+					https://chrome.google.com/webstore/detail/floating-player/ekajjllcmeckibblgckgoceinmmgnfop
+					
+				Google Tradutor
+					https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb
+				
+				JustBlock Security
+					https://chrome.google.com/webstore/detail/justblock-security/hiajdlfgbgnnjakkbnpdhmhfhklkbiol
+					
+				OneTab
+					https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall
+				
+				videospeed
+					https://github.com/igrigorik/videospeed
+		
+			Crohme:flags
+
+			ativar barra de favorito
+			pedir para baixar
+			colocar os downloads para cair na área de trabalho
+			tirar mecanismo de pesquisa, verificar Atualizações
+			chorme://components
+			
+			Se possível baixar a versão standalone (que é offline, então ela vem completa)
+		
+			Mostrar botão inicial
+				coloque para abrir no google mesmo
+			
+			Mostrar barra de favoritos
+		
+			Gerenciar mecanismo de pesquisa > remove todos deixa só o google
+		
+			Torne ele como navegador padrão
+				Na seção "Navegador padrão" da pra definir isso
+			
+			Gerenciar nas paginas de inicialização
+				Abrir uma pagina especifica ou um conjunto de paginas
+				cole o endereço do google
+			
+			Habilite
+				Proteger você e seu dispositivo de sites perigoso
+			
+			Usar aceleração de hardware disponível
 	
-	WhatsApp
-	Acrobat Reader DC
-	AnyDesk MSI
-	
-	Binance
-	
-	ImageGlass
-	KeePassXC (Z:\MINHAS COISAS\Configurações\Configurações - KeePassXC)
-	Microsoft Teams
-	Opera gx
-	Google Drive
-	Image Glass
-	5KPlayer
-	Discord
-	EPSON Scan	
-	Google Chrome
-	Obs Studio
-	SketchUp
-	Oracle VM VirtualBox
-	rufus-3.10
-	Skype
-	AutoCAD 
-	AutoCAD elétrico
-	NNite (baixa os programas tudo de uma vez)
-	Revo unistaller
-		desinstalar tudo, varias coisas.
+			Acesse chrome://components/
+				verifique a atualização de todos os componentes
+		
+		Obs Studio
+		WinDynamicDesktop
+			Temas de acordo com horário		
+		Windows power toys
+			Divisao de telas
+			quando clicar com uma tecla, escrever com outra
+			https://github.com/microsoft/PowerToys
+			https://olhardigital.com.br/2019/09/06/dicas-e-tutoriais/como-usar-os-powertoys-do-windows-10/
+		
+		Binance
+
+		SketchUp
+		AutoCAD
+		
+		PowerToys
+			Fancyzones
+				Poder encaixar varias abas na tela
+				
+			PowerRename
+				Renomear vários arquivos
+				Botão direito sobre a seleção > PowerRename
+		
+		Stardock Groupy
+			É pago
+			Da pra voce colocar vários apps em abas, como se fosse o google, cada aba é um apps
+			meio merda kkk
+		
+		Windows 10 - Taskbar X
+			Pesquise no github que é free
+			Centraliza barra de ferramentas
+			
+			Deixar barra de tarefas transparente
+				Blur legal
+		
+		T-Clock
+			Relógio personalizado na barra de tarefas
+			
+		ModernFlyouts
+			Reprodutor de musicas, aperte botão mais ou menos
+			
+		QuickLook
+			Mostra um preview dos arquivos, todos os tipos
+			Aperte tecla espaço
+			não precisa abrir o arquivo
+			
+		NotePads
+			Notepad mais moderno
+			
+		EarTrumpet
+			Controlador de audio que deixa individualizado os volumes
+		
+		PhenterBar
+			Aprimora quando voce vai copiar um texto, trás tradutor
 
 	EDICAO
 		Ilustrador e Photoshop
@@ -698,15 +807,9 @@ SOFTWARES
 			Comprimir vídeos
 			https://handbrake.fr/
 			Pode ser que seja necessário baixar .NET 5.0 Runtime
-	
-	WinDynamicDesktop
-		Temas de acordo com horário
-		
-	Windows power toys
-		Divisao de telas
-		quando clicar com uma tecla, escrever com outra
-		https://github.com/microsoft/PowerToys
-		https://olhardigital.com.br/2019/09/06/dicas-e-tutoriais/como-usar-os-powertoys-do-windows-10/
+			
+		5KPlayer
+		ImageGlass
 
 EXCLUSIVOS
 	liberar memória L3 processador

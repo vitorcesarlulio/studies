@@ -43,6 +43,33 @@ GET
 	extends true ou false ou HATEOAS true ou false que ai eu trago ou não de uma forma ou outra
 	
 	geralmente mesmo status code do get tem que ser no put
+	
+	os response json sempre virem com objeto data
+	
+	{
+		"data": {
+			"type": "usuarios",
+			"attributes": {
+				"nome": "João",
+				"sobrenome": "da Silva",
+				"cpf": "000.000.000-00",
+				"email": "joao@dasilva.com.br",
+				"data_nascimento": "01/01/1900",
+				"sexo": "M",
+				"cidade": "São Paulo",
+				"status": "Ativo",
+				"crm": "123456",
+				"especialidade": "Cirurgia oncológica",
+				"token": "TOKEN_DO_USUARIO",
+				"uf": "SP",
+				"user_type": "Medicos",
+				"total_of_prescriptions": 0,
+				"total_of_prescripted_drugs": 0,
+				"total_of_sms_prescriptions": 0,
+				"external_id": "123456"
+			}
+		}
+	}
 
 Erros
 	Ao invés de eu trabalhar muito sobre os status code eu jogo um 400 e devolvo um array com todos os erros, email errado, nome sem preencher. Se não o cara vai ter que toda hora enviar e voltar, enviar e voltar.

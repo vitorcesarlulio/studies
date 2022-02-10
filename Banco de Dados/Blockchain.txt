@@ -1,0 +1,12 @@
+Blockchain
+	Tecnologia de armazenamento de dados segura e distribuída 
+	cada bloco de dado é incriptado e distribuído em uma rede internacional de computadores que vão assegurar tanto os dados dentro dos blocos de informação quanto a disponibilidade desses dados de uma maneira distribuída.
+	
+	Smart Contracts
+		Mandar algumas linhas de códigos para essa rede onde sempre que alguém utilizar esse contrato para armazenar algum dado ou para retirar algum dado essas linhas serão executadas
+		
+	Belo de um exemplo
+		Imagina que eu quero vender um produto para alguém desconhecido
+		Vou lá é crio um smart contract na Blockchain, você coloca seu dinheiro dentro desse contrato eu consigo acessar esse contrato e confirmar que seu pagamento está lá
+		Dai eu envio o item que está sendo comprado para você e você recebendo o item você confere se tá tudo ok entra no contrato e confirma que chegou
+		Só dai receberei a grana

@@ -1,1 +1,3 @@
 https://woliveiras.com.br/posts/comandos-mais-utilizados-no-docker/
+
+https://stack.desenvolvedor.expert/appendix/docker/compose.html

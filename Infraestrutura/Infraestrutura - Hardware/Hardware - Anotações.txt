@@ -6,7 +6,27 @@ ELETRICIDADE ESTÁTICA
 
 FONTE 
 	Corsair melhor marca
-	Os selos (bronze, parata) que dizer o quanto não vai desperdiçar de energia e claro a qualidade
+	Os selos (bronze, prata) que dizer o quanto não vai desperdiçar de energia e claro a qualidade
+
+	Fontes com PFC ativo
+	selos 80+ provavelmente ja tem
+	Não suporta ondas semi-senoidal (que é a junção da senoidal com onde quadrada)
+	
+NOBREAK
+	Tem uma medida em VA, basicamente pega ela e divide por dois que você vai saber quantos Watts ela suporta
+	
+	existe o online e offline
+		Online é instantâneo, acabou energia ele já fornece energia
+		Offline pode ter um delay de 4 milissegundos que pode desligar seu pc
+		
+		utilizados em estúdios pois precisa de uma energia mais "certa" estabilizada para evitar ruídos na rede elétrica
+	
+ESTABILIZADOR
+	Nobreak sem bateria
+	ele basicamente vai fazer o que sua fonte ja faz, corrigir a tensão, mas não vai te proteger de raios, de altas tensões.
+	
+FILTRO DE LINHA
+	Com DPS melhor que fusível 
 
 PROCESSADOR
 	CONDUTIVIDADE TÉRMICA
@@ -36,7 +56,7 @@ PROCESSADOR
 			4 processadores
 			Cache: 3 a 6 mb
 			15w e 91w
-			Turbo Boost (quando precisar de um up, ele ja da uma melhorada sozinho, alem do limite)
+			Turbo Boost (quando precisar de um up, ele ja da uma melhorada sozinho, além do limite)
 			Placas de vídeo melhor que i3
 			Aceita 64gb memoria
 			Melhor para Renderização
@@ -60,7 +80,7 @@ MEMORIA RAM
 	Socket 1151
 	Intel
 	Processadores 6ª geração: utilizando as placas mãe h110, h170, b150 (não possuem chipset Z). A memoria fica no limite do processador, que no caso dos 6 geração é uns 2133mhz
-	Processadores 7ª geração: memoria em 2400mhz, isso com placas z170 ou z270, isso pois essas placas permitem OC (caso o processador tenha K no finak). Porem se voce pegar um processador de 6 geração e colocar nessas placas mae (liberadas para OC) a memoria pode ir até quanto a placa mae deixar)
+	Processadores 7ª geração: memoria em 2400mhz, isso com placas z170 ou z270, isso pois essas placas permitem OC (caso o processador tenha K no finak). Porem se você pegar um processador de 6 geração e colocar nessas placas mae (liberadas para OC) a memoria pode ir até quanto a placa mae deixar)
 
 	H110 = 6ª geração e 7ª
 	H310 = 8ª e 9ª
@@ -98,7 +118,7 @@ ORÇAMENTO
 	Memoria ddr4 (crucial)
 
 IMPRESSORA WIFI NÃO ENCONTRADA NA REDE
-	se for uma rede 5ghz não encontra, as impressoras so trabalham em 2.4, entao voce deve conectar o notebook na 2.4
+	se for uma rede 5ghz não encontra, as impressoras so trabalham em 2.4, entao Você deve conectar o notebook na 2.4
 
 NOTEBOOK NÃO LIGA
 	Pode ser BIOS
@@ -220,13 +240,13 @@ ARMAZENAMENTO
 			usa 2 discos também só que ele usa um disco como redundância do outro 
 			ele também funciona no esquema de escrever e ler ao mesmo tempo, mas caso 1 falhe o outro disco é quase um espelho desse que falhou e dai você consegue continuar trabalhando
 			
-			Voce teria 2 discos de 1 tera mas so 1 tera de armazenamento, pois um é o espelho do outro
+			Você teria 2 discos de 1 tera mas so 1 tera de armazenamento, pois um é o espelho do outro
 			
 		Raid 10
 			é a soma do raid 1 com o raid 0
-			voce pega pares de discos e monta um raid 0, tendo a soma de armazenamento e velocidade
-			e ai voce cria um segundo par para trabalhar em raid 1 
-			ai voce tem 2 pares de disco, um espelho do outro
+			Você pega pares de discos e monta um raid 0, tendo a soma de armazenamento e velocidade
+			e ai Você cria um segundo par para trabalhar em raid 1 
+			ai Você tem 2 pares de disco, um espelho do outro
 			// // 
 			2 pares, um espelho do outro
 			aumenta armazenamento, velocidade e segurança
@@ -275,36 +295,3 @@ UNRAID
 			
 		Cache:
 			Uma camada veloz de leitura e escrita onde é bacana colocar um SSD, ou mais de 1 disco SSD
-
-
-	
-DESEMPENHO
-	MONITORAMENTO
-		MONITOR DE RECURSOS DO WINDOWS
-			Melhor que o gerenciador de tarefas, da pra marcar um serviço e ver tudo o que está acontecendo 
-			
-		PROCESS MONITOR
-			https://www.youtube.com/watch?v=ChHSfX4Kcbo&list=PLZZcZLEIKFuKkrr0FnpK--uwBxra0TxGA&index=1
-		
-			https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
-			Da pra acompanhar o que aconteceu por cada linha
-			acompanhar se deu sucesso
-			e muitos detalhes 
-			RegQuery 
-			Filtrar pelo nome do processo
-			
-		PROCESSEXPLORER
-			Semelhante ao process monitor
-			mostra hierarquia dos processos em execução
-			Da pra ver as DLLs que estão sendo carregadas	
-			tem como voce segurar no alvo e ir procurando uma tela que ele via mostrar as ações daquele componente
-			
-		PERFMON /SYS
-			Digite Perfmon /sys no windows
-		
-		GERENCIADOR DE TAREFAS
-			taskmgr
-			Aba processos ela agrupa os processos de cada programa
-			Aba detalhes legal pois da pra ver todos os processos, se der botão direito sobre a coluna da pra selecionar outras colunas
-			Serviço lista os Serviço no ambiente do windows o bacana é que você consegue observar o numero do processo, sempre que o serviço inicia ele estarta um processo
-			

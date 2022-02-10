@@ -1,0 +1,9 @@
+MIMO
+	MIMO enviar e receber sinal para varios 
+	varias conexao por vez
+
+NÃO MIMO
+	1 conexão por vez quando n é mimo
+
+QUARTOS
+	Ubiquiti Unifi AP-AC Lite

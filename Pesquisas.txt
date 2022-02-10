@@ -1,4 +1,24 @@
 NÃO VISTOS
+	Tmux
+	Vim
+	ASD
+	SOA
+	endeavor
+	Gestão empresarial FGV
+	Insper
+	Stanford
+	What does 'Nightly Builds' mean
+	energia sustentável
+	exploração espacial
+	reprogramação do genoma humano
+	Dopamina
+		O prazer para gente, bebida faz isso, drogas, ou até sensações das redes sociais etc
+
+	Lobo frontal
+		Criar planejamentos e executa-los
+
+	Ipfs
+
 	Estudar
 	Turing award
 	Polímata
@@ -27,21 +47,34 @@ NÃO VISTOS
 			
 	atualizar o change log
 
-	GitFlow
-		5 tipos de branch
-			Main
-				reflexo do que está em produção
-				
-			Developer
-				reflexo do ambiente de teste
-				
-			Features
-				Funcionalidades que estão sendo des.
-				
-			Fix
-				ou hot fix, correções no meio do des.
-				
-			Release
+	Git
+		https://git-scm.com/book/pt-pt/v2
+		
+		https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/
+		gitlab
+	
+		Kleber agsi
+			https://www.atlassian.com/br/git/tutorials/comparing-workflows
+		
+			https://blog.programster.org/git-workflows
+		
+			https://medium.com/@mateusdecampos/trunk-based-development-1770f5e0dfc1
+	
+		GitFlow
+			5 tipos de branch
+				Main
+					reflexo do que está em produção
+					
+				Developer
+					reflexo do ambiente de teste
+					
+				Features
+					Funcionalidades que estão sendo des.
+					
+				Fix
+					ou hot fix, correções no meio do des.
+					
+				Release
 			
 		
 	
@@ -106,7 +139,6 @@ NÃO VISTOS
 		Kibana
 		Zendesk
 		Confluence
-	gitlab
 	https://openai.com/
 	typescrpit
 	deno
@@ -368,11 +400,6 @@ NÃO VISTOS
 	
 	Bootstrap
 	https://m.youtube.com/watch?v=SmQMZ36hJJY&list=PLnDvRpP8Bnexu5wvxogy6N49_S5Xk8Cze&index=1
-	Git
-	https://git-scm.com/book/pt-pt/v2
-	
-	https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/
-	
 	https://www.devmedia.com.br/exemplos/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Mais+de+80+Projetos+Prontos%21&utm_campaign=Projetos+Prontos
 
 
@@ -394,7 +421,6 @@ NÃO VISTOS
 	postgresql, Redis e Elasticsearch
 	definição, modelagem, documentação, construção e otimização de schemas, tabelas, procedures, queries, views, etc;
 	Rest/Restfull
-	GitFlow
 	Metodologias ágeis; (Scrum/Kanban/Lean/Squads)
 	Documentação de REST APIs (Swagger/ReDoc)
 	Experiência na definição de arquitetura de sistemas e explorando soluções e trade-offs

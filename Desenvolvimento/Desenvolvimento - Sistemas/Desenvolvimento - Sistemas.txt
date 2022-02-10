@@ -1,4 +1,6 @@
 Ficar atento ao des. software
+	Fazer um modo debug
+	imagina um ar condicionado, eu entro em contato com assistência técnica ai ele manda eu fazer alguns testes, combinação de tecla pra ver como o ar esta
 
 	Se preocupar com usuário, não posso deixar espamar um erro lá, tudo tem que ter try catch
 	
@@ -6,6 +8,8 @@ Ficar atento ao des. software
 	
 	Banco de dados
 		Desenvolvimento do banco de dados definir os index
+		
+		Converter tudo para inteiro, voce tem certeza que vai tirar caracteres em branco, mas vai exigir do seu banco de dados
 	
 	Segurança
 		Lembrete de verificação de privacidade 
@@ -30,6 +34,9 @@ Ficar atento ao des. software
 		capchat
 		
 		Primeiro eu verifico se o usuário existe no banco e se ele está ativo, se sim ai eu confiro a senha
+		
+		SMS
+			Se enviar sms ou qualquer outra coisa, colocar "CANCELE A ASSINATURA AO ENVIAR STOP PARA TAL NUMERO OU SLA UM EMAIL" da pra usar pra outras coisas.
 		
 	Logs
 		7 dias ou 100gb

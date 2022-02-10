@@ -61,4 +61,31 @@ HCL
 			<tipo.nome.algum_output>
 			
 			O terraform proporciona meio que usar uma linguagem de programação mesmo, loops, condições etc.
-18:02
+
+Variable e OutPut bloco
+O nome dado para variável e output é só paga terra form, só para referência
+
+Variável
+Atributos 
+type, tipo da variável
+default, valor padrão para variável caso alguém não atribua nada
+
+Cara tá pra chegar uma carga que tô abastecendo novamente de little trees, aí lembrei do lindão
+
+Output
+Somente para exibir algo para usuário
+Por exemplo var.idade
+Essa idade você definiu no variable
+
+Se teria interesse, da pra gente fazer um preço bacana
+
+Data
+Em tempo de execução vai tentar buscar alfo
+Aí você parametriza tudo certinho, digamos que esse cara vai lá na Aws buscar uma imagem, última imagem do ubunto
+
+Daí lá no atributo resource, na tag ami, de vez de você chumbar algum valor lá, não. Você faz um código que, sempre vai ir no seu data buscar lá na Aws última versão do ubunto, se você precisar recriar seu ambiente, já vai vir um última versão do ubunto
+
+Resource
+Ami : Data.aws_ami.ubuntu.id
+
+Module bloco
