@@ -5,3 +5,14 @@ CABOS DE REDES
 	
 	30 cm des conduites de energia para redes
 	Se for pelo chao, não vai precisar cortar a parede né
+	
+	- 3m de sobra quando o cabo chegar na caixinha (chegou na sala o cabo, deixa 3m sobrando ainda, vai que tem que ligar algo que ta na ponta da estante) ate 5m
+
+	RACK COM OS EQUIPAMENTOS DE REDES
+		geralmente na sala
+		Cuidado com barulhos
+	
+	caixinha 4x4 na sala
+	https://www.youtube.com/watch?v=xF0x66KRC2E
+	2 tubo de 2 polegada
+	garagem para sala colocar uma caixinha para os cabo de fibra, telefonia, separando a casa da rua

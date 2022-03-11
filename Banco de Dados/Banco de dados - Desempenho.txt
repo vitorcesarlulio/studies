@@ -11,10 +11,10 @@ PARTICIONAMENTO DE TABELAS
 		particionar uma tabela pela coluna de data
 		pegar todos os dados de cada ano e cada ano vai fazer parte de uma partição
 		Função basedo na coluna de data
-		
+
 	3 Criar um schema
 		vai ser responsável por vincular a função com o grupo de arquivos
-		
+
 	4 Criar a tabela particionada ou altear uma já existente
 		Para função de particionamento usar o schema para que ele utilize aquela função e o schema ira armazenar os dados no grupo de arquivos
 		
@@ -47,3 +47,32 @@ LIKES - PERFORMACE
 	-- Obs.:
 	--	Se possível utilizar apenas um % (no final) já máxima muito o desempenho
 	--	Se as colunas forem Nvarchar, não muda nada.
+
+MEMORIA
+	Verifique se o servidor tem memoria disponível e verifique constantemente o uso de memoria, banco vai crescendo vai exigindo mais hardware
+
+ESTATISTICAS
+	Auto create estatística e auto update estatística
+
+TRAVAMENTO DO BANCO
+	Documentar os estado atual do banco de dados
+	Licenças do SQL Server
+	quais as recomendações atuais para esse SQL Server
+	consumo medio de CPU, memoria, disco (iops)
+
+RECOVERY
+	Recovery model full
+		backups de logs
+		mas não existe rotina de backup de log transacional
+		seus arquivos vão começar crescer muito sem que você faça backup do mesmo
+		Recovery model igual a 5
+
+QUERY LENTA
+	CONTADORES
+		Traçam perfis, comportamentos, métricas, encontrar desvios do padrão
+
+		otimizei ao máximo meu script, só que ainda continua lento
+		Se baseie em indicadores/contadores
+		pode ser que não seja por causa de índice, estrutura mas sim falta de hardware
+		
+		Legal é tirar uma média de quanto o servidor usa de memoria e CPU durante o dia
