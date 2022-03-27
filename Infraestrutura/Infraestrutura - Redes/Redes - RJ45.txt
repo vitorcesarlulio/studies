@@ -28,3 +28,14 @@ Conectores RJ45
 
 	Protetor do Metal RJ45 RJ-45 8P8C CAT5E Modular PlugMultilan furakawa 
 		pt.aliexpress.com/item/32472193591.htmlCat 6
+
+Snap-In
+	não deixar conectar dobrar de forma brusca
+
+RJ45 CAT6
+	os pinos de ouro é um pra cima outro para baixo
+	10GB/S
+
+RJ45 CAT5 ou 5e
+	são todos retor os pinos de ouro
+	1GB/s

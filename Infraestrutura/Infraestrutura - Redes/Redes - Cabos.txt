@@ -1,3 +1,11 @@
+Melhores marcas
+	nexans
+	furukawa
+	legrando
+	panduit
+	commscope
+	siemon
+
 Cabo de redes
 	Tipos
 		Blindados FTP
