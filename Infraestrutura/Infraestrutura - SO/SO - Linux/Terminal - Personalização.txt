@@ -1,0 +1,35 @@
+Smart copy
+putty style paste
+
+monospace regular 18
+allow boid text
+show title bar
+
+rewrap on resize
+
+title bar icon
+
+tranaprente 80%
+
+PUTTY
+	Window > Aparence > vertical line e cursor blinks 
+		change 
+			lucida console, regular 11
+			hide mouse pointer when typing in window
+			ajuste the window border 
+				6	
+				sunken edge border
+				
+	Window > coulours:
+		default background > modufy 
+		default foreground 
+
+Deixar terminal bonitão, mas isso no servidor:
+	https://www.youtube.com/watch?v=iaXQdyHRL8M
+	$ sudo apt install fonts-powerline
+	
+	chrisTitusTech/scripts > fancy-bash-prompt.sh > clica em raw > copia a parte de FUNCTIONS para baixo 
+	
+	vai no terminal
+	$ nano /root/.bashrc
+	cola no arquivo

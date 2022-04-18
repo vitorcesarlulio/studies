@@ -4,113 +4,120 @@ Fazer caixa
 	45hz, madeira de 18, litragem 
 	90 litros
 
-Amplificador: 
-otimizar a sonorização do player sem fazer adaptações complexas. As melhores centrais multimídias têm saídas amplificadas ou pré-amplificadas com módulo amplificador (exterminar as distorções e os ruídos perfeitamente).
-amplificar sinais baixos. Desta forma, ao aumentar apenas um nível no som do carro é possível usufruir de uma grande potência em sonorização (Atenção, você precisa escolher o amplificador conforme a potência do som automotivo. Não adianta comprar um modelo com mais de 500 watts se o som não aguenta 100 watts)
+Amplificador
+	otimizar a sonorização do player sem fazer adaptações complexas. As melhores centrais multimídias têm saídas amplificadas ou pré-amplificadas com módulo amplificador (exterminar as distorções e os ruídos perfeitamente).
+	amplificar sinais baixos. Desta forma, ao aumentar apenas um nível no som do carro é possível usufruir de uma grande potência em sonorização (Atenção, você precisa escolher o amplificador conforme a potência do som automotivo. Não adianta comprar um modelo com mais de 500 watts se o som não aguenta 100 watts)
 
-Cabos (RCA): 
-de acordo com especialistas, existem 3 tipos de cabos indispensáveis para projetar um som automotivo de qualidade: (1) Alta corrente: Transmissão de energia aos módulos amplificadores; (2) Alta tensão: Ideal a emitir sinais nos módulos amplificadores externos e altos falantes. (3) Baixa tensão: Resistentes, transmitem sinais amplificados previamente.
+Cabos (RCA)
+	de acordo com especialistas, existem 3 tipos de cabos indispensáveis para projetar um som automotivo de qualidade: (1) Alta corrente: Transmissão de energia aos módulos amplificadores; (2) Alta tensão: Ideal a emitir sinais nos módulos amplificadores externos e altos falantes. (3) Baixa tensão: Resistentes, transmitem sinais amplificados previamente.
 
-Tweeter:
-Uma dica que não falha para curtir até os mínimos detalhes das faixas agudas originadas em alta frequência. Após instalar Tweeter no seu carro você vai notar a grande diferença na qualidade sonora do player. Atenção: Instale entre a porta e o para-brisa no sentido de cancelar qualquer delay.
+Tweeter
+	Uma dica que não falha para curtir até os mínimos detalhes das faixas agudas originadas em alta frequência. Após instalar Tweeter no seu carro você vai notar a grande diferença na qualidade sonora do player. Atenção: Instale entre a porta e o para-brisa no sentido de cancelar qualquer delay.
 
-Subwoofer (8 a 10 polegadas):
-Além de emitir frequências baixas, o subwoofer atua com eficácia na qualidade do som grave. Graças a tal recurso as batidas sonoras ficam precisas e integradas de modo completo ao sistema de áudio.,
+Subwoofer (8 a 10 polegadas)
+	Além de emitir frequências baixas, o subwoofer atua com eficácia na qualidade do som grave. Graças a tal recurso as batidas sonoras ficam precisas e integradas de modo completo ao sistema de áudio.,
 
-Crossover:
-Tenho um falante a missao dele n é reproduzir grave, eu uso um cross pra cortar as frequencias de grave, assim ele n vai reproduzir grave, so agudo!
+Crossover
+	Tenho um falante a missao dele n é reproduzir grave, eu uso um cross pra cortar as frequencias de grave, assim ele n vai reproduzir grave, so agudo!
 
-Corte de frequência HPF:
-O corte frequência HPF serve para “eliminar” as frequências abaixo do corte de frequência selecionada para que gerar um maior rendimento ao reprodutor de áudio.
-Exemplo:
-Sistema sem corte HPF (o CD Player manda todas as frequências) = 1hz à 30.000hz.
-Sistema com corte HPF de 80hz = 80hz à 30.000hz.
-O corte hpf serve para atenuar frequências antes do corte.
-* Por quê usar o corte HPF?
-É extremamente recomendável para quem possui alto falante que não reproduz tão bem frequências graves ou subgrave. Exemplo:
-- Alto Falante Woofer 18” = Corte HPF de 50hz ou superior;
-- Alto Falante Woofer 15” = Corte HPF de 63hz ou superior;
-- Alto Falante Woofer 12” = Corte HPF de 80hz ou superior;
-Alto Falante Woofer 10” ou 8” = Corte HPF de 100hz ou superior.
-Ter um CD Player que ”envia” todas as frequências é bom, porém se não tiver todos os tipos de alto falantes para reproduzir essas frequências é ruim, pois só limita a performance dos mesmos.
-Por exemplo:
-Um alto falante da marca X de 6” polegadas = Não reproduz bem frequências abaixo de 125hz = Cortando  o HPF em 125hz terá um maior performance do Alto falante e menor risco de queimá-los
-.
-HPFIDEAL PARA AGUDO:
-EX: Corte 80hz = vão ser reduzidas 79hz, 78hz, 77hz….
+Corte de frequência HPF
+	O corte frequência HPF serve para “eliminar” as frequências abaixo do corte de frequência selecionada para que gerar um maior rendimento ao reprodutor de áudio.
 
-LPF IDEAL PARA GRAVE:
-Ex: Corte 80hz = vão ser reduzidas 81hz, 82hz, 83hz…
+	Exemplo
+		Sistema sem corte HPF (o CD Player manda todas as frequências) = 1hz à 30.000hz.
+		Sistema com corte HPF de 80hz = 80hz à 30.000hz.
+		O corte hpf serve para atenuar frequências antes do corte.
+	
+	Por quê usar o corte HPF?
+		É extremamente recomendável para quem possui alto falante que não reproduz tão bem frequências graves ou subgrave
+			Alto Falante Woofer 18
+				Corte HPF de 50hz ou superior
+			Alto Falante Woofer 15
+				Corte HPF de 63hz ou superior
+			Alto Falante Woofer 12
+				Corte HPF de 80hz ou superior
+			Alto Falante Woofer 10” ou 8” = Corte HPF de 100hz ou superior.
 
-Player:
-Modelos com saída RCA, vão possibilitar a instalação de um módulo amplificador de maior potência.
+	Ter um CD Player que ”envia” todas as frequências é bom, porém se não tiver todos os tipos de alto falantes para reproduzir essas frequências é ruim, pois só limita a performance dos mesmos.
+	Por exemplo:
+	Um alto falante da marca X de 6” polegadas = Não reproduz bem frequências abaixo de 125hz = Cortando  o HPF em 125hz terá um maior performance do Alto falante e menor risco de queimá-los
 
-Kit duas vias (melhor):
-Falanate mid bass (1 via graves) e um twitter (2 via agudos) (indicado para porta da frente)
+	HPFIDEAL PARA AGUDO
+		Corte 80hz = vão ser reduzidas 79hz, 78hz, 77hz….
 
-Kit coaxial:
-twiter e midbass são juntos (2 vias em 1 falante) (indicado no tampao)
+	LPF IDEAL PARA GRAVE
+		Corte 80hz = vão ser reduzidas 81hz, 82hz, 83hz…
 
-Módulos:
-Os módulo somente transformam a energia e os alto falante só recebem.
+Player
+	Modelos com saída RCA, vão possibilitar a instalação de um módulo amplificador de maior potência.
+	
+	Saída do radio aguenta 23wrms
+	logo não aguenta falantes potentes
 
+Kit duas vias (melhor)
+	Falanate mid bass (1 via graves) e um twitter (2 via agudos) (indicado para porta da frente)
 
+Kit coaxial
+	twiter e midbass são juntos (2 vias em 1 falante) (indicado no tampao)
 
+Módulos
+	Os módulo somente transformam a energia e os alto falante só recebem.
 
 O QUE É
-SOM EL LOSSLES E UM SOM SEM COMPRESSAO ALGUMA, SAI EM UMA TAMANHO GIGANTE DA PRODUTORA E É COMCOMPRIMIDO SEM PERDAS DE QUALIDADE 
+	som el lossles e um som sem compressao alguma, sai em uma tamanho gigante da produtora e é comcomprimido sem perdas de qualidade 
 
-DEPOIS VEM O WAVE (É COMO ELE FICA NO CD, ONDA) QUE VAI PARA O CD E DEPOIS SE TRANSFORMA EM MP3
+	depois vem o wave (é como ele fica no cd, onda) que vai para o cd e depois se transforma em mp3
 
-FLAC É O LOSSLES SO QUE PARA NOS 
-UMA COMPRESSAO SEM PERDAS 
+	flac é o lossles so que para nos 
+	uma compressao sem perdas 
 
-320 KBPS ---> BOM 
+	320 KBPS ---> BOM 
 
-TITAL (normalização)
+	TITAL (normalização)
 
-lossless = sem compressao
-lossy = comprimido
+	lossless = sem compressao
+	lossy = comprimido
 
 
-PRÓXIMOS PASSOS:
+PRÓXIMOS PASSOS
 
-1. Desbloquear a Assinatura eletrônica no Autoatendimento seguindo as opções:
+	1. Desbloquear a Assinatura eletrônica no Autoatendimento seguindo as opções:
+		Outros serviços -> Outros serviços -> Senhas e validações de acesso -> Desbloqueio da assinatura eletrônica
 
-Outros serviços -> Outros serviços -> Senhas e validações de acesso -> Desbloqueio da assinatura eletrônica
-
-2. Realizar a Adesão de Mensagens via celular no Autoatendimento seguindo as opçôes:
-
-Outros serviços -> Outros serviços -> Mensagens via celular*
+	2. Realizar a Adesão de Mensagens via celular no Autoatendimento seguindo as opções:
+		Outros serviços -> Outros serviços -> Mensagens via celular*
 
 
 agudo no mx grave so um pouco depois da metada e ajeita o volume
 
+Orçamentos 
+	1
+	Md3000 4oms R$ 500,00
+	Seven drive 2k8 15 1400w R$ 600,00 uni.
+	Corneta 405     R$ 421,00 uni.
+	Twitter St400 R$ 150,00 uni.
+	Módulo amplificador Ts400 R$ 150,00
+	Processador R$ 278,00
+	
+	
+	2
+	Fonte Carregador Redline 120A - R$ 599,00
+	Processador De Audio Digital Jfa J4 Pro Red Edition 4 Vias
+	Driver JBL Selenium D405 Trio - 150 Watts RMS
+	Alto Falante 7Driver SL 2k8 15 1400 Rms 4 Ohms
+	Twitter Bravox tv50u
+	Mg200 mg220
 
-
-Som 
-- Md3000 4oms R$ 500,00
-- Seven drive 2k8 15 1400w R$ 600,00 uni.
-- Corneta 405     R$ 421,00 uni.
-- Twitter St400 R$ 150,00 uni.
-- Módulo amplificador Ts400 R$ 150,00
-- Processador R$ 278,00
-
+	Falantes
+		protech 5.2
+		amplificador 5k a 8k
+		caixa 80l
+	
+	Kit 2 Vias 6" JBL Selenium System 62V2A - 120 Watts RMS R$ 234,90
+		
 
 Falante 6x9 (tem que ver se cabe no carro)
 Par Alto Falante Pioneer TS6960BR 6x9" 200W RMS 4 Ohms Quadriaxial R$ 228,90
-
-Kit 2 Vias 6" JBL Selenium System 62V2A - 120 Watts RMS R$ 234,90
-
-Som 2
-- Fonte Carregador Redline 120A - R$ 599,00
-- Processador De Audio Digital Jfa J4 Pro Red Edition 4 Vias
-- Driver JBL Selenium D405 Trio - 150 Watts RMS
-- -Alto Falante 7Driver SL 2k8 15 1400 Rms 4 Ohms
-
-Twitter Bravox tv50u
-Mg200 mg220
-
 
 Voltímetro serve para não dá um estralo quando você liga o som, ele liga os componentes 1 de cada vez 
 Primeiro o processador depois você pode ligar os grave depois os médio 
@@ -119,14 +126,13 @@ Controle k1200 é bom porque tem infravermelho aí qualquer controle funciona le
 Fio branco do controle é +
 Tecla M e tecla + do controle aí sintoniza ele
 
-# MONITOR DE REFERENCIA
-Caixa: jbl 306p os kra diz que é boa (melhor que krk)
-Krk Rp7 Rokit - G4
-Edifier G2 (grave pancada) 
-
-# HEADSET
-Fone de Ouvido Anker Soundcore Life Q20
-Logitech g935
+MONITOR DE REFERENCIA
+Caixa
+	jbl 306p os kra diz que é boa (melhor que krk)
+	
+	Krk Rp7 Rokit - G4
+	
+	Edifier G2 (grave pancada)
 
 Protech
 Competition 12" 2000
@@ -139,11 +145,3 @@ Excursion 12" 550
 
 Litragem para sub 5.2k de 15"?
 80L
-
-FONE DE OUVIDO
-Hiperx Alpha (https://m.kabum.com.br/produto/111836/headset-gamer-hyperx-cloud-alpha-s-blackout-7-1-hx-hscas-bk-ww?codigo=111836)
-https://adrenaline.com.br/analises/v/54146/analise-hyperx-cloud-alpha#:~:text=O%20HyperX%20Cloud%20Alpha%20%C3%A9%20um%20excelente%20fone%20com%20ac%C3%BAstica,detalhes%20dos%20m%C3%A9dios%20e%20agudos
-- Headset Gamer Razer Kraken X Lite, P2
-- Fone de Ouvido Bluetooth Sennheiser
-- Headset Gamer Razer Kraken X
-- Headset Gamer Razer Kraken Multi Platform, P2

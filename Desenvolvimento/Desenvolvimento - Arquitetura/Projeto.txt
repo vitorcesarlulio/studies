@@ -1,0 +1,31 @@
+1. Especificação
+2. Projeto e implementação
+3. Validação
+4. Evolução
+	Melhorias
+
+Deve ser compreensível, a pessoa deve entender aquilo
+
+Requisitos explícitos
+	"Venda de pacote de viagem"
+	Requisitos implícitos
+		rapidez
+		interface fácil de utilização
+
+Perspectiva conceitual
+	Descobri as informações que serão gerenciadas pelo sistema e não como elas serão gerenciadas
+	
+Perspectiva de implementação
+
+projetar e implementar são coisas diferentes
+
+Projeto de arquitetura
+
+Projeto de interface
+	Um meio de comunicação
+	uma classe conversar com outro no seu software
+	meu software trocando informações com softwares externos
+
+Projeto de componentes
+	Defini os módulos da arquitetura
+	

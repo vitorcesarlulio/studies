@@ -1,4 +1,64 @@
 NÃO VISTOS
+	Palestras
+		robert martin clean code
+		Ingles dele é bom, pausado
+
+	Criptografia chave cimetrica e assimetrica
+		na pasta da sensedia pode ser que ja tenha algo, eu dei uma estudada já
+
+	IBM Q
+	
+	cambio pdk
+	
+	gradle
+	sonatypenexus
+	open stack
+	graylog
+	ansible
+	chef
+	
+	RPO e RTO sla arduino
+	
+	REDES
+		dcim ipam
+		baremetal
+	
+	Momento mori
+		uma frase pra estudar sei la
+	
+	Quality assurance
+	tech lead
+	
+	dataware house
+	
+	o que é QOS (redes)
+	
+	localstorage
+	
+	i5 9400f
+	MB Asus H310m-E
+	8 ram
+	thermaltak 350w
+	no break 1400va TSshara
+	
+	google cursos
+	
+	Religiao
+		nietzsche
+		Bertrand Rusell
+		heidegger
+		Stephen Hawking
+		Richard dawkins
+		Osho
+
+	Programação greedy
+		Acha primeira forma para resolver algo, ele sabe que vai demorar então ele vê a primeira opção
+	Algoritmos gulosos
+	Programação dinâmica
+		Esse é a nata, ele não cálculoa algo de novo que já cálculou
+		Fatorial de 1 ele já cálculou, se algum outro lugar tiver ele só reutiliza
+		Guarda na memória
+
 	arch linux legal pra aprender na raiz mesmo
 	Ler balanço, fazer valuation, dre
 	carlos magno

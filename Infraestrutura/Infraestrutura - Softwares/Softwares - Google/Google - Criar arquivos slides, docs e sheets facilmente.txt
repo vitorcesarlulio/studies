@@ -1,0 +1,5 @@
+Na url do google digite
+
+	slides.new
+	docs.new
+	sheets.new

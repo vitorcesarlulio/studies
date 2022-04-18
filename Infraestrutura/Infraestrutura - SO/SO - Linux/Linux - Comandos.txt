@@ -6,6 +6,23 @@ su eu uso para entrar com outro user, ele cria uma nova seção
 sudo eu posso executar um comando com qualquer usuário, claro, ele via pedir a senha do root
 	pode usar por 5 minutos esse sudo, ai ele nao vai pedir senha mais, mas passou disso ele vai pedir a senha dnv
 
+dio@pop-os:~$
+
+dio
+	usuário em que você está conectado
+
+pop-os
+	é o nome da maquina, nas configurações você pode mudar isso
+
+~
+	Significa seu diretório	home
+
+$
+	terminal em modo normal, com root ele vira um 
+
+whoami
+	trará o usuário que você está conectado
+
 LINUX - VERIFICAR QUEM SOU NO LINUX
 	$ whoami
 	
@@ -46,15 +63,45 @@ LINUX - DISPOSITIVOS LIGADOS NA MÁQUINA
 		Os linux modernos tem serviços para fazer essa montagem automaticamente
 
 		E isso fica no /etc/fstab
-		
-LINUX - LISTAR DISPOSITIVOS MONTADOS (ARMAZENAMENTO)
-	df -h
+	
+LINUX - HD
+	HD - LISTAR DISPOSITIVOS MONTADOS (ARMAZENAMENTO)
+		$ df -h
+	
+	HD - DISPOSITIVOS
+		$ fdisk -l
+	
+	HD - CARACTERISTICAS
+		$ hdparm -i /dev/sda
+	
+	HD - TESTE DE LEITURA
+		$ hdparm -tT /dev/sda
 	
 LINUX - OPT
 	Geralmente programas de fora são instalados
 
 LINUX - SBIN
 	Muito dos binários do sistema, o shutdown fica lá
+
+LINUX - COPIAR ARQUIVOS
+	-i
+		perguntar antes de sobrescrever arquivos já existentes.
+	-f
+		substitui arquivos existentes sem pedir confirmação.
+	-attributes-only
+		Copia apenas os atributos (cria arquivo vazio).
+	-L
+		Criar hard links em vez de copiar os arquivos.
+	-n
+		Não sobrescrever arquivos já existentes.
+	-R
+		Copia diretórios recursivamente.
+	-s
+		Cria links simbólicos em vez de copiar arquivos.
+	-u
+		Copiar apenas quando o arquivo de origem for mais novo do que o arquivo de destino ou quando o arquivo de destino não existir.
+	-v
+		Modo verboso, ou seja Exibe o processo durante a cópia.
 	
 LINUX - BIN
 	Outros bash do sistema
@@ -123,6 +170,32 @@ LINUX - EXIBIR CONTEUDO DE ARQUIVO
 		j e k para cima e para baixo para navegar
 		mesmos comandos do Vi
 
+LINUX - MEMORIA
+	MEMORIA - INFORMAÇÕES
+		$ cat /proc/meminfo
+	
+	MEMORIA - USO E SWAP
+		$ free -m
+		
+		a cada 3 segundos
+			$ free -m -s3
+		
+		Total de memoria
+			$ free -t
+LINUX - OPERAÇÕES COM A MAQUINA
+	DESLIGAR
+		$ shutdown -h now
+		
+		em 10 minutos
+			$ shutdown -h 10
+			
+	REINICIA
+		$ shutdown -r now
+	
+	FECHA SESSÃO
+		logout
+	
+
 LINUX - TODOS OS PROCESSOS INCLUINDO OS QUE NÃO FOI INICIADO POR VOCE
 	$ ps aux
 	
@@ -170,3 +243,6 @@ LINUX - HISTORICO DE COMANDOS
 LINUX - VER DA ONDE ELE TA PEGANDO O COMANDO QUE ESTÁ SENDO RODADO
 	$ which echo
 		output: /bin/echo
+
+LINUX - ENCONTRA LINHAS DUPLICADAS
+	$ sort test.txt  | uniq -c
