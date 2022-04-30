@@ -1,0 +1,7 @@
+http://www.dba-oracle.com/t_plsql_comments_best_practice_standards.htm
+https://blog.udemy.com/sql-comment/
+https://blog.udemy.com/sql-comment/
+https://solutioncenter.apexsql.com/rules-of-sql-formatting-sql-code-commenting/
+https://towardsdatascience.com/five-best-practices-for-writing-clean-and-professional-sql-code-2b081d8f7098
+https://365datascience.com/tutorials/sql-tutorials/sql-best-practices/
+https://www.youtube.com/watch?v=owFv7hn7x-I
