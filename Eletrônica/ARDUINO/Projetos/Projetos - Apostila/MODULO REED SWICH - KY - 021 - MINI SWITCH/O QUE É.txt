@@ -1,1 +1,0 @@
-Módulo de chave de palheta magnética Arduino Keyes KY-021. Um interruptor de palheta é um sensor magnético normalmente aberto e fechado quando exposto a um campo magnético.

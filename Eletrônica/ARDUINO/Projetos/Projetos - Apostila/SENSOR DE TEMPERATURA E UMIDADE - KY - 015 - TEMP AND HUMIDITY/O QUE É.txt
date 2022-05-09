@@ -1,1 +1,0 @@
-O módulo sensor de temperatura e umidade KY-015 Arduino fornece uma interface serial digital para medir a umidade e a temperatura.

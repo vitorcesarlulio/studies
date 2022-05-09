@@ -1,8 +1,0 @@
-Recuperação de desastre
-	Backup
-		
-	Restauração
-	
-	Testes
-
-	Questões contratuais

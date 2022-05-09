@@ -1,10 +1,0 @@
-
-   Speedtest by Ookla
-
-     Server: Claro net vírtua - Americana (id = 22460)
-        ISP: Claro NET
-    Latency:    12.99 ms   (6.86 ms jitter)
-   Download:    63.28 Mbps (data used: 52.2 MB)                               
-     Upload:     6.38 Mbps (data used: 7.0 MB)                               
-Packet Loss:     0.0%
- Result URL: https://www.speedtest.net/result/c/2c6ea237-8370-4f2a-bde6-72ae8cb9b6ab

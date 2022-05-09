@@ -1,3 +1,0 @@
-Se possível ter um outro servidor, que seja inferior
-Já deixa ele todo configurado, no esquema, tudo certo
-Somente para restaurar um banco de dados

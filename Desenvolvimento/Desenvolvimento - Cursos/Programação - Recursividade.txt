@@ -1,3 +1,0 @@
-Na linguagem C, assim como em muitas outras linguagens de programação, uma função pode chamar a si própria. Uma função assim é chamada função recursiva.
-
-Deve-se ter muita atenção, pois uma função recursiva má feita, pode gerar um grande alocamento na memória, já que, a cada chamada da funções ela é armazenada na memória. Por isso é de extrema importância definir um critério de parada para função, por exemplo, uma estrutura de decisão. Por outro lado uma função com uma recursividade bem feita, pode poupar muitas linhas de código já que não é necessário a utilização de um laço de repetição (While, For, Do While etc).

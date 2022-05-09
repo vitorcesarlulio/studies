@@ -1,1 +1,0 @@
-O módulo de sensor magnético do Arduino Hall da KEYES KY-003 é um interruptor que liga / desliga na presença de um campo magnético.

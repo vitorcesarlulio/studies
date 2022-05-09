@@ -1,1 +1,0 @@
-O Sensor de temperatura digital KY-028 para Arduino, mede as mudanças de temperatura com base na resistência do termistor. Este módulo possui saídas digitais e analógicas, existe um potenciômetro para ajustar o limiar de detecção na interface digital.

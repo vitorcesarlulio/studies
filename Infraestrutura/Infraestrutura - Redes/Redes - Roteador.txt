@@ -1,5 +1,0 @@
-gigabite
-	mikrotik 750gr3
-
-n gigabite
-	mikrotik 750

@@ -1,1 +1,0 @@
-Arduino Key Switch Module Keyes KY-004 é um botão que gera um sinal alto quando pressionado.

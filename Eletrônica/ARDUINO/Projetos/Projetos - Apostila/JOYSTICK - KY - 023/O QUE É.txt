@@ -1,1 +1,0 @@
-O módulo de joystick KY-023 Arduino utiliza um potenciômetro biaxial para controlar os eixos X e Y. Quando pressionado, ele ativa um interruptor. Baseado no joystick do controlador PS2, é usado para controlar uma ampla gama de projetos, de veículos RC a LEDs coloridos.

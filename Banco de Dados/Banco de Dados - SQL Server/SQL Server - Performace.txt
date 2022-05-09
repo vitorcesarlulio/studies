@@ -1,2 +1,0 @@
-Encontrar problemas, performance
-	Verificar o ambiente externo, CPU está sendo estressado então você vai buscar no banco de dados		

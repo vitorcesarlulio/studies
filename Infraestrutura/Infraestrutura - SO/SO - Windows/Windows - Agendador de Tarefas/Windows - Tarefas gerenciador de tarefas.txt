@@ -1,9 +1,0 @@
-Tarefas para colocar no Windows:
-	Criar uma pasta e colocar as tarefas lá, tem como exportar e importar as tarefas
-	Lembrete de passar um antivírus, conferir antivírus; (15 em 15 dias)
-	Arquivo para otimização do sistema operacional;
-	Verifique a tarefa já existente do desfragmentador do Windows Agendador de tarefas > Biblioteca do agendador de tarefas > Microsoft > Windows > Defrag
-	Colocar rotina para desfragmentar disco
-	
-	
-	

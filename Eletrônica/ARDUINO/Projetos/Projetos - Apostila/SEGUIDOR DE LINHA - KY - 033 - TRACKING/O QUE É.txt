@@ -1,3 +1,0 @@
-O sensor detecta se uma área refletora ou absorvente de luz está na frente dele. Ele mostra qual das 2 áreas é via saída digital.
-
-Esse comportamento pode ser usado para seguir automaticamente uma linha com um robô.

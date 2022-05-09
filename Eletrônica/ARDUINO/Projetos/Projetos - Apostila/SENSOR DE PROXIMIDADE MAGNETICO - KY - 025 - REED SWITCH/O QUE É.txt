@@ -1,3 +1,0 @@
-O módulo de chave Reed KY-025 para Arduino é um pequeno interruptor elétrico operado por um campo magnético aplicado, comumente usado como sensor de proximidade.
-
-O módulo possui saídas digitais e analógicas. Um aparador é usado para calibrar a sensibilidade do sensor.

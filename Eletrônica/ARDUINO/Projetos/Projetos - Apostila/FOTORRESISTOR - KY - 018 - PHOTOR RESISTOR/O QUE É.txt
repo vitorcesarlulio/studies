@@ -1,1 +1,0 @@
-Módulo fotoresistor Arduino KY-018, usado para medir a intensidade da luz. Pode determinar a presença ou ausência de luz.

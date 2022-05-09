@@ -1,9 +1,0 @@
-Instalar JDK 11
-No próprio site da Oracle tem para download
-
-Vamos até painel de controle > sistema > configurações avançadas do sistema > na caixa de diálogo aberto procure o botão "Variáveis de ambiente" e clique sobre o mesmo.
-
-Verifique se já existe a variável Path na seção "Variáveis de sessão para <Seu usuário>", se não, crie-a.
-Se tiver, de dois cliques sobre a mesma e clique no botão "Novo" e cole o caminho do Java "C programa file/Java/JDK"
-
-Abra o cmd é digite java -version

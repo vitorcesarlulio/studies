@@ -1,9 +1,0 @@
-005  n achei 
-006 buzzer
-007  n tem
-012 buzzer ativo
-014 N TEM 
-
-017 mesmo que 027
-
-

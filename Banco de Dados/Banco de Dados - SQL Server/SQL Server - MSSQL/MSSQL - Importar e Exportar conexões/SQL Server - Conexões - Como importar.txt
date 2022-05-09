@@ -1,1 +1,0 @@
-Para importação pode ser que seja necessário ver o seguinte arquivo "estudos\Infraestrutura\Infraestrutura - SO\SO - Windows\Windows - Cliconfg\Cliconfg - Exportar alias"

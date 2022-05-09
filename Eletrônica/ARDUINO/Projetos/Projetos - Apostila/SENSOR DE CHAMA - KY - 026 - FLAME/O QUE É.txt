@@ -1,1 +1,0 @@
-O módulo do sensor de chama KY-026 para Arduino detecta a luz infravermelha emitida pelo fogo. O módulo possui saídas digitais e analógicas e um potenciômetro para ajustar a sensibilidade. Comumente usado em sistemas de detecção de incêndio.

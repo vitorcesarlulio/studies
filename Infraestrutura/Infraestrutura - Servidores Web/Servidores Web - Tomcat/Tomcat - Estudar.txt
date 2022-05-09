@@ -1,5 +1,0 @@
-tomcat 9 performance tuning
-
-tomcat best practices
-
-https://www.baeldung.com/java-web-thread-pool-config

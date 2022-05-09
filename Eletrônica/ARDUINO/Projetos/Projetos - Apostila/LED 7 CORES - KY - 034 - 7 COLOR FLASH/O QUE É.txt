@@ -1,3 +1,0 @@
-Se você conectar este módulo a uma fonte de alimentação, acenderá um LED que muda de cor automaticamente. Inclui 7 cores diferentes.
-
-Faixa de tensão: 3,3V - 5V

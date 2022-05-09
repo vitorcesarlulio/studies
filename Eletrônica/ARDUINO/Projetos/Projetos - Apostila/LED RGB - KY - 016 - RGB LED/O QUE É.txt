@@ -1,1 +1,0 @@
-KY-016 Arduino LED colorido de 5 mm RGB, cores diferentes podem ser obtidas misturando as três cores primárias.

@@ -1,5 +1,0 @@
-1 SERVO MOTOR
-
-1 BOTÃO
-
-1 RESISTOR - 220 Ω
