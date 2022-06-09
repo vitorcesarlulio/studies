@@ -11,6 +11,8 @@ PROJETO - TOPICOS
 	4. Instalação e configuração
 
 WIRELESS
+	Teto menos barreiras fisicas
+
 	Redes propagando sinal muito a mais do que o ambiente precisa, interfere nós outros ambientes
 
 	Muitas redes
@@ -21,12 +23,15 @@ WIRELESS
 	1, 6 e 12 geralmente não geram interferência entre um e outro
 
 	5ghz
-	Espectro mais limpo
-	2.4 onda é maior (principio físico) alcança um ambiente maior
-	5 tem mais dificuldade para atravessar paredes tals
+		Espectro mais limpo
+		2.4 onda é maior (principio físico) alcança um ambiente maior
+		5 tem mais dificuldade para atravessar paredes tals
 
-	Vários canais
-	Da pra trabalhar no canal com 40mhz
+		Vários canais
+		Da pra trabalhar no canal com 40mhz
+		
+		Band steering
+			obriga o dispositivo se conectar em 5ghz
 
 	1. VERIFICAR SE TEM MUITA REDE EM VOLTA, INTERFERÊNCIA
 

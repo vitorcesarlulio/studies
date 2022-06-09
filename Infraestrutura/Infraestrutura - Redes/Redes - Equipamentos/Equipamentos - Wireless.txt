@@ -1,3 +1,21 @@
+Quanto mais SSID mais recurso você está consumindo da rede
+	4 a 8 já é suficiente
+
+ferramentas
+	Handover / roming
+	Band Steering 5Ghz
+	MU-MIMO
+	Beamforming
+	Airtime Fairness
+
+Unifi
+	Depende da controladora mas tem login por FB
+
+	Band steering
+			obriga o dispositivo se conectar em 5ghz
+
+	Melhor DBI de antena
+
 MIMO
 	MIMO enviar e receber sinal para varios 
 	varias conexao por vez
@@ -8,9 +26,15 @@ NÃO MIMO
 QUARTOS
 	Ubiquiti Unifi AP-AC Lite
 
-TP Link deco M5
+TP Link
+	Depende da controladora mas tem login por FB
 
-TP-Link Omada EAP 660HD
-	6 gb
+	TP Link deco M5
+
+	TP-Link Omada EAP 660HD
+		6 gb
+	
+	TP Link EAP 245 V3
 	
 https://www.amazon.com.br/Roteador-Gigabit-Archer-C6-Roteadores/dp/B07GVR9TG7
+
