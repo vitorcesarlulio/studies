@@ -1,0 +1,2 @@
+AOMEI Partition Assistant
+	Utilizado para gerenciar partições

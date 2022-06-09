@@ -1,0 +1,9 @@
+Sempre quando pedir para executar como adm pedir a senha, mesmo estando logado a pessoa n vai conseguir instalar
+
+qual a quantidade ideal de armazenamento disponível servidor
+qual a porcentagem de armazenamento ideal para deixar disponivel servidor linux
+
+Gravamento de tela do servidor em tempo real, ou de todos pcs, ou do caixa
+só pra ver se alguém mexeu no pc o que ele fez
+https://www.youtube.com/watch?v=HqD9hcnH-a0
+	minuto 18

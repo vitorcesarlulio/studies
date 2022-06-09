@@ -1,0 +1,3 @@
+Gmail > Configurações > aba Avancado > Modelos, salve
+
+Quando for escrever um email é so ir nos "..." selecionar a opção "Modelos" salvar ou carregar um modelo

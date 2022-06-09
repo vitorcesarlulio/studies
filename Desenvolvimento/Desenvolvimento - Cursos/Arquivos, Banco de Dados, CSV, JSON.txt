@@ -1,0 +1,42 @@
+1. Quais são as vantagens de se utilizar esse tipo de representação? E as desvantagens, se comparada, por exemplo, com um arquivo binário puro? Considere as vantagens e desvantagens do ponto de vista do programador e do ponto de vista do computador.
+	CSV
+		Vantagens
+			Ter um arquivo com um determinado separador (seja, ";", "," ou " " (espaço)) que, quando interpretado por um determinado software, como por exemplo, uma planilha digital (exemplo Excel, Libre Office). Isso possibilita importar e exportar um arquivo que pode ser visualizado por qualquer editor de texto, porem, não muito legível, já que sem um software para realizar a divisão de acordo com o separador, fica difícil de enxergar seus dados e respectivas colunas.
+			
+		Desvantagens
+			Difícil legibilidade do documento, é de fácil acesso aos dados
+			São documentos de texto e Não permitem conter fórmulas ou formatação
+			
+	JSON
+		Vantagens
+			Sintaxe simples, de fácil aprendizado e implementação;
+			Tamanho do arquivo bem menor e mais flexível em relação a outras “linguagens intermediárias”, tais como XML, que utiliza marcadores/tags o que deixa o arquivo "poluído", longo, de difícil legibilidade e sujeito a falhas, já que deve obedecer uma estrutura;
+			Facilidade de desenvolvimento e alto desempenho nas aplicações que o utilizam;
+			Melhor organização;
+			Não é necessário de um software especifico para interpretar o arquivo, qualquer editor de texto possibilita ter acesso aos dados e tornar compreensível o entendimento dos dados/estrutura.
+
+		Desvantagem:
+			Sem Schema;
+			Apenas 1 tipo de número;
+			Sem Date Type;
+			Sem comentários;
+			Verbosidade.
+			
+2. Quais são as vantagens de se adotar um banco de dados ao invés de escrever diretamente nos arquivos? E as desvantagens? Sabendo que existem alternativas grátis, quais as justificativas para que muitas empresas optem por pagar por soluções comerciais?
+	Vantagens
+		Inúmeras;
+		Segurança dos dados, tanto na proteção para invasões quanto nos vínculos dos dados;
+		Melhor extração de informações;
+		Manutenção nos dados;
+		Redução de redundância e de inconsistência de informações;
+		Escalabilidade;
+		Rapidez na manipulação e no acesso aos dados;
+		Redução do esforço humano (desenvolvimento e utilização);
+		Disponibilização da informação no tempo necessário;
+		Melhor estruturação dos dados;
+		
+	Desvantagens
+		Domínio da linguagem para manipulação dos dados;
+		Necessidade de ter uma tecnologia, paga ou não;
+		
+	Empresas optam por pagar soluções comerciais por diversos fatores, seja uma opção mais segura, melhor desempenho, necessidade devida a quantidade de dados armazenados ou necessidade de uma tecnologia paga para alguma necessidade.

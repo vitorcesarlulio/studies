@@ -1,0 +1,30 @@
+Windows + pause break > Configurações avançadas do sistema > aba Remoto:
+Permitir conexões de assistência
+Permitir conexões remotas com este computador
+Desmarcar, Permitir conexões somente de computadores.. (isso é pra quando vc vai acessar somente grupo de trabalho que estão na mesma rede que o seu grupo de trabalho)
+
+Firewall 
+Firewall > configurações avançadas > adicione uma regra de entrada e saída > Tipo de regra > predefinida: área de trabalho remota > selecione tudo. Faz a mesma coisa predefinida: assistência remota 
+
+Roteador (liberar porta)
+Avançado > NAT > Virtual server >  
+OU
+Forwarding > Virtual server > novo:
+Protocol: TCP/UDP 
+IP Address (ou local IP): IP que você acessa as configs do roteador (192.168.0.1) endereço IPV 4
+POrtas: tem que ver outro vídeo
+
+Entre em https://www.meuip.com.br/ e veja qual o ip
+Entre no site noip:
+Add host > Hostname: Vitor Sytes Net > DNS Host > Ipadres: ip que foi pego no site > no grupo 
+
+Tudo isso pra formar isso:
+Vitor.Sytes.net ao inves de ter de usar o ip
+
+BAIXAR DUC
+Cada vez que o ip mudar ele atualiza meu host, voce nao precisa ficar mudando o ip nas configs 
+Vá ate edit host > selecione a opção "Hans..." ou Vitor.Sytes.net salve 
+
+ai voce conecta com isso:
+Vitor.Sytes.net
+

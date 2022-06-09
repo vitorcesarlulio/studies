@@ -1,0 +1,10 @@
+COMBUSTIVEL
+	Carro turbo com gasolina não é muito bom
+	Centelha da gasolina é muito forte, nem é tanto por deixar carro rico mas é que é forte mesmo
+	Requisito mínimo é intercooler e ar frio
+
+	Álcool tem que deixar mais gordo de combustível
+	Bomba elétrica
+	Gasolina não
+
+	No álcool também da umas riscada nas bronzina

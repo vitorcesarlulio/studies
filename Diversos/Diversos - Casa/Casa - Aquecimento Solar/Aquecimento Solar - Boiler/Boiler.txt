@@ -1,0 +1,146 @@
+BOILER
+	Por energias
+	A gás 
+	Energia solar
+	
+	Modelo de passagem:
+	A água passa por uma resistência e por isso que ela fica quente 
+	
+	Modelo de acumulação
+	É o boiler, a água fica concentrada no galão e aquecida, daí da pra usar em toda a casa
+	
+	A água passa também por uma resistência, é aquecida, porém é armazenada no boiler 
+	
+	Boiler a energia ele fica ligado sempre para manter a água ligado (gasta energia) porém da pra você colocar um timer para ligar ele somente perto do banho e etc. Porém em dias de chuva, o que você faz?
+	Mais caro
+	
+	Boiler com tubos a vaco
+	Pode ser mais eficiente em dias de chuva 
+	
+	
+	Em ambos os sistema, deve ser troca o chuveiro por uma ducha, trocar as torneiras por misturadoras
+
+
+alta pressão
+Válvula para tirar vapor d água
+Válvula para não deixar o boiler mudar 
+
+Os canos comuns ou até para aquecimento só vai até 90c 
+Aí é colocada uma válvula que vai abrir se chegar a 4kg ou 90
+Válvula de retenção para água quente não voltar para rede fria 
+Vaso de expressão para que o boiler não de as cuspidas que a torneira da sabe, que dá uns pico de água e depois sai água 
+
+Baixa pressão
+Pós boiler, água sai do boiler e tem uma bomba que joga água pra casa com maior pressão
+
+
+Racional 
+	parece ser a melhor, porem boiler de 600l muito caro 6.868,00, não é muito 40mca?
+	solda por ultrassom nas placas, 1000 cada
+	não falou nada das placas serem com os cantos sem emendas
+	falta alguns detalhes da Pressurizador Rowa Tango elev 20, não achei na internet
+	Vaso de Expansão não vi porque colocar 2, tem gente que nem coloca
+	Kit segurança até que é útil
+	
+	sem recirculação de agua
+	
+	Conjunto para circulação forçada
+	boiler x coletores (acho que vai ser necessario pois as placas vao ficar mais alto que o boiler ou na mesma altura
+
+
+placa solar 
+	ver a qtde de calor produzido por m² que deve ser 60 a 90 
+	os cantos devem ser inteiriço, sem emenda se não enferruja
+	dentro da placa onde tem as serpentinas, p bacana é ser de fora a fora soldado essa serpentinas, algumas vem com 1 pingo se solda ai bateu quebrou essa solda já não vai ser a mesma coisa
+	https://produto.mercadolivre.com.br/MLB-1817379622-reservatorio-termico-komeco-boiler-baixa-presso-400-litros-_JM
+	HELIODIN - melhores
+
+
+
+
+
+- Colocar um encanamento para limpeza da caixa, jogando a agua direto para rua e não passando pelos chuveiros torneiras e etc. Pode ser um ladrao tbm
+
+- Filtro d Agua antes da caixa d agua  (AQUI NAO PODE TIRAR O CLORO DA AGUA PQ ELE VAI FICAR PARADA NA CAIXA D AGUA)
+	Filtro P/ Caixa D'água Entrada Poe C/ Refil Lavável+brinde
+	https://produto.mercadolivre.com.br/MLB-1180456249-filtro-p-caixa-dagua-entrada-poe-c-refil-lavavelbrinde-_JM
+	
+- Caixa d agua
+	
+- Válvula transferidora de pressão (dentro da caixa) -> se tiver boiler n vai adiantar muita coisa não
+	vai a pressão da agua da rua para casa
+	Vazão não é muito boa
+	Ver se trocar a mangueira por um cano, assim a agua corre melhor ainda
+	
+- Registro geral
+
+- Válvula de retenção, para que a agua só va e não volte para caixa d agua (agua quente do boiler n voltar para caixa)
+
+- Colocar um cifao em U para não formar ar
+
+- Boiler
+	https://www.youtube.com/watch?v=ttqM3hDrAIQ
+	https://www.youtube.com/watch?v=ZEqK4KmpeLg&ab_channel=DasolAbrava
+	Cada 100l de boiler é 1 placa de 1x1,5
+	instalar sempre na face norte
+	35 a 45 graus de inclinação, mais inclinação, mais quente a agua
+	entrada cai caixa d agua em baixo do boiler
+	o top dele tem que ficar 35cm no mínimo a baixo do nível da agua na caixa d agua, se não, não vai suprir a caixa d agua
+	
+	o retorno dos painéis solar fica em cima, 
+	O RETORNO DEVE FICAR SEMPRE SUBINDO MAIS IMPORTANTE, pois a agua quente ela evapora
+	
+	Saída do cano para consumo fica em cima do boiler (pois a agua quente fica em cima
+	
+	termostato vai ligar automaticamente quando a agua das placas ficar baixa (voce vai definir no termometro) NAO CONFIAR EM TERMOSTATO, COLOCAR CONTROLADOR DIGITAL
+	
+	do mesmo lado, fica a saída, só que em baixo para as placas, e quando for sair coloque canos de cobre 
+	
+- Cano ppr para agua quente, resistência maior, deixa a agua quente PRECISA DA FERRAMENTA
+
+- respiro SE NAO vai formar pressão no reservatório. pra cima da caixa da agua uns 60 cm, quanto mais melhor, lembrando em deixar a ponta para lado, e nao para cima caso entre algo
+
+- registro
+
+- Filtro d Agua para caixa d agua (AQUI PODE COM CLORO, POIS VAI DIRETO PARA SUA TORNEIRA)
+		Filtro Carvão Ativado Remove No Mínimo 75% Do Cloro
+			https://produto.mercadolivre.com.br/MLB-859231128-filtro-carvo-ativado-remove-no-minino-75-do-cloro-_JM
+		Filtro Água Multiuso Ap200 Transparente Aqualar Original 3m
+			https://produto.mercadolivre.com.br/MLB-1076034603-filtro-agua-multiuso-ap200-transparente-aqualar-original-3m-_JM
+
+- Pressurizador
+	Vazão?
+	Fluxostato?
+	
+	Coliseu ferramentas
+	Bomba Pressurizadora Tpa 25-15-200 Mono 320w 220v Thebe
+	
+	Lorenzetti PL20 - 20 MCA
+	
+- Usar curvas de 45, e 90
+
+casa
+
+MCA 
+	Peso da Agua: 1 L -> 1kgf (a cada 1l tenho 1kg).
+		Considerando a temperatura a 20C e pressão a 1ATM
+	Imagine uma caixa d agua com 1m de cada face 1m³ = 1000l
+	
+	Pressão = Força / Área
+	Pressão = 1.000 kgf (1000l) / 1 m³
+	Pressão = 1.000 kgf/m²
+	
+	Qual o valor da pressão em qualquer ponto no fundo de cada reservatório?
+		Reservatório 1
+			Área = PI * Raio²
+			Área = 3,14 * 1m (1m ele deu)
+			Área = 3,14 
+			
+			Volume = Área * Altura ou F (kgf) ou m³
+			Volume = 3,14 * 10m (ele deu 10m)
+			Volume = 31,42
+			
+			Pressão = Força / Área 
+				m³/m² (elevado com mesma base, subtrai que vai dar 1) = m
+			Pressão = 31,42 / 3,14
+			Pressão = 10,006 MCA

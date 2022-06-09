@@ -1,0 +1,46 @@
+Aterramento, alguns ja vem ai voce aterra no rack
+
+diferente de um hub, o switch manda o pacote direto para outra porta (outro pc) o hub ele batia em todas portas (pc) pra achar o dono do pacote
+
+GERENCIAVEL
+	Mudar configurações
+	VLAN
+	Monitoramento
+		estado das portas
+		erros/falhas
+
+	Alguém vai dar manutenção nele?
+
+NÃO GERENCIAVEL
+	Manutenção mais difícil, monitorar
+	poe
+	velocidade das portas
+	private lan
+	jumbo frame
+	utp/fibra
+	
+	Não faz
+		vlan
+		spannign tree
+	
+	performace não tem nada haver com gerenciavel, pode ser que os 2 sejam iguais
+
+
+Cisco
+	linha Small Business e Meraki
+
+TP LINK
+	T2600G-28TS
+		Switch TP-Link 24 Portas Gigagit Gerenciável com 4 portas SFP
+		Neste vídeo Daniel dá uma breve demonstração sobre o Switch TP-Link 24 Portas Gigagit Gerenciável com 4 portas SFP modelo T2600G-28TS e Part Number: TL-SG3424.
+		
+		4 PORTAS FIBRA
+		GERENCIAVEL
+		24portas
+		porta micro usb
+		consumo menor
+		sem ventoinha
+		banda maior
+
+DLINK
+	D-Link DGS-1024C

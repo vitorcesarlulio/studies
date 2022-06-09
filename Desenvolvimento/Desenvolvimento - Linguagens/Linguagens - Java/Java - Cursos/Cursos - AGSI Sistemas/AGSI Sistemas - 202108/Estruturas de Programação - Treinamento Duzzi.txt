@@ -1,0 +1,32 @@
+Bom dia Pessoal!
+
+Espero que estejam todos bem! : )
+
+Encaminho para vocês o slide utilizado hoje durante a apresentação sobre as estruturas de programação utilizadas atualmente.
+
+Relembrando um pouco do que vimos ... 
+
+1. Introdução
+2. Programação Orientada a Objetos
+3. Princípios da POO
+4. Vantagens da POO
+5. Exemplo na prática
+6. Conclusão
+7. Próximos Passos
+
+O foco foi completamente voltado à realidade do que utilizamos e do que precisamos fazer em nosso dia a dia, quando o assunto é desenvolvimento WEB e orientação a objetos. Seguem algumas leituras interessantes referentes ao assunto, caso desejem se aprofundar: 
+
+1. Um pouco mais sobre a introdução a orientação a objetos
+2. Conceitos e bases iniciais
+3. POO e Java
+
+Em caso de dúvidas, podem me chamar! Lembrando sempre, como dizia o nosso ancião Emerson, "A sua dúvida, pode ser a mesma que a minha!". Ou como dizia o penugem, "Hmnnnn, boa pergunta!"
+
+Para a próxima semana, 14/08, o foco será em Linux, de forma mais mão na massa, passando pelos seguintes tópicos:
+
+- Comandos Básicos;
+- Comandos para instalação de sistemas;
+- Um pouco sobre o sistema operacional;
+- Navegação e linha de comando.
+
+Excepcionalmente, iremos começar às 8h e finalizaremos às 9h30. Conto com vocês!!!

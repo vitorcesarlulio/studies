@@ -1,0 +1,77 @@
+Loudebalancer
+	usar dois links
+	
+Failover
+	se um link cair, outro assume
+
+MikroTik
+	Ele faz roteamento
+	NAT (compartilhar IP)
+	Controle de banda (queues)
+	Firewall
+	Autenticação (PPPOE)
+	Balanceamento
+
+	DIferenças
+		Processador
+			Velocidade
+		Portas
+			Quantidade, velocidade, porta de fibra ou não (SFP)
+		Memoria
+			mas é pouco utilizada
+		Licença
+		HD
+			pouco utilizado
+	Escolher
+		NUmero de clientes + banda que sera utilizada
+
+MIKROTIK
+	RouterOS
+		sistema operacional da MikroTik baseado em linux
+	
+	Roteador Mikrotik route c/case RB2011UIAS
+	
+	Roteador Wi-Fi Mikrotik hAP - 4 portas LAN - RB941-2ND
+	Routerboard Wireless Rb941-2nd-tc (hap Lite Tc) Mikrotik
+	Mikrotik hAP mini RB931-2nD Pequeno Ponto de acesso sem fio 2GHz 3 x 10/100 portas Ethernet 650MHz CPU RouterOS
+	Roteador de porta MikroTik RB4011iGS+5HacQ2HnD-IN potente de 10 x Gigabit com CPU Quad-core 1,4 GHz versão internacional
+	Mikrotik Routerboard Lite5 Sxt 5ndr2 16dbi - L3
+	
+	Mikrotik Routerboard Rb 760Igs Hex S 880Mhz 256Mb
+		https://www.americanas.com.br/produto/4090437926
+		https://www.amazon.com.br/Roteador-Gigabit-Ethernet-MikroTik-RB760iGS/dp/B07F7HDRKX
+		PORTA FIBRA
+		R$ 507,32
+		processamento igual a RB750Gr3
+	
+	Routerboard Mikrotik Rb750r2 Hex Lite
+		https://www.amazon.com.br/Routerboard-Mikrotik-Rb750r2-Hex-Lite/dp/B08437VWWH
+		inferior a RB750Gr3
+		/100
+
+	Wireless TP-Link Archer C6
+		R$ 284,90
+		https://www.kabum.com.br/produto/150374/roteador-tp-link-archer-c6-v3-ac1200-mu-mimo-wireless-dual-band-4x-antenas-portas-4x-gigabit-1x-wan-4x-lan-tpn0254
+
+	Router VPN Tp-Link ER605(TL-R605)
+		R$ 552,63
+		https://www.submarino.com.br/produto/4747235959
+	
+	
+	Mais tops
+		RB3011UiAS RM
+		Roteador Mikrotik RB2011IL-RM 05P
+		Mikrotik Cloud Core Router CCR1009-7G-1C-1S+
+		Cloud Router Mikrotik Crs326-24s+2q+rm Switch 2 Portas Qsfp+ 24 Portas Sfp +
+		CPU Mikrotik CCR1036-8G-2S+ 36 núcleos, roteador Cloud Core, 8 portas Gigabit, 2 portas SFP+, tela sensível ao toque colorida LCD, 4 GB.
+		Mikrotik Cloud Smart Switch Css326-24g-2s+rm
+		Mikrotik Routerboard Rb 3011uias-Rm L5
+		Mikrotik Routerboard Rb 2011uias-2hnd-In
+
+UBIQUITE
+	Edge router
+	ERX Router
+	Tem como usar como router e para rede lan
+	Posso fazer failover
+	Balanceamento de carga
+	Cada porta posso montar uma lan

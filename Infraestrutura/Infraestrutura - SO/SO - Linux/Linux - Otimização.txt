@@ -1,0 +1,41 @@
+tmpwatch para limpar arquivos temporários no Centos 7
+	Intalar tmpwatch 
+		$ install yum tmpwatch
+	Considerando isso, para limpar arquivos que não foram acessados a mais de 30 dias:
+		$ tmpwatch 30d /tmp/
+		
+Opção
+	#apt-get clean (apaga arquivos armazenados em cache no disco)
+	
+	#deborphan (procurar por bibliotecas que não estão sendo usadas por nenhum programa)
+	
+	#apt-get remove nomedopacote (remove pacotes)
+	
+	Arquivos temporários do usuário:
+	
+	$ rm -Rf ~/tmp/*
+	
+	Arquivos temporários do sistema
+	
+	# rm -Rf /tmp/*
+	
+	ou
+	
+	$ sudo rm -Rf /tmp/*
+
+Disco
+	monitorar entradas saídas disco
+	iotop or sar from the sysstat package to monitor your disk input/output rates
+ 
+
+Passos para limpeza total de cache, DNS, temporários e etc. no Linux
+	OBS. 1: Procure fazer uma cópia de cada arquivo que for alterado ou removido neste tutorial com o comando:
+	cp -p arquivo
+	
+	E também dos principais arquivos de rede que poderão ser alterados com os comandos:
+	cp -p /etc/hosts /etc/hosts.bak
+	cp -p /etc/host.conf /etc/host.conf.bak
+	cp -p /etc/resolv.conf /etc/resolv.conf.bak
+	cp -p /etc/networks /etc/networks.bak
+	cp -p /var/lib/dhclient/dhclient.leases /var/lib/dhclient/dhclient.leases.bak
+	cp -p /var/lib/dhcp/dhclient.leases /var/lib/dhcp/dhclient.leases.bak

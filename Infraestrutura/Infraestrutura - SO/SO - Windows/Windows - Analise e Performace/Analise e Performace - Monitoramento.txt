@@ -1,0 +1,28 @@
+MONITORAMENTO
+	MONITOR DE RECURSOS DO WINDOWS
+		Melhor que o gerenciador de tarefas, da pra marcar um serviço e ver tudo o que está acontecendo 
+		
+	PROCESS MONITOR
+		https://www.youtube.com/watch?v=ChHSfX4Kcbo&list=PLZZcZLEIKFuKkrr0FnpK--uwBxra0TxGA&index=1
+	
+		https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
+		Da pra acompanhar o que aconteceu por cada linha
+		acompanhar se deu sucesso
+		e muitos detalhes 
+		RegQuery 
+		Filtrar pelo nome do processo
+		
+	PROCESSEXPLORER
+		Semelhante ao process monitor
+		mostra hierarquia dos processos em execução
+		Da pra ver as DLLs que estão sendo carregadas	
+		tem como Você segurar no alvo e ir procurando uma tela que ele via mostrar as ações daquele componente
+		
+	PERFMON /SYS
+		Digite Perfmon /sys no windows
+	
+	GERENCIADOR DE TAREFAS
+		taskmgr
+		Aba processos ela agrupa os processos de cada programa
+		Aba detalhes legal pois da pra ver todos os processos, se der botão direito sobre a coluna da pra selecionar outras colunas
+		Serviço lista os Serviço no ambiente do windows o bacana é que você consegue observar o numero do processo, sempre que o serviço inicia ele estarta um processo

@@ -1,0 +1,1 @@
+O módulo Sensor de temperatura analógico KY-013 para Arduino, mede a temperatura ambiente com base na resistência do termistor.

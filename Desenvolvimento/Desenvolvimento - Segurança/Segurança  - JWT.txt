@@ -1,0 +1,138 @@
+Referencias
+	https://www.youtube.com/watch?v=Gyq-yeot8qM
+	https://www.youtube.com/watch?v=KFNGgc34UXE
+
+https://jwt.io/
+
+Debugger
+	https://jwt.io/#debugger-io
+	
+Token
+	é um pedaço que carrega um informação
+	quando você decoda você tme um json dentro com informações
+	
+Encodar
+	é diferente de encriptografar
+	faço um enconde para informação trafegar de forma segura atraves de varios sistemas
+	
+	na criptografia você esconde a informação, deixa de uma forma secreta
+
+JWT
+	JSON Web Token
+	
+	Padrão estabelecido pela RFC 7519 
+	Como transmitir e armazenar de forma segura e compacta objetos Json entre aplicações
+	
+	Tanto para autenticação quanto para troca de informações
+	
+	Para que a criptografia aconteça é utilizado o JWS e o JWE (vários tipos de assinatura e criptografia)
+	
+	É possível verificar se o conteúdo do Token é valido, através de seu próprio conteúdo
+	
+	São utilizados na Autenticação, Autorização
+	Uma vez que o usuário logado, cada requisição feita para servidor incluirá um JWT
+	Permitindo seu acesso a rota serviços e recursos liberados através do Token
+	
+	Dividido em 3 partes, separadas por um .
+		Header
+			Qual algoritmo de criptografia usado na assinatura
+			Qual tipo de token
+			
+			{
+				"alg": "HSA256",
+				"typ": "JWT"
+			}
+			
+			Será codificado através do método Base64Url
+			transformando na primeira sequencia do JWT
+			
+			Obs.: posso em minha payload ter outro jwt ai eu teria que passar um novo atributo "cty": "JWT"
+			
+		Payload - Segundo Bloco
+			De fato a informação a ser posta no JWT
+			Nome de usuário, e-mail
+			
+			{
+				"iss": "seu site",
+				"sub": "1234567890",
+				"name": "Código Fonte",
+				"admin": true
+			}
+			
+			Claims
+				Registered ou Reserved
+					Reinvindicações pre definidas pelo padrão do JWT
+					Não é obrigatório, mas são recomendadas
+	
+					Informações uteis e de fácil identificação
+					
+					iss
+						Quem gerou o, por exemplo a API				
+					Sub 
+						de Subject
+						Entidade a quem o JWT pertence (id do usuário por exemplo)
+						assunto do JWT
+					aud
+						quem é o responsável e que realmente utiliza o JWT
+						API emiti mas tem um site que se integra com API ai o aud seria o site
+						Emissor API
+						aud
+					iat ou issued at
+						Timestamp informações de data e hora que o JWT foi utilizado/gerado
+					exp de Expiration
+						O tempo para utilização do token
+
+				Public Claims
+					Devem ser definidas no IANA Json Web Token Registry
+					ou serem definidas através de um URI que contenha um namespace que resolva o problema de colisão
+					IANA
+					
+				Private Claims
+					Definidas apenas entre as partes que irão usalas e ambos os envolvidos devem estar cientes que elas serão privadas
+		
+			Todas as informações contidas no payload serão codificadas com Base64Url
+			e assim teremos o segundo item do JWT
+		
+		Signature - Terceiro Bloco
+				Enconde do Header junto com Enconde do payload 
+				
+			HMACSHA256(base64UrlEnconde(header) + "." + base64UrlEnconde(payload), MINHA_CHAVE_SECRETA)
+			
+			secret = chave de acesso
+			
+			e ai teremos o jwt formado
+			
+			
+
+		Não inclua nenhuma informação sensível no JWT ele não foi feito para isso
+		Nunca colocar dados sensíveis dentro do JWT
+		
+		Ele é seguro na questão que você não pode alterar o valor que contem dentro do JWT que o servidor não saiba
+		se alterar um JWT no meio do caminho ele vai ser invalido
+		
+		Pode ser vista (só decodar) mas ela não pode ser decodada (somente pelo proprio emissor)
+		
+Concorrentes
+	SWT
+	Simple Web Tokens
+	SAML (Security Assertion Markup Language Tokens)
+	
+JWS
+	JSon Web Signature
+	Assinatura do Token
+	
+	Algoritmo como segredo HMAC, SHA256, RSA ou com par de chaves publico privada usando RSA ou ECDSA
+	Verifica a integridade das reinvindicações contidas nele
+	
+JWE 
+	Json Web Encryption
+	Criptografia pra assinatura do Token
+	
+	Garante o segredo das informações entre as partes
+	
+JWK
+	Json Web Keys
+	Chaves para assinatura
+
+JWA
+	Json Web Algoritms

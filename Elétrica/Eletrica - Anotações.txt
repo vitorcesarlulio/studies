@@ -1,0 +1,12 @@
+Energia alternada
+	Há uma troca continua de polarização (+/-)
+Energia continua
+	Não há alternância
+	
+Ah energia que chega em nossas casas é energia alternada e basicamente as fontes tem o papel de converter a energia alternada em continua.
+
+Paralelo
+	Mais elétrons numa tensão baixo (menos voltes)
+
+Serie
+	Menos elétrons só que numa tensão mais alta

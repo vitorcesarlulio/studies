@@ -1,0 +1,84 @@
+https://www.lucidchart.com/pages/pt/modelos-e-exemplos-de-diagramas-uml
+https://www.mindomo.com/pt/mindmap/versoes-uml-164c4e92e9c8458ca29cd8e569b1511f
+https://www.ateomomento.com.br/diagramas-uml/
+
+UML Linguagem de Modelagem Unificada
+	diagramas estruturais UML
+		Diagrama de Classes
+			https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml
+			o diagrama mais famoso da UML
+			mapear as estruturas de determinados sistemas por exibirem claramente as diversas classes, os atributos, as operações e os relacionamentos entre objetos.
+			
+			cada forma de classe é rotulada
+
+			Toda classe é um retângulo
+				Dessa forma você consegue representar somente com um retângulo
+				Imagina você esboçar uma aula? um carro da pra desenhar
+				Simplificar tudo isso
+				
+			seu nome na primeira linha
+				Retângulo no começo do retângulo em negrito e primeira letra em maiúsculo
+				toda vez que você ver o nome em maiúsculo saberá que é uma classe
+				Caneta por exemplo
+				Parte superior: contém o nome da classe. Esta parte é sempre necessária, seja falando do classificador ou de um objeto.
+				
+			a segunda linha mostra cada atributo da classe em uma linha separada
+				No miolo vai todas as características
+				todos os atributos
+				modelo, cor, ponta
+				toda vez que você ver o nome em minúsculo saberá que é um atributo ou um método (método tem parênteses)
+				Parte do meio: contém os atributos da classe. Use esta parte para descrever as qualidades da classe. É necessário somente quando se descreve uma instância específica de uma classe.
+				
+				Modificadores de acesso de membro
+				Todas as classes têm diferentes níveis de acesso, dependendo do modificador de acesso (visibilidade). Veja os níveis de acesso com seus símbolos correspondentes
+					Público (+)
+					Privado (-)
+					Protegido (#)
+					Pacote (~)
+					Derivado (/)
+					Estático (sublinhado)
+				
+			terceira linha exibe cada operação em uma linha separada.
+				Na outra parte, será os métodos
+				eles devem ter parênteses depois do nome
+				Parte inferior: inclui as operações da classe (métodos). Exibido em formato de lista, cada operação ocupa sua própria linha. As operações descrevem como uma classe interage com dados.
+			
+				
+			A partir daí, símbolos adicionais de UML são usados para modelar as diversas interações e os objetos envolvidos no processo.
+			NÃO DEFINO tipo e valores
+			
+		Diagrama de Componentes
+			https://www.lucidchart.com/pages/uml-component-diagram
+			"componente" se refere a um módulo de classes
+			agrupe classes com base em um propósito comum
+		
+			Diagramas de componentes em UML são bastante semelhantes aos diagramas de classes
+			exibem a relação estrutural entre sistemas de software e seus elementos
+			geralmente simplificam as interações em sistemas mais complexos
+			
+		Diagrama de Objetos
+			https://www.lucidchart.com/pt/documents/editNewOrRegister/b296b8e0-f96b-4add-b568-40918091d20d
+			https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-objetos-uml
+			
+			representa uma instância específica de um diagrama de classes em um determinado momento
+			Um diagrama de objetos em UML é semelhante ao diagrama de classes porque trata dos atributos de um diagrama de classes e como esses objetos se relacionam entre si
+			Por exemplo, no modelo de caixa eletrônico abaixo, os títulos das classes mostram o tipo de cartão, conta e ação que o cliente usa
+			
+			aqui da pra colocar tipo e valores
+			
+			
+	diagramas comportamentais UML
+		importantes subconjuntos de diagramas comportamentais
+
+		Diagrama de Atividade
+			uma melhor ideia de como as tarefas dentro de um projeto vão funcionar
+			sobrepor-se e mover-se entre objetos ou componentes
+			
+		Diagrama de Caso de uso
+			criar uma visão ampla e de alto nível da relação entre casos de uso, atores envolvidos e sistemas sendo executados
+			casos de uso são representados por formas ovais, e as linhas mostram em que ponto um ator participa e interage com seu caso de uso correspondente
+			Você pode ver onde cada ator está envolvido no processo todo (e onde está excluído). 
+			Veja, em um dos exemplos, um caminhoneiro precisa saber as informações de localização, mas não precisa se envolver com qualquer outra parte do processo de um sistema de inventário bem-sucedido.
+			
+		Diagrama de Sequência 
+		

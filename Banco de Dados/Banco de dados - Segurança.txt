@@ -1,0 +1,8 @@
+Segurança
+	Troca de senhas
+	60 dias (no mínimo)
+	
+	Colocar SQL Server em uma porta que não seja a padrão (1433)
+	Verificar se firewall do Windows está ativado
+	
+	Tratar SQL Injection via banco de dados

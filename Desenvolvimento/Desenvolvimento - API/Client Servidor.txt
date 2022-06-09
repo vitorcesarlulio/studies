@@ -1,0 +1,2 @@
+CLIENTE-SERVIDOR
+	Um navegador web, por exemplo, pode ser o cliente e uma aplicação em um computador que hospeda um sítio da web pode ser o servidor.

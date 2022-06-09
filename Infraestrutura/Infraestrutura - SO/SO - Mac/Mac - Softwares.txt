@@ -1,0 +1,14 @@
+cron
+	usabilidade boa
+	comandos
+
+fig
+	autocomplete para terminal
+
+clen shot
+	printscreean
+	muito top em
+
+raycast
+	até onde entendi é um atalho para abrir coisas, um app, um site
+	bacana

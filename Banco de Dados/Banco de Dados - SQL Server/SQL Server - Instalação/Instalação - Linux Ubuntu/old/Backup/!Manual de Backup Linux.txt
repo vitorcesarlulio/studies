@@ -1,0 +1,13 @@
+01. Criar o Usuário BKP
+02. $ sudo mkdir /var/opt/mssql/data/BackupSQL/
+03. $ sudo chmod 777 /var/opt/mssql/data/BackupSQL/
+04. Colocar o bkpLinux.sh em /home/usuario/
+05. $ sudo mv bkpLinux.sh /opt/mssql
+06. $ sudo chmod 777 /opt/mssql/bkpLinux.sh
+07. $ sudo crontab -e
+08. Cole o conteudo do arquivo "crontab.txt";
+09. Saia do Nano;
+10. $ sudo /opt/mssql/bkpLinux.sh
+11. $ cd /var/opt/mssql/data/BackupSQL/
+12. $ ls
+13. Verifique se foi criado o arquivo Backup_20200101_120000.tar.gz

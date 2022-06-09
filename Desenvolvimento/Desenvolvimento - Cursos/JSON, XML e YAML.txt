@@ -1,0 +1,41 @@
+JSON
+	JavaScript object notation
+	
+	formato de padrão aberto que utiliza texto legível a humanos para transmitir objetos de dados consistindo de pares atributo-valor.
+	
+	padrão para armazenamento ou troca de informações em formato texto 
+	
+	facilmente interpretado por qualquer programador
+	
+	é rápido
+	
+	simples de ser interpretado
+	
+	troca e armazenamento de informações
+	fácil de aprender, ser interpretado e gerado
+	
+	é muito leve pela rede e já é suportado pela maioria das linguagens de programação
+	
+	é o cara para troca de informações
+	
+	ele tem que ser aceito por varias linguagens
+	elas linguagens
+
+XML 
+	Objetivo foi a criação de um tipo de formato que poderia ser lido por softwares e que tivesse flexibilidade e simplicidade
+	Possibilitou a criação de "tags" (você mesmo)
+	concentração da informação na estrutura e não na aparência
+	é um concorrente nessa troca de informações
+	
+	trabalha com tags, para delimitar os dados
+	
+	- Tanto XML quando JSON são modelos para representar dados no formato de texto;
+	- Ambos possuem natureza auto-descrita (basta "bater o olho" em um arquivos desses tipos para entender seu significado);
+	- Ambos são capazes de representar informações complexas no formato tubular. Alguns exemplos, objetos compostos (objetos dentro de objetos), relações de hierarquia , arrays, dados ausentes etc;
+	- Ambos podem ser utilizados para transportar informações em aplicações AJAX;
+	- Ambos podem ser considerados padrões para representação de dados. XML é um padrão W3C e o JSON é formalizado na RFC 4627.
+	- Ambos são independentes de linguagem de programação
+	- Podem ser acessados por qualquer linguagem de programação (algumas ainda não tem suporte a JSON) através de apis especificas
+YAML
+
+São utilizados para troca de informações entre aplicações, webservices, criação de apis e muito mais;

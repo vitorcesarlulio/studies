@@ -1,0 +1,3 @@
+O sensor de batimentos cardíacos KY-039 foi projetado para detectar um pulso enquanto um dedo humano está entre o diodo infravermelho e o foto transistor. O pulso será representado no pino de saída do sinal.
+
+Este sensor funciona usando um foto transistor para detectar a presença de luz, neste caso, quanta luz está passando através de um dedo. Quando o sangue se move, a quantidade de luz muda e essa mudança pode ser detectada como um pulso.

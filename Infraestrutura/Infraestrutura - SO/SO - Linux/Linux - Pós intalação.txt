@@ -1,0 +1,143 @@
+https://www.youtube.com/watch?v=epiyExCyb2s
+
+Ubuntu
+	Com maior suporte de hardware quanto de software
+
+Ubuntu 18 substitui o antigo gerenciador de janelas Unity pelo GNOME
+	Existem também os Cinnamon, XFCE e KDE
+
+Mínimo geralmente são 8gb de ram para um ambiente de desenvolvimento (ideal 16gb ddr4) um i5 acima da 6ª geração ideal
+
+Maquina top
+	Core i9 9900k
+	32gb de ram
+	512 a 1t de ssd nvm2 sansumg evo
+
+Core i3
+8gb de ram
+128gb ssd normal
+512 de hb mecânico 5400 a 7200 rpm
+
+Dell inspiron 15 3000
+
+Se é uma linguagem que originou do mundo open source, procure um sistema operacional open source. Isso porque a linguagem se baseou no mesmo.
+
+Distro manjaro
+uma versão arch mais simples de instalar
+o que é bacana em arch é o gerenciador de pacotes Pacman (atualizações continuas sem grandes saltos) e da 
+	filosofia de rolling update
+		Não há quebras entre versões major
+		
+Tecla SUPER geralmente é a tecla do Windows kkk
+
+WorkSpaces
+	Clica na janela + Super + Shift + Page Down
+	Super + page up você vai para outra WorkSpace
+	
+Maximizar janela
+	Super + seta para cima
+
+Super + seta direita você maximiza na direita e assim para esquerda
+
+O bacana é trabalhar com isso para montar grupos, grupo de code, grupo de analise, grupo de reunião
+
+Temas
+	Intalando o git (para pegar os temas atraves dele)
+	$ sudo apt install git
+	
+	Criando alguns diretórios
+	$ mkdir Projects
+	
+	Baixa os códigos nessa estrutura
+		https://www.osradar.com/install-flat-remix-theme-ubuntu/
+		
+		$ git clone https://github.com/daniruiz/flat-remix
+		$ git clone https://github.com/daniruiz/flat-remix-gtk
+		$ mkdir -p ~/.icons && mkdir -p ~/.themes
+		$ cp -r flat-remix/Flat-Remix* ~/.icons/ && cp -r flat-remix-gtk/Flat-Remix-GTK* ~/.themes/
+		
+		$ sudo apt install gnome-tweak-tool fonts-hack-ttf -y
+		
+		Abra tweak-tool
+		Em application mude para o tema Flat-Remix-GTK-Blue-Darker
+		Icons Flat-Remix-Blue-Dark
+		Fontes para hack regular tamanho 20 sla
+
+$ sudo apt install silversearcher-ag
+	filtrar arquivos
+	
+Pacotes de dependências para desenvolvimento
+	build-essential
+	
+	$ sudo apt install build-essential libssl-dev exuberant-ctags ncurses-term ack-grep silve rsearcher-ag fontconfig imagemagick libmagickwand-dev software-properties-common git vim-gtk3 curl -y
+
+	opcional 
+		default-jdk
+		
+ASDF Gerenciador de dependências universal
+	Quando voce precisa varias versoes da mesma linguagem
+	$ git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.9.0
+	
+	Daí é necessário instalar plugins asdf para cada linguagem
+	depois de instalado
+		$ asdf plugin-list
+		
+	quais linguagem instalar
+		$ asdf list-all ruby
+		
+		intalanod mesmo
+			$ asdf install ruby 6.3.0
+		
+		declarando que queremos usar essa versão
+			$ asdf global ruby 6.3.0
+			
+		Ai para projeto antigo posso fazer
+			$ asdf local ruby 2.4.4
+
+	Atualizar plugins
+		$ asdf plugin-update --all
+
+
+
+
+Baixar tweak ou temas para ajustar themas e outras paradas mais a fundo (provavelmente tem na ubuntu software)
+
+Themas
+Tweak > Aparência > Aplicativos > Flat-Remix-GTK-Blue-Dark
+Tweak > Aparência > Ícones > Flat-Remix-Black-Dark
+
+Tweak > Aparência > Plano de fundo
+Tweak > Aparência > Tela de bloqueio
+
+Tweak > Aplicativos de inicialização
+Flameshot
+
+Extensões
+https://extensions.gnome.org/
+só baixar extensão que ele já vai vincular com Linux
+
+ai depois é só pesquisar as extensões desejadas
+Blyr
+borra o fundo quando da alt tab
+
+Clipboard indicator
+area de transferência tipo windows
+
+OpenWeather
+previsão do tempo
+
+Sound input & Output device chooser
+
+Status area horizontal spacing
+deixar mais organizado a barra lá em cima
+
+Transparent top bar (adjustable transparency)
+
+Tweaks & Extensions in System Menu
+
+Unite
+
+Unite Themes
+
+Vitals
+mostra desempenho do sistema

@@ -1,0 +1,5 @@
+1 LED RGB (4 PINOS - 016)
+
+1 BOTÃO
+
+3 RESISTORES - 220 Ω

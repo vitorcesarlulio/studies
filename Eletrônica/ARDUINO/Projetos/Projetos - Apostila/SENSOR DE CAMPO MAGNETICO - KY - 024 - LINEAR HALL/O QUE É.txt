@@ -1,0 +1,3 @@
+O sensor Hall magnético linear KY-024 reage na presença de um campo magnético. Possui um potenciômetro para ajustar a sensibilidade do sensor e fornece saídas analógicas e digitais.
+
+A saída digital atua como um interruptor que liga / desliga quando um ímã está próximo, semelhante ao KY-003 . Por outro lado, a saída analógica pode medir a polaridade e a força relativa do campo magnético.

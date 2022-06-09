@@ -1,0 +1,16 @@
+WINDOWS 7
+	MENU INICIAR  - WINDOWS 7
+		- Jogos (pesquise, se não exibir, vai ter que habilitar no menu descrito acima) > Clique em Não, desejo personalizar minhas configurações > desmarque "Baixar..." e "Coletar...."
+		- Abra o menu de programas > clique com botão direto sobre algum e remova (é tipo o Fixar em iniciar)
+		- Abra o menu de programas > clique com botão direto sobre algum e excluir (Visualizador XPS, Internet Explorer, Windows Fax) 
+		Explorador de arquivos > Organizar > Layout > Barra de menus.
+		Explorador de arquivos > Organizar > Layout > Barra de menus > Ocultar painel de detalhes 
+		
+		Windows 7 Opcional: msconfig > serviços > Windows update e Windows source (desabilitar)
+		Windows 7: Fechar barra de idiomas (Botão direito no cantinho > Fechar barra de idiomas)
+		Windows 7: personalizar barra de tarefas (tirar bandeirinha vermelha perto do alto falante) > clica nas setinhas para cima > clica em personalizar: desmarque > depois clique em Ativar ou desativar ícones do sistema para desmarcar de novo
+	
+	BARRA DE TAREFAS - WINDOWS 7
+		Opcional: botão direito > aba Barra de Tarefas > usar ícones pequenos
+		Opcional: botão direito > aba Barra de Tarefas > botões da barra de tarefas: combinar quando a barra estiver cheia (de vez de mostrar só o ícone, mostra escrito também)
+		Opcional: botão direito > aba Menu iniciar > desmarque o que está dentro do box Privacidade (se clicar em personalizar tem uma opção do numero de programas abertos recentemente, se desmarcar a primeira caixinha, essa opção vai estar bloqueada, o bom dela é que o menu fica grandão) ainda nessa tela se quiser desmarque as opções Comando executar (marque), Realçar programas recém-abertos (desmarque), Rede (marque)

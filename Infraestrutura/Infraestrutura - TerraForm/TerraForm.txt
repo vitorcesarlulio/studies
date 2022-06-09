@@ -1,0 +1,77 @@
+COntrução, manutenção e versionamento de infraestrutura
+Se destaca no mundo de DEVOPS
+
+IAC
+	Infraestruct as acode
+	uma forma de criar e gerenciar uma infra através de código
+	
+De alto nivel a linguagem, o mais longe possivel de maquina
+	
+Com os arquivos que compoem o gerenciamenot é possivel criar um blueprint um modelo que pode ser vercionado, compartilhado e reutilizado quantas vezes desejar
+
+Criada pela Hashicorp
+
+Ferramentas
+	Vagrant
+	Packer
+	Consul
+	Vault
+	HEROKU
+	
+Existem varias edições do terraform
+	Terraform open-source
+		Pode ser utilizado gratuitamente
+	
+	Terrafomr Cloud
+		Também pode ser utilizado free, mas tem limitações
+		facilita o trabalho em equipe
+
+		Versões pagas
+			- Team & Governance
+			- Busines
+			
+	Terrafor entreprise
+		Self Host
+			Empresas com requisitos especiais a sua infra
+			
+Ele usa arquivos de configurações para descrever os componentes necessários para rodar uma aplicação simples ou complexa
+Você não se limita só a containes, rede, vm, storages também é possível gerenciar componentes de alto nível CDN, DNS
+
+Pode incluir os provedores
+IaaS
+Paas
+SaaS
+
+DevOps em primeiro lugar e utilizando boas praticas
+
+3 fases
+	Criação de arquivos de configuração
+		Coloco no arquivo que vou querer utilizar um LoadBalancer, vai tudo estar dentro de uma VPC, duas VMS
+	
+		Utiliza linguagem HCL HashCorp configuration 
+		Extensão .tf
+		
+		Declarar os recursos que componham a infra, seus objetos
+		
+		Tres bloco
+			Terraform
+				Configurações da própria ferramenta, provedores
+			Provider
+				Configurações especificas do provedor
+				Plugin utilizado para criar e gerenciar os recursos (provider), pode ser que eu tenha varios providers
+				Quando é uma mult cloud
+			Resource
+				Pode ser um componente fisico, como um servidor, ou um logico como uma aplicação
+				
+		$ terraform init
+			Vai baixar todos os recursos dos provedores
+	Planejamento
+		Ele te da um preload de como seria o ambiente que você deseja montar com as parametrizações definidas por você
+		Isso antes de rodar mesmo
+	
+		$ terraform plan
+			Vai nos retornar o plano de execução
+	Aceitação
+	
+Manutenção
+	Muito facil, só colocar no arquivo do terraform

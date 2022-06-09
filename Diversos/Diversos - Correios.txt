@@ -1,0 +1,11 @@
+Montar as etiquetas (enderecador)
+	https://www2.correios.com.br/enderecador/
+	https://www2.correios.com.br/enderecador/encomendas/default.cfm?etq=1&tipo=des#form1
+
+Declaração de conteúdo
+
+AR
+	Aviso de recebimento
+
+Frente o destinatário (quem vai receber)
+Verso o remetente (quem esta enviando)

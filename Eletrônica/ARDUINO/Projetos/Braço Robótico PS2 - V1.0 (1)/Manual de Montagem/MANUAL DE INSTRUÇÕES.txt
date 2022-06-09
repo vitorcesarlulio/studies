@@ -1,0 +1,69 @@
+			----- POR FAVOR RESPEITE NOSSO TRABALHO, NÃO COMPARTILHE OS ARQUIVOS DISPONIBILIZADOS -----		
+
+	------- BEM VINDO AO MANUAL DE INSTRUÇÃO DE MOVIMENTAÇÃO DO BRAÇO ROBOTICO ATRAVEZ DO CONTROLE DO PLAYSTATION 2 -------
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------					
+
+				*******  MUITA ATENÇÃO NESSE PASSO PARA NÃO DANIFICAR O ARDUINO NEM O CONTROLE ********
+
+*****  ANTES DE QUALQUER COISA, FAÇA AS CONEXÕES CONFORME ESQUEMA DE LIGAÇÃO PARA O SEU CASO, CONFORME DISPONIVEL NESTA PASTA  *****
+
+						******* RECONFIRA AS LIGAÇÕES ANTES DE ENERGIZAR *******
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+PRIMEIRO PASSO: DOWNLOAD DA BIBLIOTECA
+
+- VÁ A PASTA BIBLIOTECAS E FAÇA O DOWNLOAD DO ARQUIVO ---- PS2X_lib.rar ----
+
+--------------------------------------------------------------------------------------------------------------
+
+SEGUNDO PASSO:  ADICIONAR A BIBLIOTECA DO PS2 AO ARDUINO
+
+- VÁ AO PROGRAMA DO ARQUIVO NA PARTE SUPERIOR SELECIONE: SKETCH / INCLUIR BIBLIOTECA / ADICIONAR BIBLIOTECA.ZIP
+- SELECIONE A BIBLIOTECA QUE FEZ O DOWNLOAD NO PASSO 1:
+
+---------------------------------------------------------------------------------------------------------------
+
+TERCEIRO PASSO: DOWNLOAD DO CODIGO 
+
+- VÁ NA PASTA "Codigo" E FAÇA O DOWNLOAD DO ARQUIVO ---- meARM__PS2.rar ----
+- VÁ NO LOCAL DO DOWNLOAD E DESCOMPACTE O ARQUIVO 
+
+---------------------------------------------------------------------------------------------------------------
+
+QUARTO PASSO: COLOCAR CODIGO NA PLACA ARDUINO UNO:
+
+- ABRA A CODIGO QUE FEZ O DOWNLOAD NO PASSO ACIMA A ABRA O ARQUIVO ---- meARM___PS2.ino ----
+- COM O CODIGO ABERTO, VÁ ATE A PARTE SUPERIOR E SELECIONE: FERRAMENTAS / PLACAS / ARDUINO/GENUINO UNO
+- COM O ARDUINO CONECTADO AO USB VA ATE A PARTE SUPERIOR E SELECIONE: FERRAMENTAS / PORTA / E SELECIONE A PORTA QUE ESTIVER DIPOSNIVEL
+- NA PARTE SUPERIOR PRESSIONE O BOTÃO CARREGAR, AGUARDE COMPILAR E CARREGAR.
+
+----------------------------------------------------------------------------------------------------------------
+
+
+QUINTO PASSO: CHECAR CONEXÕES PELA SERIAL:
+
+- VÁ NA PARTE SUPERIOR DO PROGRAMA E SELECIONE A OPÇÃO: FERRAMENTA / MONITOR SERIAL
+- NO CANTO INFERIOR DIREITO, CERTIFIQUE SE QUE ESTA SELECIONADO "VELOCIDADE 9600"
+
+** SE AS CONECXÕES ESTIVEREM CORRETAS IRA APARECER AS MENSAGENS **
+"Seu controle foi conectado e configurado com sucesso"
+"Bem vindo a movimentacao do seu ARTICULADOR ROBOTICO"
+
+** SE AS CONEXÕES ESTIVEREM ERRADAS IRA APARECER A MENSAGEN **
+
+"Nao foi identificado nenhum controle conectado, revise as conexoes"
+				
+-----------------------------------------------------------------------------------------------------------------			
+
+			
+		
+			PRONTO, SE SEGUIU TODOS OS PASSOS O SEU BRAÇO DEVE SER MOVIMENTADO ATRAVES DO CONTROLE.
+

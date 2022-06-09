@@ -1,0 +1,1 @@
+O Módulo Sensor (Detector) de Toque / Batida KY-031 é um dispositivo eletrônico produzido com a finalidade de detectar toques ou batidas sobre ele. Ao detectar um toque / batida, a saída (digital) se mantém em nível baixo e quando o sensor não detectar o toque / batida, a saída (digital) altera para nível alto.

@@ -1,0 +1,1 @@
+Módulo sensor do interruptor de inclinação KY-020 Arduino. Fecha o circuito quando é inclinado para o lado, desde que seja movido com força e grau de inclinação suficientes para ativar o interruptor de esferas no interior.

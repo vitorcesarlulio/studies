@@ -1,0 +1,3 @@
+Não use baterias diferentes daquela específicada
+Não use combinações de baterias nova e usadas nem combinações de tipos, níveis de carga, fabricantes ou modelos diferentes
+Não insira as baterias com polo positivo e negativo invertidos

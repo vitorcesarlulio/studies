@@ -1,0 +1,1 @@
+O módulo transmissor a laser KY-008 do Arduino emite um feixe de laser vermelho em forma de ponto.

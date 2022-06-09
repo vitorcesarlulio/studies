@@ -1,0 +1,3 @@
+Letra maiúscula e minúsculo
+	CTRL + SHIFT + U (up)
+	CTRL + SHIFT + L (Lower)

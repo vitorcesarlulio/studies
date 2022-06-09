@@ -1,0 +1,1 @@
+Um sensor ultrassônico é um dispositivo que utiliza alta frequência de som para medir a distância entre itens determinados. Estes sensores são também conhecidos como transceptores, e são capazes de operar semelhante ao sonar.

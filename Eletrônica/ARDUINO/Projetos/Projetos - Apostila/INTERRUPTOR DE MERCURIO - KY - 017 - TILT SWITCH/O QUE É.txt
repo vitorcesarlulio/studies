@@ -1,0 +1,1 @@
+O módulo de chave de inclinação de mercúrio do Arduino KY-017, usa uma pequena bola de mercúrio que completa o circuito quando você inclina o módulo. 

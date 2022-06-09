@@ -1,0 +1,1 @@
+O Módulo de chave de vibração Arduino KY-002 Keyes permite a detecção de choque e vibração.

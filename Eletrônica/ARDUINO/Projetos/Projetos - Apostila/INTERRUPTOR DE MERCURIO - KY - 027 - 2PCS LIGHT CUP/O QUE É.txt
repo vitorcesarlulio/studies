@@ -1,0 +1,1 @@
+O Módulo Magic Light Cup do Arduino KY-027 é um conjunto de duas placas, cada uma com um led e um interruptor de inclinação de mercúrio. Usando o PWM para acionar os LEDs em cada módulo, você pode obter o efeito de a luz ser "magicamente" transferida de um módulo para o outro ao incliná-los.

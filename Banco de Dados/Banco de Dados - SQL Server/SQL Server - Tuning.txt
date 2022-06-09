@@ -1,0 +1,125 @@
+Tuning
+	Link bobsql/demos/sqlserver/autotune/ contem scripts para performance
+	https://github.com/microsoft/bobsql
+	
+	Ação tomada visando trazer a máxima performance para o ambiente, isso tanto em infra quanto em aplicação e claro no banco de dados
+	O ideal não é investir em hardware, pois o banco vai continuar crescendo e você vai ter que comprar mais hardware depois
+	o ideal é casar infra + aplicação + banco de dados
+	
+	1 Entendimento do problema
+	2 Desenvolvimento de um diagnostico para resolver esse problema, quais passos devo tomar
+	3 executar as ações
+	
+	
+	O que tira desempenho?
+		1 Query com consumo de recursos
+			CPU + MEMORIA + DISCO
+			Então se o server fica em 100% de CPU por 30 minutos, todas as Querys que forem rodadas naquele período não vão ter recursos disponíveis para consumo
+			
+		2 Lock
+			é um mecanismo do banco de dados utiliza para garantir a integridade das transações no banco de dados
+			Ele garante que uma transação que usa uma determinado tabela e um determinado dado ele mantenha a exclusividade de acesso a aquela tabela e dado até que a transação seja finalizada 
+			Se algum outro processo tiver que usar essa mesma tabela e dado eles sofreram o lock, aguardando a outra transação terminar 
+			
+		3 Índice 
+			Tanto a falta dele, quanto a criação errado
+			O índice é utilizado para auxiliar as consultas para que o SQL Server possa encontrar o dado mais rapidamente
+			Uma query que busca muitas informações e no banco de dados não tem nenhum índice o banco vai dar um "scan" em todos os dados e assim demorando mais 
+			
+			Ao executar uma query o SQL Server monta um plano de execução e um índice criado de forma errada pode fazer que o plano de execução fique errado 
+		
+		4 Manutenção preventiva
+			O índice criado pode sofrer fragmentação com o tempo e desatualizar as estatísticas do banco de dados
+			dessa forma será traçados planos de forma ineficaz 
+			manutenção de índices e estatísticas
+			
+	Categorias
+		Hardware
+			onde realmente o hardware precisa ser melhorado
+			
+		SQL Server
+			Ajustar algum parâmetro ou instancia 
+			
+		Query
+			Índices, estatísticas 
+			
+			
+	Tuning pro-ativo
+		não acontece nenhum problema, você busca algo que pode prejudicar, resolvendo antes mesmo que surja algo
+		Quando não acontece nenhum problema no banco de dados
+		Você corre atrás do problema
+		
+	Tuning resolução de problemas
+		quando realmente há um problema
+		Quando aplicação está lenta, você atual, identifica as querys pesadas e ajusta elas
+		
+	Como encontrar os problemas? Entender o problema
+		Qual a tela?
+		Qual o botão?
+		processo em especifico?
+		falar direto com usuário
+		
+		Montar um checklist
+			Camada externa: CPU, consumo de memoria, escrita de disco, leitura de disco, rede
+			Camada interna: o SQL Server, o banco em si, filtrar querys que estão usando o CPU de mais, por exemplo
+			
+	Rastreamento
+		Perfmon
+			
+		SQL Server - Monitor de atividades	
+			Querys, contadores, escrita e leitura
+		
+		SQL Server - Profiler
+			Se possivel utilizar ele fora de uma maquina de produção, do server no caso
+		
+			Tools > SQL Server Profiler
+			Usar o modelo: permite usar modelo standart mesmo (já contem os eventos necessários), caso deseja um modelo para rastrear locks pode escolher o que tem disponível
+			Salvar arquivo: se quiser pode salvar o trace que vai fazer em um arquivo
+			Salvar em uma tabela: pode salvar numa tabela de uma banco de dados
+			Configurar o momento do trace parar: você pode deixar o trace rodando somente 2 horas em um cliente
+			> Segunda aba
+				Lista os eventos do modelo que escolhemos
+				As duas categorias de eventos "Procedures" e "TSQL" tem pontos a serem analisados
+				Procedures:
+					RPC Completed GERALMENTE MAIS USADA E DESMARCA AS DEMAIS
+				TSQL:
+					SQL Batch Completed GERALMENTE MAIS USADA E DESMARCA AS DEMAIS
+					SQL Batch Starting
+					
+			Escolher quais colunas coletar
+			Habilite a opção "Mostrar todas as colunas"
+			Text Data: ela que vai exibir a query executada
+			Database name: bacana marcar
+			HostName: qual a maquina que esta executando a query
+			
+			Filtros das colunas
+				Duration: Filtrar pelas querys que levam mais de 3 segundos SEMPRE EM MILESEGUNDOS (5 segundos = 5000 milissegundos)
+				CPU: qurys que estão com CPU acima de 500
+				TextData: algum comando em especifico
+				Excluir linhas que não contem valores
+				
+			Botão rolagem automática (4 btns depois do stop)
+			
+		Extend Events
+			 
+		Query Store
+			Armazena os planos de execução
+			
+			USE master
+			GO
+			ALTER DATABASE AdventureWorks SET QUERY_STORE = ON
+			GO 
+			ALTER DATABASE AdventureWorks SET QUERY_STORE = (OPERATION_MODE = READ_WHRITE)
+			GO
+			
+			OU
+			
+			Clica sobre a base dados com botão direito > propriedades > relatórios de consulta:
+				modo de operação: READ WHRITE
+				modo de captura: alto
+				
+			Depois que rodou os eventos no banco de dados voce pode extrair os relatorios indo na base de dados > pasta repositório de consultas, expanda ela
+				Principais consultas de consumo
+				
+				Quando clicado sobre algum dos itens do grafico ele tras o plano de execução e a query
+				assim da pra elencar as 25 querys que mais demoram para rodar

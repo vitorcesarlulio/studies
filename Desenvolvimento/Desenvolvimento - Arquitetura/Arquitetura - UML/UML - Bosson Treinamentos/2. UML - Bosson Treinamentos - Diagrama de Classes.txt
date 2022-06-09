@@ -1,0 +1,164 @@
+https://www.youtube.com/watch?v=JQSsqMCVi1k
+https://www.youtube.com/watch?v=IJtQWLnHvcQ&list=PLucm8g_ezqNqCRGHGHoacCo6N1bfN7hXZ&index=3
+https://www.youtube.com/watch?v=oRGya693qbA
+
+			
+Diagrama de classes UML
+	Descreve o que deve estar presente no sistema a ser modelado
+	
+	Classes
+		Representação de um item qualquer do mundo real, físico ou abstrato na forma de um tipo de dado personalizado
+		
+	Atributos
+		Usados para armazenar dados dos objetos de uma classe, do item do mundo real.
+		
+	Métodos
+		Operações ou funções que a classe
+		
+	Uma instancia de classe é chamada de Objeto
+	
+	Representação de uma classe
+		3 compartimentos
+			Nome
+				nome e estereotipo (abstrata ou interface) da classe (informações sobre a classe)
+				Começa com letra maiúscula
+			Atributos
+				Lista de atributos no formato nome:tipo ou nome:tipo=valor
+				começa com letra maiúscula
+			Operações
+				Lista de métodos da classe no formato método(parâmetros): tipo_retorno
+				
+		Visibilidade dos membros
+			Modificadores de acesso. Acessíveis por quem? todas as classes do sistema? apenas por um grupo de classes? ninguém?
+			
+			+ Publico
+			# Protegido
+			- Privado
+			~ Pacote
+			/ Derivado
+			
+		Relacionamento entre as classes
+			Dependência
+				Usa ou precisa de informações e serviços de uma outra classe em algum momento (uma depende da outra)
+				Representação
+					- - ->
+					
+				Carro existe sem a roda, mas precisa dela.
+				
+				Multiplicidade
+					Valor para determinar o número mínimo e máximo de objetos que podem estar envolvidos na associação
+					Quando da classe A pode se relacionar com quantos da classe B
+					Mostra o nível da dependência entre os objetos
+					
+					0..1
+						0 = não obrigatoriedade do relacionamento (pode não existir)
+						Mínimo 0 máximo 1
+					1..1 (Padrão, não é necessário colocar)
+						Obrigatório
+						1 objeto de uma classe de relaciona com um objeto da outra classe
+					0..*
+						0 = não obrigatoriedade do relacionamento (pode não existir)
+						Mínimo 0 máximo MUITOS
+					1..*
+						Obrigatório
+						Mínimo 1 máximo MUITOS
+					*
+						Muitos
+					2..7
+						2 instancias se relacionam com no máximo 7 da outra
+			Associação
+				Uma classe faz referencia a outra classe ao longo do tempo
+				2 ou mais classes
+				Classe A tem a Classe B
+				
+				Pessoa associada a Revista
+				A associação pode ter um nome, por exemplo "assina" (geralmente um verbo)
+				
+				* Muitas pessoas podem assinar muitas revistas *
+				
+				Representação
+					->
+					A seta é só pra mostrar o sentido que as informações trafegam de uma classe para outra
+					
+					Bidirecional
+						- 
+						só um traço
+					
+				Exemplo
+					Pessoa *->* Revista
+					
+					Revista não executa nada na pessoa
+					Unidirecional
+					
+				Associação Ternaria
+					Objetos de mais de duas classes se conectando entre Si
+						Losango ponto de conexão
+						
+						Professor - Sala
+						        Turma
+								
+				Mais de 3 é chamada de N Áreas
+
+			Agregação
+				Uma classe é um container, coleção de outras classes
+				
+				As contidas não dependem do container
+				Se destruir o container as outras classes ainda existem
+				
+				Classe A possui uma ou mais classe B
+					Departamento e Instrutor
+					
+					Departamento possui os instrutores
+					Se eu extinguir o desparamento os instrutores ainda existem
+					
+					Departamento pode ter mais de um instrutor
+					Departamento 1..* * Instrutor
+					
+					1 Instrutor por departamento (faço parte só de um depto.)
+					
+					
+				Representação
+					- com diamante na ponta zvazado
+					A ponta indica quem está agregando (Departamento é preenchido com vários instrutores)
+
+			Composição
+				Variação da agregação
+				Dependência mais forte entre as classes
+				Um container ele é extinto o conteúdo dele também é
+				
+				Classe A é parte da Classe B
+				
+				Janela e BarraMenus
+				
+				Representação
+					- com diamante na ponta cheio
+			
+			Generalização
+				Relação entre itens gerais
+				Super classes/classes mãe
+				
+				Herança
+				
+				Classe A é um tipo da classe B
+				Animal Peixe
+				
+				Peixe deve ter métodos e atributos da classe animal mas ele tem seus métodos especializados que só existem para peixes
+				
+				Representação
+					- seta com triangulo na ponta (vazado)
+					Do mais especifico para o mais geral
+					
+			Classe Associativa
+				Associações onde é múltiplo dos dois lados
+				
+				Interligo as classes principais e puxo uma outra classe com uma linha tracejada
+				
+				Ator 1..* - 1..* Filme
+					   Tracejado
+					   Atuação
+					   
+				O ator e o filme eles tem juntos tem um novo atributo que é o papel do ator só faz sentido no contexto de um filme
+				O ator sozinho não tem um papel nem o filme
+				
+				O papel existe quando o ator faz parte do filme
+							

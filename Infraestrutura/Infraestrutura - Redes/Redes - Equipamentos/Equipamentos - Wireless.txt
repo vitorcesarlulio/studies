@@ -1,0 +1,16 @@
+MIMO
+	MIMO enviar e receber sinal para varios 
+	varias conexao por vez
+
+NÃO MIMO
+	1 conexão por vez quando n é mimo
+
+QUARTOS
+	Ubiquiti Unifi AP-AC Lite
+
+TP Link deco M5
+
+TP-Link Omada EAP 660HD
+	6 gb
+	
+https://www.amazon.com.br/Roteador-Gigabit-Archer-C6-Roteadores/dp/B07GVR9TG7

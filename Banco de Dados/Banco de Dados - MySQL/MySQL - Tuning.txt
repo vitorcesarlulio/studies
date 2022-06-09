@@ -1,0 +1,6 @@
+MySQL PERFORMACE
+Use InnoDB, não MyISAM
+
+use um EXPLAIN no inicio das consultas
+
+https://imasters.com.br/data/mysql-melhorando-o-desempenho-e-evitando-problemas

@@ -1,0 +1,1 @@
+O módulo LED KY-011 de duas cores de 3 mm para Arduino emite luz vermelha e verde. Você pode ajustar a quantidade de cada cor usando PWM.

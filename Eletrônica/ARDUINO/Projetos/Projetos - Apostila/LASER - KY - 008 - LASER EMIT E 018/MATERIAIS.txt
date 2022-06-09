@@ -1,0 +1,5 @@
+- 1 Arduino UNO
+- 1 Protoboard
+- 1 Laser Emit (KY - 008)
+- 1 Fotorresistor (KY- 018)
+- 1 Buzzer Ativo (KY - 012)

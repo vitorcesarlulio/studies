@@ -1,0 +1,44 @@
+Aula 01 (10/08)
+Em ferramentas vá até portas e vai testando as portas (com 4, com 1)
+
+Funciona de 6 a 30 volts mais ou menos (padrão é 5)
+
+Saídas utilizadas (0 a 13) mas vamos usar da 2 a 13
+Saída digital (para fora do Arduino ou é 0 ou é 5 volts)
+
+Linguagem c o Arduino usa só que evolui para c++ (da pra usar bibliotecas etc)
+
+Declaração de variável (w)
+
+Confira a porta do Arduino
+
+=========================================
+Aula 02 (17/08)
+Pushbotton
+Negativo do botão na resistência (proteger o circuito)
+
+Aperta o botão joga vcc (5v)
+
+Constante: diferente de uma variável, variável ela varia constante n altera nem tem como alterar
+
+Void setup (só é inicializado 1 Vez quando liga o Arduino)
+Void loop (aq depois de carregar ele pode se repitir)
+
+Serial.begin(9600) ele pega oq tá acontecendo no Arduino volta pro PC e mostra oq está acontecendo ou já aconteceu (geralmente usado para ver tempo, se tá dando tempo exato)
+Serial.println("Valor do btn")
+Isso dá pra escrever por onde vc quiser mas só o Arduino Leonardo faz isso
+
+=========================================
+Aula 03 (24/08)
+Saídas PWM (simula uma saída analógica, algo que dá pra variar entre 0 e 5 v)
+Saída digital = é 0 ou é 5 não dá pra variar
+
+255 é o máximo led todo acesso
+0 ele tá apago 
+
+As saídas PWM tem um ~ no Arduino
+
+DigitalRead(botão) testa o estado do botão 
+=========================================
+Aula 04 (31/08)
+Porta analógica (0 a 1023)

@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=Yt35H_zinTk&t=1s 
+
+Não mão única
+	base64_encode
+	
+Criptografias de mão única
+	Nesses tipos não é possível descriptografar, somente comprar se o hash gerada é igual ao salvo.
+		md5
+		sha1
+		
+		Problema dessas formas de criptografia é que sempre gerarão um hash padrão, o que pode tornar inseguro dependendo da senha, por exemplo a senha 123456, que já é possível saber o hash.
+		https://crackstation.net/
+		
+	No PHP o hash é genérico
+	
+	'' OR ''=''

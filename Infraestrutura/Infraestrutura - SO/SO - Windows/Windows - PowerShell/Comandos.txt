@@ -1,0 +1,3 @@
+bcdedite /deletevalue {default) numproc
+Ou
+bcdedite /deletevalue (default} truncatememory

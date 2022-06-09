@@ -1,0 +1,10 @@
+Math
+	Math.floor
+		floor é chão, então arredonda para baixo
+	Math.ceil
+		ceil é teto então arredonda para cima
+	Math.round
+		arredonda para o mais proximo (24.5 seria 25)
+
+//convertendo para string pra usar o metodo, adiciona uma qtde de caracteres a esquerda até ela completar um número de caracteres que eu deseje
+  String(seconds).padStart(2, '0')

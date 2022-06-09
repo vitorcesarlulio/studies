@@ -1,0 +1,1 @@
+Hall Sensor Magnético Modulo Ky003 - Arduino Pic Arm ! Sensor de alta sensibilidade baseado no efeito Hall, mede campos magnéticos ao seu redor. Este item pode facilmente converter o sinal magnético em sinal elétrico com alta confiança e sensibilidade. Possui LED de status, acende ao detectar o campo magnético. 

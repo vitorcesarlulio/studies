@@ -1,0 +1,59 @@
+JSF
+	Fazer aplicativos web, rodar no navegador
+	
+	backand processamento em java
+	
+	conversa com navegador através do html, parecido
+	
+	primefaces, framwork para JSF pra ficar mais bonito o desenvolvimento
+	
+	No java tem bastante framwork, bibliotecas pra agilizar no desenvolvimento
+	
+	se não teria que fazer tudo na unha
+	
+Core
+	Tipo uma biblioteca que todos os módulos usam
+	
+	Estrutura dividia em pacotes
+	
+	Entidades
+		Classes (objeto)
+		
+	Controller
+		Acesso ao banco e elas que chama  o DAO que é a classe que faz alteração no banco de dados
+		
+		
+xhtml
+	Numa tela xhtml la em cima eu faço a importação dos componentes onde vc coloca um "apelido" tipo pro primefaces você coloca um "p" e ai quando quiser um componente do primefaces é só colocar p:<COMPONENTE>
+	
+	É uma convenção esse p, acredito que não teria nenhum problema mudar para outra letra
+	
+Bean
+	Classe java que vai conversar com a tela
+	
+	mvc
+	m - dao - banco 
+	v - tela - bean
+	c - controller
+	
+	
+Try
+	Se tiver um erro dentro dele, uma exceção, um objeto que não foi instanciado por exemplo
+	
+Catch
+	Caiu aqui voce seta os operadores como false, espama erro
+	
+Finally
+	Sempre vai cair nela
+	
+Conexoes
+	Java ele executa direto por padrão
+	
+	Mas eu posso dar um autocommit como false
+	
+	
+	ConexoesDB
+		Um usuário normal para acesso a tabelas, são os usados em tela
+		
+	SA
+		Update, creates

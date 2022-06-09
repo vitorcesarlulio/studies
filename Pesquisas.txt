@@ -1,0 +1,675 @@
+NÃO VISTOS
+	Linkedin
+		https://www.linkedin.com/learning/fundamentos-de-comunicacao
+		https://www.linkedin.com/learning/como-escutar-de-forma-eficaz-2/bem-vindo?autoplay=true&courseClaim=%5Burn%3Ali%3AlyndaCourse%3A748851%5D%2Curn%3Ali%3Amember%3A593924778%2C1657474315254%2Cnull
+		https://www.linkedin.com/learning/construindo-confianca/boas-vindas-3?autoplay=true&courseClaim=%5Burn%3Ali%3AlyndaCourse%3A752458%5D%2Curn%3Ali%3Amember%3A593924778%2C1657474315254%2Cnull
+		https://www.linkedin.com/learning/agilidade-de-aprendizagem/boas-vindas?autoplay=true&courseClaim=%5Burn%3Ali%3AlyndaCourse%3A801467%5D%2Curn%3Ali%3Amember%3A593924778%2C1657474315254%2Cnull
+	Inteligência artificial que programa
+		Gpt3
+		Opt 175B
+
+	Teoria da computação
+	Computação cognitiva
+
+	Custo operacional
+
+	Palestras
+		robert martin clean code
+		Ingles dele é bom, pausado
+
+	Criptografia chave cimetrica e assimetrica
+		na pasta da sensedia pode ser que ja tenha algo, eu dei uma estudada já
+
+	IBM Q
+	
+	cambio pdk
+	
+	gradle
+	sonatypenexus
+	open stack
+	graylog
+	ansible
+	chef
+	
+	RPO e RTO sla arduino
+	
+	REDES
+		dcim ipam
+		baremetal
+		o que é QOS (redes)
+
+		O que é IPv6
+		Roteador TP-Link Wi-Fi N 450Mbps  (TL-WR941HP), TP-Link, Roteadores (rede convidado, Qos, IPv6, redirecionamento de portas, DynDNS e etc)
+		Swap
+		Acesso ftp
+		Cat6
+		O que e fire wal
+		 acsses point
+		  proxy
+		  VPN CONEXÃO DE QUALQUER LUGAR DO MUNDO
+		  NASS, HD DE REDE PARA TODOS OS PCS
+		  O que e acess point?
+		Banco lw (redes)
+		https://hotmart.com/pt-br/marketplace/produtos/curso-mikrotik-roteamento-corporativo/C63646278C
+		https://hotmart.com/pt-br/marketplace/produtos/curso-mikrotik-cgnat/Q62764734Y
+		https://hotmart.com/pt-br/marketplace/produtos/curso-mikrotik-pppoe-server/Q62922886N
+		https://hotmart.com/pt-br/marketplace/produtos/curso-router-switch-mikrotik/E62783139J
+		https://hotmart.com/pt-br/marketplace/produtos/curso-zabbix-monitoramento-isp/V62796416C
+		https://hotmart.com/pt-br/marketplace/produtos/curso-dns-local-linux/V62791474E
+
+	Momento mori
+		uma frase pra estudar sei la
+	
+	Quality assurance
+	tech lead
+	
+	dataware house
+	
+	
+	
+	localstorage
+	
+	i5 9400f
+	MB Asus H310m-E
+	8 ram
+	thermaltak 350w
+	no break 1400va TSshara
+	
+	google cursos
+	
+	Religiao
+		nietzsche
+		Bertrand Rusell
+		heidegger
+		Stephen Hawking
+		Richard dawkins
+		Osho
+
+	Programação greedy
+		Acha primeira forma para resolver algo, ele sabe que vai demorar então ele vê a primeira opção
+	Algoritmos gulosos
+	Programação dinâmica
+		Esse é a nata, ele não cálculoa algo de novo que já cálculou
+		Fatorial de 1 ele já cálculou, se algum outro lugar tiver ele só reutiliza
+		Guarda na memória
+
+	arch linux legal pra aprender na raiz mesmo
+	Ler balanço, fazer valuation, dre
+	carlos magno
+	due diligence
+	Tmux
+	Vim
+	ASD
+	SOA
+	endeavor
+	Gestão empresarial FGV
+	Insper
+	Stanford
+	What does 'Nightly Builds' mean
+	energia sustentável
+	exploração espacial
+	reprogramação do genoma humano
+	Dopamina
+		O prazer para gente, bebida faz isso, drogas, ou até sensações das redes sociais etc
+
+	Lobo frontal
+		Criar planejamentos e executa-los
+
+	Ipfs
+
+	Estudar
+	Turing award
+	Polímata
+		Conhecimento em assuntos diversos
+	
+	Técnica do noting
+
+	Configure somente as extensões padrões do IIS (wndows ), desativando extensões de SDK ou programação (tais como .VSDISCO, .SHTML, etc);
+	
+	https://dzone.com/articles/memory-wasted-by-spring-boot-application
+
+	Entendendo Coesão e Acoplamento
+	Entendendo Coesão e Acoplamento
+	Ihc interface homem computador
+	Ihm interface homem máquina
+
+	Variaveis
+	Tipos primitivos
+	Funções
+	Loopings
+	CallBack
+	Promessas
+	Classes e Objetos
+
+	sementic version
+			
+	atualizar o change log
+
+	Git
+		https://git-scm.com/book/pt-pt/v2
+		
+		https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/
+		gitlab
+	
+		Kleber agsi
+			https://www.atlassian.com/br/git/tutorials/comparing-workflows
+		
+			https://blog.programster.org/git-workflows
+		
+			https://medium.com/@mateusdecampos/trunk-based-development-1770f5e0dfc1
+	
+		GitFlow
+			5 tipos de branch
+				Main
+					reflexo do que está em produção
+					
+				Developer
+					reflexo do ambiente de teste
+					
+				Features
+					Funcionalidades que estão sendo des.
+					
+				Fix
+					ou hot fix, correções no meio do des.
+					
+				Release
+			
+		
+	
+	Graphql Subscription
+
+	Sistema para manipulação de arquivos em massa
+
+
+	Brainstoming
+	Braindrawing
+	Elicitacão de requisitos
+	Road Map
+	Discovery
+
+	NFC
+
+	https://yagovcb.medium.com/o-que-voc%C3%AA-precisa-saber-sobre-ddd-e-design-patterns-3-3-9c3483d7d514
+
+	RespBerry
+		https://www.lest5.com.br/lest/index.php/redes/comandos-redes/configurar-uma-rede-linux-via-terminal
+		https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04-pt
+		https://www.google.com/search?q=raspberry+2+pinout&sxsrf=AOaemvKxG50l81o6dy1ajJJgIww0fmfCwQ:1633129057168&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiJkczqp6rzAhXPppUCHZAtAl8Q_AUoAXoECAIQAw&biw=1600&bih=757&dpr=1#imgrc=D2-amrchWVR6gM
+		https://www.youtube.com/watch?v=nW4Pv5fC-j8
+		https://www.youtube.com/watch?v=SkscKblbqcs
+		https://www.youtube.com/watch?v=bMcxuLZNG3c
+		https://www.youtube.com/watch?v=WXL37SjSs9g
+		https://www.youtube.com/watch?v=RMA34qmYf0o
+		https://www.youtube.com/results?search_query=raspberry+pi+3+pendrive+boot+
+		https://www.youtube.com/watch?v=PFwSfXgjm8I
+		https://www.youtube.com/watch?v=p4tTzEusLuQ
+		https://www.youtube.com/watch?v=-pIg6bJJ_1k
+		https://www.youtube.com/watch?v=qfIyuEPIzvU
+
+	mac os monterrey
+	Infraestrutura Monolítica
+	Barramento de serviço
+
+	Advanced Encryption Standard (AES)
+	jailbreak 
+	linguagem ADVPL para atendimento
+	Técnicas de Machine Learning (regressão, classificação, associação, clusterização, outros);
+
+	
+	Ansible
+	Fluig
+	Desing patterns fornece uma solução reutilizável para problemas comuns
+
+	SOLID Essa ordem
+		https://www.youtube.com/watch?v=6SfrO3D4dHM
+		https://www.youtube.com/watch?v=mkx0CdWiPRA
+		https://www.youtube.com/watch?v=vAV4Vy4jfkc
+		https://www.youtube.com/watch?v=Q2QdkiX6p_Y
+
+
+	serverlet
+	ElasticSearch
+	https://open.spotify.com/show/5nLbcH82oV86grasoPVZ3j
+	https://open.spotify.com/show/5YZLh8n5odEExRSqDep8I0?si=q4cjYz3fStS9HPjNJcUzpA&dl_branch=1&nd=1
+	https://www.treasy.com.br/blog/5w2h/
+	Atlhasian
+		Jira
+		Kibana
+		Zendesk
+		Confluence
+	https://openai.com/
+	typescrpit
+	deno
+	flask
+	ngix
+	cerelin
+	r
+	node js
+	tensor flow google
+	soapui.org
+	vue js
+	react
+	angular
+	Smart animate
+	google tag manager
+	qa e stg
+	aws
+	s3
+	sqs
+	fintech
+	tech lider
+	Karate DSL — Automatizando testes de API de forma simples
+	Design patterns
+	page objects
+	https://jmeter.apache.org/
+	Cross browser
+	API First; Design Patterns; Cloud; Arquitetura de APIs; Arquitetura orientada a eventos e microsserviços
+	Conhecimento em APIs e frameworks como Service, Broadcast Receivers, Espresso;
+	Experiência com frameworks de programação reativa (RxJava);
+	Experiência com Clean Architecture e MVVM;
+	Uso de caching em aplicações (EhCache/Memcached/Redis/Aerospike/Hazelcast);
+	Linux básico.
+	Conceito de microsserviços e experiência em modelagem de domínios para serviços;
+	
+	Proficiência em uma linguagem de alto nível (Python, Ruby, Go, Groovy, Lua)
+	
+	Experiência de trabalho com observabilidade e desempenho
+	
+	Capacidade de autoiniciar e agir
+	
+	Ldap
+	Evenidi
+	Ansiboll
+	SDN
+	- Failover
+	- Mandriva
+	- OpenSuSE
+	- Debian
+	- Fedora
+	- Protocolo samba
+	- Cruzar Vls Sli de placas
+	- Fazer cluster
+	- Open source
+	- SERVIDOR WEB 
+	- STREAMING DE FOTOS PARA UM PC MOSTRAR AS FOTOS TIRADAS
+	- WINBOX
+	- KEEPASS 2
+	- Papx
+	- rtx placa de vídeo
+	- Cut pdf 
+	- Doro pdf
+	- Instalshield
+	-Trend micro
+	- Cdburner xp
+	- Criative cloud
+	- Cloud9
+	- Spex
+	- Clean file Manager
+	- Sap
+	- Micro laser 
+	- Deepweper
+	- Joner heper
+	- Keylocker
+	- Mirela@benettoncomunicao.com.br
+	- Ctracing app do rastreador
+	___________________________________________
+	___________________________________________
+	*CURIOSIDADES*
+	
+	- Energia quântica 
+	- Como function um gerador,um guindaste
+	- A teoria de tudo
+	- Olímpiada do conhecimento
+	- Arco do triunfo História
+	- Ctf posto Ltda 
+	- Chelabinsky
+	- O que é uma rodovia Transbrasiliana 
+	- Queris f1
+	- Seo ceo
+	- Team havard
+	- Maquiavel
+	- Peter Drucker
+	- Team havard
+	
+	___________________________________________
+	___________________________________________
+	Home broker ações
+	Tabela esc teclado
+	Shutdown -a cancela 
+	Shutdown -s -t 3600 (1 hora)
+	http://klick.suportesmart.com.br/2019
+	https://assine.meusucesso.com/lp/wiseup?
+	___________________________________________
+	___________________________________________
+	*AUTOMAÇÃO*
+	
+	- HOME ASSISTENTE 
+	- GOOGLE ASSISTENTE 
+	- CENTRAL DE BECKUP TIME MACHINE
+	___________________________________________
+	___________________________________________
+	*PROGRAMAÇÃO*
+	
+	- Perl linguagem de programação
+	- Word press
+	- Jonda
+	- Jotform
+	___________________________________________
+	IBM
+	https://gateway.watsonplatform.net/assistant/api
+	
+	171a9dc0-0bbb-4bd0-9287-faaeaa138228
+	
+	dX1KuUGkq0uS/
+	___________________________________________
+	Mauá .br
+	https://github.com/microsoft/ms-dos
+	___________________________________________
+	Programação estruturada: sequência, decisão e repeticao
+	Orientada a objeto: classes que determinam o comportamento dos objetos
+	___________________________________________
+	___________________________________________
+	
+	Medida banner Polítec site: 1920 x 720
+	___________________________________________
+	___________________________________________
+	extensões Google
+	
+	1 Local explorer file maneger on web broser
+	2 aplicativo do keep
+	3 application launcher for drive by google
+	Macrodroid macros para o cel
+	___________________________________________
+	___________________________________________
+	
+	
+	
+	
+	
+	cana Cursos
+	https://m.youtube.com/channel/UCU2XT3jvDTpWKyf418nhZjw
+	USB 3.1
+	Watercooler
+	Kibana
+	Hsm
+	Bdsn
+	Afk
+	Ataque rod
+	Kde
+	Hoot kit root
+	Roni pot honie poot
+	Firewall asa
+	Gaiola de fireday
+	Anthony hobis
+	Lead 
+	Look
+	Dbf
+	PostgreSQL
+	Uma nova forma 
+	Uma nova história
+	Uma nova marca
+	Você que busca/visa decorar ou valorizar seu imóvel confie em quem está há mais 30 anos no mercado.
+	Lembrar clientes do orçamento	
+	Voce nunca trabalhou na vertical
+	Scudebolt
+	Guerweson	
+	Ver certificações
+	Gerente de projetos
+	Infraestrutura
+	Tharaujo@br_ibm.com
+	MACHINE learning
+	Tectron
+	Deepvoice
+	Stritosense 
+	Análise de sistemas
+	Dev mid
+	Pesquisar as minhas curiosidades
+	Fazer curso Senai: 
+	- Ti
+	- Indústria 4.0
+	Aprender algumas coisas Photoshop
+	Curso udemy	
+	Magneti mareli
+	Controle de automação
+	Emcubadora de negócios
+	Recife lugar bom para isso
+	Donos do mundo
+	Resolver problemas	
+	- Rede de um hotel
+	Conexão de área de trabalho remota como fazer
+	Como montar um escritório (rede dele, impressoras, telefone)
+	- Certificação (sisco, Microsoft, Google) 
+	Curso / 
+	Faculdade
+	Ensino
+	- Fazer um servidor para cessar de qualquer lugar 
+	Pyd.io
+	Xampp (cria servidor Apache)
+	Vou precisar fazer um servidor Linux pra jogar o pid ou pelo pid eu já consigo chegar onde quero?
+	Como colocar IP fixo	
+	Atualizar tv praia
+	Curso VBA Hotmart	
+	Globo repórter 28/06
+	Profissão repórter 12/07
+	Globo News 06/11/2019
+	Akasimnet
+	Cristalia
+	Sr das moscas
+	
+	Sharktenk
+	
+	Aprender instala Linux e dual bot
+	
+	?##S1nh0R1T4naã4Ot4nt3cR1i  ptogr4af0Si1in)*!%
+	
+	Node backand
+	Arquitetura serveles (Amazon)
+	Vscode: Editor de código/ide da Microsoft
+	Angular
+	Aws
+	mvp
+	Vuforia
+	realidade aumentada selo de garantia
+	
+	Álgebra 60 folhas ano 
+	Geometria 60 folhas ano 
+	Português 30 folhas an
+	
+	2 cadernos 200 f
+	1 300 f
+	
+	Ms 7061 ver 01 (vermelha)
+	A7v600-x
+	P4vpmx
+	
+	Berraine de code
+	
+	Bootstrap
+	https://m.youtube.com/watch?v=SmQMZ36hJJY&list=PLnDvRpP8Bnexu5wvxogy6N49_S5Xk8Cze&index=1
+	https://www.devmedia.com.br/exemplos/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Mais+de+80+Projetos+Prontos%21&utm_campaign=Projetos+Prontos
+
+
+
+	realtime databse do firebase
+	Testes unitários
+	Business Intelligence (BI)
+	Engenharia de Dados/Big Data
+	O que são bancos de dados relacionais?
+		SQL Server, Oracle, PostgreSQL e MySQL;
+	Gerenciamento e utilização de containers Docker/Kubernetes
+	AngularJS, VueJS, Flutter, React Native
+	pipelines CI/CD
+	Software Design Patterns
+	Apache Kafka
+	UX Research
+	CPLEX, OPL, FICO
+	Vivência em projetos de Otimização Estocástica, Robusta ou Combinatória
+	postgresql, Redis e Elasticsearch
+	definição, modelagem, documentação, construção e otimização de schemas, tabelas, procedures, queries, views, etc;
+	Rest/Restfull
+	Metodologias ágeis; (Scrum/Kanban/Lean/Squads)
+	Documentação de REST APIs (Swagger/ReDoc)
+	Experiência na definição de arquitetura de sistemas e explorando soluções e trade-offs
+	designs escaláveis
+	estruturas de dados
+	design orientado a objetos e design para desempenho
+	NoSQL
+	Git, Jenkins, Artifactory
+	https://www.eduardopires.net.br/2012/06/ddd-tdd-bdd/
+	
+	Infra
+		https://www.hardwaremagazine.com.br/2018/02/qual-categoria-de-cabo-metalico-devo.html?m=1
+	
+	Comentários em T-SQL boas praticas
+		http://www.dba-oracle.com/t_plsql_comments_best_practice_standards.htm
+		https://blog.udemy.com/sql-comment/
+		https://blog.udemy.com/sql-comment/
+		https://solutioncenter.apexsql.com/rules-of-sql-formatting-sql-code-commenting/
+		https://towardsdatascience.com/five-best-practices-for-writing-clean-and-professional-sql-code-2b081d8f7098
+		https://365datascience.com/tutorials/sql-tutorials/sql-best-practices/
+		https://www.youtube.com/watch?v=owFv7hn7x-I
+
+	SQL Server
+		https://docs.microsoft.com/pt-br/sql/linux/sql-server-linux-performance-best-practices?view=sql-server-ver15
+		https://tuned-project.org/
+		https://www.linuxdescomplicado.com.br/2017/03/saiba-como-realizar-testes-simples-de-desempenho-de-hardware-em-sistemas-linux-usando-ferramentas-de-linha-de-comando.html
+		Set ansi_nuls o que é isso?
+		Set quoted identifier o que é isso?
+		
+		Sort alguma ordenação
+		Meu lookup
+		Table Scan
+		Clusted Index Scan
+		Index Scan
+		
+		Plano de execução
+			Plano estimado
+				Ele não executa a query em si
+			
+			Plano real
+				De fato executa a query no banco e consegue reunir informações mais próximas a realidade
+	
+	Linux
+		initd
+		https://sobrelinux.info/questions/286670/best-practice-for-access-permission-to-users-for-apache-tomcat
+		https://www.infowester.com/usuarioslinux.php
+		https://canaltech.com.br/linux/entendendo-e-configurando-permissoes-de-arquivos-e-pastas-no-linux/
+		https://e-tinet.com/linux/gerenciar-usuarios-linux/
+		https://qastack.com.br/superuser/632618/best-practice-for-access-permission-to-users-for-apache-tomcat
+		https://dicasdeinfra.com.br/permissoes-no-linux-entendendo-o-chmod/
+		
+	https://www.facebook.com/groups/javascripto/permalink/853399271957210/	
+		
+	Java
+		https://www.jdevtreinamento.com.br/formacao-java-web-profissional/12-projetos-java-web.html?ref=J13467004H
+		
+	Tomcat
+		tirar Server Information do tomcat no manager
+		
+	Matemática
+		Fator Comum em evidência
+			https://www.youtube.com/watch?v=KLI0Mry1SaEs
+			https://www.youtube.com/watch?v=zNbd0gydziU
+			https://www.youtube.com/watch?v=AL19yujBh0s
+			https://www.youtube.com/watch?v=7NERm8PpkjQ
+	Petrobras
+		https://www.youtube.com/watch?v=mdcC_CBr1iM
+		https://www.youtube.com/watch?v=BuW36knTfwg
+	Embrar
+		https://www.youtube.com/watch?v=_KjdzowmiOE
+		
+	Hardware
+		https://www.youtube.com/watch?v=RySS2vs6PFU
+		https://www.youtube.com/watch?v=nj60vV5Hu2A
+		https://www.youtube.com/watch?v=JaAizH5erHo
+		https://www.youtube.com/watch?v=wzXAFdhEk3Y
+		https://www.youtube.com/watch?v=Ysb-IF9QXl0
+		
+	Agil
+		https://youtu.be/L9skCRdaK24
+		https://youtu.be/cT_X4_n0NJ4
+		https://youtu.be/XfvQWnRgxG0
+		https://youtu.be/IUrMI992IYQ
+		https://youtu.be/haYE3i46Pdw
+		https://youtu.be/KOfvYVfpraA
+		https://youtu.be/QG4cCRUsxPQ
+		https://youtu.be/KMU6YgbHts0
+		https://youtu.be/ofnjEv7lWwU
+		https://youtu.be/J1oY0h4iQyE
+		https://youtu.be/RU08AijE32w
+		https://youtu.be/Ex7XcD_-mHs
+		https://youtu.be/923F4HxB6u4
+		
+	pPodcast
+		https://youtu.be/O6wwZJ6Jdc8
+		https://youtu.be/_GmKh97Lv64
+		https://youtu.be/3xNxqPt5SXI
+		https://www.youtube.com/watch?v=uNcEPO189ws
+		https://www.youtube.com/watch?v=YaXSe5NoUVM
+		https://www.youtube.com/watch?v=e_XAjosgu0Q
+		
+	Diversos
+		https://www.youtube.com/results?search_query=big+data
+		https://www.youtube.com/watch?v=rkrYgICjrww
+		https://www.youtube.com/results?search_query=banco+de+dados+n%C3%A3o+relacional
+		https://www.youtube.com/results?search_query=banco+de+dados+no+cycle
+		https://www.youtube.com/results?search_query=seguran%C3%A7a+banco+de+dados
+		https://www.youtube.com/results?search_query=banco+de+dados+mongodb
+		https://www.youtube.com/results?search_query=business+intelligence+
+		https://www.youtube.com/watch?v=ZCjJ4u69sdQ
+		https://www.youtube.com/watch?v=iU0Iu9RG1SA
+		https://www.youtube.com/watch?v=yowLqEKFT2k
+		https://www.youtube.com/watch?v=OZKr3vaczHM
+		https://www.youtube.com/watch?v=j9CofzqppkQ
+		https://www.google.com/search?q=Active+Directory&sxsrf=ALeKk00jIFINzLWrf7mFlluV7SmL5hCHMQ:1603834218820&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjh-o-H3NXsAhXKCrkGHTD3AksQ_AUoAXoECCMQAw&biw=1600&bih=795
+		https://www.youtube.com/watch?v=rX2I7OjLqWE
+		https://www.google.com/search?q=rds&oq=rds&aqs=chrome..69i57j0i433l3j0i131i433j0i433j69i65j69i61.496j0j7&sourceid=chrome&ie=UTF-8
+		Ambev
+			https://www.youtube.com/watch?v=_KjdzowmiOE
+			https://www.youtube.com/watch?v=nOSUWZ4PXGg
+			https://www.youtube.com/watch?v=p_xquY91Cic
+			
+			
+	Contêiner nasce e morre exatamente igual
+
+Suarn e kubernets
+Suarn é mais simples 
+
+Sentei na mesa, falar notícias, ligar Pc, monitor
+Determinado horário da noite ligar as luzes (ou por sensor de movimento) 
+Fazer cena para com 1 clique ligar luzes externas
+
+Eu só entendi que você ganha em performance com container
+Não precisa emular o hardware para colocar um SO
+
+O container é criado sobre uma imagem de containers
+
+Qualquer modificação do contêiner é somente em tempo de execução, matou container já era
+
+Daí que entra os volumes, o que precisa ser salvo você salva no volume 
+
+Willrobstakemyjob
+
+https://drive.google.com/drive/mobile/folders/1IhhCLAZaxkbJHNipjt_S0jRk0US4Y0Su?usp=sharing
+
+Btoadcast:
+Vou conectar meu celular no wi-fi, ele vai mandar uma solicitação para rede inteira, e se tiver um server dhcp ele vai reconhecer essa solicitação e devolver um DHCP
+
+Unicast: de vez de enviar para rede toda, já envia direto para o servidor DHCP e ele já devolve 
+
+Multicast: criar grupos e incluir roteadores nesses grupos, quando for conectar um dispositivo só esses grupos vão visualizar, para quem sabe, servir um IP
+
+Camera é um exemplo, tá filmando lá e precisa enviar a imagem para server de câmera e para um dispositivo para visualizar as imagens, aí você add a câmera a um grupo e dentro dele vai tá o server e o dispositivo, ambos vai ver a mesma imagem. Do que enviar para um e depois enviar para o oitro
+
+
+Sistem Linux baseado no Debian
+Ubunto
+Mint
+Depping
+
+Distribuições que utilizam rpm
+Fedora 
+Susi
+
+VISTOS
+	Terraform

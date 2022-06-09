@@ -1,0 +1,39 @@
+/*
+ *
+ *       Filename:  PowerShell - Política de Segurança.txt
+ *
+ *    Description:  XXXXXXXXXXXXXXXXXXXXXXXXX
+ *                  XXXXXXXXXXXXXXXXXXXXXXXXX
+ *
+ *        Version:  1.0
+ *        Created:  21/09/2021
+ *
+ *         Author:  Vítor César Lulio (vitorcesarlulio@hotmail.com)
+ *     References:  
+ *					https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-powershell-1.0/ee176961(v=technet.10)?redirectedfrom=MSDN
+ *					https://social.technet.microsoft.com/Forums/pt-BR/9541ec41-e66f-4029-9974-02c43b957847/desabilitar-quotexecuo-apenas-para-scripts-confiveisquot?forum=scriptadminpt
+ *					https://docs.vmware.com/en/vRealize-Automation/7.6/com.vmware.vra.iaas.hp.doc/GUID-9670AFC5-76B8-4321-822A-BCE05800DB5B.html
+ *
+ * 
+ */
+ 
+	powershell.exe -noprofile -executionpolicy bypass -file .\script.ps1
+	
+	Set-ExecutionPolicy RemoteSigned
+		Se for arquivo externo precisa de assinatura e local não precisa de assinatura
+	Set-ExecutionPolicy Unrestricted
+		Executará tudo
+	
+	Restrito Restricted
+		Nenhum script pode ser executado. O Windows PowerShell pode ser usado apenas no modo interativo.
+	
+	AllSigned AllSigned
+		Somente scripts assinados por um editor confiável podem ser executados.
+	
+	RemoteSigned RemoteSigned
+		Os scripts baixados devem ser assinados por um editor confiável antes que possam ser executados.
+	
+	Irrestrito Unrestricted
+		Sem restrições; todos os scripts do Windows PowerShell podem ser executados.
+	
+	

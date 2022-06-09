@@ -1,0 +1,3 @@
+O Sensor (Detector) de Som – KY-038 é um módulo eletrônico desenvolvido com a finalidade de detectar / medir variações de som em um ambiente a partir de um microfone de condensador elétrico. Caso não seja detectado som, a saída (digital) do sensor se mantém em nível baixo e quando o sensor detectar algum som a saída (digital) altera para nível alto. Para medir a variação do som, recomenda-se o uso do pino analógico disponível no sensor.
+
+OBS: ao montar esta prática, quando o circuito for alimentado, o LED pode iniciar piscando, sinalizando que você deve fazer o ajuste de sensibilidade do sensor através do trimpot que se encontra na placa.

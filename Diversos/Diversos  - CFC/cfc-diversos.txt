@@ -1,0 +1,14 @@
+Dirigir
+Duas mãos no volante
+Cinto 
+Braço sempre dentro do carro
+Não pode colocar nada entre os braços/pernas
+Não pode fone de ouvido
+
+Ultrapassar
+Pontilhados (simples seccionada): pode ultrapassar
+Reto (simples continuo): não pode ninguém
+Pontilhado só de um lado (dupla contínua secssionada): só pode ultrapassar pelo lado que está pontilhado
+Dupla contínua: proibido os 2 sentidos
+Seccionada (pontilhado branco): permite ultrapassar e trocar de faixa 
+Contínua branca: proibe ultrapassar e trocar de faixa

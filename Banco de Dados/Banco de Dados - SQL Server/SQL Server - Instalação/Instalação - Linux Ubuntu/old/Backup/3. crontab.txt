@@ -1,0 +1,2 @@
+#Backup 00:00
+0 0 * * * sudo /opt/mssql/bkpLinux.sh

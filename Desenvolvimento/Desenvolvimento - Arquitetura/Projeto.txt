@@ -1,0 +1,140 @@
+1. Especificação
+2. Projeto e implementação
+3. Validação
+4. Evolução
+	Melhorias
+
+Deve ser compreensível, a pessoa deve entender aquilo
+
+Requisitos explícitos
+	"Venda de pacote de viagem"
+	Requisitos implícitos
+		rapidez
+		interface fácil de utilização
+
+Perspectiva conceitual
+	Descobri as informações que serão gerenciadas pelo sistema e não como elas serão gerenciadas
+	
+Perspectiva de implementação
+
+projetar e implementar são coisas diferentes
+
+Projeto de arquitetura
+
+Projeto de interface
+	Um meio de comunicação
+	uma classe conversar com outro no seu software
+	meu software trocando informações com softwares externos
+
+Projeto de componentes
+	Defini os módulos da arquitetura
+
+
+Desafios
+	Divergencia de agendas
+	Divisão de trabalho
+
+
+definia as stecks
+qual é melhor, porque, vantagens, desvantagens, subcategorias
+se tem conteudo
+
+ambiente de dev
+criei arquivos de padronização
+padronização de código, convenções
+	usa ; por exemplo
+padronização de editor
+	utf, tira espaço no final de linha
+
+requisitos da aplicação
+requisitos funcionais 
+o usuário poderá fazer dentro da aplicação?
+geralmente vc pega com o usuário, entendendo as dores dele
+
+requisitos não funcionais
+não estão ligados diretamente com funcionamento da aplicação
+geralmente vc vai ter alguma ideia conversando com alguém mais técnico
+
+regra de negocio
+para fazer login com touch id só ativando pelo app
+
+na entrega
+grave um video curto
+grave um gif
+mockup
+
+acessibilidades
+
+documentação do código e de todo resto
+
+conheça sua equipe
+
+
+Ficar atento ao des. software
+	Fazer um modo debug
+	imagina um ar condicionado, eu entro em contato com assistência técnica ai ele manda eu fazer alguns testes, combinação de tecla pra ver como o ar esta
+
+	Se preocupar com usuário, não posso deixar espamar um erro lá, tudo tem que ter try catch
+	
+	Em envio de e-mails, SMS, essas coisas, fazer um esquema para que a aplicação demore um pouco, deixa a tela dar uma carregada tals porque, por trás já está sendo enviada a mensagem kkkkk
+	
+	Banco de dados
+		Desenvolvimento do banco de dados definir os index
+		
+		Converter tudo para inteiro, voce tem certeza que vai tirar caracteres em branco, mas vai exigir do seu banco de dados
+	
+	Segurança
+		Lembrete de verificação de privacidade 
+		
+		De alguma forma tratar o usuário através de um código, algo do tipo
+			Por exemplo na redefinição de senha colocar o código do usuário "Redefina sua senha CVBALSD88128921"
+			Fica um pouco seguro mas impessoal
+		
+		Código anti-shipping
+			tudo o que for enviar, vai com esse código, emails, sms
+		
+		Senha para funções especificas
+		
+		Qualquer geração de códigos ou hash não deixar repetir número e ter número próximos
+		
+		Tenha controle sobre parâmetros, acho bom nao ter muuuito
+		
+		inatividade por sessão
+		
+		bloqueio de login por tentativas (só desbloqueia lá no login) e bloqueio para logar também? dependendo do ramo isso pode atrapalhar, demorar muito
+		
+		capchat
+		
+		Primeiro eu verifico se o usuário existe no banco e se ele está ativo, se sim ai eu confiro a senha
+		
+		SMS
+			Se enviar sms ou qualquer outra coisa, colocar "CANCELE A ASSINATURA AO ENVIAR STOP PARA TAL NUMERO OU SLA UM EMAIL" da pra usar pra outras coisas.
+		
+	Logs
+		7 dias ou 100gb
+		
+		API que faça isso a parte
+		Banco de dados separado
+		Pense na estrutura do banco, vou trabalhar mais com escrita ou leitura?
+
+		quem fará os logs? banco? sistema? ou um terceiro?
+		
+	Filtros
+		Salvar em cache ou por usuário
+		ao fazer filtro salva em cache
+		
+	Conexão com banco de dados
+		Usuários diferentes para executar comandos no banco
+		
+		Ter muito cuidado sobre as conexões, onde abrir, onde fechar, commit, rollback (quando é uma tabela venda e tabela de itens)
+	
+	Tratar tudo no meu bean pra chegar no controler pronto pra eu jogar no banco
+	Quanto mais puro eu chegar no banco melhor
+	
+	Automatização
+		Tudo que é automático é bom ter cautela
+		Pois pode ser que não vai, pode ser que duplica, aí bo é seu
+		Aí pode ser um relatório pra ver pra quem vai enviar emails o cara seleciona e envia para quem ele quiser
+		
+		Mas meio nada haver, so serviria de desculpa pra vc
+		pq se for pra da bo ia da de qualquer forma

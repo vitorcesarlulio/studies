@@ -1,0 +1,11 @@
+PATCH PANEL CARREGADO
+	Já vem com os rj45 femea
+
+PATCH PANEL DESCARREGADO
+	As vezes acaba sendo melhor ter um patch panel descarregado
+	Ai você precisa comprar os rj45 femea
+	Vantagens
+		mais facil de crimpar
+		pode ser mais facil para organizar
+		Só compra os rj45 que voce vai usar
+		mais barato se não me engano

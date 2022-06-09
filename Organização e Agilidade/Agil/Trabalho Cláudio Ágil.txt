@@ -1,0 +1,72 @@
+[2/3 22:50] Vitor César Lulio: - Um projeto não começa ágil
+- Metodologia espiral (todo mundo faz tudo) programa, teste e entrega e repete
+Times 
+- Não ser do TCC
+- - Não ter ficado com dupla das outras aulas.
+- 2 ou 3 pessoas
+
+1 - Saber sua equipe antes do ágil (quem tem tão skill, skill pessoais da pessoas)
+Uma pessoa com várias características forma a skill
+
+Erick Henrique - Responsabilidade: Banco de dados
+Skills:
+
+
+Vinícius Perini - Responsabilidade: Marketing (apresentação, logo e flayer)
+Skills: 
+Meu nome é Vinícius Perini dos Santos, tenho 17 anos e estou cursando o terceiro ano do ensino médio no colégio politec, juntamente com o terceiro ano do ensino técnico em informática na mesma instituição de ensino. Tenho como habilidade pessoal, grande facilidade de relacionamento com as pessoas, comunicação e fácil adaptação com qualquer grupo de indivíduos. Sou muito concentrado, esforçado e sempre querendo produzir e aprender coisas novas. Nas áreas da informática, minhas habilidades predominantes estão no Power Point, Word, Excel e criação e desenvolvimento de sites: mantenho o nível básico/intermediário em Redes, Hardware, Publicidade e Propaganda e AutoCAD; Possuo dificuldade em programação como C#, PHP, Delphi, porém com o tempo, pretendo melhorar em cada uma dessas matérias. Futuramente pretendo passar em uma faculdade federal para cursar nutrição. Em meu tempo livre, gosto de me reunir com meus amigos, cujos tenho ótimo relação, estar atualizado nas redes sociais e praticar atividades físicas como futebol e musculação. Possuo facilidade na área de elétrica, pois trabalho com isso como aprendiz pela Goodyear. 
+
+Vitor César - Responsabilidade: Sistema 
+Skills: 
+Hardware - Nível: médio
+Redes - básico 
+PHP - básico
+Delphi - Intermediário
+C# - básico
+Laravel - básico
+Access - intermediário
+MySQL - básico
+Oratória - alto
+
+Product owner: Vitor cesar
+
+2 - O que é o sistema?
+ Desenvolver o que? 
+  O que o usuário quer?
+3 - Como será o contato com o cliente? cada alteração, sobe no Moodle!
+
+O que será entregue?
+- apresentação
+- - sistema (cor, consultas)
+- logo
+- - Propaganda
+
+Toda aula (planejar)
+- Scrum diária
+- - Kanban atualizado ( a fazer)
+
+Data de entrega
+Todo mundo sabe o que cada um está fazendo 
+
+Cartão coisas a + pode (tempo)
+O que colocar no PowerPoint 
+Manual do sistema? Sobre o sistema pq ela tem que pagar para fazer o sistema, o que tem no sistema, porque ele bom, diferencial
+
+Banco garantias 
+
+Venda balcao (tb vendas)
+RG ou código 
+
+TB produto 
+Garantia (antes de ser vendido)
+
+Vendas ( notas)
+
+Vendedores com mesma faixa de salário (faixa salário) faixa salarial 1 ganha 700
+
+Status (5 características, ótimo cliente, médio , ruim)
+[2/3 22:50] Vitor César Lulio: Manter mais que 1 no Pc 
+Monitorar desempenho
+Não participar de reunião com cliente 
+
+Análise, colocar em done

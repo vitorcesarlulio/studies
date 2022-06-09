@@ -1,0 +1,9 @@
+Para que serve o software
+é um sistema transacional? ira inserir dados e consultar dados?
+Quais serão as maiores tabelas?
+Qual uma estimativa de dados nessas tabelas? 1000 ao dia?
+Quantos usuários vão utilizar a aplicação
+Qual horário de pico
+Quantos usuários irão utilizar a aplicação
+Vai ser utilizado somente em horário comercial
+Vai ser utilizado de noite

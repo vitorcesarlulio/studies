@@ -1,0 +1,10 @@
+Raspeberry PI
+	Microprocessador
+	Como se fosse um computador, se coloca um mouse teclado e uma tela vira um PC
+	é usado para emular sistema operacionais
+	
+Arduino
+	Microcontrolador
+	Manipula entradas e saídas 
+	não tem como emular um sistema operacional
+	Captar alguma informação interpreta-lá e liberar alguma ação
