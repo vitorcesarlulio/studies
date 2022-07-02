@@ -141,3 +141,6 @@ Unite Themes
 
 Vitals
 mostra desempenho do sistema
+
+LINUX - ADICIONAR G DRIVE
+	https://programadoresbrasil.com.br/2020/05/google-drive-para-linux-como-instalar/

@@ -1,3 +1,7 @@
+Broadcast
+	Quando você manda um pacote e o cliente não entende
+	Pode ter sido INTERFERÊNCIA
+
 Respondendo a sua pergunta: Não o AP não pega automaticamente essas informações, você tem que ir até o AP e informar a ele para ele usar a VLANx no SSID tal, como mostrei no vídeo, aqui tenho 3 SSID.
 
 Hoje temos vários tipos de switch/hub, temos o não gerenciável, mais conhecido como um switch burro. Ele recebe um pacote numa porta e encaminha esse pacote para todas as outras portas, ou seja, todos os dispositivos que estão ali conectados se comunicam. Um HUB/Switch não gerenciável, ele só tem 1 domínio de broadcast (Procure no google o que é isso, seria 1 endereço somente, por isso ele não consegue direcionar a informações para quem ele realmente deseja, dai ele joga a informação para todos da rede. Se ele tivesse mais que 1 broadcast, poderia definir um broadcast para enviar cada informaçao para realmente quem precisa dela). Diferente de quando crio VLANs, onde cada VLAN é um domínio de broadcast.

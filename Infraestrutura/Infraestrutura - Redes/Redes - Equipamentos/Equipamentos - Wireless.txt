@@ -1,12 +1,156 @@
-Quanto mais SSID mais recurso você está consumindo da rede
-	4 a 8 já é suficiente
+Wi-fi
+	Só pode ter o software instalado num pc
 
-ferramentas
-	Handover / roming
-	Band Steering 5Ghz
-	MU-MIMO
-	Beamforming
-	Airtime Fairness
+	meu cat 5e suporte poe?
+	ver onde colocar ele
+	
+	Veja no desenho se ta ficando bom posicionamento
+	
+	Aumentar potencia de ap
+		problema
+		seu celular vai receber 30% em media do sinal
+		porque o celular tem que devolver o sinal
+
+	UAP
+		quer dizer que faz parte dos access points
+	AC
+		Compatível com 802.11ac
+		Muita largura de banda, multimídia
+		5GHZ
+
+	UAP AC LITE
+		R$ 669
+		https://www.amazon.com.br/dp/B077HLDYWW?psc=1&smid=AMQBBYFYXT71S&ref_=chk_typ_imgToDp
+		https://www.amazon.com.br/Ubiquiti-UAP-AC-LITE-BR-Wireless-867Mbps/dp/B077HLDYWW
+		https://www.voltsdistribuidor.com.br/unifi-ac-lite-ubiquiti-acess-point-uap-ac-lite-2-4-5-0ghz-300-867mbps
+		https://www.tntinfoloja.com.br/MLB-1449401813-access-point-indoor-wmm-ubiquiti-unifi-ac-lite-ap-uap-ac-lite-branco-220v-_JM
+		https://www.amazon.com.br/Ubiquiti-Unifi-Uap-ac-lite-5-0ghz-867mbps/dp/B00PY06BJK/
+		https://www.amazon.com.br/Ponto-Acesso-UniFi-AP-Lite/dp/B016K4GQVG/
+		https://www.magazinevoce.com.br/magazinemaxdicas/ubiquiti-uap-ac-lite-br-unifi-ap-ac-lite-2450ghz/p/becc10c898/IN/RPTS/
+		
+		https://www.nrstore.com.br/ubiquiti-unifi-ap-ac-lite.html
+		https://www.tekdistribuidor.com.br/ubiquiti-ap-unifi-uap-ac-lite-mimo-2-4/5-0ghz300/867mbps
+	
+		Aqui da pra ver potencia dele
+			https://www.youtube.com/watch?v=izXECo-JV4E
+		
+		100 metros distancia sem obstáculos
+		
+		5ghz
+			867 mb
+		2.4ghz
+			300 mb
+			
+		BOTÃO RESET
+			Se pressionar rapidamente, você só esta reiniciando
+			Pressionar por > 5s vai restaurar
+		
+		LUZ
+			Branco piscando
+				iniciando
+			Alternando branco e azul
+				atualização de firmeware
+				não desligue equipamento
+			Azul fixo
+				equipamento adotado e ok
+			Branco fixo
+				padrão de fabrica, precisa config
+		
+		2 antenas para transmissão 2 para recepção
+		3dbi cada
+	
+	UAP AC LR
+		antenas diferente dos tradicionais
+		cobertura melhor que uaps convencionais
+		83 metros de distancia até 60 usuários
+
+		200 mt de cobertura sem nenhum obstáculo
+	
+	UniFi AP UAP-LR-3-US
+		https://www.amazon.com.br/UAP-LR-3-US-alcance-interno-802-11n-desempenho/dp/B07H35K89L/
+		
+		ganho de antena maior
+	
+	uap ac iw
+		é bacana nos casos 1 por cômodo
+		o ideal é chegar com poe+ nele
+		e ai ele tem mais 2 saídas de rede, sendo 1 delas poe q posso alimentar outro cara
+		duas bandas
+		
+		mini switch ele é, então da pra colocar cada porta numa vlan
+		
+	UAP-nanoHD
+		mais novo, 3 geração da unifi
+		mais tecnlogia
+		comporta muito mais gente que o pro
+		mu-mimo
+			recursos novos na segunda geração do wifi5
+		
+	UAP AC PRO
+		Máximo desempenho
+		muitas maquinas
+		120 users
+		2 porta lan
+			uma câmera próxima do ap da pra ligar direto
+			n é PO
+			se precisa alimentar a câmera
+		até pode ser usado externo
+	
+	TP-LINK DECO M5 (esse é top em)
+		https://www.amazon.com.br/dp/B072BZ62QS/ref=olp-opf-redir
+
+	TP-LINK DECO E4 
+		é /100
+		1 unidade 125 mt²
+		100 dispositivos
+		Funciona como router ou ac
+	
+	INTELBRAS TWIBI FAST
+		/100
+		tem 5hz
+		
+		40 users
+		cobre ate 100 mt²
+		
+		conecta mesh via cabo ou wireless
+		banda dupla 5ghz e 2ghzz ele adpta
+	
+	TP-LINK DECO M4
+		/1k
+		130 mt²
+		100 divice
+		
+		https://www.amazon.com.br/dp/B07KJ2TDMR/ref=olp-opf-redir
+	
+	INTELBRAS TWIBI GIGA
+		/1k
+		banda dupla 5ghz e 2ghzz ele adpta
+
+Pontos de acesso
+	Expandir conectividade de internet só que wi-fi
+
+	Ferramentas
+		Handover / roming
+		MU-MIMO
+			MIMO
+				MIMO enviar e receber sinal para varios 
+				varias conexao por vez
+
+			NÃO MIMO
+				1 conexão por vez quando n é mimo
+
+		Beamforming
+		Airtime Fairness
+
+		Band steering 5Ghz
+			Fazer com os dispositivos prefiram conectar na rede 5g
+			*PRIVILEGIAR 5 GHz n desligar 2.4*
+
+	Quanto mais SSID mais recurso você está consumindo da rede
+		4 a 8 já é suficiente
+
+	POE
+		Se por um acaso errar a porta, voce pode queimar um aparelho que não é POE
 
 Unifi
 	Depende da controladora mas tem login por FB
@@ -16,12 +160,7 @@ Unifi
 
 	Melhor DBI de antena
 
-MIMO
-	MIMO enviar e receber sinal para varios 
-	varias conexao por vez
 
-NÃO MIMO
-	1 conexão por vez quando n é mimo
 
 QUARTOS
 	Ubiquiti Unifi AP-AC Lite

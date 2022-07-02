@@ -1,0 +1,98 @@
+Use somente um protocolo
+
+Use somente uma marca de dispositivos 
+
+Home assistent é só um software pra ajudar a automatizar tudo, integrar tido
+Node read, é tipo um plugin pra ajudar na Programação 
+
+Smart life hoje eh um dos melhores 
+e os equipamentos tuya
+
+Lâmpada wifi é fria, tem que ser interruptor!
+
+no wifi vc tem que ter um sinal muito bom se n n chega no dispositivo
+
+Se for usar sonof tals, da pra colocar uma caixinha 4x4 em baixo do interruptor (perto do chão claro) e ai voce coloca eles lá
+
+SENSORES
+	Sensores - Presença
+		Muito cuidado, veja se pode ficar em ambiente externo, e veja se é bom, se não identifica coisa fácil
+		
+	Sensor de detecção de fumaça 
+		correto é testar né, tem spray pra isso
+
+INTERRUPTORES
+	Os equipamentos com pilha, já coloque recarregável
+	No Hub ele já mostra que tá acabando a pilha aí você só carrega 
+
+	Ao comprar um interruptor inteligente tem que ver quantos interruptor ele suporta + se vai ser paralelo ou simples
+	Cuidado com interruptor touch, se molhar ele, ele desconecta do wi-fi
+	Digamos porcaria
+	
+	Interruptor
+	Vantagem
+	Tudo integrado já, funciona como um interruptor comum
+	
+	Desvantagem
+	Preço
+	Se der pau ferro, pq vai ter que ter um interruptor igual
+	Custo
+
+	Switch
+		Vantagem
+		Custo
+
+	Interruptor 
+		1, 2 e 3 teclas (modelo meio feio, físico)
+			https://pt.aliexpress.com/item/4000848681577.html
+			
+		1, 2 e 3 teclas (modelo meio feio, touch)	
+			https://pt.aliexpress.com/item/4000717997471.html
+		
+		1, 2 e 3 teclas (modelo bonito, físico)	e 1, 2, 3 teclas (modelo mais simples, físico)
+			https://pt.aliexpress.com/item/4000405556917.html
+			
+		1, 2 e 3 teclas (medelo mais ou menos ,touch)
+			https://pt.aliexpress.com/item/32983001822.html
+
+ASSITENTE VIRTUAL
+	Alexa tem que tá fazendo umas gambi
+	No Google ele já conhece que uma cortina é uma cortina
+
+SENSORES
+	Sensor de presença aqara fp1
+	Diferença para sensor de movimento é que se você fica parado a luz desliga
+	
+	CORTINA
+		Motor cortina
+			https://pt.aliexpress.com/item/4000782375247.html
+
+CENAS
+	Persiana deu um toque (PUXOU ELA) ela sabe que você quer abrir ou fechar
+
+O QUE VERIFICAR
+	É compatível com alexa?
+
+	optar por interruptor ao invés de lâmpada
+		quando você desligar interruptor com lâmpada inteligente, ela não vai funcionar por comando de voz etc
+
+HUB
+	Redondo com luz
+		https://pt.aliexpress.com/item/1005002032721145.html
+			
+	quadrado sem luz
+		https://pt.aliexpress.com/item/32983001822.html
+			
+		https://pt.aliexpress.com/item/33052558649.html
+			
+		VER 
+		https://pt.aliexpress.com/item/4000852583409.html
+	
+	BW-IS10 Tuya ZigBee 3.0 (wifi)
+		https://www.banggood.com/BlitzWolf-BW-IS10-Tuya-ZigBee-3_0-Hub-Gataway-Smart-Home-Bridge-App-Remote-Control-Center-Works-with-ZigBee-3_0-Smart-Home-Products-or-Amazon-Alexa-and-Google-Assistant-p-1781121.html
+
+TOMADAS
+	https://pt.aliexpress.com/item/1005001698076221.html?
+	
+DIMMER
+		https://www.youtube.com/watch?v=0ABMatOS_NU	

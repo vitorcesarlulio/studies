@@ -1,0 +1,163 @@
+FAÇA UM BENCHMARK ANTES SLA
+
+SISTEMA
+	Vídeo
+		Configurações de elementos gráficos > escolher os apps para colocar no maior desempenho (clique em opções) VOLTAR
+
+PERFORMACE EM DISCO
+	Verificar se o SSD tem suporte ao TRIM, que é um sistema de coleta de lixo inteligente 
+		fsutil behavior query disabledeletenotify
+		se aparecer 0 é que o trim está ativo
+
+		para ativar utilize fsutil behavior set disabledeletenotify 0
+
+	Desabilitar indexação do disco
+		vá até o disco rígido, clique com botão direito > propriedades > desabilite a opção "permitir que os arquivos desta unidade..." > Aplicar
+		deixa na opção "aplicar as alterações a unidade C:, subpastas e arquivos
+		se der algum erro pode clicar na opção "ignorar todos"
+		
+		1. CPU realmente rápida (i5, i7) + um disco rígido regular
+			manter a indexação
+		2. CPU lenta + qualquer tipo de disco rígido
+			não indexe
+		3. Qualquer tipo de CPU + disco rígido SSD
+			não indexe
+		
+		Pros
+			Então pergunte a si mesmo quando foi a última vez que você realmente procurou algo de qualquer maneira usando o Windows Explorer? Eu não tenho realizado uma pesquisa em anos agora, porque agora eu confio principalmente em serviços em nuvem ou, por acaso, sou muito organizado e sei onde estão todos os meus arquivos. Além disso, se você ler os comentários no meu post anterior sobre o recurso de pesquisa do Windows 7, verá quantas pessoas acham que é absolutamente terrível.
+		
+		Contras
+			O arquivo de paginação jamais deve ser desativado, pois algumas funções internas no Windows precisam desse arquivo (como criptografia e criação de logs e dumps)
+		
+			Nos últimos anos a telemetria do Windows tem mostrado que, em média, o arquivo de paginação do Windows (pagefile.sys) tem uma taxa 40x maior de leitura do que de escrita, isto é, ele é muito lido do que escrito, destruindo o argumento dos que defendem que o arquivo de paginação do Windows é muito utilizado e a remoção dele é necessária para evitar diminuir a vida útil do SSD.
+
+	Desabilitar desfragmentação agendada
+		Pesquise "desfragmentar e Otimizar suas Unidades"
+		selecione o disco desejado > clique em alterar configurações > desmarque as opções "Executar seguindo um agendamento" e "Notificar-me se tres execuções consecutivas"
+
+	Habilitar cache
+		vá até o disco rígido, clique com botão direito > propriedades > aba Hardware > selecione o disco desejado > clique em propriedades
+		será aberta uma nova tela > botão avançado > vá até a aba politicas > deixe a opção "Habilitar gravação em cache no dispositivo" e desabilite a opção "Desativar liberação do buffer..."
+
+	Desabilitar SuperTech e PreFetch
+		São tecnologias de gerenciamento que fornecem acesso rápido aos dados em discos rígidos tradicionais. Em Solid State Drives resulta em operações de escrita desnecessárias.
+		
+		Pressione Windows + R > pesquise por services.msc
+		procure por Superfetch ou Sysman e na opção "tipo de inicialização" coloque desativado
+		clique em aplicar
+		
+		Pressione Windows + R > regedit
+		acesse Computador\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management\PrefetchParameters
+		no arquivo "EnablePrefetcher" defina o valor de 0 e de um ok
+
+BIOS
+	tpm
+	amd dtpm
+
+	advanced > phc-fw  configuration > ptt enabled
+	advanced > amd ftpm  configuration > tpm device selection > formawe tpm
+	advanced > amd ftpm  configuration > tpm device selection > enabled
+
+	settings > itel plataform trsut tecnologi (PTT) ENABLED
+	settings > amd cpu ftpm
+	
+	Melhorar FPS
+		https://www.youtube.com/watch?v=mdYuPe4U_4Q
+		https://www.youtube.com/watch?v=GoOE9xIY978
+		Opção I
+		Aba M.I.T
+			Adavanced frequency setting 
+				Adavanced CPU Core Settings
+					Desabilite C3 State Support
+					Desabilite C6/C7 State Support
+					Desabilite CPU EIST Function (essa opção aumenta o consumo de energia e consequentemente a temperatura do processador e correlatos)
+					
+		Opção II
+		Aba Adavanced
+			Adavanced CPU Configuration]
+				CPU Power Management Configuration
+					Desabilite Enhanced Intel SpeedStep Technology (se desabilitado, também é desabilitado o turbo bost)
+					Desabilite CPU C-STATE
+		
+		Opção III
+		Aba Adavanced
+			CPU Configuration
+				CPU Power Management Configuration
+					Eist
+						Desabilite CPU C-STATE
+						
+		Obs.: para deixar o processador com frequência máxima desabilite
+			- Enhanced Halt State(C1E)
+			- CPU C3 State Support
+			- CPU C6 State Support
+			- Package C State Support
+		Lembrando que a tensão será maior e consequentemente maior gasto e temperatura	
+	
+	Estudar: Power > ACPI 2.0 suport: enabled 
+	Estudar Power > monitor > CPU q fan Control 
+
+	Advanced > PCI/PNP > Plug and Play O/S deixe em Yes
+
+PERFORMACE
+	MEMORIA DEDICADA
+		BIOS > aba chipset > sistem agent configuration > graphics configuration:
+			- Primary displey: coloca sua placa de video
+			- IGPU Memoria: 1024, maximo
+			- GTT Size: 2mb
+			- Aperture size: 512
+			- DVMT Pre-Alocatte: fazer testes, 512
+			- DVMT Total Gfx mem: max
+			
+		ASUS
+			BIOS > Advanced > NB Configuration
+				IGFX Multi Monitor: Disabled
+				primary video device: pcie video
+				UMA....: 3G
+			
+		Windows + R > regedit > Computador\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\DCI
+		no arquivo timeout coloque 1, dois clique  e no campo dados do valor em hexadecimal deixe
+		
+		botão direto na área de trabalho > configurações de exibição > configurações avançadas de tela > exibir propriedades do adaptador > veja em memoria de vídeo dedicada
+
+
+	JOGOS & PERFORMACE MONITOR MSI AFTER BURN E RIVATUNER
+		Bixar msi after burn
+		Clique na engrenagem do MSI After burn
+		Vai ate a aba monitoramento:
+			Deixe em sim:
+				Uso da GPU
+				Uso da memoria vram
+				Temperatura do CPU
+				Uso da CPU
+				Taxa de quadros
+			marque a opção Exibir informações na tela
+			
+		Aba informações na tela:
+			Habilitar/desabilitar informações na tela
+			
+		Minimiza e não fecha o app
+
+Desfragmentador
+	https://youtu.be/e8WRNiEOPME
+	https://download.raxco.com/perfectdisk-pro
+
+liberar memória L3 processador
+
+BENCHMARK
+	Render BMW CPU Render - menor é melhor
+
+	Unigine Superposition - 1080p medium - Maior é melhor
+		muito grande
+	
+	Mede performance do CPU para performance diária (compressão de arquivos, renderização de PDF)
+	Geekbench (Single e Multicor) - Maior é melhor 
+	
+	Web Basemark - Firefox - Maior é melhor 
+	Web Basemark - chrome - Maior é melhor
+	- Techbenck
+	- aida64 extreme benchmark: https://www.aida64.co.uk/user-manual/system-stability-test
+	
+	PCMark
+		pago
+	Passmark
+		software portátil azarado

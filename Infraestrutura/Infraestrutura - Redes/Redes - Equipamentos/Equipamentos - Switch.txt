@@ -1,3 +1,8 @@
+EXPLICAÇÃO
+	Switch
+		Distribuição de internet cabeada entre a rede e access points
+
+
 Aterramento, alguns ja vem ai voce aterra no rack
 
 diferente de um hub, o switch manda o pacote direto para outra porta (outro pc) o hub ele batia em todas portas (pc) pra achar o dono do pacote

@@ -1,0 +1,34 @@
+FAZER ANTES DE PEGAR PC
+	Ver questão de licença tals
+	se for um PC novo pode perder licença
+	
+	tire um print da chave
+	ESTUDAR SOBRE isso, notebook
+
+	Pegar todas infos do Pc
+		Dados de hardware (prints)
+			CMD > systeminfo
+
+		Software (qual windows, apps, Configurações)
+			Na barra de pesquisa, escreva "Meu Computador;
+			Quando aparecer o ícone, clique com o botão direito e escolha a opção "Propriedades";
+			A janela que abre apresenta as especificações básicas do dispositivo.
+			
+			Novamente na barra de pesquisa, digite "Informações do sistema" e clique no ícone;
+			Na área a direita você pode ver um resumo do seu computador;
+			Se abrir as abas a direita tem acesso a ainda mais informações.
+			
+			Painel de controle > programas e recursos
+
+	Ver se tem nuvem
+		Ver se está sincronizado, o que está
+		Falar para cliente conferir
+		Limpar lixeira
+	
+	Backup
+	Limpar lixeira
+	
+	Rodar um Crystal disk Mark pra ver como da o HD
+	
+	Ver quanto tá batendo de CPU etc
+		ver a sessão de banch mark desse arquivo

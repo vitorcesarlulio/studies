@@ -84,6 +84,12 @@ ELETRICA
 	norma exige 30 cm de distancia do conduite de redes para o de energia
 
 RACK
+	https://www.furukawalatam.com/sfc/servlet.shepherd/version/download/0686100000299HvAAI?asPdf=false&operationContext=CHATER
+
+	é ideal fechar todas as baias do rack para não entrar poeira, porém voce tem que comprar varias tampas falsas kkk
+
+	Quando for deixar a caixa ou tubo para os cabos de redes e outros, deixe o mais alto possível assim os cabos entraram na parte superior do rack
+
 	no mínimo 3m de cabos sobrando no rack
 	
 	IDENTIFICAÇÃO
@@ -126,7 +132,7 @@ RACK
 	existe nobreak de rack
 
 TEMPERATURA
-	18 a 27c temperatura da sala
+	18 a 27c temperatura da sala (https://datacenterfrontier.com/evolving-data-center-cooling-ranges-standards/)
 	cada grau aumentado a gente reduz entre 2 a 5% de consumo dos equipamentos
 	o ar condicionado consome 1/3 do valor do ambiente
 	
@@ -134,15 +140,26 @@ TEMPERATURA
 		o que tinha visto era 25 graus
 	
 	tem equipamento que tem sensor de temperatura
+	
+	cada 1 grau ambiente é 1 grau num equipamento
+	de 30 a 35 grau operando por alguns minutos ja daria um pouco de merda
+	
+	http://www.geistglobal.com/news/company-blog/heat-your-data-center-forecast
+	A ASHRAE recomenda a instalação de um mínimo de seis sensores de temperatura por rack. Três ficam na frente (no meio em cima e embaixo) e três ficam atrás para monitorar as temperaturas de entrada e saída do ar
+	
+	Espaçamento entre os equipamentos
+	
+	pode se usar um termostado para ligar o ventilador so quando aumentar temp
 
 EQUIAPAMENTOS
 	Roteadores wifi sempre deixar uns 40 cm longe da parede, paredes de todos os lados pra utilizar sinal melhor
 
 Misturando um pouco com a elétrica
 	Mas geralmente tendo painel ou não costuma se deixar duas caixinhas (2x3) na altura de uma TV 1.50, 1.60
-	uma caixinha seria para redes, 1 ponto só é o ideal (para ligar na TV) mas veja se não vai ter outro dispositivo na altura da TV, aparelho da NET, tvbox, chromecast sla alguma coisa que exiga cabo de redes
+	uma caixinha seria para redes, 1 ponto só é o ideal (para ligar na TV) mas veja se não vai ter outro dispositivo na altura da TV, aparelho da NET, tvbox, chromecast sla alguma coisa que exige cabo de redes
 
 	a outra caixinha seria para ligar 2 tomadas externas de 3 pinos, porque tem q ser externa? porque a TV pode pegar na tomada.
+		A não ser que utilize braço articulado
 
 	Na rede é mais difícil pegar a TV
 	

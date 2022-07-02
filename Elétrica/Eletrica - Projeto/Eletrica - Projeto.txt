@@ -1,0 +1,20 @@
+Construção de uma casa
+Não precisa de paralelo
+Você compra interruptor normal
+E aí coloca os interruptor de cena, no app vc configura pra que o de cena vincule com o interruptor inteligente 
+
+Tem interruptores que já conversa com seu celular e não precisa de internet dentro do cômodo pra funcionar
+
+Qualifio é quem certifica os cabos
+
+Dimensionamento de redes
+
+chuveiro cabo 6mm
+
+Correto em emendas é cobre com cobre, se colocar latão no meio pode dar zinabre
+pega e joga num ima, se grudar é latão ou outro material
+
+Wago 221 para cabos até 6mm
+	até 41A
+	105º
+	Não enferruja

@@ -1,0 +1,6 @@
+Resfriamento PC
+Parte ativa
+Bomba, fluido movendose 
+Ventiladores
+
+Noctua tem um dissipador que não precisa de partes móveis 

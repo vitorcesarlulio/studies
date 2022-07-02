@@ -10,3 +10,10 @@ Paralelo
 
 Serie
 	Menos elétrons só que numa tensão mais alta
+
+Pra energia fluir você geralmente vai precisar de duas conexões
+Um buraco energia entra outro ela saí 
+
+Terra
+Se o aparelho queimar vai sair por ele
+Não vai te dar choque nem ir pra rede elétrica 

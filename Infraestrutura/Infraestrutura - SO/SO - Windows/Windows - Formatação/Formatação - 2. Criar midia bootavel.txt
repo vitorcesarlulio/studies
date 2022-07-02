@@ -1,0 +1,44 @@
+CRIAR MIDIA BOOTAVEL
+	PEGAR IMAGEM WINDOWS 10 Pro
+	
+	ou montar direto pelo MediaCreationTool mas eu n se ele monta NFTS
+	ai se for pelo rufus, pode ser que não apareça as opções pra selecionar o windows
+	
+	se ja tiver licença no notebook, qualquer Windows que instalar eh provável que ele pegue do notebook
+		vc pode até ver que na hora de instalar o Windows não aparece
+
+	ai da pra tirar a licença mas n compensa
+
+	NTFS
+		Resumidamente, o NTFS é ideal para HDs internos que lidam com o Windows, enquanto o exFAT é a melhor opção para pen drives e HDs externos. O FAT32 é útil para lidar com dispositivos que não suportam os outros sistemas de arquivos.
+	
+	Sistema de partições
+		FAT 32
+			Arquivos ate 4gb
+			Partições ate 32bg
+		FAT 16
+			Arquivos ate 32mb
+			Partições ate 2gb
+		NTFS
+			so pode criar umas 10 sequencias de pastas ex:
+			vitor - v - i - t - o -r 
+		ReFS:
+			o numero de endereçamentos/pastas é gigante
+	
+	Se for usar UEFI no momento da montagem da imagem tem que ser como GPT
+	Na maioria das vezes é necessário habilitar o suporte a UEFI
+	"BIOS > Advanced > UEFI suporte"
+
+	Certifique-se de seu pendrive, se o mesmo é bom
+	
+	procure utilizar a porta traseira do computador
+	
+	Baixar isos
+		https://uup.rg-adguard.net/
+
+	Estudar: Mudar de legacy para UEFI
+	formatar pendrive: HP USB Disk Storage Format Tool
+	Formatar pendrive como NTFS
+	Não usar DVD: na BIOS tem uma opção
+	- RUFUS: vai em configurações coloca pra sempre atualizar e liga a opção beta, assim ele vai dar uma opção pra você baixar isos 
+	- Se o PC for novo deixa em GPT e sempre coloque em NTFS, FAT32 já é antigo 

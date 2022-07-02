@@ -1,44 +1,44 @@
-Nivel de oleo
+Nível de óleo
 	Motor frio
 	lugar plano
-	motor quente, vai dar nivel baixo
+	motor quente, vai dar Nível baixo
 	
-	verifique a hora certa de trocar o oleo	
-	não é porque ta baixo que tem que completar
+	verifique a hora certa de trocar o óleo	
+	não é porque esta baixo que tem que completar
 
-nivel de arrefecimento
-	abaixo do maximo acima do minimo
+Nível de arrefecimento
+	abaixo do máximo acima do mínimo
 	não pode ser agua mineral porque tem cloro
 	
 Bateria
 	veja se não tem zinabre
 	bicabornato tira
 
-Nivel de agua parabrisa
+Nível de agua para-brisa
 	coloca aditivo correto, detergente pode manchar pintura do carro
 
-Nivel fluido de freio
-	abaixo do maximo acima do minimo
-	se tiver baixo, leve em uma mecanica
+Nível fluido de freio
+	abaixo do máximo acima do mínimo
+	se tiver baixo, leve em uma mecânica
 
 	Fluido de freio 1x ao ano
 
-Nivel fluido direção hidraulica
+Nível fluido direção hidráulica
 	48k km trocar
 
 Filtro de ar
 	troca a cada 10k km
 
-Filtro de combustivel
+Filtro de combustível
 	1 ano ou 10k km
 	na cidade, troca a cada 5k km ou 6 meses
 	https://www.fastcarbrasil.com.br/restaurador-de-eficiencia-gdi-wynns-gdi-efficiency-restorer-500-ml
 	coloca antes de abastecer, e vai viajar
-	vai limpar a linha de combustivel
+	vai limpar a linha de combustível
 
 Luzes
 Calibra pneus
 	Step
 		coloca mais nele
 
-Cristalização no parabrisa
+Cristalização no para-brisa

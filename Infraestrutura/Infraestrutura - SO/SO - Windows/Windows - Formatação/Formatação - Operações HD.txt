@@ -1,0 +1,36 @@
+VERIFICAR HD/SSD
+	NÃO INTERROMPER NADA
+	Data Lifeguard Diagnostic for Windows
+		De um duplo clic no disco que deseja examinar > clique em extended test. Não interrompa nada, não mexa no PC, deixe na energia.
+		Se ficar verdinho, se ficar vermelho, com X quer dizer que ele deixou de ser confiavel e tem que trocar, pq o windows sempre vai ficar ruim nele.
+
+	- Corrigir problemas nos arquivos internos do windows
+			Abrir o CMD em admin >  chkdsk/r
+			Obs.: esse comando não trava, deixe o windows rodar.
+
+	- Verificar e reparar os arquivos protegidos do windows
+		Abrir o CMD em admin: sfc /scannow
+		Se der erro: https://youtu.be/xAULOjPGd9s
+
+	- Reparar arquivos corrompidos ou ausentes do windows
+		Abrir o CMD em admin > dism /online /cleanup-image /restorehealth
+
+REMOVER HD MELHOR MANEIRA
+	Abra o Windows Explorer > selecione uma unidade de disco > clique com botão direito > propriedades> vá até a aba "Hardware" > selecione o disco desejado > clique no botão "Propriedades" > na aba "Geral" clique na opção "Alterar configurações" > na aba politicas > selecione a opção Melhor desempenho e marque a opção "Habilitar gravação em cache no dispositivo"
+
+	Ejetar com segurança hd
+		va até o disco rígido, clique com botão direito > propriedades > aba Hardware > selecione o disco desejado > clique em propriedades
+		será aberta uma nova tela > na aba Geral clique na opção Alterar configurações
+		será aberta uma nova tela > vá até a aba "Politicas" deixa na opção "Melhor desempenho"
+
+PARTIÇÕES HD
+	Pontos negativos
+		se tiver infectada a partição de dados, depois que voce formatar a maquina está muito sujeito a já ficar com virus
+	
+		o que compensa seria discos distintos
+	
+	https://www.youtube.com/watch?v=yCZdCCjkx2o
+		
+		Sempre que estiver como não alocado na tela de formatação do windows é preciso clicar no btn "novo"
+		
+		- colocar as pastas de documentos, imagem etc: cópia todos para outra unidade, aí no disco C: onde eles vem por padrão de um botão direto e vá até a aba local e altera o local pra outra unidade (colocar área de trabalho também, Google drive)

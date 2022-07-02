@@ -1,0 +1,41 @@
+SEGURANÇA
+	Remover Adwares e PUPS
+			https://br.malwarebytes.com/adwcleaner/
+			Adwares: propagando que aparece para que voce clique
+			PUPS: Apps que sao instalados em outro app. Por exemplo quando você baixa algo do Baixaqui e vem outro app junto.
+
+	Antivírus
+		https://youtu.be/nsPtwcyejrA
+		
+		Kaspersky Free melhor anti virus
+		
+		Trendmicro
+			https://www.trendmicro.com/pt_br/forHome/products/housecall.html
+		
+		KVRT (Kaspersky Virus Removal Tool)
+			https://devbuilds.s.kaspersky-labs.com/devbuilds/KVRT/latest/full/KVRT.exe
+		
+		ESET Online Scanner
+			https://download.eset.com/com/eset/tools/online_scanner/latest/esetonlinescanner_enu.exe
+	
+		Bloqueador de propaganda e URL
+			https://youtu.be/Msd_taTz5Eg
+			Estudar: Malvertising
+				https://chrome.google.com/webstore/detail/kaspersky-protection-190/amkpcclbbgegoafihnpgomddadjhcadd
+				https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=pt-BR
+			Mostra se a pagina é confiável ou não
+		https://chrome.google.com/webstore/detail/trafficlight/cfnpidifppmenkapgihekkeednfoenal?hl=pt-br
+		https://chrome.google.com/webstore/detail/microsoft-defender-browse/bkbeeeffjjeopflfhgeknacdieedcoml
+		https://chrome.google.com/webstore/detail/malwarebytes-browser-guar/ihcjicgdanjaechkgeegckofjjedodee
+	
+		Estudar: Phishing
+
+	BIOS - Segurança
+		Na aba "Security" existem três opções
+		Set supervisor password (senha para entrar na BIOS)
+		Set user password (senha logo quando liga o PC)
+		Set HDD password
+
+SEGURANÇA
+	- Proteção contra Ransware
+	- Você pode testar programas separado da maquina, quando for executar como adm vai cair tipo em uma vm: Ativar ou desativar recursos do windows > Área restrita (para funcionar tem que ligar a virtualização) > 

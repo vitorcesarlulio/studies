@@ -21,6 +21,7 @@
 	
 	Set-ExecutionPolicy RemoteSigned
 		Se for arquivo externo precisa de assinatura e local não precisa de assinatura
+	
 	Set-ExecutionPolicy Unrestricted
 		Executará tudo
 	
