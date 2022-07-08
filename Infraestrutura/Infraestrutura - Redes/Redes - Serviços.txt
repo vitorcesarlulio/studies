@@ -1,0 +1,12 @@
+Serviços redes
+	Projeto de Cabeamento Estruturado, Cat5e, Cat6, Cat6a e Fibra Óptica.
+	Projeto Físico e Lógico de Redes de Dados.
+	Instalação de Redes LAN, WAN e Wireless.
+	Lançamento de Cabos Metálicos.
+	Lançamento de Cabos Ópticos.
+	Elaboração da Documentação: “As Built”.
+	Execução de Testes, e Garantia.
+	Certificações dos Pontos.
+	Manutenção de Ambientes de Redes.
+	Inventário de Equipamentos de rede.
+	Instalação e manutenção de Centrais PABX, PABX IP e VOIP.

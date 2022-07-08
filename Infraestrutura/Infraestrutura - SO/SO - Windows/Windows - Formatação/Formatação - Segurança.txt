@@ -38,4 +38,6 @@ SEGURANÇA
 
 SEGURANÇA
 	- Proteção contra Ransware
-	- Você pode testar programas separado da maquina, quando for executar como adm vai cair tipo em uma vm: Ativar ou desativar recursos do windows > Área restrita (para funcionar tem que ligar a virtualização) > 
+	- Você pode testar programas separado da maquina, quando for executar como adm vai cair tipo em uma vm: Ativar ou desativar recursos do windows > Área restrita (para funcionar tem que ligar a virtualização) >
+	
+	Atualização e Segurança > Otimização de entrega > desabilite "Permitir download de outro computador"

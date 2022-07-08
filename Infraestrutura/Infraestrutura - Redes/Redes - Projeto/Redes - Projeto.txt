@@ -86,50 +86,68 @@ ELETRICA
 RACK
 	https://www.furukawalatam.com/sfc/servlet.shepherd/version/download/0686100000299HvAAI?asPdf=false&operationContext=CHATER
 
-	é ideal fechar todas as baias do rack para não entrar poeira, porém voce tem que comprar varias tampas falsas kkk
+	Porca gaiola fica na horizontal
+		Os ganchinho na horizontal 
+
+	ar frio entra pela frente do hack
+	e quente sai por trás
+
+	é ideal fechar todas as baias do rack para não entrar poeira, porém você tem que comprar varias tampas falsas kkk
+
+	colocar espaçadores (painel cego) e organizadores (guia de profundidade dupla)
 
 	Quando for deixar a caixa ou tubo para os cabos de redes e outros, deixe o mais alto possível assim os cabos entraram na parte superior do rack
+		Veja algumas referencias, o correto é ficar posicionado na parte superior do rack dentro dele
 
 	no mínimo 3m de cabos sobrando no rack
-	
+
+	Desenhe no excel mesmo como ficaria o rack, onde vai guia de cabo, onde vai regua, onde vai bandeja, frente falsa
+
+	verifique reserva técnica para rack
+
 	IDENTIFICAÇÃO
 		SEM NORMA
 		Rack - Patch panel - Ponto
 			R01 - P01 - 01
 		
 		NORMA EIA/TIA 606A
-			
 
 	LOCALIZAÇÃO
 		geralmente na sala
 		Cuidado com barulhos
+	
+	X. Bandeja
+		Se o rack for de 570mm de profundidade, utilizar bandeja de 400mm
+		Se o rack for de 470mm de profundidade, utilizar bandeja de 300mm
 
-	Desenhe no excel mesmo como ficaria o rack, onde vai guia de cabo, onde vai regua, onde vai bandeja, frente falsa
+		Existe móvel também, top
+			só para rack de 16u
 
-	verifique reserva técnica para rack
-	
-	ao frio entra pela frente do hack
-	e quente sai por trás
-	
-	colocar espaçadores (painel cego) e organizadores (guia de profundidade dupla)
-
-	régua de tomadas na parte de trás
-		Se possivel colocar as tomadas para tras viradas para fundo do rack, fica mais discreto ainda
-	
-	ideal é que a regua tenha as tomadas retas e não na diagonal, fica melhor para ligar as fontes
-	
-	Se o rack for de 570mm de profundidade, utilizar bandeja de 400mm
-	Se o rack for de 470mm de profundidade, utilizar bandeja de 300mm
-	
-	bandeja móvel
 		DVR é bacana ficar numa dessa
-		só para rack de 16u
-		
+
 		Veja de a bandeja tenha ventilação
 		
 		Bandeja de 4 pontos é a que é presa nos quatro cantos do rack
+
+	X. Régua tomadas
+		régua de tomadas na parte de trás
+
+		ideal é que a régua tenha as tomadas retas e não na diagonal, fica melhor para ligar as fontes
+
+		Se possível colocar as tomadas para trás viradas para fundo do rack, fica mais discreto ainda
+		
+		Tomada sempre na ultima baia (em baixo)
+
+		Tem que ver se o cabo da régua de energia vai chegar na tomada
+		E ver como passar ele pra não ter INTERFERÊNCIA
 	
-	existe nobreak de rack
+	X. Nobreak
+		existe nobreak de rack
+		
+	Aterramento 
+		liga tudo no rack
+		Diz no documento da furkawa que o correto não é ligar tudo num ponto só, e sim em pontos separados da carcaça (não tudo no mesmo parafuso)
+		E aí o rack liga na tomada (terra)
 
 TEMPERATURA
 	18 a 27c temperatura da sala (https://datacenterfrontier.com/evolving-data-center-cooling-ranges-standards/)

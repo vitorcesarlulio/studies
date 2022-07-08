@@ -1,0 +1,2 @@
+PABX
+	identificação e desvio de chamadas, espera, ramal para ramal, gravação de ligações, rechamada automática, URA, etc.

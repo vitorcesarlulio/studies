@@ -1,5 +1,5 @@
 TERMINAIS
-	Anel/olhal	
+	Anel/olhal
 	ilhos: usar 2 cabos no mesmo terminal
 	Forquilha
 	Pino
@@ -20,6 +20,6 @@ ALICATES
 	CR34
 		de 10,00 a 50,00 mm²
 	CR35
-	de 50,00 a 95	,00 mm²
+		de 50,00 a 95	,00 mm²
 	
 	https://mlighting.com.br/produto/100-conectores-wago-legitimo-222-412-2-polos-ate-4mm/

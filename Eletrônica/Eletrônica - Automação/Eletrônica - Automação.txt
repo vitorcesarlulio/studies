@@ -68,6 +68,12 @@ SENSORES
 			https://pt.aliexpress.com/item/4000782375247.html
 
 CENAS
+	Carregamento de pilhas
+		Bota uma tomada inteligente quando parar de passar energia é que carregou 
+
+	Nas automação da pra fazer por consumo 
+	Tantos w se sabe que aquele dispositivo tá fazendo algo
+
 	Persiana deu um toque (PUXOU ELA) ela sabe que você quer abrir ou fechar
 
 O QUE VERIFICAR

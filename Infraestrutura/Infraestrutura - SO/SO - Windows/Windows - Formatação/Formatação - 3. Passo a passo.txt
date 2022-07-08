@@ -1,9 +1,3 @@
-Atualização de segurança > opções avançadas > otimização de entrega > desabilite "Permitir download de outro computador"
-
-Ainda na tela > opções avançadas > porcentagem de largura e coloque tudo no mínimo
-
-Configurações de upload e coloque tudo no mínimo
-
 Windows + Seta
 Vai jogar a tela para um dos cantos ou minimizar
 Um snap
@@ -69,11 +63,16 @@ DEPOIS DE FORMATADO
 	Conferir versão do windows
 	se é 64x
 
-	Geralmente software é bom baixar na hora, a não ser os muito dificil, porque sem voce salva algo pode ficar desatualizado
+	Geralmente software é bom baixar na hora, a não ser os muito difícil, porque sem você salva algo pode ficar desatualizado
 
 	Windows Update
-		Pode ser que na atualização de driver opcinal tenha problemas, acho melhor atualizar no drive booster
+		Pode ser que na atualização de driver opcional tenha problemas, acho melhor atualizar no drive booster
 	
+	Visual C++
+	
+	instalar Java
+		Pode pesquisar e baixar mesmo normal
+
 	Drive booster
 
 	Atualizar drivers (baixar driver do meu Chipset; se for baixar na mão entra no site da placa mãe e baixa tudo por lá) Entrar no site da placa mae e ver se tem algum software diferente
@@ -83,6 +82,8 @@ DEPOIS DE FORMATADO
 	Ativar Windows
 
 	PARTIÇÕES HD (ver outro arquivo)
+	
+	Alterar nome do disco para Windows
 
 	UTILIZAR
 		Mover para
@@ -94,9 +95,12 @@ DEPOIS DE FORMATADO
 	
 	Mostrar extensão dos arquivos
 	
+	Fixar barra de opção do Windows Explorer (onde vc habilita os itens ocultos etc)
+	Fixar a barra superior do explorador de arquivos
+
 	Desabilitar serviços inúteis
-		Pressione Windows + R > pesquise por services.msc
-			Desabilite os serviçõs
+		Pressione Windows + R > pesquise por services.msc N COMPENSA MUITO, a não ser que é certeza que o cara não vai mexer com isso
+			Desabilite os serviços
 				Cartão inteligente
 				fax
 				telefonia
@@ -110,40 +114,27 @@ DEPOIS DE FORMATADO
 		E_YATINYE
 			Epson (provavelmente impressora)
 	
-	Windows + Pause Break > Configurações avançadas do sistema > 
-		Box "Desempenho" Configurações...
-			Aba Efeitos visuais 
-				Deixa apenas
-					mostrar miniaturas em vez de ícone
-					usar fontes de tela com cantos arredondados
-					usar sombras subjacentes...
-		
-			aba Avançado ACHO QUE NÃO VIRA, DEIXA DO JEITO QUE TÁ
-				box Memória virtual > alterar: marque a opção tamanho personalizado 1896 até o máximo que o PC tem (8000)
-
-				O SO vai salvando no disco arquivos para a memória acessar depois, resumidamente, aí os processos não param, ele vai colocando no disco
-				CPU primeiro buscar dados para processar na memória cachê (que é muito rápido) caso ache, ele já vai processando, se não achar, a CPU vai buscar dados para processar na memória RAM (que vai estar armazenando dados que estão em processamento) e se não tiver espaço na memória RAM o sistema acessa arquivos de paginação no disco rígido SO QUE O SISTEMA NAO PODE VICIAR E IR BUSCAR DADOS LA NO HD, porque aí vicia e deixa de lado a memória cachê 
-	
-		Box "Inicialização e recuperação"
-			altere para 0 "tempo para exibir lista de sistemas operacional" e "tempo para exibir opções de recuperação se necessário".
-	
-	Windows + R > msconfig > aba Inicialização do sistema > Opções avançadas: marque a opção número de processadores e coloque no máximo, memória RAM desmarque a caixinha para que seja usada roda memória RAM 
+	Windows + R > msconfig > aba Inicialização do sistema > Opções avançadas: marque a opção número de processadores e coloque no máximo, memória RAM desmarque a caixinha para que seja usada roda memória RAM
 	
 	baixar e ativar winrar
 		Associar o winrar com
 			Marca tudo
 
-		Itens do menu de contexto > deixar somente:
-		Extrair aqui, extrair para, adicionar para o arquivo, do lado direito tudo marcado
+		Itens do menu de contexto > deixar somente
+			Extrair aqui
+			extrair para
+			adicionar para o arquivo
+		
+			do lado direito tudo marcado
 	
 	Baixar google crome
 		Desmarca caixinha pro google ajudar n seu iq
 	
 	Acrobat Reader DC (pode ser prejudicial para desempenho, se quiser use google)
+		Desmarca 2 caixinhas lado esquerdo deixa a do chrome habilitada
+	
 		visualizar miniaturas
 			CTRL + K  > Geral > Ativar visualização de miniaturas no Windows Explorer
-	
-	Visual C++
 	
 	estudar: ms Net framework 3.5 tem que pegar um arquivo source do azarado
 	
@@ -152,15 +143,10 @@ DEPOIS DE FORMATADO
 	programas e recursos > desinstalar ou alterar programa > ativar ou desativar recursos do Windows
 		ative hyperv
 		tudo que tem haver com .Net framework
-	
-	instalar Java
-		Pode pesquisar e baixar mesmo normal
+		Serviços de informação da internt
+		Plataforma de maquina virtual
 	
 	directx (de um Windows + R e digite dxdiag) se tiver na última versão blz 
-	
-	Microsoft Store
-		Desabilitar tudo nas configurações
-			atualizar aplicativos automaticamente
 	
 	windows média player > roda um vídeo> botão direito > aprimoramento > equalizador gráfico 
 	
@@ -169,13 +155,11 @@ DEPOIS DE FORMATADO
 	Opcional: quando abrir windows explorer, abrir direto no "meu Pc": explorador de arquivos > aba exibir > opções > alterar opções de pasta e pesquisa, aí tem uma opção "abrir explorador para" aí só é colocar "Meu computador"
 	
 	Remover o que estiver no acesso rápido
-		botão direito em acesso rapido > opções > aba Geral > box "Privacidade" > desmarque "Mostrar arquivos usados..." e "mostrar pastas..."
-	
-	Fixar a barra superior do explorador de arquivos
-	
+		botão direito em acesso rápido > opções > aba Geral > box "Privacidade" > desmarque "Mostrar arquivos usados..." e "mostrar pastas..."
+
 	desabilitar tecla de aderência (clique no shif 5x)
 	
-	Configurações avançadas do teclado:
+	Configurações avançadas do teclado
 		Não usar lista de idiomas (deixe abnt2)
 		Opções da barra de idiomas: ocultar
 		Aba Configurações avançadas de tecla > alternar sequência de teclas > nunca e nunca
@@ -186,23 +170,30 @@ DEPOIS DE FORMATADO
 	Gpedit > modelos administrativos > rede > estação de trabalho > habilitar logon de convidados
 	
 	ocultar ícone de câmera na barra de tarefas
+	Bloquear barra de tarefas
+	DESABILITE Mostrar botão cortana
+	DESABILITE Pesquisar > Mostrar pesquisa destaque
+	DESABILITE Noticia e interesses
 	
 	estudar: Histórico de confiabilidade
 
 SISTEMA
-	Vídeo
+	Tela
 		Configurações avançadas de tela > taxa de atualização
 
 	Notificações e ações
 		DESMARQUE TUDO MENOS "Obter notificações de aplicativos e outros remetentes"
 		
-		Opcional: mostrar notificações na tela de bloqueio
-		Desmarcar: mostrar lembretes de chamadas VOIP de entrada na tela de bloqueio
+		Opcional: Mostrar notificações na tela de bloqueio
+		DESMARCAR mostrar lembretes de chamadas VOIP de entrada na tela de bloqueio
+		DESMARCAR Permitir que as notificações reproduzam sons
+		DESMARCAR mostrar a experiência de boas vindas...
+		DESMARCAR Sugerir como posso incluir...
+		DESMARCAR obter dicas e truques de como usar o Windows
+		
 		Opcional: Ocultar notificações quando eu estiver usando tela duplicada
-		Desmarque: obter dicas e truques de como usar o Windows
-		Demarque: mostrar a experiência de boas vindas...
+		
 		Receber notificações destes remetentes: desmarcar os que acha que deve ser desmarcado
-		Cancele as notificações de dicas do sistema
 
 	Assistente de foco
 		desliga tudo
@@ -210,7 +201,10 @@ SISTEMA
 	Armazenamento
 		Marcar
 			Sensor de armazenamento
-		Configurações do sensor de monitoramento escolha a opção
+		Configurações do sensor de monitoramento
+			Todo mes
+			Excluir arquivos da minha lixeira se eles estiverem lá por mais de: 14 dias
+			Excluir arquivos da pasta Meus Downloads se eles estiverem lá por mais de: 30 dias
 
 	Tablet
 		Nunca usar modo tablet
@@ -231,8 +225,27 @@ SISTEMA
 
 	área de trabalho remota
 		desabilitar
+		
+	Windows + Pause Break > Configurações avançadas do sistema > 
+		Box "Desempenho" > Configurações...
+			Aba Efeitos visuais 
+				Deixa apenas
+					mostrar miniaturas em vez de ícone
+					usar fontes de tela com cantos arredondados
+					usar sombras subjacentes...
+		
+			aba Avançado ACHO QUE NÃO VIRA, DEIXA DO JEITO QUE TÁ
+				box Memória virtual > alterar: marque a opção tamanho personalizado 1896 até o máximo que o PC tem (8000)
+
+				O SO vai salvando no disco arquivos para a memória acessar depois, resumidamente, aí os processos não param, ele vai colocando no disco
+				CPU primeiro buscar dados para processar na memória cachê (que é muito rápido) caso ache, ele já vai processando, se não achar, a CPU vai buscar dados para processar na memória RAM (que vai estar armazenando dados que estão em processamento) e se não tiver espaço na memória RAM o sistema acessa arquivos de paginação no disco rígido SO QUE O SISTEMA NAO PODE VICIAR E IR BUSCAR DADOS LA NO HD, porque aí vicia e deixa de lado a memória cachê 
+	
+		Box "Inicialização e recuperação"
+			altere para 0 "tempo para exibir lista de sistemas operacional" e "tempo para exibir opções de recuperação se necessário".
 
 OPÇÕES DE ENERGIA
+	Em notebook é mais bacana só usar o plano de alto desempenho do windows mesmo, pode aquecer muito o PC, ficar até mais lento.
+
 	Colocar desempenho máximo (opções de energia: powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61)
 	
 	colocar na opção desempenho máximo
@@ -247,9 +260,9 @@ OPÇÕES DE ENERGIA
 	Opcional: não deixar suspender (desempenho)
 	Opcional: não deixar desligar vídeo
 	
-	Definir botoes de energia e ativar proteção por senha
-		quando eu pressionar o botão de suspensao: nada fazer
-		se deixar opção de suspensao e hibernar projudica desemepnho (armazenamento)
+	Definir botões de energia e ativar proteção por senha
+		quando eu pressionar o botão de suspensão: nada fazer
+		se deixar opção de suspensão e hibernar prejudica desempenho (armazenamento)
 
 SOM
 	Aba comunicações > não fazer nada
@@ -258,25 +271,24 @@ DISPOSITIVOS
 	Digitação:
 		No bloco "Digitação" desabilitar tudo
 
-PERSONALIZAÇÃO
-	ALTERAR OS ÍCONES QUE APARECEM NA BARRA DE TAREFAS, PRÓXIMO AO RELÓGIO
-		Na busca do Windows pesquise task bar (ou Área de notificação da barra de tarefas) > ao abrir a tela procure a opção "Selecionar os ícones que devem aparecer na barra de tarefas" e agora é só definir seus ícones.
-		
-	Ocultar barra de pesquisa
-	Cores:
+PERSONALIZAÇÃO		
+	Cores
 		Desmarcar: efeitos transparência
 		Tudo que tem haver com transparência desabilitar
-	Temas:
+
+	Temas
 		Opcional: Configuração de ícones da área de trabalho: marque o que deseja
-	Iniciar:
+
+	Iniciar
 		Desmarca: mostrar mais blocos em iniciar
 		Marcar: mostrar lista de aplicativos no menu iniciar
 		Desmarcar: mostrar aplicativo adicionados recentemente
 		Desmarcar: mostrar aplicativos mais usados
-		Desmarca: ocasionalmente mostrar sujestão em iniciar
+		Desmarca: ocasionalmente mostrar sugestão em iniciar
 		Desmarcar: Usar tela inteira de iniciar
 		Opcional: mostrar itens abertos recentemente em lista de atalhos em iniciar na barra de tarefas (se deixar ligado, tem como dar botão direto no app da barra de tarefas e ter acesso aos últimos sites acessados exemplos)
-	Barra de tarefas:
+
+	Barra de tarefas
 		Marcar: Travar a barra de tarefas
 		Opcional: ocultar automaticamente a barra de tarefas
 		Desmarcar: ocultar automaticamente a barra de tarefas no módulo tablet
@@ -284,15 +296,23 @@ PERSONALIZAÇÃO
 		Opcional: combinar botões da barra de tarefas > quando a barra de tarefas estiver cheia
 		Opcional: Área de notificação > Ativar ou desativar ícones do sistema > marque ou desmarque
 		Botão direito na barra de tarefas > pesquisar > oculto
+		
+		Ativar ou desativar ícones do sistema
+			alterar os ícones que aparecem na barra de tarefas, próximo ao relógio
+
+			Na busca do Windows pesquise task bar (ou Área de notificação da barra de tarefas) > ao abrir a tela procure a opção "Selecionar os ícones que devem aparecer na barra de tarefas" e agora é só definir seus ícones.
 
 APLICATIVOS
-	Aplicativos e recursos:
+	Aplicativos e recursos
 		Escolher de onde baixar aplicativos > em qualquer lugar, mas me avisar se tiver igual na ms store
-	Aplicativos padrão:
+
+	Aplicativos padrão
 		Configurar
-	Mapas off-line:
+
+	Mapas off-line
 		Atualizações de mapa > desativa
-	Inicialização: 
+
+	Inicialização
 		Definir o que deve inicializar VOLTAR 
 
 CONTAS
@@ -309,11 +329,9 @@ FACILIDADE DE ACESSO
 		Desmarcar: reproduzir animações no Windows
 
 PRIVACIDADE
-	Aplicativos em segundo plano: 
-	Desmarcar o que achar necessário
-
-	Geral:
+	Geral
 		Ligar Permitir que o Windows controle a abertura...
+
 	Desabilitar o resto
 		Desligar tudo Controle por voz
 		Desligar tudo Personalização de escrita
@@ -328,14 +346,19 @@ PRIVACIDADE
 		sistema de mensagens: desmarcar tudo 
 		Rádios: desmarcar tudo
 		outros dispositivos: desmcar tudo
-		Desligar tudo Aplicativos em segundo plano
-		Aplicativos em segundo plano: VOLTAR AQUI
+		Aplicativos em segundo plano VOLTAR AQUI
+			Desmarcar o que achar 
+			TOME CUIDADO
 		diagnóstico de aplicativos: desabilitar
 		ativação de voz: desabilitar
-		chama telefônica: desabilitar
+		chama telefônica: desabilitar	
 
 ATUALIZAÇÃO E SEGURANÇA
 	- Para desenvolvedores: desabilitar
+
+	Acho que não compensa
+	Atualização e Segurança > Otimização de entrega > opções avançadas > porcentagem de largura e coloque tudo no mínimo
+	Configurações de upload e coloque tudo no mínimo
 	
 O QUE PODE DAR PROBLEMA DA FORMATACAO:
 	Aplicativos em segundo plano
@@ -350,7 +373,7 @@ DIVERSOS
 	Animação primeiro logon
 	Protetor de tela 
 	Play read
-	Senha por imagem 
+	Senha por imagem
 	Planos móveis 
 	Solitárie coletion
 	
@@ -361,6 +384,7 @@ DIVERSOS
 		
 	Comando para desinstalar:
 		Get-AppxPackage *Microsoft.People* | Remove-AppxPackage
+	NUCA RODAR **, ele exclui tudo
 
 	AO INVES
 		Rode os scripts da pasta "exluir apps"
@@ -370,7 +394,6 @@ DIVERSOS
 	Paint 3D
 	Notas adesivas
 	Mixed reality portal
-	M
 	Como será que chama obter ajuda na lista, Cortana tbm?
 
 SOFTWARES
@@ -487,8 +510,6 @@ SOFTWARES
 			ativar barra de favorito
 			pedir para baixar
 			colocar os downloads para cair na área de trabalho
-			verificar Atualizações
-			chorme://components
 			
 			atualizar google
 			
@@ -636,6 +657,10 @@ CONFIGURAÇÕES OPCIONAIS:
 		google
 		acrobat
 		
+	Microsoft Store
+		Desabilitar tudo nas configurações
+			atualizar aplicativos automaticamente
+		
 	papel de parede
 
 	Fazer uma limpeza geral no Pc de arquivos temporários (script no windows-diversos)
@@ -644,9 +669,9 @@ CONFIGURAÇÕES OPCIONAIS:
 	
 	N pode esquecer de limpar os históricos, lixeiras, etc pastas
 
-	serviços que estao sendo inicializados
+	serviços que estão sendo inicializados
 
-	apps padroes
+	apps padrões
 
 	atualizar os apps que sobraram microsoft store
 

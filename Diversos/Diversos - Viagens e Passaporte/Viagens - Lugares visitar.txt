@@ -25,44 +25,104 @@ PAÍS - BRASIL
 				Casa Grande Hotel Resort & Spa
 
 		CIDADE - SÃO PAULO
-			CCV
-			Museu cata-vento
+			TINERARIOS
+				Pegar busão cair no tiete
+				Outras estações
+					barra funda
+					jabaquara
+					conconhas
 			
-			rick doces
-			pegar busao de americana cai na rodoviária do tiete, centro
+			ESTRUTURA SP
+				linha azul
+					linha principal de SP
 
-			linha azul
-				linha principal de SP
+				Linha vermelha
 
-			Linha vermelha
+				tem que pagar troca de linha?
+				passa com cartão?
+				de quanto em quanto tempo?
+				
+				4,40 metrô
+				Só aceitou débito
+				Guarde seu bilhete, mesmo que já passou
+				Cerca de 11 linhas
+				
+				Cada uma vai pra um lado pra cidade e várias pontes passando por cima delas
+					Marginal pinheiros
+					Marginal tiete
 
-			tem que pagar troca de linha?
-			passa com cartão?
-			de quanto em quanto tempo?
+			MUSEUS
+				Museu da Imagem e do Som de São Paulo
+				museu do futebol são Paulo
+				museu do Ipiranga
+				Museum of Art of São Paulo Assis Chateaubriand
+					Na paulista
+				Museu cata-vento
 
-			jogo do Corinthians não da
-		
-			museu do futebol são paulo
-			museu do ipiranga
+			Parque do Ibirapuera
+				Portão 7
+				
+				Museu Lucas Nogueira Garcez Pavillion
+
 			Mercado Municipal de São Paulo
-			Parque Ibirapuera
-			Metro
+
+			Paulista
+				Trianon - Lieutenant Siqueira Campos
+					Do lado da paulista
+
+				Japan House
+				
+				Sesc Avenida Paulista
+					Vista da AV
+				
+				Casa das rosas
+				
+				MC 1000
+				MASP
+
+			Bares, restaurantes e lojas de comida
+				Tokyo
+				Skye Bar
+				Bar de Cima
+				UP Cozinha&Bar
+				Rick doces
+				Vila madelana (comida)
+				Rua augusta (noitada)
+				Bibi Sucos
+				Picco (bar do don)
+				A Figueira Rubaiyat (restaurante)
+				Bacio di late
+					Bacio
+					Morando c leite
+					Nutela
+					Suspiro com framboesa
+
+			Shoppings
+				1º JK Iguatemi
+				Shopping Cidade Jardim
+				Shopping Vila Olimpia
+				Iguatemi São Paulo
+				Porto Brás			
+
+			Edifício Itália
+
+			Parque Povo - Mário Pimenta Camargo
+				Seguro
+
+			Instituto Tomie Ohtake
+				Legal em
+
+			Parque da Água Branca (Parque Fernando Costa)
+				Mais ou menos
+
+			Praça Pôr do Sol
+				Só pra ver por do sol mesmo
+
+			CCV
+
 			@aondeiremsp
 			@ondeiremsp
 
-			4,40 metrô
-			Só aceitou débito
-			Guarde seu bilhete, mesmo que já passou
-			Cerca de 11 linhas
-
-			Comida
-			Vila madelana
-
-			Noite
-			Rua Augusta
-
-			Museus
-			Feiras
 			Santa Efigênia
 			Bom retiro, roupa mais chique
 			Brás roupa
@@ -73,22 +133,7 @@ PAÍS - BRASIL
 			Segunda a sábado, das 6 as 18
 			Domingo 6 as 16
 			Impostômetro
-			Autódromo
-
-			Av Paulista
-			MC 1000
-			MASP
-			Parque trianon
-
-			Bacio di late
-			Bacio
-			Morando c leite
-			Nutela
-			Suspiro com framboesa
-
-			Cada uma vai pra um lado pra cidade e várias pontes passando por cima delas
-			Marginal pinheiros
-			Marginal tieta
+			Autódromo	
 
 			Museu do Ipiranga
 			Pinacoteca
@@ -102,19 +147,7 @@ PAÍS - BRASIL
 			Farol santander
 			Sampa sky 30 reais a meia
 
-			11 milhões de pessoas
-
 			Não é em lugar turístico que você vai fazer amizades com paulistas, eles não vao
-
-			Clube de tiro
-			• Bibi Sucos
-			• Bares
-				Picco
-			• Restaurantes
-				A Figueira Rubaiyat
-			• Shoppings
-				Porto Brás
-			• Hotéis
 
 			• Eventos
 				feira gastronômica SP (junho)
@@ -402,6 +435,9 @@ DUBAI
 Índia e blangladesh não consomem muita carne
 
 EUROPA
+	PAÍS - ALEMANHÃ
+		nurburgring nordschleife
+
 	• documentario sobre ibiza
 		nao vai comer nmg e vai gastar grana
 
