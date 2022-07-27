@@ -1,0 +1,37 @@
+Condicionador de energia
+	Digamos que é imprescindível se você mora do lado de um comercio que consome muita energia
+	Se baixar ou subir numa determinada tensão ele desliga os equipamentos ligados a ele
+
+	98 a 132v
+		Acho que depende do condicionador
+
+	Ah tem uma parada avançada de ligar na posição correta a tomada
+		Neutro - Fase
+		bolinha do meio pra cima
+
+		Neutro fica direto no circuite e o fase no role
+
+	Tem que bom aterramento
+
+	Melhora a vida útil dos equipamentos
+	
+	Não adianta de nada ligar o home nele e a TV não, pode vir uma descarga da TV para home por um HMDI
+	
+	Soma os equipamentos e depois compra um condicionador com uma sobra
+	
+	Marcas
+		Engeblu
+			Não precisa de aterramento
+			ENGEBLU C1000SRX 1500W
+		Att
+			É feito nacional, logo, pensado na rede elétrica do brasil
+			AAT PWC-2
+				tem um que entra 110 sai 110
+				outro entra 220 e sai 220
+		Savage
+		
+		Panamax M5300-PM
+			Top
+			Tem internet
+			coaxial
+			tem esquema de ligar as tomadas só quando pressionar a tomada

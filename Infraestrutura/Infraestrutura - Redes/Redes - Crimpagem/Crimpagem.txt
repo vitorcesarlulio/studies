@@ -1,1 +1,15 @@
 20mm do cabo de rede para decapagem
+
+Padrões de climpagem
+	Quando for fazer um keystone, coloque um inforca gato no pé do cabo, assim se alguem torcer, puxar ele, nao vai afetar a climpagem
+	https://www.youtube.com/watch?v=Wzy4yP07Ay4
+
+	T568A
+	T568B -> essa melhor, na vdd siga o fluxo do cabo
+	
+	Cat5e = 10/100/1000 (até uns 40mt)
+	Cat6 = 10/100/1000 (até uns 80mt)
+	
+	4cm de decapagem da capa
+	1,5 cm para decapar os cabo
+	https://www.youtube.com/watch?v=PX4KoaAga2Q&ab_channel=TD-TecnologiaeSeguran%C3%A7aEletr%C3%B4nica

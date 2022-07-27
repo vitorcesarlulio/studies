@@ -1,0 +1,2 @@
+Se for, tem que ser um com ondas senoidais
+	Se for semi senoidais ai é um estabilizador, ele vai ficar perdendo tempo tentando estabilizar a rede eletrica e pode não fornecer energia para o equipamento, muito ruim

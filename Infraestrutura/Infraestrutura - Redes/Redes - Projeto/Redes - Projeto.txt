@@ -10,8 +10,21 @@ PROJETO - TOPICOS
 	3. Execução do serviço
 	4. Instalação e configuração
 
+SURTOS ELÉTRICOS
+	é bom no começo de toda energia colocar um clamper
+	dimensione pra ver se o clamper vai aguentar segurar tudo (watts)
+	
+	fibra não tem perigo de surtos
+	
+	coaxial tem perigo
+	
+	telefone também
+	
+	ai compra um iclamper 3
+	liga o coaxial e de telefone nele, já era e esse iclamper 3 vai na tomada
+
 WIRELESS
-	Teto menos barreiras fisicas
+	Teto menos barreiras físicas
 
 	Redes propagando sinal muito a mais do que o ambiente precisa, interfere nós outros ambientes
 
@@ -84,13 +97,24 @@ ELETRICA
 	norma exige 30 cm de distancia do conduite de redes para o de energia
 
 RACK
+	Caixa (central de redes)
+		youtube.com/watch?v=6LZ-nlFivfY
+
+	Dependendo do rack que comprar, ele não tem régua pra prender as coisas por trás
+
 	https://www.furukawalatam.com/sfc/servlet.shepherd/version/download/0686100000299HvAAI?asPdf=false&operationContext=CHATER
 
 	Porca gaiola fica na horizontal
-		Os ganchinho na horizontal 
+		Os ganchinho na horizontal
+		Na montagem do rack pode ser bacana já colocar todos porca gaiola
 
-	ar frio entra pela frente do hack
-	e quente sai por trás
+	TEMPERATURA
+		Tem que tirar o ar quente
+		O ar externo entra e o cooler tira
+		Ar quente sobe
+		Se possível colocar um cooler dos lados, ou em baixo esse para puxar ar frio
+		ar frio entra pela frente do hack
+		e quente sai por trás
 
 	é ideal fechar todas as baias do rack para não entrar poeira, porém você tem que comprar varias tampas falsas kkk
 
@@ -128,8 +152,13 @@ RACK
 		Veja de a bandeja tenha ventilação
 		
 		Bandeja de 4 pontos é a que é presa nos quatro cantos do rack
+		
+		Geralmente DVR é 2 a 3 U, 3U fica com uma boa folga
 
 	X. Régua tomadas
+		Régua de tomada as vezes é bom colocar na frente, pra ficar mais fácil de identificar 
+			Isso em casos em que a manutenção tem que ser rapida, frequente.
+
 		régua de tomadas na parte de trás
 
 		ideal é que a régua tenha as tomadas retas e não na diagonal, fica melhor para ligar as fontes

@@ -16,4 +16,10 @@ Um buraco energia entra outro ela saí
 
 Terra
 Se o aparelho queimar vai sair por ele
-Não vai te dar choque nem ir pra rede elétrica 
+Não vai te dar choque nem ir pra rede elétrica
+
+Tensão (volts) = diferença potencial, quanto maior a tensão mais volts tem
+Corrente contínua (DC) = pilha 
+Corrente alternada (ac) = casa (a tensão varia dos 2 lados, negativo e positivo se inverter toda HR)
+Amper = qtde de elétrons passando
+Oms = Resistência dos elétrons passarem

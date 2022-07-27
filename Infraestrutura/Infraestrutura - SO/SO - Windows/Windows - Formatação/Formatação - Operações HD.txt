@@ -16,6 +16,8 @@ VERIFICAR HD/SSD
 		Abrir o CMD em admin > dism /online /cleanup-image /restorehealth
 
 REMOVER HD MELHOR MANEIRA
+	você deve prestar atenção na onde ele diz que X gb serão destinados para  sistema esse sistema ele se refere ao windows então tem que ser um valor alto
+
 	Abra o Windows Explorer > selecione uma unidade de disco > clique com botão direito > propriedades> vá até a aba "Hardware" > selecione o disco desejado > clique no botão "Propriedades" > na aba "Geral" clique na opção "Alterar configurações" > na aba politicas > selecione a opção Melhor desempenho e marque a opção "Habilitar gravação em cache no dispositivo"
 
 	Ejetar com segurança hd

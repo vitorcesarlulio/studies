@@ -1,0 +1,25 @@
+voxpopi.blogspot.com/2018/04/ideias-de-automacao-residencial-com.html
+	
+	Casa Inteligente: Automacão Orgânica com Arduino
+		slideshare.net/prestus/casa-inteligente-automaco-orgnica-com-arduino
+
+	Casa Inteligente Curso Arduino
+		youtube.com/watch?v=ui6aoFGaPO0
+
+	usinainfo.com.br/blog/automacao-residencial-arduino-ideias-para-deixar-sua-casa-igual-homem-de-ferro/
+
+	Sensor
+		pt.aliexpress.com/item/32880024822.html?albslr=231334634
+
+	Arduíno para garagem, aproximação dos carros
+	Arduíno para regagem das plantas 
+	Arduíno para meu quarto, entrou no quarto se ficar mais de 1 minuto sem sair liga o ar, entrou no quarto acende a luz, Arduíno para se chegar perto da mesa ligar o PC
+	Captar água da chuva, caixa d'água subterrânea e todos os lugares cairiam nela, uma bomba para puxar a água e também ver se a água da máquina vai junto
+	Aperta a descarga ele solta cheirinho 
+	Se passar alguém pelo sensor ele liga no seu celular (roubo) câmeras
+	espelho inteligente
+	umidificador de ar, quando chega em x a umidade ele liga
+	ligar tal hora as luzes externas de casa e ligar tal hora negocio de pernilongo
+	
+	Chegando em casa abre o portão
+	se tiver de noite liga luz

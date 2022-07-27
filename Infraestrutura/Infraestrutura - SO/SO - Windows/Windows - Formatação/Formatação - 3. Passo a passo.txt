@@ -397,6 +397,9 @@ DIVERSOS
 	Como será que chama obter ajuda na lista, Cortana tbm?
 
 SOFTWARES
+	Estudar
+		DriversCloud_Win
+
 	Instalar vários de uma vez
 		ninite
 
@@ -538,19 +541,24 @@ SOFTWARES
 		Obs Studio
 		WinDynamicDesktop
 			Temas de acordo com horário	
-			
-		Windows power toys
-			Divisao de telas
-			quando clicar com uma tecla, escrever com outra
-			https://github.com/microsoft/PowerToys
-			https://olhardigital.com.br/2019/09/06/dicas-e-tutoriais/como-usar-os-powertoys-do-windows-10/
-			
-			Fancyzones
-				Poder encaixar varias abas na tela
+		
+		PERSONALIZAÇÃO
+			fliqlo
+
+			wallpaper engine clock
+
+			Windows power toys
+				Divisao de telas
+				quando clicar com uma tecla, escrever com outra
+				https://github.com/microsoft/PowerToys
+				https://olhardigital.com.br/2019/09/06/dicas-e-tutoriais/como-usar-os-powertoys-do-windows-10/
 				
-			PowerRename
-				Renomear vários arquivos
-				Botão direito sobre a seleção > PowerRename
+				Fancyzones
+					Poder encaixar varias abas na tela
+					
+				PowerRename
+					Renomear vários arquivos
+					Botão direito sobre a seleção > PowerRename
 		
 		Binance
 

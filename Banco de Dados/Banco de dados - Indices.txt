@@ -1,0 +1,6 @@
+INDICE
+Até onde entendi geralmente você vai colocar índice quando você tem um where, por exemplo, no seu where sempre tem código, então coloca um índice no código
+
+ÍNDICE COMPOSTO
+Índices fazem muita diferença
+No firebird tem um esquema que você pode fazer um índice de duas colunas, por exemplo código e data e aí meio que ele vai ordenar pelos 2, aí dependendo do script é uma qtde menor de dados para ser lida

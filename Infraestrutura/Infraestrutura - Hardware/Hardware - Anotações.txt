@@ -1,3 +1,24 @@
+CHIP SET INTEL ELE DESARMA POR SUPERAQUECIMENTO
+
+AMD NAO, ELE AQUECE E BOA AI DANIFICA (TRINCA) AS ESFERAS E GERA OS DEFEITOS DE BGA (ESFERAS DE SOLDAS DO CHIP DE VIDEO, SOLDA DA PLACA C O CHIP)
+
+CHIP SET SUL E NORTE 
+
+NORTE CONTROLA O VIDEO (PERTO DO PROCESSADOR)
+A ponte norte fica responsável por controlar todos os componentes rápidos do computador, como processador, placa de vídeo (AGP e PCI Express) e memória RAM, fazendo com que eles solicitem informações do disco rígido (que está na ponte sul), as carregue na memória e divida o que será processado entre a CPU e a placa de vídeo, determinando qual será o desempenho final do computador.
+
+
+SUL (USB, LEDS, CONECTORES DA PLACA, CONTROLADORES, FUNÇOES DA PLACA)
+A ponte sul fica responsável pelos componentes lentos do PC, também conhecidos como dispositivos de E/S (entrada/saída), o que inclui os discos rígidos (SATA e IDE), portas USB, pararela e PS/2 (utilizada em teclados e mouses antigos), slots PCI e ISA (padrão da IBM, hoje em desuso).
+
+
+BIOS PERTO DA MEMORIA E O CONECTOR WIFI
+
+
+
+
+
+
 ELETRICIDADE ESTÁTICA
 	https://produto.mercadolivre.com.br/MLB-1246390916-manta-antiestatica-esd-condutiva-1-camada-statron-1700x500mm-_JM
 	so de relar em uma bancada de ferro, tem que ser direto no ferro mesmo, sem esmalte, tinta ele descarrega sua eletricidade estática

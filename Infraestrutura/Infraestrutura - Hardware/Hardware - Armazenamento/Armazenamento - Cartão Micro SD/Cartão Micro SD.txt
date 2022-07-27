@@ -1,3 +1,6 @@
+Ugreen
+	Leitor de cartão sd ugreen um dos melhores 
+
 Cartão Micro SD
 	Ref
 		https://www.youtube.com/watch?v=whyo-ajNRkY
@@ -19,7 +22,6 @@ Cartão Micro SD
 	Bus Interface
 		UHS-I
 			Escrita de 50 mb/s a 104 mb/s
-			
 		UHS-II
 			Escrita de 156 mb/s a 312 mb/s
 		UHS-III

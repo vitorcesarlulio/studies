@@ -1,0 +1,3 @@
+Barco
+Compra com 2 hélices cada uma gira num sentido, é como se fosse um pneuzao no carro
+1 motor 2 hélices
