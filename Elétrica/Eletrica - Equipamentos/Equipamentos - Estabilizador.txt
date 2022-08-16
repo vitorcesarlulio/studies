@@ -1,0 +1,12 @@
+ESTABILIZADOR
+	Para o estabilizador transitar entre as correntes, que sofre alteração, ele demora milissegundos, desliga milissegundos pra trocar de
+	Isso pode acontecer quando alguém liga ferro de passar, chuveiro
+	
+	Faixas
+		Alta - 130v
+		normal -  127v
+		Baixo - 105v
+
+	Nobreak sem bateria
+	ele basicamente vai fazer o que sua fonte ja faz, corrigir a tensão, mas não vai te proteger de raios, de altas tensões.
+	

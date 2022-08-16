@@ -662,6 +662,9 @@ PAÍS - PERU
 
 PAÍS - CANADÁ
 	• Ponte Suspensa de Capilano
+	
+	CITY - NIAGARA FALLS
+		Ver melhor data
 
 PAÍS - RÚSSIA
 	• Catedral de São Basílio
@@ -690,6 +693,9 @@ PAÍS - FINLÂNDIA
 	• Lapônia
 
 PAÍS - ITÁLIA
+	Itália não gosta de mudança
+	Tudo papel
+
 	COMUNA - ROMA
 		Torre pascaia
 		Coliseu

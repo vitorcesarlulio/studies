@@ -1,0 +1,9 @@
+IA - PRERROGATIVAS
+	Como se comportarão quando tratar de assuntos como religião, politica, valores?
+	E se elas forem utilizadas no ensino (ou até mesmo no entretenimento), como confiar em quem a desenvolveu se não existem travas, ou desvio de percursos para responder questões voltadas a esses tópicos?
+	https://www.youtube.com/watch?v=kgCUn4fQTsc
+	
+	Nessa entrevista o engenheiro do google comenta que, eles limitam a própria IA deles, pra não ter a consciência
+ de uma pessoa, passar no teste de touring, ou responder certos assuntos
+ 
+	que seja, não fornecer dados de um país pra ela

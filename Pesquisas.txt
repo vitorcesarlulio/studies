@@ -1,4 +1,6 @@
 NÃO VISTOS
+	Pedagogia Waldorf
+
 	https://en.wikipedia.org/wiki/Deadbeef
 
 	https://en.wikipedia.org/wiki/Magic_number_(programming)#Magic_debug_values

@@ -1,2 +1,11 @@
 Se for, tem que ser um com ondas senoidais
 	Se for semi senoidais ai é um estabilizador, ele vai ficar perdendo tempo tentando estabilizar a rede eletrica e pode não fornecer energia para o equipamento, muito ruim
+
+NOBREAK
+	Tem uma medida em VA, basicamente pega ela e divide por dois que você vai saber quantos Watts ela suporta
+	
+	existe o online e offline
+		Online é instantâneo, acabou energia ele já fornece energia
+		Offline pode ter um delay de 4 milissegundos que pode desligar seu pc
+		
+		utilizados em estúdios pois precisa de uma energia mais "certa" estabilizada para evitar ruídos na rede elétrica

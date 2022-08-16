@@ -1,6 +1,13 @@
 youtube.com/watch?v=dhyyZDE_p8E
 youtube.com/watch?v=Y9TD3JM-jpU
 
+É bom pra tirar ruidos da rede
+	aquele chiado no microfone
+	se ainda tiver, é que o aterramento n ta legal ou não tem
+
+FILTRO DE LINHA
+	Com DPS melhor que fusível 
+
 cupom clamper
 	clampertec
 
@@ -9,6 +16,7 @@ teria que ver quantos whats consumiria o filtro de linha (é pouco, tem que ser 
 VERIFICAR
 Ampers
 	so suporta 10 ampers total (curioso)
+
 Potencia
 	127 - 1270 w (127v  10 amper)
 	220 - 2200 w

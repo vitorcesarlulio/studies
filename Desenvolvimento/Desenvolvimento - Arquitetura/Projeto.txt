@@ -71,6 +71,11 @@ conheça sua equipe
 
 
 Ficar atento ao des. software
+	FRONT END
+		Colocar tempo "esse formulário leva 30 segundos"
+
+		Sempre perguntas em carrossel, responde uma e pula.pra próxima
+
 	Fazer um modo debug
 	imagina um ar condicionado, eu entro em contato com assistência técnica ai ele manda eu fazer alguns testes, combinação de tecla pra ver como o ar esta
 

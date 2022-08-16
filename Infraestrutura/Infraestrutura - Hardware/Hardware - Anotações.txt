@@ -14,17 +14,6 @@ A ponte sul fica responsável pelos componentes lentos do PC, também conhecidos
 
 BIOS PERTO DA MEMORIA E O CONECTOR WIFI
 
-
-
-
-
-
-ELETRICIDADE ESTÁTICA
-	https://produto.mercadolivre.com.br/MLB-1246390916-manta-antiestatica-esd-condutiva-1-camada-statron-1700x500mm-_JM
-	so de relar em uma bancada de ferro, tem que ser direto no ferro mesmo, sem esmalte, tinta ele descarrega sua eletricidade estática
-	Descarregar energia eletrostática
-	No ferro sem esmalte ou borracha
-
 FONTE 
 	Corsair melhor marca
 	Os selos (bronze, prata) que dizer o quanto não vai desperdiçar de energia e claro a qualidade
@@ -32,22 +21,6 @@ FONTE
 	Fontes com PFC ativo
 	selos 80+ provavelmente ja tem
 	Não suporta ondas semi-senoidal (que é a junção da senoidal com onde quadrada)
-	
-NOBREAK
-	Tem uma medida em VA, basicamente pega ela e divide por dois que você vai saber quantos Watts ela suporta
-	
-	existe o online e offline
-		Online é instantâneo, acabou energia ele já fornece energia
-		Offline pode ter um delay de 4 milissegundos que pode desligar seu pc
-		
-		utilizados em estúdios pois precisa de uma energia mais "certa" estabilizada para evitar ruídos na rede elétrica
-	
-ESTABILIZADOR
-	Nobreak sem bateria
-	ele basicamente vai fazer o que sua fonte ja faz, corrigir a tensão, mas não vai te proteger de raios, de altas tensões.
-	
-FILTRO DE LINHA
-	Com DPS melhor que fusível 
 
 PROCESSADOR
 	CONDUTIVIDADE TÉRMICA
