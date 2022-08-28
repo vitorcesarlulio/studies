@@ -1,3 +1,16 @@
+Pão de açucar
+	Internacional não pontua
+	
+	Tudo azul
+	1:1
+	
+	Smiles e Latam pass
+		gold
+			1:0,7
+		Platinum
+			1:0,88
+	
+
 no banco os pontos tem uma validade de uns 2 anos
 quando voce joga para latam (programa aéreo) por exemplo elas podem ganhar mais 2 anos de validade
 

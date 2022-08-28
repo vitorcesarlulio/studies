@@ -1,1 +1,9 @@
 TATO Amplificador de fones de ouvido
+
+
+Sistema de mesa
+	Smsl su 6
+	Smsl sh 6
+	Topping d30 pro
+	Focusrite Scarlett (só pra microfone)
+	Dilpoetry dt1

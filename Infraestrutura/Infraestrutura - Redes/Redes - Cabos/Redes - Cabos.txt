@@ -1,6 +1,44 @@
+Cabo de rede - Capas
+	Cmx
+		Mais comum, menor resistência a propagação de fogo
+		Não pode ser usado em lugar com ar forçado, ar condicionado, exaustor
+		Tubulação metálica fechada
+		Tubulação sem concentração de cabos
+		Tubulação exposta não seja de mais de 3m
+		Casa e pequenos escritórios
+
+	Cm
+		Tubulação fechada ou com muita ocupação
+		Instalações em um mesmo ambiente 
+		Sem fluxo de ar forçado
+
+	Cmr
+		Uso ligação de backbone vertical (outros pavimentos)
+		Aplicação vertical em shafts
+		Tubulação com pouca ocupação 
+		Sem fluxo de ar forçado 
+
+	Cmp
+		Premium 
+		Locais de confinamentos em cima de forros ou em baixo de pisos elevados
+		Aplicação horizontal
+		Fluxo de ar forçado 
+		Mais exigente contra proteção de incêndio 
+		Restringe propagação da chama somente 1.5m
+
+	LSZH
+		Baixo alogênico
+		Ah chama não se propaga
+		Com fluxo ou sem ar força 
+		Onde tem grande concentração de pessoas, hospitais, shopping, escola
+
+	LSZH-1
+		Limita propagação da chama
+
 meu cat 5e suporte poe?
 	Pelo que entendi funciona
 	se for de qualidade claro
+
 TIPOS
 	https://www.youtube.com/watch?v=mc4mS5nmF2M
 

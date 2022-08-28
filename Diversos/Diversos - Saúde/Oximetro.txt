@@ -1,0 +1,15 @@
+Oxímetro
+Saturação de oxigênio
+Oxigênio se liga a hemoglobinas
+E aí ele tenta calcular a quantidade de o2 ligadas a hemoglobinas
+96 a 100 é perfeito
+Até 94 é considerado
+
+Mas se o cara for fudido, fumante, pulmão ruim vai dá 89 não tem o que fazer
+
+Com unha pintada, tremendo, frio (n chega sangue direit), adrenalina pode dar alterações 
+
+O aparelho não sabe diferenciar o2 e Co2
+Porque Co2 chega melhor nas homoglobina
+
+Frequência cardíaca

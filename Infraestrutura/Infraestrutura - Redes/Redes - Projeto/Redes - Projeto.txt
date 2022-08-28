@@ -1,4 +1,20 @@
 https://www.youtube.com/watch?v=pjRhL1oQaYw
+Cada 20m colocar uma caixa de passagem redes
+Colocar caixas de passagem
+Curvas (90°) colocar caixa de passagem
+
+Proteger cabeamento com saquinho 
+
+Fita velcro sempre com folga
+
+3m de sobra dentro do rack no mínimo
+De chão deixa mais aknda
+
+Eletroduto não pode haver curvas!
+
+EXTERNO
+	Cabeamento do poste até a casa é bom passar 2 por redundância e deve ser concretado, se um dia alguém for quebrar algo pega no concreto
+
 
 ONU
 	É separado do roteador?

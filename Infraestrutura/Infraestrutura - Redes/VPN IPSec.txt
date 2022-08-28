@@ -1,0 +1,3 @@
+VPN IPSec
+	estabelecimento de Redes Virtuais Privativas (VPN)
+	entre duas unidades remotas de uma empresa através da Internet pública

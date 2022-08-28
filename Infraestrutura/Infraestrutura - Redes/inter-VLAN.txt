@@ -1,0 +1,6 @@
+inter-VLAN
+		Uma única interface física LAN pode ser utilizada para conectar múltiplas redes lógicas (VLANs) através de uma configuração muito comum em ambientes maiores que é denominada roteamento inter-VLAN.
+		
+		Saio de uma entrada lan para um switch
+		e no switch vai sair tudo meus cabo de rede, só que 10 portas eu crio uma rede (virtual)
+		outras 10 outra rede, e ai eu gerencio elas

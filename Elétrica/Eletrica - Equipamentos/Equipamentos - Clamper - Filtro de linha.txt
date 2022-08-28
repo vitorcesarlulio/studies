@@ -1,6 +1,22 @@
 youtube.com/watch?v=dhyyZDE_p8E
 youtube.com/watch?v=Y9TD3JM-jpU
 
+surtos eletricos podem atingir equipamentos por meio de linha de dados e sinal
+
+IClamper energa 8
+	compativel com iclamper cabo, tel
+	atenuação de ruidos
+	bivolt
+	antichamas
+	3 anos de garantia
+	
+	127v ou 220v
+	corrente 10a
+	
+	1270w ou 2200w
+	
+	Temp de operação -40 +70
+
 É bom pra tirar ruidos da rede
 	aquele chiado no microfone
 	se ainda tiver, é que o aterramento n ta legal ou não tem

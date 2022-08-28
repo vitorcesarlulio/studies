@@ -1,0 +1,28 @@
+UniFi Security Gateway (USG)
+	alternativa às caras soluções de firewall
+	
+	é gerenciado de maneira centralizada, através da interface do UniFi Controller, um software gratuito, assim como ocorre com todos os demais dispositivos UniFi na infraestrutura de rede.
+	
+	Funções
+		função DPI
+			faz a inspeção detalhada dos pacotes, inclusive do tráfego criptografado via HTTPS
+			facilitando muito a administração e monitoramento detalhado de todos os acessos dos funcionários da empresa à Internet
+			quantidade de acesso específico às principais redes sociais e/ou serviços de streaming de vídeo, todos organizados por categoria
+		
+		Análise Detalhada de Tráfego por Aplicação (DPI)
+		Suporte a 2 Links de Internet (Load Balance e Failover)
+		Compartilhamento da Conexão de Internet (SNAT)
+		Redirecionamento de Portas na WAN1 (DNAT)
+		Regras Avançadas de Firewall
+		Servidor DHCP
+		Roteamento inter-VLAN
+		Redes Remotas via VPN Site-to-Site
+		Auto-QoS (sem Customização)
+	
+	 ideal para aqueles ambientes pequenos que possuem até 200 usuários
+	 3 interfaces de rede 10/100/1000, sendo a WAN1 exclusiva para conexão com a Internet e a LAN1 exclusiva para conexão com a rede interna
+	
+	USG-PRO-4
+		é possível interligar os links externos via fibra óptica
+	
+	 
