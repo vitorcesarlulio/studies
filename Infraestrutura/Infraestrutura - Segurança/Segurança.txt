@@ -1,0 +1,2 @@
+Ransware
+	Bloquear e criptografar arquivos

@@ -23,3 +23,5 @@ voxpopi.blogspot.com/2018/04/ideias-de-automacao-residencial-com.html
 	
 	Chegando em casa abre o portão
 	se tiver de noite liga luz
+	
+	Se não tiver presença, movimento na cozinha, quem sabe na casa, por x tempo, corta energia do fogão

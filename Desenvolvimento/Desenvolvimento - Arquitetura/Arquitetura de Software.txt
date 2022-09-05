@@ -1,0 +1,10 @@
+Overengineering
+	Pensar algo de mais para um software
+	A ele obrigatoriamente precisa disso, só que eu vou colocar mais uma coizinha pq parece útil pro usuário
+	mas você não consultou ninguém, não sabe se vai ser utilizado
+	
+	Resolver problemas que você não tem
+	
+	Não só funcionalidades, mas sim tecnologias. Metodologia no software
+	
+	Ele surge a partir de especulações, dados rasos, viu alguem, acha que pode resolver

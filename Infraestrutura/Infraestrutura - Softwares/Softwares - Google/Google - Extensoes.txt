@@ -1,15 +1,21 @@
-	Evernote Web Clipper
-		Permite tirar um resumo do texto, tirar propagandas e todo conteúdo a não ser o texto, fazer anotações
-		https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc
-		
-	Duplicate File Finder, Cleaner for Drive
-		Arquivos duplicados google drive
-		https://chrome.google.com/webstore/detail/duplicate-file-finder-cle/bkefnddmfngncidpmibnleniddiopejg
-		
-	Multiple File Rename for Google Drive
-			renomear arquivos em massa
-		https://chrome.google.com/webstore/detail/multiple-file-rename-for/fecjghoijccolpobhccnbofclnembgij
-		
-	Save to Pocket
-		Salvar publicações, materias etc	
-		https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=pt-BR
+Evernote Web Clipper
+	Permite tirar um resumo do texto, tirar propagandas e todo conteúdo a não ser o texto, fazer anotações
+	https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc
+	
+Duplicate File Finder, Cleaner for Drive
+	Arquivos duplicados google drive
+	https://chrome.google.com/webstore/detail/duplicate-file-finder-cle/bkefnddmfngncidpmibnleniddiopejg
+	
+Multiple File Rename for Google Drive
+		renomear arquivos em massa
+	https://chrome.google.com/webstore/detail/multiple-file-rename-for/fecjghoijccolpobhccnbofclnembgij
+	
+Save to Pocket
+	Salvar publicações, materias etc	
+	https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=pt-BR
+Linkclump
+	Você clica Z e faz um quadrado sobre a parte que você quer abrir vários links
+
+Enhancer for YouTube
+	Tem como definir que qualidade vai iniciar os vídeos
+	Tem várias outras opções
