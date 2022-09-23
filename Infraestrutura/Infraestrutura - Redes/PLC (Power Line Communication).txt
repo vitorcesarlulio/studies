@@ -1,0 +1,11 @@
+PLC
+	Capacidade de transmitir dados pela rede elétrica
+	É bom usar sem filtro de linha e afins pra ele não tentar fazer algum filtro
+	Sofre com ruídos, motores
+		Liquidificador fez um grande atraso na rede
+		ping de 10 vai para 200
+	Emensas na rede eletrica também vão prejudicar
+	
+	Numa internet de 100mb, onde cabeado dava 80
+	no plc deu 20 a 30mb
+	velocidade né

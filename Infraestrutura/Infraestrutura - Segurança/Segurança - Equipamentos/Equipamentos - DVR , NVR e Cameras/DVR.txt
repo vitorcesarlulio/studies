@@ -1,0 +1,34 @@
+ARMAZENAMENTO
+	SSD
+		Tamanho menor
+		Tempetura
+		Vida útil
+			Não é mecânico
+		Menos alimentação
+		Velocidade de transmissão das imagens maior
+
+	HD
+		Trabalham 80% do tempo gravando e não lendo
+
+		Quanto tempo dura?
+			O cara disse 1 ano
+		
+		Rotinas
+			Confira se está gravando de 15 em 15 dias
+			Rode um crystal disk info depois de um ano
+
+		Westemdigital
+			É mais aconselhado para DVR, servidor
+			Eles ficam ligados 24h
+		
+		Tem que ver os tipos de HD compatíveis
+			Qualquer HD serve, mas ideal são os que a Intelbras ou seu DVR recomenda
+
+			Aqueles adorador que entra 1 cabo de rede e sai 2 é pra câmeras, já que câmeras da pra usar várias câmeras com 1 cabo só 
+
+			Integrando câmera na Alexa (mas precisa estar na comunidade)
+			https://youtu.be/ThJjDj5gHxw
+
+			Muito top, fazer umas cenas das câmeras com alexa
+			https://youtu.be/mdL8JNhaKNA
+			https://youtu.be/6JVsEY-sxyQ

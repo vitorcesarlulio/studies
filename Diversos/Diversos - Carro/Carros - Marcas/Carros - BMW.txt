@@ -1,4 +1,19 @@
-BMW x3 
+X6 M 
+	2011
+		V8 BI turbo
+		2300kg
+		4s até 100km/h
+		Faróis de led
+		Repatimento retrovisores
+		4.4l o motor
+		4km/l
+		Porta com sucção 
+		Farol alto desliga automaticamente se tiver vindo carro
+		Limpador de parabrisa automático 
+		Massagem
+		Fotocrômico
+
+X3 
 	canhão se loco
 	Lounch control só com 2k km
 	Faz uma revisão antes

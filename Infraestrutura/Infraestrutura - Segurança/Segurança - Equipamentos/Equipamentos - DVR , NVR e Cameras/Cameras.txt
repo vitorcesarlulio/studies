@@ -1,0 +1,18 @@
+Camera não mais que 0.5a
+Uma fonte colmeia de 5 amper já da umas 8 câmeras
+
+https://www.youtube.com/watch?v=cHEQGnOyiq8
+
+Chaveada quer dizer que ela tem uma chave pra alternar entre 110v e 220v
+
+Existe a opção de deixar pontos de energia próximo a câmera, assim os cabos de energia não precisam ir lá para rack
+Porem se queimar e for um lugar longo ai moio
+
+5A
+	10m de distancia da fonte
+		Até umas 7 câmeras
+	30m
+		Até 5 câmeras
+
+10A
+	Até

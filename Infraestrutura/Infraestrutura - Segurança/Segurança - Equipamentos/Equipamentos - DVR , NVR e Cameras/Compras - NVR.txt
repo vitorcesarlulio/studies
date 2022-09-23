@@ -1,0 +1,7 @@
+NVR
+Gerência suas câmeras 
+Câmera onfife 
+Freegate 
+Detecção de objetos
+Consome bastante CPU
+Armazenamento 

@@ -10,6 +10,9 @@ PLANEJAMENTO
 		https://www.numbeo.com/cost-of-living/]
 	
 	Levar algum adpatdor de tomada de acordo com pais
+	
+	Tirar PID quando for viagem internacional
+	Pra dirigir na europa
 
 EUA
 	Planejamento eua

@@ -16,3 +16,21 @@ Compras
 		Plafons
 		Spots
 		Fita de led / Barra de Led
+	
+	Geral
+		Ar condicionado
+		Suporte TV
+		Torneiras
+		Registro e acabamentos
+		Mangueira
+		Ralos
+		Ventilador
+	
+	Banheiros
+		Chuveiro
+		Acabamento hydra
+		Ducha higienica
+		Porta papel higienico
+		Porta toalha
+		Coifa
+		

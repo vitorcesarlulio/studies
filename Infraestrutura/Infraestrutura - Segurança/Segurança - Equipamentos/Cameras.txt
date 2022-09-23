@@ -1,0 +1,55 @@
+As câmeras são HDCVI!
+
+Com 1 cabo de rede bom você consegue passar 2 câmeras
+1 par pra 1 câmeras
+1 par pra 1 câmeras
+1 par pra energia
+
+Câmeras
+	Dependendo do local, precisa de microfone
+
+Onvife
+	Da pra ver as câmeras pelo PC
+	
+Cabo de câmera
+	Cabo manga 4 x 22 awg com blindagem
+
+Câmera
+		INTELBRAS IM5 IP67
+			https://www.amazon.com.br/gp/product/B08GL4JDQX/ref=as_li_tl?ie=UTF8&tag=pattetech-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08GL4JDQX&linkId=f09e10326ae9d25e24c1193f35f54090
+			https://www.youtube.com/watch?v=wFryJUwBR-o
+			ip67 resistente a agua e poeria
+			é wifi e cabeada
+			compativel com google e alexa
+			1080p
+			30 frames por segundo
+			15 por segundo a maioria
+			tem visão noturna
+			30 metros externo
+			zoom 16x 
+			da pra conversar c a pessoa
+			ou so ouvir o audio
+			aceita cartao de memoria de ate 128gb
+			
+			intelbras tem plano pra salvar na nuvem
+			
+			é a melhor na faixa de preço
+			
+		IM4 360º
+			https://www.youtube.com/watch?v=xZfzQYQOKCo&list=WL&index=91
+			30 frames por segunda
+			360
+			tem cabo de internet
+			infra vermelho bom
+			tem alto falante  microfone
+			aceita cartao de memoria de ate 156gb
+		
+	https://www.edcabos.com/cabo-rede-cat6/patch-cord-cat6-furukawa-verde-gigalan-23awg--p
+	top
+	https://www.edcabos.com/cabo-rede-cat6/patch-cord-cat6-blindado-ftp-cinza-copperlan--p
+	https://www.edcabos.com/cabo-rede-cat6/cabo-de-rede-cat6-furukawa-sohoplus-branco--p
+	https://www.edcabos.com/cabo-rede-cat6/cabo-de-rede-cat6-blindado-ftp-cinza-copperlan--p
+	https://www.edcabos.com/cabo-rede-cat6/cabo-de-rede-cat6-nexans-essentials-23awg--p
+	
+	Câmera 360 arenti 
+		muito boa, quase 360, sensor de movimento, 2k qualidade

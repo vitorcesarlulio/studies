@@ -1,0 +1,10 @@
+Monitorar tela computador pelo DVR
+	Conversor HDMI para RCA
+	1 cabo hdmi
+	1 cabo normal
+	1 conector RCA macho ponta de ouro
+		é bom soldar o cabo no conector pra evitar interferência
+	
+	ai esse cabo normal vai ligar no DVR como se fosse uma câmera e a outra ponta liga no RCA amarelo do conversor.
+	Ai o HMDI vai para o PC
+	No PC tem que ir em resolução e utilizar a opção de duplicar vídeo

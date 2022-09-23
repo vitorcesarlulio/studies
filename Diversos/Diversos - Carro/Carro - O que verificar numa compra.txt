@@ -35,3 +35,5 @@ NÃO - Pneus
 NÃO - Observar as luzes de airbag e ABS
 NÃO - Ver nível do óleo, da água
 NÃO - Ver se o carro tem manual
+NÃO - Marca de chave, suportes riscados
+SIM - Pontos de solda íntegros, na porta, de baixo das borrachas, no chassis, no motor
