@@ -1,3 +1,38 @@
+https://api.whatsapp.com/send/?phone=5519974204951&text&type=phone_number&app_absent=0
+
+Bom dia!
+
+Meu nome é Vitor, no sábado 24/09 fui até a loja pra ver se tinha algum Nivus. Se pintar algum Nivus 2021 Launching Edition na cor Cinza Moonstone, salva meu contato que tenho interesse. Abraços!
+
+Carros - Kele - Eduardo
++55 19 99709-3557
+Na espera de um Nivus
+
+Carros - Americana Motors - Vitor
++55 19 99435-1926
+Na espera de um Nivus
+
+Carros - Iacanga - Robson
++55 19 99110-1398
+Na espera de um Nivus
+
+Carros - Iacanga - Carli
++55 19 98839-5896
+Na espera de um Nivus
+
+Carros - Estetcar - Alex
++55 19 98364-1640
+Na espera de um Nivus
+
+Carros - Celio - Rodrigo
++55 19 97420-4951
+Vai enviar características do carro
+
+
+
+
+
+
 A marca mais razão é Toyota
 
 Carro com mais de 100k km buchinha
@@ -11,7 +46,12 @@ COMPRAR CARRO NA CONSECIONARIA
 VOLKSWAGEN
 	Tsi + câmbio dsg combo perfeito
 
+	Segurou botão de abrir vai desbater os retrovisor e abrir os vidros
+	mão na macaneta + botão de trancar ele abre todos os vidros tbm
+
 	NIVUS
+		Fazer configurações do Pneu com carro frio, pneu quente ele fica mais cheio
+
 		Diferenciais virtus e polo
 			6 Air bag
 			Faróis e lanternas Full led
@@ -20,28 +60,42 @@ VOLKSWAGEN
 			Limitador de velocidade
 			Porta malas maior (virtus é maior)
 			Melhorias no câmbio (trancos e na hora de tirar pé do freio ele vai mais de vagar)
-
-		Rebatimento retrovisor
-		Teto preto
+			Rebatimento retrovisor
+			
+			Polo
+				Tem opcional som Beats
+				Tem gps
 		
 		nivus 2023
 			manopla nova
 			volante novo
 			painel todo digital
+			retrovisor não é eletrocrômico?
 		
 		Nivus 2022
 			Atualização 576 permiti Android auto sem fio
 			Painel digital ar condicionado
+			
+			reclamam de Bug central multimídia
+			Chave presencial
+			Retorvisor fecha
+			Pedal shift
+			Retrovisor que embaça
+			Limpador de parabrisa automático 
+			Monitoramento pneu
+			1.0
+			ar condicionado digital
+				nem todos
+			carregamento por indução
+			porta oculos
+			perdeu capa de parafuso
+			acho que tem esquema de cor de vidro
 
 		Nivus 2020
 			9.3km na cidade gasolina highline 2020
 			15 na pista oloco
-			Oloco cara fez 15 na cidade também 
-
-		Nivus Confortline
-			Já vem Full led
-
-		Nivus 2020
+			Oloco cara fez 15 na cidade também
+			
 			Em suv ele ganha o melhor
 			Faróis Full led
 			Milha em led
@@ -51,60 +105,38 @@ VOLKSWAGEN
 			Acc
 			Interno parece muito o polo, espaço Espaço atrás pequeno
 
-		2022
-			reclamam de Bug central multimídia
-			Chave presencial
-			Retorvisor fecha
-			Pedal shift
-			Retrovisor que embaça
-			Limpador de parabrisa automático 
-			Monitoramento pneu
-			1.0
+		Nivus Confortline		
 
 	POLO
-		Polo GTS
-			Farol não é Full led
+		Polo GTS 2021
+			Central multimídia melhor que 2022, trava a 2022
+			Só tem um canhão de luz
+			O outro é cego
+			Farol de milha não tem DRL (meio que cego tbm)
+			Motor é top
+			4 discos Freio a disco atrás
+			lanterna traseira desenho diferente
+			Detalhes em black piano
+			Porta malas
+			tem sub lá atrás de beats
+			manômetros no painel digital
 			
-		Polo 2023
-			farol full led
-			170 tsi 
-			freio a tambor atras
-			volante novo
-			ar condiiconado digital
-			Manopla nova
-			falaram que motor é mais forte que cambio, torque, logo se chipar vai quebrar
-			
-		Polo 2021 GTS
 			max 115 mil reais
 			205 largura
 			45 perfil
 			Aro 18
 			Full led
-			Freio a disco atrás
 			4 cilindros, 150 cv, ta no jetta, golf
-			Carro turbo tem que ficar de olho no oleo, colocar oleo certo
-			porta mala n tem botao
+			Carro turbo tem que ficar de olho no óleo, colocar óleo certo
+			porta mala n tem botão
 			porta mala grande
-			Saida ar condicionado traseira
+			Saída ar condicionado traseira
 			teto preto
 			ar no porta luva
 			Gps
 			sd card
 			Mídia é diferente do virtus
-			
-		Polo GTS 2022 1.4 TSI
-			Modos de condução
-			No individual você personaliza
-			Start stop (desligar motor)
-			Tem como desativar
-			Botões tudo digital
-			8.4s
-			25 toque
-			150cv
-			Piloto automático convencional (não adaptativo)
-			Na pista 12km/l
-			Cbio tiptronic
-		
+
 		Polo GTS (Gran turismo sport)
 			Tem DRL
 			Seta em led
@@ -124,8 +156,31 @@ VOLKSWAGEN
 				Bicos
 
 			Versão nova já tem rebatimento de retrovisor
+
+		Polo 2023
+			farol full led
+			170 tsi 
+			freio a tambor atras
+			volante novo
+			ar condiiconado digital
+			Manopla nova
+			falaram que motor é mais forte que cambio, torque, logo se chipar vai quebrar
+
+		Polo GTS 2022 1.4 TSI
+			Um dos melhores startstops
+			Modos de condução
+			No individual você personaliza
+			Start stop (desligar motor)
+			Tem como desativar
+			Botões tudo digital
+			8.4s
+			25 toque
+			150cv
+			Piloto automático convencional (não adaptativo)
+			Na pista 12km/l
+			Cbio tiptronic
 	
-	Virtus
+	VIRTUS
 		Cumprido em
 		Consumo foda em
 

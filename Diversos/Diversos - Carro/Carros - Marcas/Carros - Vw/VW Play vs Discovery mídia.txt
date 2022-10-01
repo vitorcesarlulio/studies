@@ -1,0 +1,64 @@
+VW Play
+	ELA TEM MAIS FUNCIONALIDADES
+	Não tem botão físico
+	Não tem suporte de celular mais
+	Andoid auto e apple car play (sem cabo de dados no apple)
+	Conectar ela ao wifi
+	Usar apps na multimídia
+	10gb de memoria
+	Criação de perfis
+		equalização de som
+		formato de painel
+	Quanto tempo farol vai ficar ligado dps de fechar o carro
+	Opção manobrista (modo valet)
+		passou de 500 metros vai chegar uma mensagem no seu cel
+	Fechar retrovisor ao bloquear carro
+	resetar km
+	Monitoramento de pneus
+	Opção de fadiga
+		acende uma xicara de café no painel
+	ACC
+		frenagem
+			perto
+			muito perto
+	
+	Segurar abertura na chave
+		abrir todos vidros
+		Destravar só porta do motorista?
+		Travar automaticamente
+		monitoramento do interior
+	Notificações
+	
+	Nivus 2021
+		waze pega da antena do nivus, pode ser mais eficaz
+		tem antena de gps
+		sem internet ele funciona
+
+Discovery mídia
+	MAIS QUALIDADE
+
+	Polo 2021
+		Botões físicos
+		Os digitais são fixos
+		Monitor de desempenho
+		Laptimer
+		Configurações de pneu
+		Liga farol quando limpador de parabrisa ativar
+		Direção conforto, relou de leve na seta pisca só 3x
+		Living home e coming home
+		Cansaço igual no nivus
+		Sensor de estacionamento (parkpilot)
+		zerar consumo
+		sensor toque de tela
+		relógio no standby
+		Adaptação de volume
+			pneu fazendo barulho e retrovisor, ai ele aumenta som dentro do carro
+		GPS
+			mas n tem nem como comparar com waze e gmaps
+		Android auto
+			ifood
+			deezer
+			cpa powerapm
+			cpa spotfy
+			no cabo, isso se não mexer vcds (n sei se tem como)
+		Apple car play

@@ -1,0 +1,107 @@
+https://servicos.receita.fazenda.gov.br/servicos/cpf/consultasituacao/ConsultaPublicaExibir.asp
+	Consultar CPF
+
+Regularizar (só é permitida para situação cadastral suspensa)
+	https://servicos.receita.fazenda.gov.br/Servicos/CPF/regularizar/Default.asp
+
+Situação Cadastral: PENDENTE DE REGULARIZAÇÃO
+
+	https://cav.receita.fazenda.gov.br/ecac/#
+	entrar e ver o que esta pendente
+
+	Certidões e situação fiscal
+		Consulta Pendências - Situação Fiscal (https://cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx?id=2&origem=menu)
+	
+		Diagnóstico Fiscal na Receita Federal
+			Débitos/Pendências
+				Irregularidades Cadastrais
+					Ausência de Declarações
+		
+		Ai voce ve o que é
+		
+		DIRPF	2022 	Operações de Day-Trade
+
+		Ai tem que baixar o app do ano que n declarou (2022)
+
+Declaração IR
+	https://cav.receita.fazenda.gov.br/eCAC/Aplicacao.aspx?id=107
+	
+	Ou baixa o app
+	ai preenche os formulários
+	
+	Imprimir darf + darf de multa por atraso
+
+Informa de rendimento
+	Binance
+		 youtube.com/watch?v=N5tV3BJrxQg
+		
+criptomoedas devem ser declaradas no imposto de renda
+	Se você comprou mais de R$ 5.000 em bitcoins ou outras criptomoedas, deve informar a posse e a negociação das moedas virtuais no Imposto de Renda 2022. A Receita Federal criou códigos específicos na ficha de "Bens e Direitos" para informar as criptomoedas
+	
+	https://economia.uol.com.br/imposto-de-renda/noticias/redacao/2022/04/27/imposto-de-renda-2022-comprou-bitcoins-acima-de-r-5000-precisa-declarar.htm#:~:text=Se%20voc%C3%AA%20comprou%20mais%20de,Direitos%22%20para%20informar%20as%20criptomoedas.
+	
+COMO DECLARAR
+	https://www.youtube.com/watch?v=tB2vieKCFyc
+
+	FIQUE ATENTO AO PRAZO
+		Geralmente até 29/04
+		
+	Tudo que é declarado é ao ano de 2021
+
+	Requisitos
+		Rendimentos acima de R$ 28.559,70
+		
+		Recebeu rendimentos isentos, não tributáveis ou tributados exclusivamente na fonte acima do limite R$ 40.000,00
+		
+		Receita bruta anual decorrente da atividade rural em valor acima de R$ 142.798,50
+		
+		Pretende compensar prejuízos da atividade rural deste ou de anos anteriores com as receitas deste ou de anos futuros
+		
+		Teve a posse ou a propriedade em 31 de dezembro do ano-calendário (ano anterior), de bens ou direitos, inclusive terra nua, acima do limite R$ 300.000,00
+		
+		Obteve ganho de capital na alienação de bens ou direitos, sujeito a indecência do imposto
+		
+		Optou pela isenção de imposto sobre o ganho capital na venda de imóveis residenciais, seguido de aquisição de outro, no prazo de 180 dias
+		
+		Realizou operações em bolsa de valores, de mercadorias, de futuros e assemelhadas
+		
+		Passou a condição de residente no Brasil, em qualquer mês, e nessa condição se encontrava em 31 de dezembro do ano-calendário (ano anterior)
+	
+	Abre o app
+		Clique em novo
+			Declaração de ajuste anual
+				Se quiser pode importar a de um ano passado
+				Pre preenchida que o GOV já tem sobre você
+				
+				Ai vai ser direcionado para página com as fichas de declaração que devemos preencher
+				
+					Idenficação do contribuinte
+						Declaração de ajuste original (essa)
+						Declaração retificadora
+							quando fez algum erro
+						
+					Dependentes
+						quem depende de seu salario
+					
+					Alimentandos
+						paga pensão? mas só pela justiça, de boca não vale
+					
+					Rend. Trib. de pessoas jurídicas
+						Tudo o que recebeu de PJ
+						Tudo isso ta no informe da empresa
+						Se algum dependentes recebeu, precisa colocar tbm
+					
+					Rend. Trib. de pessoas físicas ou exterior
+						consultoria
+						canal no yt
+					
+					
+					
+			
+			Declaração final de espolio
+				depois que morre
+			
+			Declaração de saída definitiva do pais
+	
+	
+		
