@@ -1,0 +1,12 @@
+Como desenvolver boas práticas de programação? com Fabio Akita
+	https://www.youtube.com/watch?v=GUanHEGlje4&t=769s
+
+	É muito difícil um código que foi feito e você deu CTRL + S acaba ali
+	Existem outras visões e preocupações
+
+	Outro ponto também é ele sair exatamente conforme o planejado
+
+	kkkk as vezes a gente vai tentar otimizar o código, vai perder muito tempo, pra discutir coisa de 0.001s e 0.01s
+
+	Nenhum dos 5 sentidos do ser humano é possível para descrever um software
+	As formas como podem ser descritas um software são diferentes

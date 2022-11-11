@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=qo8FNtCVXCs
+
+	Page life PLE
+		Tempo em segundos que o SQL Server mantem uma página de dados em memoria, em cache
+		Quanto mais alto, mais tempo essa página está em memoria
+		ai você n precisa ir para o disco
+		
+		minimo 1000 segundos

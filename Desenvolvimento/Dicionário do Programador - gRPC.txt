@@ -1,0 +1,46 @@
+gRPC
+	framework da Google com código aberto
+	alto desempenho em chamadas entre sistemas usando padrão de comunicação RPC
+	Esse padrão pode ser executado em qualquer ambiente de forma eficiente
+	
+	Balanceamento de carga
+	Rastreamento
+	Verificação de integridade
+	Autenticação
+	
+	Solução robusta de computação distribuída
+	Conectar dispositivos, aplicativos moveis e navegadores a serviço de BE
+	
+	RPC
+		usa modelo Cliente-Servidor
+		para solicitar o serviço de um programa localizado em outro computador
+		
+		Não é necessário conhecer os detalhes da rede
+		
+		Operação síncrona
+			Cliente fica suspenso até que o servidor DEVOLVA UM RESULTADO
+		
+		Operação assíncrona
+			Só tem espera para aceitação do servidor
+			Ai o servidor depois que tem os dados faz uma chamada para o cliente One-Way RPC
+			2 chamadas RPC tornam o processo assíncrono
+		
+		Varias empresas, adotaram seus próprios RPC
+		Java, SAP
+	
+	gRPC
+		utiliza HTTP/2
+			muito mais rápida que a versão 1 em texto plano
+		E como não é rest?
+			rest só usa HTTP como ferramenta
+		
+		Codifica os pacotes em forma binaria
+
+		Protobuf
+			é uma IDL
+			Diz para um sistema como outro sistema espera os dados
+			bem importante esse arquivo, um arquivo de configuração que deve ter nos dois lados
+			
+			Só que é mo briza pq vc tem ir definindo os tipos, a estrutura que vai ser trafegada
+		
+		GRPC le esse arquivo e entende esse arquivo

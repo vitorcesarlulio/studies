@@ -1,0 +1,6 @@
+PONTOS SERASA
+	SPC e Serasa ligar para excluir histórico de busca
+
+	Passar contas básicas para seu nome, energia, agua
+
+	Fazer movimentações entre contas

@@ -1,0 +1,13 @@
+Transferencias debitadas
+	de 2500 das suas receitas (seu salario por exemplo) 500 vc transferiu para poupança
+
+Contas
+	cadastrar minhas contas bancarias
+
+Orçamentos
+	300 reais no máximo por mês com carro
+	Os orçamentos são por categoria, quando você lança uma despesa voce vincula a uma categoria
+
+Se fizer um saque em dinheiro, voce cadastra que foi um saque para sua carteira
+
+Cartões de credito

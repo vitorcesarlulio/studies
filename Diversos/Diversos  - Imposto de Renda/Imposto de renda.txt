@@ -1,3 +1,31 @@
+https://cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx?id=2&origem=menu
+
+Diagnostico fiscal > Gerar relatórios
+
+CDBs mediante lucro ou mensal
+renda fixa mês 05 e mês 11 tira da fonte (seu saldo)
+
+Deduções
+	doando dinheiro para caridade
+	pagando plano de saúde para um dependente
+	
+	Educação - pagar pra alguém, mas no seu nome
+	
+	Dependentes, quanto mais eu tiver mais deduz
+
+O governo decide qeu você tem que pagar 3k, ai ele vai deduzindo, ai pode ser que deduz de mais e gere um debito (RESTITUIÇÃO)
+
+Se você tem um CPF cancelado
+ai vem em cascata, perde titulo, perde reservista, passaporte, você não é mais cidadão
+E pra regularizar isso é um BO, começa pela reservista
+
+3x seguidas sem votar acontece isso também
+
+
+
+
+
+
 https://servicos.receita.fazenda.gov.br/servicos/cpf/consultasituacao/ConsultaPublicaExibir.asp
 	Consultar CPF
 
@@ -17,7 +45,7 @@ Situação Cadastral: PENDENTE DE REGULARIZAÇÃO
 				Irregularidades Cadastrais
 					Ausência de Declarações
 		
-		Ai voce ve o que é
+		Ai você ve o que é
 		
 		DIRPF	2022 	Operações de Day-Trade
 
@@ -102,6 +130,3 @@ COMO DECLARAR
 				depois que morre
 			
 			Declaração de saída definitiva do pais
-	
-	
-		

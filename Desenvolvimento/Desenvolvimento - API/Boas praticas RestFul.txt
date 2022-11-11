@@ -1,3 +1,5 @@
+Essa página concentra as RFC's relacionadas ao padrão REST: https://standards.rest/
+É uma ferramenta que pode facilitar nosso trabalho ao responder os tickets...
 
 https://www.youtube.com/watch?v=IEdgikorO5Q
 

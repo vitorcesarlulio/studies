@@ -1,0 +1,79 @@
+Seguro compreensível
+	Colisão
+		Qualquer uma
+		Todos seguros possuem franquia
+		Participação do segurado no prejuízo
+
+			Básica
+			Reduzida
+				Seguro mais caro
+			Majorada (dobrada)
+				Tende a cair seu seguro
+				
+		Carro vale 20k franquia de 1.5k
+		Bateu e prejuízo é de 10k você paga os 1.5k e a seguradora arca com resto
+
+	Incêndio
+
+	Roubo e furto
+		Não exige franquia
+
+	Assistência 24h
+		Tende a mudar o valor e por KM que o carro quebrou pode mudar
+
+	Danos materiais e corporais (terceiros)
+		Não paga franquia se acionar terceiros
+		Você defini um valor por exemplo 50k mas bateu num carro ficou 100k, você vai ter que arcar com 50k e a seguradora 50k
+		por isso bom deixar alto, veja quanto altera o valor do seguro
+	
+	Coberturas adicionais
+		Paga uma franquia mínima
+
+		Vidros
+		Faróis
+		Lanternas
+		Para-choque
+
+Condutor
+	quem utiliza 85% do veiculo
+
+Toda renovação você vai ganhando bônus
+	Police
+
+Analisar
+	Modelo
+		Carros mais visados para roubo
+			Um dos pontos mais importante
+		Para peças
+	Cor
+	Versão
+	Ano
+
+	Solteiro?
+
+	Sexo
+		Masculino
+			Mais alto devido taxa de acidente
+
+	Região
+		Afeta bem
+	Histórico do motorista
+		Perdeu pontos?
+	Idade
+		Pode ser que n afeta muito
+	Lazer ou trabalho?
+		Usa ele todo dia
+	Tem garagem?
+	Local de residência
+	Estacionamento no serviço
+
+	Tipo de cobertura
+		Valor para cobrir terceiros
+		Tipo de franquia
+			normal ou reduzida
+		Coberturas extras
+			Passageiros
+			Chaveiros
+
+
+	

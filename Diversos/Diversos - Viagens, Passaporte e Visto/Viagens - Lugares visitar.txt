@@ -81,6 +81,9 @@ PROGRAMAS
 
 PAÍS - BRASIL
 	ESTADO - SÃO PAULO
+		CIDADE - BERTIOGA
+			Condomínio Morada da Praia
+
 		CIDADE - ITU
 			• Parque Maeda, final de ano dezembro tem lichia e jabuticaba paga 10 reais come a vontade
 
@@ -336,6 +339,8 @@ PAÍS - BRASIL
 		• Hotel Casa e Mar - Wellness Hotel & Spa
 		
 		Teresopolis
+		
+		Feira de são Cristóvão
 
 		Aquário
 
@@ -421,6 +426,7 @@ PAÍS - EUA
 
 	STATE - NOVA IORQUE
 		CITY - NOVA IORQUE
+			Radisson Hotel, muito bom
 	
 	STATE - MICHIGAN
 		CITY - DETROIT
@@ -545,6 +551,18 @@ DUBAI
 Índia e blangladesh não consomem muita carne
 
 EUROPA
+	PAÍS - Turquia
+		Yuvarlakçay Defne Restaurant
+
+	PAÍS - ISLÂNDIA
+		Skógafoss
+	
+	PAÍS - NORUEGA
+		Fiorde de Lyse
+	
+	PAÍS - Suíça
+		Zermatt
+
 	PAÍS - ALEMANHÃ
 		nurburgring nordschleife
 

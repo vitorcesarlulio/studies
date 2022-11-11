@@ -1,0 +1,98 @@
+Data Warehouse / Data Lake / Data Lakehouse
+
+Mundo de bigdata
+Forma em que os dados são armazenados e gerenciados
+
+Hewlett Packard
+	HPE EZMERAL
+		plataforma com diversas ferramentas de analise e ML
+		analise e data lake em um lugar
+
+Data Warehouse
+	repositório de dados unificado para armazenar GRANDES QUANTIDADES de informações de VARIAS FONTES dentro de uma organização
+	uma única fonte de verdade de dados
+	componente central de relatórios e analise de negócios (BI)
+	Forma estruturada e relacional com dados históricos
+	Extrair o dado de varias fontes e transforma-lo e limpá-lo antes de carregado em um sistema de armazenamento
+	rapidamente insights de negocio de toda organização
+
+	fonte de dado -> extrai, transforma, limpa, filtra e carrega -> Data Warehouse -> Visualização, Relatórios, BI
+
+	ETL
+		Extração, transformação e carregamento
+
+	É necessário planejamento e muito código
+	Adaptação dos dados de forma suave
+
+	Dados processados, sanitizados
+		seu uso é para alguma finalidade, gestores que criam estratégias de negocio
+
+	Benefícios
+		Melhorar padronização, qualidade e consistência dos dados
+			vendas, usuários, dados transacionais em um único lugar
+		Fornecer inteligência de negocio aprimorada
+		Aumentar o poder e a velocidade das cargas de trabalho de analise de dados e inteligência de negócios
+			Conectam sem esforço a ferramentas de analise de dados
+		Melhorar o processo geral de tomada de decisão
+			um único local de dados atualizado o histórico
+
+	Desvantagem
+		Falta de flexibilidade de dados
+		Altos custos de implementação e manutenção
+
+	Exemplo
+		Finanças
+
+Data Lakes
+	Repositório de armazenamento centralizado mas altamente flexível
+	quantidade de dados muito grande (estruturados ou não)
+	armazenados de forma bruta, original, sem formato (arquitetura plana)
+
+	direcionado para cientistas de dados que saberão melhor tratar as infos para extrair o melhor dela em modelos de ML e IA
+
+	EELT
+		Extração, carregamento e transformação
+
+	Aprendizado de maquina e analise preditiva
+
+	Benefícios
+		Flexíveis
+		Duráveis
+		Econômicos
+
+		Informações de dados avançados não estruturados
+
+		Consolidação de dados
+			Armazenar dados estruturados e não estruturados (tudo no mesmo ambiente)
+		Flexibilidade de dados
+			Armazenar em qualquer formato ou meio, sem um schema
+		Economia de custos
+			hardware comum de baixo custo
+		Suporte para ampla variedade de casos de uso ciencia de dados e ML
+			Aberto e bruto
+
+	Desvantagens
+		Desempenho insatisfatório para casos de uso de BI e analise de dados
+		Falta de confiabilidade e segurança
+	
+	Exemplo
+		Saúde, educação
+			
+Data Lakehouse
+	Junção das duas arquiteturas de gerenciamento de dados
+
+	Alinha economia e flexibilidade de um data lake com recursos de gerenciamento de dados a confiabilidade e consistência do Data Warehouse
+
+	Complexo de construir do zero
+	Mas vale o investimento pois os benefícios são muitos
+
+	Dados não estruturados ou semi estruturados, mas que pode ser consultado de forma mais simples
+
+	camadas de armazenamento para armazenar dados em formatos abertos (parquet), separado da camada de computação
+
+	Camada de computação
+
+	Camada de apis
+
+	Camada de serviço
+	

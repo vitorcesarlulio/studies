@@ -1,0 +1,120 @@
+The Forces Defining the Next Generation of Digital Leaders' Architecture | APIX 2022
+https://www.youtube.com/watch?v=J2B6apudrLM
+
+Empresas estão precupadas em entregarmos mais em menos tempo
+Mas pra isso tenho que saber o caminho, conhecer o trajeto
+
+Mas na vida profissional não é bem assim que funciona
+
+Agilidade 
+Perceber mudanças do mercado, características diferentes e adaptarmos com velocidade
+
+1. Digital
+	é o novo campo de batalha das empresas e para sobrevivência.
+
+	Incertezas
+	Aplicações antes era árduo, hoje é mais ágil.
+	Formas de interação com usuário vão surgindo, mobile firts
+	Como as empresas nessas situações de incertezas estão preparadas para que sejam muito mais rápidas
+
+	Maioria dos clientes legados, com aplicações moniliticas sendo quebradas em microssevicos, pra usufruir das características da nuvem, deploy independente
+	Proliferação desses microssevicos, coordenar eles, organizar, observa iludida, monitorar e garantir a experiência de ponta a ponta
+
+	Apis em todos os lugares
+
+	Governança
+		Como manter uma governança entre as apis criadas, pra que cada uma tenha muitas diferenças, segurança, documentação
+
+2. Multi cloud e híbrido
+Não são mais entendidos mais como um passo para Full cloud
+As empresas vão ter nuvens híbridas, mas vão continuar com seus legados
+
+	Empresas tendo um ambiente de infra complexo
+	Ter gestão de disponibilidade empresas tem adotado multicloud. Só que ai tem um desafio de gerenciar isso, amazon, google, azure.
+
+	Quandos pensamos em API, pensamos em rest api, request response. Existe uma serie de outras necessidades onde esse formato é a melhor caracteristicas.
+	Orientação a eventos, não request e response.
+	Faço um registro, pra quando o outro lado tiver um evento, eu sou avisado.
+	
+	API Firts
+		Não é como as apis foram criados e estão distribuidas que vai determinar as APIs que vou ter. E sim o contrario, qual a demanda dos negocios? como desenho elas para suportar canais, APIs como produto.
+
+	Antes, tudo que ficava atrás do firewall era protegido e fora era inseguro
+	Hoje no multicloud isso muda tudo
+	A segurança precisa estar na maneira como as equipes controem as soluções
+	
+	Composibilidade
+		Meio que um portifolio e numa oprtunidade de inovação esse conjunto de apis podem ser aproveitados, agilizando o processo	
+
+3. Potencial dos ecossistemas quando as empresas se comportam como plataforma
+	Como as empresas conseguem explorar um modelo de ecossitema e como eles podem fazer gerar mais valor a empresa
+	Por exemplo a cielo que tem uma maquininha que as pessoas podem desenvolver apps, para a maquininha
+	
+	Open Everything
+		Gerenciamento de consentimento, relacionado com LGPD, o dono do dado é o usuario e não de um banco (no caso de um Open Banking)
+		E como as empresas podem se posicionar para tirar valor de negocio
+	
+	API as Product
+		Um produto tem publico final, tem canal de distribuição
+		ONDE É FEITA A PROPAGANDA DE SUA API? geralmente o usuario final é um developer
+		
+		Developer experience
+			facilidade de integração e entendimento é extremamente importante
+	
+Acelerar digitaização, trabalhar com ambientes mulitcloud, se posicionar como plataforma e desenvolvendo ecossitemas ao seu redor.
+
+DESAFIOS
+	1. Não é só uma questão tecnica
+		Historias poderosas são as que possuem uma motivação de negocio por trás
+		Compreensão de um ecossitema e de posicionamento de plataforma passa por uma reflexão de negocio
+	
+	2. A escala é dificil
+		Um ambiente com centenas de microsserviços a gestão disso é complexa
+	
+	3. Gap de talentos
+		Conhecimentos especificos
+
+Como a Sensedia ajuda clientes a serem mais digitais, conectadas e abertas
+	Mas como?
+	
+	- Projetos baseados em acossistemas
+		Criar valor e produtos atraves de um posicionamento atraves de plataforma, expondo serviços e criando serviços em conjunto
+	
+	- Posicionamento mais digital e uma cultura mais digital
+		Como voce encara novos projetos
+	
+	- Multi Cloud
+		Voce não vai ter uma solução unica
+
+	Uma plataforma de conectividade moderna (full api lifecicle) e serviço de consultoria bem especializados
+	
+	Os premios não são pelos produtos da Sensedia nem pelas ofertas, mas sim pelas historias
+	
+	Uma forma de simplificar a integração com legado
+		Pessoas não trocam da noite para o dia seu legado
+
+	Pensar no modelo de desbloqueio de dados mais estrategico
+	
+	Pensar de maneira de eccositema
+		No final, todo mundo via participar de um ecossitema digital
+		
+		voce vai ser protagonista, ou vai se plugar no ecossitema de alguem
+		
+		Voce vai ajudar uma empresa a criar os produtos dela, ou uma empresa via te ajudar a criar seus produtos (cielo)
+		
+		Tipo mercado livre, as pessoas vendem coisa la dentro
+		
+		e meio que, é quase certeza, que voce usará api pra isso
+		
+		
+		
+		
+	
+	
+	
+	 
+
+
+
+
+
