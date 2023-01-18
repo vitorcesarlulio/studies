@@ -1,0 +1,4 @@
+PILOTAGEM
+	Para descer uma descida bem forte legal utilizar 1 (mais seguro), mas se segunda também desce. A mesma marcha que usa para subir, para descer é a mesma
+
+	Ao ligar carro pisar tudo na embreagem para desacoplar o volante do motor da embreagem e não transmitir força para a caixa de câmbio, assim só o motor gira e o motor de partida faz menos força

@@ -1,0 +1,20 @@
+Requisitos
+	Farol computadorizado
+
+	Destrancamento por presença
+
+	Fechamento do porta-malas automático
+
+	Assistente de faixa 
+
+	Aquecimento
+	Resfriamento de banco
+
+	Ar condicionado 3 zonas
+
+Função autoroad
+Fica com pé no freio sozinho
+Você só precisa pisar no acelerador depois
+
+Freio de mão eletrônico
+De sinto e em Drive ele vai soltar automaticamente quando pisar no acelerador

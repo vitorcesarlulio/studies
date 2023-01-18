@@ -117,6 +117,9 @@ ELETRICA
 	norma exige 30 cm de distancia do conduite de redes para o de energia
 
 RACK
+	MARCAS
+		rack womer 12u
+	
 	Caixa (central de redes)
 		youtube.com/watch?v=6LZ-nlFivfY
 	

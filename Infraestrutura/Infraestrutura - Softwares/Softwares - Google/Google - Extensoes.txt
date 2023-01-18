@@ -19,3 +19,12 @@ Linkclump
 Enhancer for YouTube
 	Tem como definir que qualidade vai iniciar os vídeos
 	Tem várias outras opções
+
+Tango
+	capturas de tela, treinamento e documentação
+
+VisBugGenericName
+	Ferramenta para Web Design, ver tela, redimensionar, testar latencia
+
+SwiftRead
+	leia mais rápido, aprenda mais

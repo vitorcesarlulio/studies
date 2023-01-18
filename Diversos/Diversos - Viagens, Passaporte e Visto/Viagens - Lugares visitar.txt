@@ -1,18 +1,12 @@
-Canada
-capital de Ontário, Toronto
-pequena cidade surfista de Tofino
-Illuissat, Disko Bay, o “Grand Canyon do Círculo Polar Ártico”.
 
-México
-Jamaica e da Riviera Nayarit
-
-Argentina
-Salta, no noroeste montanhoso da Argentina
-vila de El Chaltén, no Parque Nacional Los Glaciares do país
-Chile
-Rapa Nui do Chile
-Ilha de Páscoa
-Ilhas Galápagos
+Melbourne (Austrália)
+Auckland (Nova Zelândia)
+Bangkok (Tailândia)
+Queenstown (Nova Zelândia)
+Florianópolis (Brasil)
+Porto Seguro (Brasil)
+Perth (Austrália)
+Salvador (Brasil)
 
 Bogotá, na Colômbia
 Europa
@@ -21,13 +15,11 @@ Marselha (França), Copenhague (Dinamarca), Skellefteå (Suécia) e Valencia (Es
 italiana da Calábria, a antiga cidade grega de Salónica, a região portuguesa do Alentejo e o arquipélago da Madeira.
 esqui checa de Dolni Morava e a cidade-fortaleza lituana de Kaunas fazem parte da lista, assim como o esplendor histórico da capital turca Istambul.
 
-Kerala e Ahmedabad, na Índia,
+jAPAO
 ilhas japonesas de Setouchi e Kyushu.
 
 capital sul-coreana de Seul
 província indonésia de Bali e a ilha central de Boracay, nas Filipinas.
-
- Grande Barreira de Corais da Austrália e a cidade portuária de Fremantle
 
 Queenstown, na Nova Zelândia
 
@@ -41,26 +33,8 @@ capital queniana de Nairobi e a capital ruandesa de Kigali
 
 ranschhoek da África do Sul
 
-arque Nacional do Baixo Zambeze da Zâmbia
+Parque Nacional do Baixo Zambeze da Zâmbia
 
-
-
-
-
-
-
-
-
-
-
-Índia
-Nova Deli
-
-Bangladesh
-Nepal
-Paquistão
-
-Países muito poluídos
 
 Instituto politécnico de Leiria
 15 de abril
@@ -69,15 +43,17 @@ Roupas
 Ross dress for less
 Burlinton 
 
-Hurb lugar bom para pacot s
 
-Porto de gainha
-mare tabua de area -0.1 lua cheia 
+RESTAURANTES
+	Jangada
 
 PROGRAMAS
 	• trustedhousesitters
 	• Au pair
 	• portland bible college
+
+PAÍS - MÉXICO
+Jamaica e da Riviera Nayarit
 
 PAÍS - BRASIL
 	ESTADO - SÃO PAULO
@@ -104,6 +80,17 @@ PAÍS - BRASIL
 				Casa Grande Hotel Resort & Spa
 
 		CIDADE - SÃO PAULO
+			BARES/BALADAS
+				Bahamas
+				Café photo 
+				Scandallo 
+				Bomba 222
+				Kilt
+
+			RESTAURANTES
+				fazenda churrascada
+				sal gastronomia
+
 			TINERARIOS
 				Pegar busão cair no tiete
 				Outras estações
@@ -158,6 +145,7 @@ PAÍS - BRASIL
 				MASP
 
 			Bares, restaurantes e lojas de comida
+				
 				Tokyo
 				Skye Bar
 				Bar de Cima
@@ -179,6 +167,7 @@ PAÍS - BRASIL
 
 			Shoppings
 				1º JK Iguatemi
+					Cinena Imax jk iguatemi
 				Shopping Cidade Jardim
 				Shopping Vila Olimpia
 				Iguatemi São Paulo
@@ -243,8 +232,9 @@ PAÍS - BRASIL
 
 			Não é em lugar turístico que você vai fazer amizades com paulistas, eles não vao
 
-			• Eventos
+			EVENTOS
 				feira gastronômica SP (junho)
+				Boat show evento de lanchas
 			
 			Itinerário
 				Parque Ibirapuera
@@ -287,6 +277,9 @@ PAÍS - BRASIL
 				Pico do Jaraguá
 
 		CIDADE - CAMPINAS
+			RESTAURANTES
+				Pobre Juan
+
 			• Campinas restaurant week (abril)
 
 		CIDADE - UBATUBA
@@ -334,6 +327,10 @@ PAÍS - BRASIL
 		CIDADE - GRAMADO
 			• Hotéis
 				Hotel Colline de France
+	
+	ESTADO - PERNAMBUCO
+		Porto de Galinha
+			mare tabua de area -0.1 lua cheia
 
 	ESTADO - RIO DE JANEIRO
 		• Hotel Casa e Mar - Wellness Hotel & Spa
@@ -374,16 +371,31 @@ PAÍS - BRASIL
 
 	ESTADO - TOCANTINS
         • Parque Estadual do Jalapão
+		Cânion Encantado - Serras Gerais
 
     ESTADO - Amazonas
 		MANAUS
 			• Árvore mais grande da Amazônia
 			• Encontro do rio negro
-			
+
+PAÍS - CANADA
+	capital de Ontário, Toronto
+	pequena cidade surfista de Tofino
+	Illuissat, Disko Bay, o “Grand Canyon do Círculo Polar Ártico”.
+		
 PAÍS - CHILE
 	• Deserto do Atacama
+		Valle de la Luna
+		lagunas escondidas de baltinache
 
 PAÍS - ARGENTINA
+	Salta, no noroeste montanhoso da Argentina
+	vila de El Chaltén, no Parque Nacional Los Glaciares do país
+	Chile
+	Rapa Nui do Chile
+	Ilha de Páscoa
+	Ilhas Galápagos
+
 	• Buenos Aires
 		Bernardino Rivadavia Museum of Natural Science
 	• Patagônia
@@ -395,11 +407,35 @@ PAÍS - COLOMBIA
 
 PAÍS - EUA
 	EVENTS
-		• Mr. Olympia
-		• Arrancada: NHRA (geralmente maio/junho)
-		• Arrancada: Lights Out, tem em fevereiro e outubro. Em fevereiro é melhor pq o clima tá mais gelado os carros correrem mais
-		• PRI - Performance racing industry Indianapolis
-		• Formula Drift (geralmente maio/junho)
+		Feira de tecnologia
+			Consumer Eletronics Show (Las Vegas)
+
+		Mr. Olympia
+
+		Arrancada
+			NHRA (geralmente maio/junho)
+			Lights Out, tem em fevereiro e outubro. Em fevereiro é melhor pq o clima tá mais gelado os carros correrem mais
+			World fastest jet ski drag racing
+				em outubro, em 2022 foi no fim do mes (29 e 30)
+		Carros
+			Sema
+				Começo de novembro geralmente
+				Versão para público geral
+				Oficinas
+				Grandes fabricantes
+				É muito grande um dia não dá pra ver tudo
+				130k pessoas
+				Leva patins elétrico, ou só um patins msm
+				São 3 dias
+
+				Área de som
+				Performace (indústria), mecânica
+				Elétrica
+
+			PRI - Performance racing industry Indianapolis
+				Só performance
+
+			Formula Drift (geralmente maio/junho)
 
 	ROUPAS
 		Dollar tree
@@ -548,7 +584,20 @@ PAÍS - EUA
 
 DUBAI
 
-Índia e blangladesh não consomem muita carne
+ÁSIA
+	
+	Índia e Bangladesh não consomem muita carne
+
+
+	PAÍS - ÍNDIA
+		Nova Deli
+		Kerala e Ahmedabad
+	
+	Países muito poluídos
+		PAÍS - Bangladesh
+		PAÍS - Nepal
+		PAÍS - Paquistão
+	
 
 EUROPA
 	PAÍS - Turquia
@@ -588,6 +637,7 @@ EUROPA
 			vinho
 
 	PAÍS - ESPANHA
+		CIUDAD - Málaga
 		restaurante mais antigo do mundo
 		Racimo de Oro (melhores do mundo)
 
@@ -677,6 +727,7 @@ PAÍS - FILIPINAS
 PAÍS - AUSTRÁLIA
 	• Sidney
 	• Camberra
+	Grande Barreira de Corais da Austrália e a cidade portuária de Fremantle
 
 PAÍS - ÁFRICA
 	• huanda (gurilas)

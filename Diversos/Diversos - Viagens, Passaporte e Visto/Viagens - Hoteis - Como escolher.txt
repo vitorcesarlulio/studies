@@ -1,3 +1,8 @@
+tentar fechar X dias de hotel e o restante você aluga lá
+passa 1 dia num hotel pika
+
+Hurb lugar bom para pacotes
+
 HOTEIS
 	Hospedagem grátis: Couch surfinf
 

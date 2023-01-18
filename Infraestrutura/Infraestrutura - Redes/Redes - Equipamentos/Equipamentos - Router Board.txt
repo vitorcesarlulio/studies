@@ -38,6 +38,8 @@ EXPLICAÇÃO
 	Um Switch pra cada tipo de equipamentos kkkk
 
 EQUIPAMENTOS - PREÇO E MODELOS
+	https://www.amazon.com.br/Roteador-TP-LINK-Balance-Gigabit-TL-ER7206/dp/B08W4RMZ8T
+
 	MIKROTIK
 		Ele faz roteamento
 		NAT (compartilhar IP)

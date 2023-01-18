@@ -1,0 +1,11 @@
+Muito popular entre devs
+Código aberto
+Baseado em JS
+Programação orientada a eventos
+Altamente escalavel
+Permite numero muito grande de conexoes simultaneas
+
+Tournouse a principal plataforma para dev de webhooks e APIs
+
+Npm
+ampliar funcionalidades do NodeJs

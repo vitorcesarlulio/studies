@@ -1,0 +1,170 @@
+MONITOR
+	DEFINIR SUPORTE DO MONITOR
+		Cotovelos 90°
+		Pés devem estar encostados em algo
+		Monitor 1 braço longe
+		O topo do monitor tem que ficar na altura dos olhos
+		É acho que é isso mesmo, na altura dos olhos o topo do monitor deve ser isso
+		Cabeça reta
+
+	Altura ideal monitor
+		94 cm do chão até o começo do monitor
+
+	Tem de parede e de mesa
+		DE MESA
+			se for de mesa da pra usar mesa com regulagem de altura
+			Organização dos cabos melhor
+		DE PAREDE
+			Monitor flutuando
+			mas teria que comprar um stand para esconder os fios
+	
+	SUPORTES MAIS ALTOS
+		63 cm de altura máxima
+
+	SUPORTES CONVENCIONAIS
+		Normal tem 41 cm
+
+	DUVIDAS
+		Quais as vantagens do suporte maior? e desvantagens
+		
+		MENOR
+			Bater na parede?
+				Fica 13 cm distante da parede os monitores
+				O cara instalou 4cm da base do suporte até a parede
+				Eu acho que teria que deixar um pouco descolado da parede
+			Se usar o suporte na altura máxima dele vai ter uma diferença de 15 cm da onde o monitor deveria estar posicionado digamos uma margem
+
+		MAIOR
+			Não ser tão articulável
+
+	Medir se sobrou 10.32 cm
+		NÃO SOBROU
+		Se aumentar o buraco da caixa, pode ser que de?
+
+	FUROS
+		Aí eu faria um furo atrás da base do suporte para passar os cabos, tem uma foto pra isso
+		Tem que ser um barco que passe um vga um hdmi	
+		tem que ficar esperto com os cabos, vão ser cabos muito grande
+		os furos na mesa eu acho que é em cada base do suporte para passar os fios (se tiver 2 suportes, 2 furos), tipo atras da base do suporte, nem daria para ver direito
+	
+		nos cantos da mesma MAS PARA ISSO TERIA QUE MONTAR O SETUP MELHOR porque ai os furos ficam no lugar ideal
+		um furo no centro para passar alguns cabos VER SE É NECESSARIO MESMO
+		provavelmente o furo da direita seria utilizado pelo CPU e pelas caixas
+
+		FIQUE ESPERTO COM A PARTE DE BAIXO DA MESA, SE OS FUROS N VAI ATRAPALHAR
+
+	FIXANDO NA MESA
+		https://www.youtube.com/watch?v=3vfb4PCzFew
+		
+		Acho que vai ser melhor fixar na mesa, do lado esquerdo da caixinha, porque do lado direito vai a CPU e ai já não vai ter muito espaço
+
+	UNITARIO
+		ELG - F80N
+			R$ 199,90
+			https://www.kabum.com.br/produto/107363/suporte-para-monitor-elg-17-a-27-com-pistao-a-gas-altura-ajustavel-f80n
+			https://www.elg.com.br/PT/produtos/suportes/suportes-para-monitores/suportes-suportes-para-monitores-f80n
+			Peso: entre 2 e 6,5 kg
+			Vesa: 75x75 ou 100x100
+			Base: 10,32 cm
+		
+		ELG - FH80N
+			https://www.americanas.com.br/produto/3066239701
+			https://www.elg.com.br/PT/produtos/suportes/suportes-para-monitores/suportes-suportes-para-monitores-suportes-suportes-para-monitores-suportes-suportes-para-monitores-suporte-tipo-torre-multiarticulado-de-mesa-c-pistao-fh80n
+			MAIS ALTO
+			PODE SER QUE COMPENSE MAIS ESSE PENSANDO NO LONGO PRAZO
+			Peso: entre 2Kg a 9kg
+			Vesa: 75x75 e VESA 100x100mm
+			Base: n achei
+	
+	DUPLO
+		Teria que comprar bandeja para notebook
+		Ah acho que vai ser duplo em
+		e se eu comprar 2 unitários? eu ganho algum espaço?
+		
+		Daria pra colocar 2 suporte 1 de cada lado, ficaria organizado
+
+		ruim do maior é que tem q desparafusar para regular altura
+			N tem como mesmo eu querer regular altura sem desparafusar!
+		mas tem como colocar um em cima do outro (so tem que ver quando eles são separados se da isso sim kkk, meio que taria muito longe)
+		mas ai da pra colocar note em baixo monitor em cima
+		so o FH160N possibilita isso
+		
+		acho que vai ter que ser separado, não pode ficar colado na parede a base, se não eu não consigo articular direito
+		E o mais alto eu acho que pode ajudar nisso, ai só tem que ver se vai ser separado ou não
+		
+		PC ao invés de ficar no chão fica fixado em baixo da mesa?
+
+		ELG - F160N
+			https://www.kabum.com.br/produto/114661/suporte-duplo-de-mesa-para-monitores-elg-articulado-com-pistao-f160n
+			https://www.elg.com.br/PT/produtos/suportes/suportes-para-monitores/suportes-suportes-para-monitores-f160n
+			Peso: 2 e 9kg
+			Vesa: 75x75 ou 100x100
+			Base: n achei
+
+		ELG - FH160N
+			https://www.elg.com.br/PT/produtos/suportes/suportes-para-monitores/suportes-suportes-para-monitores-suportes-suportes-para-monitores-suportes-suportes-para-monitores-suportes-suportes-para-monitores-suportes-suportes-para-monitores-suporte-tipo-torre-multiarticulado-de-mesa-c-pista-fh160n
+			MAIS ALTO
+			Peso: entre 2Kg a 9kg
+			Vesa: 75x75 e VESA 100x100mm
+			Base: n achei
+
+	Nb F120 17-27
+		de parede
+		https://shopee.com.br/Nb-F120-17-27-Suporte-De-Bra%C3%A7o-De-Alum%C3%ADnio-Para-Monitor-LCD-Suporte-De-Parede-De-TV-Movimento-Completo-i.287536004.3543314150
+		https://pt.aliexpress.com/item/4000290545296.html
+		https://pt.aliexpress.com/item/4000078327664.html
+		
+		Suporte Articulado Pistão A Gas Para Monitor 17-27 - F150
+		https://www.pontofrio.com.br/marketplace/ProdutosDiversos/suporte-articulado-pistao-a-gas-para-monitor-17-27-f150-1523822563.html
+		R$ 273,28
+		
+		Suporte Articulado Pistão A Gas Para Monitor 17-27 - F150
+		R$ 238,23
+		https://www.americanas.com.br/produto/4090088068?opn=YSMESP
+		
+		https://www.youtube.com/watch?v=1Da-6-LhFyM
+
+	Suporte North Bayou Nbf80 De Mesa Para Tv Monitor De 17
+		de mesa
+		https://www.americanas.com.br/produto/4548351341?opn=YSMESP
+		R$ 208,24
+	
+	ARCTIC Z1-3D (Gen 3)
+		https://www.amazon.com.br/ARCTIC-Z1-3D-Gen-tecnologia-Ultralarga/dp/B07MJGRCHR?&linkCode=sl1&tag=telegram016-20&linkId=0de62158a1722b5cde84bcbb72e2363f&language=pt_BR&ref_=as_li_ss_tl
+		Muito bom, hub USB
+
+	Notebook
+		Suporte de notebook da ugreen muito bom
+
+		https://www.amazon.com.br/gp/product/B0752J5F99/ref=as_li_tl
+			Em metal
+			
+		https://www.amazon.com.br/gp/product/B085QF1CDF/ref=as_li_tl
+			Tem que ver se da para outros note
+			bem mais ajustavel
+		
+		https://www.amazon.com.br/gp/product/B07K6QK7T3/ref=as_li_tl
+			Na cama
+			muito grande
+			pesado
+			muito articulado, bom
+		
+		https://pt.aliexpress.com/item/4000922391221.html
+		https://www.amazon.com.br/GUANGE-Alum%C3%ADnio-Ajust%C3%A1veis-Polegadas-Parcialmente/dp/B092MVG8S2
+			Aluminio
+			tem que deixar mais aberto o monitor
+			leve
+			pequeno
+			
+			tem preto/cinza
+		https://www.amazon.com.br/gp/product/B092MVG8S2
+		
+		Só tem que ficar esperto pq ele é meio ruim de parar a perninha
+
+		https://www.amazon.com.br/Suporte-Port%C3%A1til-Macbook-Notebook-Kingo/dp/B07ZZ8LHB8
+			N'ao e leve
+			nem pequeno
+		
+		Para guardar notebook
+			https://produto.mercadolivre.com.br/MLB-2177797382-suporte-vertical-ugreen-aluminio-ajustavel-notebook-mac-_JM
+			https://www.amazon.com.br/Suporte-Mesa-Vertical-Duplo-Notebooks/dp/B094YYPFWN/ref=asc_df_B094YYPFWN/

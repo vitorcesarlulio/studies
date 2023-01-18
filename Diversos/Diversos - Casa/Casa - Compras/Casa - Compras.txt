@@ -9,6 +9,15 @@ Compras
 		Motor Portão
 		Traves portão
 
+	Cozinha
+		Geladeira
+		Microondas
+		Mesa
+		Bebedouro
+
+	Lavanderia
+		Maquina de lavar
+
 	iluminação
 		Lustres
 		Pendentes
@@ -36,4 +45,9 @@ Compras
 		Coifa
 	
 	Número de casa
+	
+	Quarto
+		Mesa
+		Suporte para monitor
+		Monitor
 		

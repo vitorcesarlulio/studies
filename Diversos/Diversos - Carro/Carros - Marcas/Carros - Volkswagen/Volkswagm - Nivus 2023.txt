@@ -1,0 +1,48 @@
+Nivus 2023
+Na frente tudo led os faróis 
+
+ACC
+Acelera e freia o veículo
+Controle de cruzeiro adaptativo
+Piloto automático só que mais tecnológico
+Coloca que ele anda a 100km/h e se tiver um carro na frente ele vai frear sozinho
+
+Aí você pode configurar a distância do carro da frente pra ele frear
+
+Pra ajustar a velocidade você vai usando a setinha do lado esquerdo do volante 
+
+Depois de você configurar a distância e a velocidade, clica em reset
+
+Ao frear ele vai desativar
+
+Motor
+1.0 TSI 3 cilindros
+128cv etanol (5.5 mil RPM)
+116cv Gasolina (5.5 mil RPM)
+20,4 kgnm (2 mil e 3 mil RPM)
+0-100 10s no etanol
+
+Rodas
+Aro 17
+Pneu 205/55
+
+5 estrelas latim ncap
+
+415l porta-malas 
+
+Stap 80km/h (limitado)
+
+Touch down
+Retrovisor do passageiro desce
+
+2023 perde porta luvas refrigerado
+
+Active info display
+
+
+Monitoramento do interior
+Bom deixar ativado, se desativar não vai disparar o alarme
+
+Carro > estacionamento de manobra 
+Frenagem de manobra de emergência 
+Se tiver algo na frente ou atrás ele freia

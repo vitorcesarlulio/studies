@@ -1,0 +1,761 @@
+﻿Sobre
+O Dialog Flow é uma plataforma de processamento de linguagem natural que facilita o design e a integração de uma interface do usuário conversacional com apps para dispositivos móveis, aplicativos da Web, dispositivos, bots, sistemas interativos de resposta de voz e etc.
+
+
+Assistente de conversação
+É baseado em IA
+Utiliza mecanismos e algoritmos de ML para fazer NPL
+Entende uma conversa, um contexto
+
+
++20 idiomas
+
+
+Podemos integrá los em multicanais
+Facebook, slack etc
+
+
+Multiplataformas
+Celular, Google Home, Google Auto
+
+
+Criar interfaces de conversação sobre produtos e serviços fornecendo um poderoso mecanismo de compreensão de linguagem natural para processar e entender o que seus usuários estão procurando
+        
+Conversas ricas e naturais
+        
+As interfaces computacionais tradicionais funcionam de maneira adequada somente com entradas estruturadas e previsíveis
+        
+Interpretar e processar a linguagem natural requer um analisador de linguagem muito avançado
+
+
+Utiliza princípios de machine learning
+        
+NLU é uma tecnologia que ajuda a traduzir a linguagem humana para a linguagem do computador vice-versa. Muito semelhante ao Processamento de linguagem natural (PLN), mas um passo adiante para compreender conversas que não foram treinadas para entender, erros, erros de ortografia, sotaques, sentimentos, o que torna a NLU uma ótima opção para chatbots.
+
+
+Funciona com voz e texto
+        
+NLU é muito parecido com Machine learning também, mas não é a mesma coisa
+O Machine learning ajuda impulsionar NLU
+        
+Se você planeja usar a API Dialog Flow precisará instalar e inicializar a Google Cloud CLI. A CLI g cloud é um conjunto de ferramentas usadas para gerenciar recursos e aplicativos hospedados no Google Cloud. (https://cloud.google.com/dialogflow/es/docs/quick/setup#sdk)
+Funcionamento
+Existem diversas formas da gente dizer a mesma coisa
+Mas o dialog flow consegue pegar dessas diversas maneiras e somente extrair o que realmente a pessoa deseja, por exemplo, pedir uma pizza
+"Queria pedir uma pizza; Queria uma pizza; Boa noite, tem PIzza?” - > Pedir Pizza
+
+
+Quando um outro chatbot está baseado em regras, ele pode quebrar, quando a pessoa dizer de uma forma diferente
+
+
+utterance
+Usuário conversar com um agenda (chatbot) essa interação chama utterance
+Falar
+Digitar
+Pressionar de um botão
+
+
+Depois o agente faz um parse com ML da google para tentar dar match com alguma intent
+
+
+e ai é dada uma resposta de volta para o usuario
+Caso de uso
+MIlhares de usuários
+Interagir via áudio e texto
+Multicanais e plataformas
+Alto desempenho e escalabilidade
+Versões
+* Dialog Flow CX
+   * Customer experience
+   * mais avançada
+   * Trazer clientes de forma graciosa ao fluxo
+
+
+* Dialog Flow ES
+   * Essentials
+Preços
+https://cloud.google.com/dialogflow/pricing#es-agent
+Tem uma versão de testes dentro da ES, ai não paga nada mesmo
+Pelo que vi tem uma parada do GCP, não sei se é necessário vincular API lá, pode ser que lá tenha outro tipo de cobrança
+https://www.kommunicate.io/blog/dialogflow-user-name-reply/
+
+
+Debug
+Use o console dentro da plataforma para ver algumas infos
+Intent
+Qual intent está sendo chamada
+
+
+De um diagnostic info
+
+
+Agentes
+Todo seu aplicativo de chatbot
+Coletar o que o usuário está dizendo mapeá-lo para uma intenção, executar uma ação e fornecer uma resposta ao usuário
+Tudo acontece por um evento chamado ENUNCIADO
+agente virtual que processa conversas simultâneas com seus usuários finais
+Módulo de processamento de linguagem natural
+É como se fosse um agente de call center
+Treinar ele para cenários esperados de conversa
+
+
+Tem como definir papéis no seu agente, uma pessoa só terá certas permissões
+
+
+Tem como exportar ou importar um agente
+Melhorando o treinamento do agente
+Training
+Voce pode aprovar caso a mensagem que o usuário digitou e o dialog flow deu match com intent correto
+
+
+Tem como fazer upload com milhares de frases para ajudar o agente a entender
+
+
+HIstory
+
+
+Intents
+Tem duas grandes informações
+Training phases
+Frases inseridas no agente que geralmente o usuário dirá
+Responses
+Descobrir o que o usuário deseja
+Entender o que nossos usuários estão dizendo
+
+
+O modelo de aprendizado do Diálogo Flow é treinado com as frases semelhantes para identificar a intent correta
+                
+Frases de treinamentos, ações, parâmetros e respostas
+        
+Exemplos de intents
+Checar preços
+E aí aqui eu coloco as diferentes formas que o usuário checaria o preço
+horário de abertura
+Que hora vocês abrem?
+Abrem que hora?
+Horário de trabalho
+Que horas vocês fecham
+                
+intenção de um usuário final para uma tomada de turno de conversa
+Cada agente pode ter várias intents
+classificação de intent
+correspondência de uma intent
+o dialog flow analisa a melhor intent para o conteúdo que o usuário digitou
+                
+Por exemplo uma intent para perguntas a respeito de previsão do tempo
+"Qual é a previsão do tempo?", o Dialog Flow corresponderia essa expressão à intent de previsão
+                
+A intent também pode extrair informações úteis da expressão do usuário final
+um horário ou um local para a previsão do tempo desejada
+        
+Intents possuem
+Frases de treinamento
+exemplos de possíveis frases a serem ditas pelo usuário final
+A ML do dialog flow cria frases pra você com frases semelhantes
+Ação
+Ação para cada intent
+Quando dá um match em uma intent
+Parâmetros
+os valores extraídos da expressão final do usuário são transformados em parâmetros
+Cada um tem um tipo
+os parâmetros são dados estruturados que podem ser facilmente usados para executar uma lógica ou gerar respostas
+Respostas
+Respostas de texto
+Encerrar conversa ou pedir mais informações
+
+
+Intentes
+propósito que o bot vai identificar
+Qual a temperatura em SP?
+A pessoa tem o propósito de saber a temperatura e toda vez uma frase que esteja no padrão definido ele vai entrar nesse propósito
+Ai que você coloca as frases de treinamento
+        
+feedback é um exemplo
+se a pessoa manda algo aleatório cai nesse intent, com frases de que não entendeu
+                
+Escolha de produto
+ai cria frases de como a pessoa provavelmente falaria para comprar algo
+e escolhe a entidade
+e ai tem como você definir que eles são obrigatórios e aí você consegue colocar uma mensagem caso ele não informe
+                
+Follow up intent
+propósito depois do anterior
+isso nos casos quando o cara fala sim para uma pergunta de compra
+mas ele pode falar sim em outros contextos também
+                        
+ai tem como você pegar ações externas, pegar temperatura, fazer um código por fora
+                
+INTENTS DE CONTINUIDADE PREDEFINIDAS
+Desabilitar ML
+Pode ser útil quando você quer que a mensagem que o usuário digitar seja exatamente igual
+Context
+Usuário saia de uma intent para outro intent criando um fluxo de navegação, mantendo o usuário dentro de um determinado assunto ou contexto
+
+
+Quando você precisa consultar vários intents
+
+
+Ou numa mesma mensagem ele colocar 2 intents
+        Ai teria que entrar fallback
+
+
+Para definir uma context pense assim: se caiu naquele intent, provavelmente ele tem interesse, procura aquilo que está na intent
+por exemplo, caiu na intent de sintomas.diabetes
+meu context seria problema diabetes
+
+
+e ai imagina uma outra intent de sintomas.colesterol, você faz a mesma coisa
+
+
+ai imagina que você tem mais dois intents, alimentacao.colestol e alimentacao.diabetes
+você só vai querer que entre esses intents usuários que estão naqueles contextos
+
+
+Se o usuário perguntou sobre sintomas de diabetes ele entrou num contexto de problemas de diabetes e aí se em seguida ele perguntar sobre alimentação, sem passar o tipo (diabetes, colesterol) o contexto já vai estar definido como diabetes então vai entrar na intent de alimentos.diabetes
+
+
+Mas qual o problema aí?
+Se o cara em seguida perguntar sobre sintomas de colesterol, ele vai ter 2 contextos mapeados
+e aí se você perguntar alimentação ele vai chutar ou alimentos.colesteol ou alimentos.diabetes
+
+
+E se você chamar direto alimentação?
+Não vai entrar nele, pq não tem um contexto definido na conversa
+Input context
+Quando um contexto já está definido e você quer que aquela intent o siga
+Só entra na intent quem estiver nesse contexto
+Output context
+Quando basicamente você quer instanciar, iniciar um contexto.
+Lifespan
+Mas usuário não pode ficar por muito tempo dentro de um contexto, se não ficaria confuso para o agente
+Validade do contexto
+Ou você define o número de vezes que o contexto pode acontecer ou ele desaparece em 10 minutos
+Quantas interações o usuario pode ter
+
+
+Armazenar e acessar variáveis para que o bot troque informações de uma intent para outra em uma conversa
+        
+cada intent pode ser definidos vários contextos, de entrada e de saída
+Apenas a condição apropriada seja respondida
+                                
+Expiram automaticamente após 20 minutos
+
+
+Ele precisa de um contexto para interpretar algo
+                                
+"Eles são azuis" preciso de um contexto para saber quem são eles!
+                                
+Depois de um contexto ele acha a intent
+                                
+é possível controlar o fluxo de uma conversa
+                                
+Quando ele acha uma intent, ele ativa os contextos
+Follow-up Intent
+Atalho para uso comum de contatos
+Basicamente uma confirmação
+Depois de uma intent, você pode perguntar se deu certo ou não e aí ele responde com sim ou não, um sim é um Follow-up Intent e o não também
+
+
+Para um certo intent, você pode adicionar intents de acompanhamento que serão adicionados após a correspondência do intent inicial
+Corresponder coisas como sim ou não em respostas
+        
+Fallback intent
+São adicionados se a entrada do usuário não corresponder a nenhum dos intents
+Ajuda orientar o usuário
+Entities
+Identificação extração de dados úteis e estruturados provenientes da interação do usuário, que possivelmente será utilizada posteriormente
+Informações úteis que os usuários dizem
+Datas, nomes de lugares e valores
+Meio que você cria sua variável e preenche os valores já
+
+
+Por exemplo
+bike-type
+Mountain bike
+Beach cruiser
+Racing bike
+                
+3 tipos de entities
+* System Entity
+Dialog Flow que controlam elas
+   * Date and time
+   * Geography
+   * Numbers
+   * Contacts
+   * @sys.email
+   * @sys.phone-number
+   * Amounts with units
+   * Names
+                
+* Developer Entity
+Entidades que nós estamos criando, o desenvolvedor cria
+   * Especialidades
+   * Ortopedista
+   * Cardiologista
+   * Oftalmologista
+   * tamanho
+   * g
+   * gg
+   * p
+   * pp
+   * sabor
+   * Mussarela
+   * Calabreza
+   * Portuguesa
+        No momento de colocar suas frases para treinamento, o dialog flow já vai tentar identificar nelas as entidades
+Próprias entidades, você pode fornecer sinônimos. Tem uma opção automated expansion que ele preenche sua entity (@service-options) com alguma que o usuário falou. Tem como juntar duas entidades, type bike and color bike
+   * @service-options
+                
+   * Session Entity (User Entity)
+        Você deve programar a criação delas, é para sessão daquele user, utilizada em casos específicos
+        São definidas para sessão do usuário
+        Coisas transitórias, detalhes de pedidos anteriores, lista de ofertas
+        Expiram 10 minutos após uma conversa
+        @previous-orders
+        inner tube
+        bike chain
+        bell
+
+
+Entidades pré definidas para parâmetros
+datas, horários, cores, endereços de e-mail
+                
+é possível criar próprias entidades personalizadas
+                
+vegetal
+vai corresponder a todos os tipos de vegetais
+
+
+Entidades
+número é uma
+itens de uma venda, meus produtos na verdade
+                
+Aí você cadastra seus itens
+                
+passa sinônimos do item, pode passar um regex (para ele identificar CPFs)
+Automatizar expansão, usuário falou que quer comprar uva ele já adiciona a Entidades de frutas
+e o bote compreender a pessoa escrever de outras maneira um item
+Integrations
+Respostas diferentes de acordo com um canal
+Telegram
+https://telegram.me/BotFather
+Criar um bot para telegram
+opção New bot
+Defina um nome (no final do nome tem que terminar com bot)
+Ai ele vai gerar token
+Ai la no Dialog Flow você só cola o token e clica em start
+Ai no telegram ele te dá uma URL
+Messager
+Tem que ter uma página
+ai integrar ela com messager
+Na página de facebook dev você tem que criar um novo app
+Adicione o produto messager
+Em geração de token escolha sua página
+ai ele vai gerar o token para você jogar no campo, page access token do dialog flow
+aí você tem que habilitar webhook no facebook (mesma tela do token)
+pra isso você vai precisar copiar a URL de callback que o dialog flow dá na hora que habilita a integração
+ai você só definir uma senha normal
+ai você coloca no campo do meio lá no dialog flow
+aí você starta seu bot
+e volta no facebook e starta lá também
+e ai adiciona a página no webhook
+
+
+informações adicionais
+Configurações > básico
+política de privacidade
+ícone do chatbot 1024x1024
+qual o uso do chatbot
+Google assistant
+ativação é simples, só definir o intent default (welcome) e se precisar tá logado
+No google assistant
+Invocation - define nome do agente
+Directory information
+Defina uma descrição
+Simple invocations - defina como o usuário vai começar a falar com google
+Detalhes de contato
+URl política de privacidade
+Location target
+deixe todos, caso usuario va em uma viagem para outro país não vai funcionar o chatbot
+Surface capabilities
+tocar uma imagem, mídia específica
+Release
+Para colocar em produção tem que ta filé, então disponibilizar em alpha
+ai tem como colocar o email do pessoal e mandar o link
+deploy demora muito
+
+
+Dialog Flow Messenger
+https://cloud.google.com/dialogflow/es/docs/integrations/dialogflow-messenger?hl=pt-br
+
+Tem como devolver um payload personalizado (um card, um botão tals) direto pelo dialogflow, não necessariamente vc precisa enviar pro seu backend só pra ter uma mensagem bonitinha. Direto na parte de mensagem do dialogflow vc consegue, em "add responses" voce seleciona a opção de custom payload
+
+
+Personalização HTML
+https://cloud.google.com/dialogflow/es/docs/integrations/dialogflow-messenger?hl=pt-br#html-customize
+
+
+session-id
+Se isso não for fornecido, a integração gerará um código exclusivo para cada caixa de diálogo de chat.
+
+
+user-id
+Pode ser usado para rastrear um usuário em várias sessões. Você pode transmitir o valor ao Dialogflow pelo campo queryParams.payload.userId em uma solicitação de detecção de intent.
+
+
+Mensagens de resposta avançadas
+https://cloud.google.com/dialogflow/es/docs/integrations/dialogflow-messenger?hl=pt-br#rich
+
+
+Muito top, você pode dar respostas em forma de card, texto tals
+
+
+Combinação de tipos de resposta
+https://cloud.google.com/dialogflow/es/docs/integrations/dialogflow-messenger?hl=pt-br#combining_response_types
+
+
+Muito top, você pode juntar vários
+acho que para caso de produtos tals
+
+
+Web Demo do Dialog Flow
+https://cloud.google.com/dialogflow/es/docs/integrations/web-demo?hl=pt-br
+
+
+"Essa integração é compatível apenas com respostas de texto. Mensagens avançadas (incluindo respostas de texto sequenciais, quebras de linha, hiperlinks, imagens etc.) não são compatíveis."
+Actions & Parameters
+Action
+Nome para um conjunto de parâmetros, geralmente você vai utilizar nos webhooks
+Nome para conjunto de parâmetros
+Parameters
+Parâmetros baseados em entidades, podem ser utilizados dentro do próprio intent ou para colocar seu usuário em um contexto
+Você pode tornar eles obrigatórios
+e pode definir uma mensagem
+Analytics
+Dá pra ver o flow, hoje não tem mais
+Mas da pra ver quais os matchers que foram acionados nas conversas
+Fulfillment
+Chamadas externas para dar uma resposta ao usuário
+
+
+Em suas intents você deve habilitar a opção de fullfilment
+Quando der um match, a resposta vai vir de uma webhook
+Webhook
+https://cloud.google.com/dialogflow/es/docs/fulfillment-webhook
+
+
+Vai mostrar como no webhook devolver algo tals
+
+Pra se integrar com um Webhookm é obrigatório utilizar protocolo HTTPS
+
+
+
+
+Próprio dialog flow te dá uma opção inline para códigos
+nada mais é que chamar as cloud functions do GCP só que direto pelo diálogo flow
+
+
+Cloud functions for Firebase
+                
+Basicamente o dialog vai mandar para sua API o intent que foi ativado e os dados daquele intent tals, ai você monta sua lógica
+Respostas mais dinâmicas para sua intent
+Agendar um horário, você pode acessar banco de dados para conferir isso
+
+
+Opção para firebase
+Glitch
+Servidor nodeJs online
+
+
+Versão free
+tem um processo chamado could start que é o tempo de subir o container, ai ele fica indisponível por um tempo curto
+
+
+Versão paga
+Always on
+
+
+Firebase
+Conjunto de ferramentas que te ajudam a desenvolver aplicações
+Planos
+Spark
+Plano free
+Cloud functions
+Server less
+sem servidor
+Autenticação
+ML Kit
+Kit de ML para desenvolvedores
+Hospedagem
+Storage
+Realtime database
+No SQL
+no plano grátis só da pra ter 1 banco de dados mas com várias estruturas dentro
+Dialog Control
+Existem 2 tipos
+Linear dialogs
+Usado no processo de coleta de todas as informações para concluir uma ação
+Agendar um compromisso ou fazer um pedido
+                        
+Marcar um horário para consertar a bike
+Antes, é preciso saber algumas coisas
+Tipo de serviço
+Data
+Hora
+Pode ser que em 1 mensagem o usuário já passei tudo isso
+Mas e se não?
+TEM COMO VOCÊ MARCAR NUMA Entity QUE ELA É OBRIGATÓRIA
+
+
+Non-linear dialogs
+Algo mais próximo de uma conversa real com ramificações, mudanças de contexto
+                        
+Quando usuário diz algo e é interpretado de acordo com o que foi dito antes
+                        
+Geralmente nos casos de sim e não. Em uma situação o sim e uma confirmação para tal evento, em outras o sim é para outro evento
+                        
+Ai que entra os contextos
+
+
+Planejamento de um agente
+Dados geográficos
+Países e cidades onde o agente estará disponível
+Idiomas
+
+
+Dados demográficos
+Gênero e idade
+
+
+Objetivo de negócio
+É vender algo? oferecer ajuda?
+
+
+Integrações e dados 
+Canais - Facebook e Site
+Plataformas - Web e mobile
+Webhooks e APIs
+Banco de dados
+
+
+Quais as frases mais comuns que os usuários relatam?
+Prioridades
+Pode ser que você tenha frases parecidas em dois intents diferentes
+Aí você pode definir prioridade para o intent
+
+
+Nosso agente se baseia inicialmente nos dados geográficos do país Brasil e abrange todas as cidades do país, que por corolário, está limitado apenas ao Idioma Portugues Brasil. Quanto aos dados demográficos em que o agente está nichado, podem ser incluídos todos os gêneros e limitado as idades de 25 a 55 anos. O objetivo principal do agente é oferecer ajuda para dúvidas repentinas e, geralmente, mais simples, mas também realizar vendas para seus usuários. Inicialmente o chatbot estará acessível através dos seguintes canais:
+Estará disponível na Web e para acessos mobile
+Tem como treinar nosso agente, afirmando ou denegrindo ações passadas tomadas pelo mesmo. Por exemplo, caso o usuário solicite alguma informação, porém o agente o direcionou para uma intenção divergente, podemos sinalizar para aprendizado de máquina do agente que essa ação estava incorreta. Também podemos realizar o upload de milhares de frases para auxiliar no treinamento do modelo. Isso vai de encontro com a acurácia do agente, em deixá-lo mais assertivo possível, preparando-o para todos os contextos.
+Temos a possibilidade de acessar todo histórico de conversa com o agente, isto é, podemos saber quantas interações tiveram em um diálogo e a duração do mesmo. O que pode ser útil para refinamos o agente, entendendo como os usuários interagem com o mesmo, verificando a necessidade de implementar novas intenções que os usuários estão solicitando.
+
+
+Aqui está listado as principais frases mais comuns que foram mapeadas
+   * Entrega
+   * Quais os horários de entrega
+   * Preciso saber o mercado
+   * Qual o tempo médio de entrega
+   * Preciso saber o mercado
+   * Quais as regiões que são feitas entregas[a]
+   * Preciso saber o mercado
+   * Preciso do endereço do usuário
+   * Entrega no endereço tal
+   * Preciso saber o mercado
+   * Preciso da localização do usuário[b]
+   * Produtos/Itens
+   * Foto dos itens[c]
+   * Preciso do mercado
+   * Preciso do item
+   * Qual melhor dia de compra do produto X
+   * Preciso do mercado
+   * Preciso do item
+   * Qual melhor dia de compra do tipo X (hortaliças)
+   * Preciso do mercado
+   * Preciso do tipo
+   * Qual melhor dia de compra (geral)[d]
+   * Preciso do mercado
+   * Promoções do dia
+   * Não é obrigatório o mercado
+   * Promoções futuras
+   * Não é obrigatório o mercado
+   * Possui o produto X
+   * Preciso do produto
+   * Não necessariamente preciso do mercado
+   * Qual o preço do produto X
+   * Preciso do produto
+   * Não necessariamente preciso do mercado
+   * Vencimento do produto
+   * Preciso do produto
+   * Preciso do mercado
+   * Pagamento
+   * Formas de pagamento
+   * Valor total da compra
+   * Desconto
+   * Mercado
+   * Benefícios daquele mercado
+   * Avaliação
+   * Idiomas
+   * Quais idiomas voce fala?
+   * Quais idiomas voce reconhece?
+   * Respostas padrão
+   * Incrível. Eu posso ouvi-lo perfeitamente. Há uma série de coisas que você pode fazer nesta loja. Eu sempre estarei lá para guiá-lo. Por enquanto, diga "ajuda" para conhecer o que esta loja tem a oferecer.
+   *    * Feedback
+   * Identificar se o cara ta gostando do atendimento, perguntar para ele
+   *         
+   * Legal $given-name! O que você procura?
+   *    * Sempre que você tiver algum problema, digite "ajuda".
+   *    * Que massa $given-name! Como eu posso te ajudar?
+   *    * Sempre que você tiver algum problema, digite "ajuda".
+   *    * Legal $given-name! Como eu posso te ajudar?
+   *    * Sempre que você tiver algum problema, digite "ajuda".
+   *    * Que massa $given-name! Agora, como eu posso te ajudar?
+   *    * Sempre que você tiver algum problema, digite "ajuda".
+   *    * Legal $given-name! Agora, como eu posso te ajudar?
+   *    * Sempre que você tiver algum problema, digite "ajuda".
+   *    * ACHO QUE SEMPRE TRABALHAR COM CONFIRMAÇÃO DO USUARIO
+   *    * UsuarioCapturarNomeSim
+   *         Usuario vai confirmar o nome dele, confirmando, eu pergunto pra ele o que posso ajudar ele
+   *         
+   * UsuarioCapturarNomeNao
+   *         Vai servir para usuario falar novamente seu nome, caso tenha inserido algum caractere a mais ou afins
+
+
+Feitos
+
+
+   * Ajuda
+   * AssistenteAjuda
+   * Como usar isso?
+   * Como usa o chatbot
+   * Instruções para usar chatbot
+   * Instruções de uso do chatbot
+   * Como usar chatbot
+   * Mercado
+        Também serve para quando ele perguntar quais os mercados parceiros
+deixei genérico, mas correto seria um só pro cara pedir localização, pedir só contato. MercadoLocalizao, MercadoHorario
+        Training phrases
+   * Como eu chego no mercado?
+   * Me ajuda a ir ao mercado?
+   * Preciso ir até o mercado
+   * Como posso chegar até o mercado?
+   * Queria saber onde fica o mercado Pavan
+   * Onde ficam os mercados?
+   * Onde fica os mercados parceiros
+   * Onde fica a quitanda
+   * Onde fica o mercadinho?
+   * Onde fica o supermercado
+   * .
+   * Qual horário de início?
+   * Que horas abre?
+   * Que horas fecha?
+   * Qual horário de fim?
+   * Qual horário de funcionamento?
+   * Está aberto agora?
+   * Abre de tarde?
+   * Abre a noite?
+   * Vai estar aberto amanhã?
+   * Vai estar aberto dia 25/11?
+   * Responses
+   * Webhook
+
+
+        
+   * AssistenteHabilidades
+        Basicamente a ideia é mostrar o que o chatbot pode fazer pela pessoa
+Training phrases
+   * O que você faz?
+   * O que você faz aqui?
+   * Me diga suas características?
+   * Quais suas habilidades?
+   * Mostre-me suas habilidades?
+   * Quais são suas funções?
+   * o que posso fazer?
+   * Mostre-me o que você faz?
+   * Conte-me algumas de suas capacidades interessantes
+   * O que posso te perguntar?
+   * Do que você é capaz?
+   * Há algo que eu deveria saber sobre seus recursos?
+   * O que você pode fazer?
+   * Em que você pode me ajudar?
+        Responses
+   * Com apenas algumas palavras e alguns minutos de conversa você pode obter informações ou até mesmo comprar um produto de nossos mercados parceiros
+   * Eu tenho um carrinho que possibilita você adicionar produtos; Dizer-lhe sua conta total de todos os itens no carrinho.
+   * Posso fazer muitas coisas interessantes, como encontrar o mercado mais próximo de você e que tenha o produto desejado.
+   * Posso lhe dizer a maioria das informações das mercadorias de nossos mercados parceiros
+   * Posso fazer muitas coisas interessantes, como encontrar o preço de um produto
+   * Você pode me perguntar sobre qualquer produto que temos em nossos mercados parceiros, adicionar itens, remover itens.
+   * Você pode encontrar a localização, preço e quantidade de qualquer produto disponível.
+   * Você pode perguntar informações de nossos parceiros
+   * AssistenteSobre
+        Basicamente a ideia é explicar o que é o chatbot, não necessariamente dar opções do que ele pode fazer.
+Training phrases
+   * O que é você?
+   * O que você é?
+   * O que constitui você?
+   * Pra que serve esse chatbot?
+   * Pra que você serve?
+Responses
+   * Sou um assistente virtual que te auxilia desde obter informações até a compra de mercadorias em mercados (isso mesmo, no plural) 🤓
+
+Para saber minhas habilidades digite “Quais suas habilidades”.
+   * Este é um assistente virtual que te auxilia desde as informações até a compra de mercadorias em mercados (isso mesmo, no plural).
+
+Para saber minhas habilidades digite “Quais suas habilidades”.
+
+
+Não priorizados
+      * DataBaseInsert[e]
+      * Precisa de uma senha
+      * DataBaseUpdate
+      * Precisa de uma senha
+      * DataBaseDelete
+      * Precisa de uma senha
+      * DataBaseSelect
+      * Precisa de uma senha
+
+
+Referências
+https://cloud.google.com/dialogflow/docs
+https://cloud.google.com/dialogflow/es/docs/concepts?hl=pt-br
+
+
+https://cloud.google.com/dialogflow/es/docs/integrations/dialogflow-messenger#embed
+[a]Até quantos Km do estabelecimento
+[b]tenho que pedir pra ele, não necessariamente é a localização que ele está mandando a mensagem
+
+
+Passar um modelo para usuario para facilitar na pesquisa
+Primeiro pergunta o CEP
+depois demais informações
+[c]Medir a qualidade dos itens, itens frescos chegaram hoje
+[d]Responder para cliente: baseado em nossos dados estatisticos o melhor dia para compras é tal dia devido alto fluxo de pessoas.
+[e]Tem que ver se não afetaria desempenho, muitos dados para serem renderizados
+
+Habilitando integração com google calendar
+	Vá até as configurações de seu agente > na aba general > clique sobre Project ID
+	Vai abrir GCP
+	Menu lateral > API e Serviços > APIs e Serviços ativados > Ativar APIs e Serviços
+		Google Calendar API
+		
+		Depois de ativado, vá até Credenciais
+		Criar credenciais > Contas de serviço
+		
+		Ai crie uma chave do tipo JSON e ele vai baixar ela
+		
+	Ai no Google Calendar
+	Crie uma nova agenda
+	pra evitar esse erro "You need to have writer access to this calendar" coloca permissão maxima na sessão "Share with specific people" para email que adicionou (que é o mesmo do GCP)
+	
+	importar em seu código lib google API
+
+Contextos
+	Carregar informações durante toda conversa
+		Em seu intent no contexto de saida defina um nome, exemplo: dados_agente (Lembrese do life span)
+		Ai voce define um parametro para o cara passar nomeusuario
+
+		Ai voce acessa assim #dados_agente.nomeusuario
+		
+		Só que ai em outros intents voce tem que colocar contexto de entrada esse contexto dados_agente
+		e tambem no contexto de saida
+		
+		Ai no mesmo contexto tem como voce colcoar varios parametros

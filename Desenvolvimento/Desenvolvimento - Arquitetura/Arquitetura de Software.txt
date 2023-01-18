@@ -8,3 +8,25 @@ Overengineering
 	Não só funcionalidades, mas sim tecnologias. Metodologia no software
 	
 	Ele surge a partir de especulações, dados rasos, viu alguem, acha que pode resolver
+
+Areas mapeadas
+	Desenha as principais frentes, a vai ter uma area adm, via ter uma area para cliente, ai tudo vem de um bd, que o bd esta em um server
+	ai voce pode dar uma especificada falando as telas de cada area, seus campos
+	Pode dentrar aq tbm pra voce definir os atores
+
+Wideframes
+	como voce imagina a tela
+	Onde pode ter um botao
+	o que pode ter aqui
+	O que pode ter ali
+	Cor
+	formas
+	o que ter
+
+Narrativa
+	Qual o fluxo de ações do usuario?
+	Historia do dono do estabelecimento
+		O que ele pode fazer?
+		Cadastro
+		Emitir um relatorio
+	Historia do usuario

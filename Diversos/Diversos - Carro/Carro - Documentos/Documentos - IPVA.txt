@@ -1,0 +1,8 @@
+Bancos autorizados
+	https://portal.fazenda.sp.gov.br/servicos/ipva/Paginas/mi-bancos-autorizados-ipva.aspx
+
+Tabela de vencimento
+	https://portal.fazenda.sp.gov.br/servicos/ipva/Paginas/mi-vencimento.aspx
+
+Consulta de debito
+	https://www.ipva.fazenda.sp.gov.br/IPVANET_Consulta/Consulta.aspx

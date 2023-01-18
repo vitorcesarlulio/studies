@@ -1,0 +1,14 @@
+Documentação
+	godoc
+		é uma ferramenta da linguagem go lang que, enquanto voce vai desenvolvendo e colocando comentarios, ela ja vai criando uma doc em HTML
+	Docusaurus
+		meio que te da um site html pra realizar suas documentações em react
+
+	https://xmind.app/
+	
+	Storybook
+		Documentação interativa ver diferentes estados de alguma coisa no projeto
+		
+		Mais para frontend
+		
+		É muito top, é tipo o viewdemo da documentação do boostratap só que completasso

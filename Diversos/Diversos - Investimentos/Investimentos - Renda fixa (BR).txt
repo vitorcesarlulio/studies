@@ -1,3 +1,19 @@
+investimento mais SEGURO que garante retorno sobre o valor aplicado no momento do vencimento
+Muitos desses investimentos acompanham indicadores como a inflação e a taxa básica de juros da economia, a Selic
+De forma geral, quando eles sobem, o rendimento também sobe
+
+aliquota imposto de renda fixa
+mostra a % baseado com tempo que tava investido a grana que vc vai pagar de imposto (n sei se é imposto), essa % é o quanto voce vai ter que descontar de seu lucro
+Quanto menor tempo deixar investido, mais pagará
+
+
+CDI
+	É menor que a SELIC, mas é proximo dela
+	É uma taxa onde um banco empresta dinheiro para o outro
+	Certificado de deposito interbancario
+
+	Voce não investe nele, voce investe num ativo que está vinculado a ele
+
 tesouro direto
 
 Pré fixada
@@ -22,6 +38,12 @@ Pós fixado em inflação
 	IPCA indicador mais famoso do governo
 
 CDB
+	Titulo de divida
+	Voce empresta dinheiro para o banco e o banco te paga uma taxa de juros
+	Quando um banco quer pegar seu dinheiro ele quer pegar para um longo tempo e usar essa grana para as operações dele
+	
+	Possui aliquotas 
+
 	LCA e LCI
 		ambos isentos de imposto de renda
 		voltados para instituições financeiras

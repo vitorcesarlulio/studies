@@ -1,0 +1,174 @@
+Monitor Gamer 27" LG Ultragear 27GN750 IPS Full H
+	Ou voce joga em 4k limitando em 60fps
+	ou voce pode jogar full hd em 144hz
+
+	freesync e gsync
+
+	Os cara fala que cor não é das melhores, pra quem joga é otimo
+	na vdd é oto modelo (27GK750F-B), o IPS é top
+
+	HDR aberto
+
+	full hd melhor que ultrawide
+	se sai melhor em imagem
+
+SAMSUNG G3
+	haste para headset
+	hdmi 2.0
+	10 bits de cor no display port
+	335 nits brilho
+	fresync premium
+		taxa de hz com taxa de frame em tempos real
+
+
+https://www.amazon.com.br/Monitor-para-Full-UltraWide-LG/dp/B07HJFN4L6/
+
+https://www.amazon.com.br/gp/product/B088L2GXBZ/
+
+Dell
+	Monitor Dell Gamer 27" S2721DGF Preto
+	Monitor DELL p2419h
+	
+	monitor Dell p2421d
+	
+	dell ultrasharp 27
+	Monitor Dell UltraSharp Tela Infinita U2722D 27" Prata
+
+LG
+	monitor LG 34UC79G-B
+
+	LG 25UM58
+		IPS full HD ultrawide
+		dividir o display em 2
+
+	lg gl600f
+
+	Monitor LED 29" LG Ultrawide 21:9 com HDR 10 IPS Full HD - 29WK600
+
+	Monitor LG 25" IPS Ultrawide
+	
+	LG 29WK500-P
+
+Samsung
+	samsumg m5 24'
+
+	Samsung Odyssey G7
+
+Philips
+	Monitor Philips 27 polegadas
+
+AOC
+	Monitor Gamer AOC Agon 32" Curvo 165Hz 1ms FreeSync AG323FCXE
+		R$1.499,98
+		https://www.amazon.com.br/Monitor-Gamer-AOC-FreeSync-AG323FCXE/dp/B088L3LWBP
+
+	Monitor Gamer AOC Agon 31.5' LED, Curvo, 165 Hz, Full HD, 1ms, FreeSync Premium, HDMI/DisplayPort, RGB Light FX - AG323FCXE
+		R$ 1.999,90
+
+Predator x34
+
+Monitor Gamer Acer Nitro XZ242Q 23.6' Curvo Full HD 144hz 4ms FreeSync Alto Falantes Ajuste de Altura
+
+Alienware AW2521HF 240HZ
+
+REQUISITOS
+O que verificar
+	HZ (144hz)
+	Taxa de respostas (1ms)
+	Taxa de cor (SRGB 99%)
+	G-Sync
+	HDR
+	Resolução (Full HD)
+	IPS
+	ver se monitor tem porta dp e hmdi
+		porque da pra ligar o notebook no hmdi e no monitor
+		e o dp no pc (ou invertido) ai a ideia é trocar pelo monitor essas entradas
+
+	32'
+		21:9
+	
+	29'
+		16:9
+
+	RESOLUÇÃO
+		Pixels da largura pela altura
+		A mais utilizada e padrão é 1920x1080
+		Mais conhecida como Full HD
+
+		4k, são 4x Full HD
+
+		1280x720
+		Chamado de HD
+
+		Se for ver polegadas não importa tanto quanto resolução 
+
+	PPI
+		Pixel por polegada
+		Quanto maior melhor 
+		Aí tem muito mais detalhes
+
+	ASPECTO
+		aspect ratio
+		4:3
+		16:9 melhor
+		16 quadrados de largura e 9 de altura
+		Ultra wide
+		21:9
+
+	COLORAÇÃO
+		Taxa de contraste
+		1000:1
+		Ponto branco é 1k vezes mais brilhante que o preto
+		4000:1
+
+		10000:1 é HDR
+
+	LUMINÂNCIA
+		Nit ou cd/m2
+		300 nit
+		Tela com mais brilho é bom em ambientes claros
+
+		Preto
+
+	OLED
+		Muito curioso
+		Onde é preto, ele consegue apagar os leds só daquela região
+		Aí você tem um preto absoluto 
+
+	PROFUNDIDADE DE COR
+		6bits
+		8bits
+		10bits o melhor
+		Você tem uma gama maior de cores
+
+	FRC
+		8 bit tentar ser o de 10
+		Ele cruza meio que 2 pixels e forma uma cor
+
+	ESPECTRO
+		Srgb
+		Adobe RGB
+		Prophoto rgb
+
+	HDR
+		Alto alcance dinâmico
+		Melhores contrastes e profundidade de cores
+		Num monitor LCD muito bom, ele tenta imitar o oled
+
+	FREQUÊNCIA
+		144hz já é de bom tamanho
+		São 144x por segundo de atualização
+		Tudo vai depender da sua placa de vídeo também 
+
+	TEMPO DE RESPOSTA
+		GTG
+		Cinza pra cinza
+		Ir do cinza para branco e do branco ir para cinza
+		1ms geralmente 
+
+	INOUTLAG
+		Mover o mouse e sair no monitor
+		Só serve pra jogo
+
+	IPS
+		Se pode ver se lado que n faz sombra pá

@@ -27,3 +27,10 @@ Espelhado é proibido, não importa na onde
 
 Na pelicula tem chancelas que mostram o percentual
 Se não tiver, já é multado
+
+Película orion black
+	g5 laterais
+	g20 na frente
+
+Se for de boa qualidade (lumar até que é)
+g20 dos lados e g35 na frente perfeito 

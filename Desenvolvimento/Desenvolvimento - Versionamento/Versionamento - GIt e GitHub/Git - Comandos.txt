@@ -1,0 +1,2 @@
+Clonar varios repositorios
+	$ ls | xargs -I{} git -C {} pull

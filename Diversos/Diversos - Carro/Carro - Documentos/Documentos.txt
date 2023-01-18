@@ -26,6 +26,38 @@ PLACA
 	Da pra escolher a placa
 	Se levar o carro lá eles colocam
 
+CARRO VENDIDO
+	Comunicação de venda no cartorio
+	Qualquer multa ou crime é do comprador
+
+ANDAR SEM PLACA
+	transitar normalmente com veiculo sem placa sem registro, sem licenciamento somente carregando a nota fiscal do veiculo por tempo indeterminado
+	https://www.gov.br/infraestrutura/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao782-2020.pdf
+	PAgina 2
+
+
+IPVA não pago, não pode guinchar o carro, só o licencimento que pode guinchar.
+pq vc só licencia com IPVA pago kkk
+
+
+CRV (recibo de compra e venda)
+CRLV
+	licenciamento, só digital
+
+para veiculos zero enquanot não tiver registrado não tem renavam
+
+Consultar debidos do veiculo
+	Seu veículo - pesquisas e certidões > Seu veículo - débitos e restrições
+	Renavam e CPF
+	Mostra tudo
+	Multas
+	Se IPVA ta pago
+	Mostra todas as vistorias
+
+Licenciamento
+	Placa final 6
+		até 31/08/ANO para licenciar
+
 VISTORIA
 	Pra ver se n tá roubado tals adulterado
 	(Carro zero não precisa)
@@ -73,6 +105,13 @@ DOCUMENTAÇÃO CARRO ZERO
 	Documento
 		Entregar no detran
 			Nota Venda, revenda, decalque chassis
+			NÃO É NECESSÁRIO AGENDAR
+			Para desbloqueio do veículo, importante levar toda a documentação e os originais utilizados para upload na abertura do processo.
+
+			O atendimento será pessoal, dentro do Poupatempo/Detran. Para entrar na unidade é obrigatório o uso de máscara.
+			
+			(11) 3322-3333
+
 		Retirada do documento deve ser em uma unidade do Detran (no caso eu acho que é digital)
 
 ESCOLHA DE PLACAS DE VEÍCULO 0 KM

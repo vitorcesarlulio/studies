@@ -1,0 +1,16 @@
+Cola Instantânea
+	Tem tipos de viscosidade
+	
+	quanto menor, mais viscoso
+	
+	Tekbond vem especificado
+	
+	200
+		demora mais pra secar, mais viscoso
+		movimentar a peça
+		
+	793
+		media, nao demora tanto
+	
+	725
+		rapido, passou colou

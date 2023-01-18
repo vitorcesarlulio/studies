@@ -1,0 +1,24 @@
+﻿Todo chatbot nasce com um propósito, assim como os humanos
+        
+        preciso de uma fonte de perguntas
+                quais perguntas serão feitas ai vou saber como responde-las
+        
+        qual fonte de respostas?
+                eu mesmo?
+        
+        razão de existência do bot
+                automatizar tirar duvidas?
+                
+                Chatbot de perguntas frequentes
+                        responder às perguntas mais frequentes dos clientes. Por exemplo, qual é o horário de funcionamento? qual a localização da sua loja? que tipo de produto você oferece? qual é a política de devolução?
+                
+                Chatbot de agendamento de consultas 
+                        agendamento de consultas e envio de confirmações
+                        Por exemplo, posso marcar uma consulta com o Doutor Newman? posso agendar a consulta para as 15h? posso cancelar minha consulta para esta próxima sexta-feira?
+                
+                Chatbot de pedidos de comida 
+                        Receber pedidos dos clientes. Por exemplo, posso comer uma pizza grande? posso comer dois donuts? você oferece cervejas?
+                
+                Chatbot de reservas
+                        Posso reservar uma mesa para cinco pessoas para amanhã às 17h?
+                        quartos em hotéis. Posso reservar um quarto para dois adultos para 12 de setembro?
