@@ -1,0 +1,40 @@
+ai tem como colocar uma solenoide pra fechar o gás
+
+Gás natural (encanados)
+		30 cm do teto
+	
+	GLP (botijão de gás)
+		tende a ficar pro chão, é mais pesado
+		30 a 1m do chão
+
+Heiman zigbee3.0 detector de vazamento de gás ch4 detector de gás gpl sensor de gás trabalhando com smartthing, ziptao, conbee zigbee gateway
+	https://pt.aliexpress.com/item/32840620167.html
+
+Heoman-sistema de alarme de segurança residencial zigbee, detector de vazamento de gás combustível, sensor inteligente para segurança da casa
+	https://pt.aliexpress.com/item/4000224478049.html
+	R$ 206,03
+
+	GAS E TEMPERATURA (pode servir como de fumaça)
+	https://pt.aliexpress.com/item/1005002740008334.html
+	R$ 125,42
+
+HI by Geonav Sensor Inteligente para detecção de Gás Natural e GLP, Wi-Fi, Aplicativo, Bivolt, HISSGL
+	https://www.amazon.com.br/gp/product/B0828KVX7N/
+	R$222,27
+	
+	muito bom
+	VAZAMENTO DE GÁS
+	
+	wifi
+	tem tomada tals
+	Não da muito certo automação, alexa tals
+	funciona na tuya
+	Gas natural
+	GLP
+	Gas de carvao
+	
+	Não precisa de fonte
+	
+Tuya wifi gpl detector de vazamento de gás alarme segurança controle app segurança casa inteligente vazamento sensor	
+	https://pt.aliexpress.com/item/4000155422633.html
+		

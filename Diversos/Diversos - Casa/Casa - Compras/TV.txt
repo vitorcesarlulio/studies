@@ -1,0 +1,99 @@
+TV LG 8K 75NANO95
+	É 8k
+	Tem Google e Alexa
+
+TV SAMSUNG Un82tu8000gxzd
+	Mesma do shopping tivoli
+	R$7.969,00 no pix
+	fASTshop (07/2022)
+
+TCL C825 IMAGEM
+	Trabalha com sistema do Google TV
+	
+	Tem Earc
+	Modo de baixa latencia automatica
+	VRR
+	
+	Brilho adaptivo
+	
+	Som inteligente
+		nao e muito bom
+	
+	local dimming
+		deixa mais claro
+	
+	upscaling
+		meio que deixa tv aberta numa qualidade melhor
+
+Q70t
+Qled
+
+Samsung QN90B
+	Tv para gamer, tem até 55
+	Mas muito caro
+	6k
+	É 4k
+	122hz
+	Tem Dolby
+	TV top
+
+REQUISITOS
+	Entrada HDMI 2.1
+	+ os requisitos no cabo HDMI
+	Tv c nfc? Ver se compensa 
+	HDMI 2.0 ou 2.1?
+	120fps?
+	Refrate rate variável 
+	Gsync free sync
+	
+	4k
+	120hz
+	Vrr mode
+	Hdr10
+	HDMI 2.1
+	
+	OLED
+		Geralmente é muito bom o anti reflexo
+		
+		Preto perfeito
+		cores naturais
+		mas o brilho falam que n é o mesmo que lcd
+
+	HDMI Arc
+	Hoje a maioria já aceita Dolby atmos 
+	Nesse casos é bacana habilitar opções na TV pra quando você desligar a TV, ele desliga home, quando abaixar o volume ele abaixa no home
+	Chamado de controle HDMI
+	Verifique a conexão HDMI que é Arc mesmo
+	HDMI earc
+	Também suporte Dolby
+
+LG
+	Samsung geralmente controle tem smart Cels que carrega controle
+	Não tem
+	Tem uma parada de inteligência artificial interessante
+	Realça rostos e meio que aumenta som
+	
+	Lg nano86
+		Nanocel semelhante ao qled
+		Vazamento de luz os cara fala
+	
+	LG cx
+		Oled
+
+Samsung
+	Habilite alto contrate pra fica preto
+	deixa em amplificar o áudio, melhora muito
+
+	Samsung geralmente controle tem smart Cels que carrega controle
+	
+	Samsung Q80T 55
+		https://www.youtube.com/watch?v=uoYBakedOnc
+		acabamento em metal
+		borda fina
+		wifi 5ghz
+		comando de voz
+		entrada hdmi 2.1
+	
+	Samsung q80
+		Qled
+		Som alto

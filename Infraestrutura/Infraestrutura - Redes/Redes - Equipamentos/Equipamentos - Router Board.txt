@@ -110,3 +110,62 @@ EQUIPAMENTOS - PREÇO E MODELOS
 		Posso fazer failover
 		Balanceamento de carga
 		Cada porta posso montar uma lan
+
+ROUTER
+	E se for outro provedor?
+		Não tem problema, se voce trocar de operadora tendo o seu roteador... nao muda praticamente nada
+		so precisa configurar o modem da operadora
+		essa é a grande vantagem de ter o seu próprio roteador
+		nao importa a entrada de internet, do seu roteador para baixo (rede local) é tudo configuração sua
+	
+	vai usar ppoe? ao inves de DHCP
+	
+	Router MikroTik RB750Gr3
+		R$ 384,82
+		https://www.magazineluiza.com.br/roteador-mikrotik-routerboard-rb750-gr3-hex-880mhz-256mb-mikrotic/p/ff9c6a0823/in/rtdr/
+		https://www.amazon.com.br/MIKROTIK-ROUTERBOARD-RB-750GR3-HEX/dp/B088X28N5W
+		5 portas /1000
+		Não passa mais que 350 de banda
+		tem sensor de temperatura
+		
+		MAIS BARATOS
+			https://www.mercadolivre.com.br/p/MLB7901943?pdp_filters=item_id:MLB2056268398#cart_referer=item
+			https://www.mercadolivre.com.br/roteador-mikrotik-routerboard-hex-rb750gr3-branco-e-azul-turquesa-100v240v/p/MLB7901943
+
+	UDM PRO
+		Não consegue usar os dois links
+	
+	Roteador
+		router usg pro
+	
+		Área aberta, sol chuva mais vara
+	
+		Ap mesh bom muito bom 
+	
+		Sg Gateway da unifi (histórico de consumo)
+		
+		Edge Router 
+		
+		Mikrotik gigabit 
+		VPN, 
+
+		Ap sl
+		
+		Muito caro para nada eu acho: kabum.com.br/cgi-local/site/produtos/descricao_ofertas.cgi?codigo=71061
+		Gigabyte
+			youtube.com/watch?v=1GUVPoaLiN4
+			youtube.com/watch?v=xSgXmmgEjDM
+			youtube.com/watch?v=6qIqDsNW1Qk
+		Roteador TP-Link Wi-Fi N 450Mbps  (TL-WR941HP), TP-Link, Roteadores
+		Roteador Wireless TP-Link Dual Band AC 1350 Archer C60
+		Repetidor De Sinal Wireless Wi-fi 300mbps Tp-link Tl-wa850re
+
+	Configurar NAT para liberar porta dos apps que você deseja usar
+    Criar outros usuários para acessar o roteador, com menos privilégios
+    No DHCP definir uma faixa mínima de internet, não precisa ir do ip 192.168.0.10 ao 192.168.0.100, não vai se conectar 90 pessoas na rede
+    Mesmo sendo DHCP da pra colocar alguns ips fixos (caso alguém queira colocar outro roteador)
+	IP estático para rede onde eu sei quais dispositivos vao se conectar
+	Permitir somente os macs que eu sei que vao se conectar na rede
+	Saber qual canal é melhor?
+		Usar app para cel ou PC Xirrus, escolher o canal que tem menos roteadores (1, 6 ou 11, anatel falou que sao os com menos interferecnia)
+	Largura do canal é automática

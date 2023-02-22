@@ -53,7 +53,11 @@ PROGRAMAS
 	• portland bible college
 
 PAÍS - MÉXICO
-Jamaica e da Riviera Nayarit
+	Jamaica e da Riviera Nayarit
+
+MALDIVAS
+	Hoteis
+		Sun Siyam Iru Veli
 
 PAÍS - BRASIL
 	ESTADO - SÃO PAULO
@@ -171,7 +175,9 @@ PAÍS - BRASIL
 				Shopping Cidade Jardim
 				Shopping Vila Olimpia
 				Iguatemi São Paulo
-				Porto Brás			
+				Porto Brás		
+				são bernardo plaza shopping
+					Ciname 6D pika
 
 			Edifício Itália
 
@@ -600,6 +606,8 @@ DUBAI
 	
 
 EUROPA
+	Comer Percebes
+
 	PAÍS - Turquia
 		Yuvarlakçay Defne Restaurant
 

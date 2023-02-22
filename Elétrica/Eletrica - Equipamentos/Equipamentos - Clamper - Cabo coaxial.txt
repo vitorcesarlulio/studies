@@ -1,9 +1,0 @@
-IClamper cabo
-	Pode ser ligado no iclamper energia 3 ou 8
-	Tensão maxima 90v
-	Temp de operação -40 +70
-	Os 2 lados são entrada e saida
-	Já vem com cabo
-	3 anos de garantia
-	compativel com iclamper tel
-	antichamas

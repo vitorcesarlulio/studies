@@ -1,0 +1,23 @@
+1 Casal TV
+2 Casal Nicho
+3 Casal Penteadeira
+
+4 Talita TV
+5 Talita Nicho
+6 Talita Mesa ( Lado esque do olhando de frente)
+7 Talita Mesa (Lado direito olhando de frente)
+
+8 Vitor TV
+9 Vitor Mesa
+10 Vitor caixinha inferior direito
+11 Vitor caixinha superior esquerdo 
+12 Vitor caixinha inferior esquerdo 
+
+13 Cozinha TV cozinha
+14 Cozinha Nicho esquerda
+15 Cozinha Nicho direita
+
+16 Sala TV
+17 Sala
+08 Sala caixinha esquerda superior
+09 Sala caixinha esquerdo inferior

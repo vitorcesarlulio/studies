@@ -1,0 +1,20 @@
+Snap In - Capa Snap In De Borracha Rj45 Plug C/ 200 Pçs Transparente
+
+Velcro
+	2mm
+
+Switch
+Router board
+
+Sensor de temperatura
+
+PROTEÇÃO
+	Colocar no rack de redes, um para redes, um para cabo coaxial
+	iCLAMPER 3 (pra ligar cabo e tel)
+			Obs.: se for internet chegando coaxial, pode ser que precisa de 2 iCLAMPER cabo
+	iCLAMPER Cabo
+	iCLAMPER Tel
+
+RJ45 marca: Per (aquele que o cabo passa)
+
+Fita Hellermann

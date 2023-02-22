@@ -1,4 +1,9 @@
 Shampoo
+	Sabão sem sal
+	
+	Shampoo neutro
+		Até onde sei ele não tira ceras, produtos por baixo
+
 	PH neutro
 	
 	APC

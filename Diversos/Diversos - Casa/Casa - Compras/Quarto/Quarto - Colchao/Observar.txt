@@ -1,0 +1,4 @@
+Ver altura do box baseado no criado
+Tecidos do box
+
+74 é altura padrão da cama com box

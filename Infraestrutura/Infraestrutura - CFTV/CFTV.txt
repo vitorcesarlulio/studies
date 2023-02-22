@@ -1,0 +1,29 @@
+CFTV
+	Cabo de redes
+		Não é aconselhavle passar energia junto no cabo de rede
+		Deixa fonte perto da camera
+
+		Passar perto da rede eletrica não vira
+		
+		Cameras IP ai sim, outro protocolo
+		
+		De qualquer forma, tem que ser FTP
+		
+		conector balum é para evitar interferencia
+
+	Cabo MC + cabo coaxial
+		minimo 85% de malha
+		rg59 + tripolar (para alimentação) pode ser bipolar também
+		
+		Conector betacavi, pelo que vi pra essa marca precisa de ferramenta especifica
+		tooop de mais
+		
+		acho que tem cabo também
+		
+		Tem um coaxial de 100% cobre, ai ele é rigido
+		
+		Tem o conector mola e um outro que é bem igual, mas bem mais simples ele é tipo coaxial mesmo
+		de mola da mais trabalho
+
+	Cabo coaxial
+		Errado

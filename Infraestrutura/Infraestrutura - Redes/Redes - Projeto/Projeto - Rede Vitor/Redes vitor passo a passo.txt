@@ -1,0 +1,27 @@
+Ler o arquivo de projeto tambem, usar as fotos de referencia
+
+Ligue todos os equipamentos na tomada primeiro, para ver se eles funcionam
+
+Aterramento
+	Correto seria colocar uma barra no rack ou algo do tipo
+	Da barra sairia para uma tomada ligaria só no pininho do meio da tomada e liga a tomada na tomada, se houver uma descarga vai para tomada que já tem aterramento.
+
+IDENTIFICAÇÃO
+	Identificar no cabo e no equipamento/caixinha
+
+Devido as interferências eletromagnéticas deve-se evitar o destrançamento dos pares metálicos por mais de 13mm.
+
+Uma rede local e uma rede para visitantes
+	Ver necessidade de rede só pra equipamentos
+	Só pra câmeras?
+
+Canais (auto Chanel?)
+DBI das antenas -67 (tem que simular na controladora)
+
+Backup
+Vi que tem que deixar o PC ligado
+Tem que ver um período certinho que é meio que certeza que PC vai tá ligado
+Ou colocar uma raso bery
+
+Caso rede fique uma bosta
+Verificar de, pega um cabo que tá indo pro cômodo, usa ele de guia e passa uma cat6 e aí lá no quarto bota um hub

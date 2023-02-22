@@ -1,17 +1,19 @@
 Pano de microfibra
-	Quanto maior a gramatura melhor para secagem
-	Serve para acabamento
+	Gramatura
+		Quanto maior a gramatura melhor para secagem
+			Serve para acabamento
 
-	Gramtura menor melhor para limpeza forte tals
+			Gramtura menor melhor para limpeza forte tals
 
-	Use uma toalha somente para um objetivo
-	
-	NÃO FAÇA FORÇA
-	
-	Tire a etiqueta
-	
-	Limpa na maquina
-		Lavar cada uma separada
+	Cuidados
+		Use uma toalha somente para um objetivo só
+
+		NÃO FAÇA FORÇA
+
+		Tire a etiqueta
+
+		Limpa na maquina
+			Lavar cada uma separada
 	
 	tem que ter uma boa borda
 		de seda ou sem borda (lazer)

@@ -1,6 +1,9 @@
 A ideia é que aqui contenha apenas tópico, com isso entre nas pastas desses tópicos para ver os pontos de atenção
 
 Compras
+	Sensor vazamente de gás
+	Sensor de temperatura
+
 	Segurança
 		Câmeras
 		DVR
@@ -13,10 +16,13 @@ Compras
 		Geladeira
 		Microondas
 		Mesa
+		Cadeiras
 		Bebedouro
+		Aquecedor torneira
 
 	Lavanderia
 		Maquina de lavar
+		Varal (pode ser mais de um)
 
 	iluminação
 		Lustres
@@ -30,6 +36,7 @@ Compras
 	Geral
 		Ar condicionado
 		Suporte TV
+		TV
 		Torneiras
 		Registro e acabamentos
 		Mangueira
@@ -39,7 +46,7 @@ Compras
 	Banheiros
 		Chuveiro
 		Acabamento hydra
-		Ducha higiênica
+		Ducha higiênica + Aquecedor
 		Porta papel higiênico
 		Porta toalha
 		Coifa
@@ -50,4 +57,4 @@ Compras
 		Mesa
 		Suporte para monitor
 		Monitor
-		
+		Colchão/cama

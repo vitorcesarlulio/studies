@@ -78,6 +78,13 @@ WIRELESS
 
 IDENTIFICAÇÃO
 	Identifique o cabo e a caixinha, não só o cabo nem só a caixinha
+	
+PATCH CORDS
+	Espera montar o rack pra ver o tamanho dos patch cords
+	Comprar patch cords de cor diferente? Assim fica mais fácil identificar
+	Vermelho prós AP
+	Azul pra dados mesmo
+	E cinza pra interligar switch no router
 
 CAIXINHAS
 	Tome cuidado onde vai colocar caixinhas ETC veja se nada vai ficar na frente
@@ -117,6 +124,8 @@ ELETRICA
 	norma exige 30 cm de distancia do conduite de redes para o de energia
 
 RACK
+	Patch cord, deixa pra medir depois de ter Switch e patch panel
+
 	MARCAS
 		rack womer 12u
 	
@@ -159,12 +168,53 @@ RACK
 		SEM NORMA
 		Rack - Patch panel - Ponto
 			R01 - P01 - 01
-		
+
 		NORMA EIA/TIA 606A
 
 	LOCALIZAÇÃO
 		geralmente na sala
 		Cuidado com barulhos
+	
+	1. Identique os cabos
+		Melhor dos mundos é na passagem dos cabos já fazer isso, porem tem muita coisa depois, ai cabo / identificação podem ficar prejudicados
+		Utilize um multimetro para isso
+		Coloque na medida de continuidade
+		Começa pela ordem dos proprios cabos/conduites (pode facilitar)
+		Opte por seguir a sequencia logica dos comodos (dos fundos para frente)
+		Descasque todos os pontos do lado do rack
+			junte 4 fios e 4 fios
+			Nos comodos descasque todos os fios tambem, a diferença é que voce vai juntar todos eles (8 fios)
+			e ai no rack voce vai prender o lado preto em 4 fios e o vermelho em 4 fios, se apitar/zerar quer dizer que é o cabo
+		Garanta que não tem nenhum outro cabo nessa situação se não pode estar identificando o cabo errado
+		
+		Ideal é não cortar os fios ainda, deixe o maior possivel
+		
+		Para identificar pode usar aqueles plastiquinho ou fita, mas fita fica cola
+		tem que ser fita de pintor, azul
+	
+	2. Pentei os fios
+		Utilize o pente ele facilita muito
+		Suba o pente ate os conduites, meça um velcro ideal é que ele de uma volta e meia e ai voce prende beeem
+		se der certo, ja corta todos os demais velcros (mais facil)
+		A distancia de um e outro considerei do dedao ao dedo do meio esticados, 20 cm
+		
+		Colocar molinha na ponta dos cabos de rede la do conduite pra evitar de torçer tals
+		mas teria que ser uma mola de plastico sei la
+	
+	3. Coloque dentro do rack
+		Passar cabo enforca gato um pouco pra cima do pé dos cabos de redes no final hora que tiver pronto
+		Pra evitar que eles torçam bem no conduíte, venha rasgar tals
+		
+		Cuidado pode ser que na onde passa o cabo tenha alguma rebarba de metal e risque, corte o cabo
+
+	4. Aterramento
+	
+	5. Organização dos fios dentro do rack + inicio crimpagem
+	
+	6. Crimpagem Patch panel
+		Nunca corte os cabos todos de um mesmo tamanho, vai fazendo e cortando
+		
+		De preferência pode deixar sobrar bem, pq depois você vai prender eles no suporte do patch panels eles vai dá um encurtada/esticara
 	
 	X. Bandeja
 		Se o rack for de 570mm de profundidade, utilizar bandeja de 400mm
@@ -180,6 +230,8 @@ RACK
 		Bandeja de 4 pontos é a que é presa nos quatro cantos do rack
 		
 		Geralmente DVR é 2 a 3 U, 3U fica com uma boa folga
+		
+		BANDEJA SEMPRE FURADINHO PARA PASSAR AR
 
 	X. Régua tomadas
 		Régua de tomada as vezes é bom colocar na frente, pra ficar mais fácil de identificar 

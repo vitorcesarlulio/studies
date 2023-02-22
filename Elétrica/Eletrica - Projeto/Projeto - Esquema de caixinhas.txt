@@ -25,13 +25,12 @@ CASAL
 
 		1 caixinha 2 módulos
 			OK - 2 módulos cego com furo no meio (2 tomadas macho 3 pinos (extensão))
-			 
 
 TALITA
 	TV
 		1 caixinha 3 módulos
 			1 módulo redes
-			1 módulo cego com furo no meio 
+			1 módulo cego com furo no meio
 			1 módulo cego com furo no meio (pra um outro HDMI algo do tipo)
 
 		1 caixinha 2 módulos

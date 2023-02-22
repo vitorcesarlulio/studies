@@ -1,0 +1,66 @@
+Quando for climpar cabo coaxial, deixa aquele plástico sobrando um pouquinho, aí depois você afunda bem o conector até ver a pontinha daquele plástico
+
+Cabos coaxial
+RG6
+Mais espeço que o RG59
+Longa distância
+
+RG59
+Geralmente curta distância, voltado a CFTV
+E redes também
+TV acabo
+
+Dividor de sinal
+	Quantos DBI tem sua antena? chega com 18? 48? 24?
+
+	Cada saida pode ter um db menor, procure ligar o cabo mais longo na saida com maior db
+
+	Perda de uns 3db
+	normal é uns 8 cai pra 5 com divisor
+	Se poder testar eles antes, se algum tiver com problema voce vai ficar louco
+
+	Lembrando que tem digital e analogico
+	
+	Use uma chave de boca pra apertar o cabo
+
+	Antena digital deve estar entre 20db e 6db, menos que isso já não é bom
+	
+	ai 1x4 geralmente perde -7db
+	1x3 perde uns -5db
+	1x2 perde uns -3db
+	
+	1/2 ou two way:  3,5;
+	1/3 ou three way: 5.5;
+	1/4 ou four way: 7;
+	
+	E tem diferença
+	Tem TAP e tem three way
+	TAP
+		Perda dele as vezes vem no modelo DCG-6SB
+		6db é o quanto vai perder
+		
+		Tap de 6: 2,5;
+		Tap de 9: 1,5;
+		Tap de 12: 0,5
+		Tap de 16: 0,5
+		Tap de 24: 0,5
+		Tap de 27:0,5
+		Acima do tap de 12 as percas são de 0,5
+	
+	Melhor marca pareece ser holand
+	
+	Esse parece ser top
+	https://produto.mercadolivre.com.br/MLB-1634960766-divisor-de-6-saidas-de-alta-5-2050-antena-sat-catv-pix-_JM
+	
+	https://produto.mercadolivre.com.br/MLB-1963530541-divisor-de-sinal-6-saidas-5-a-1000mhz-sinal-digital-vhf-uhf-_JM
+	https://produto.mercadolivre.com.br/MLB-701624706-divisor-de-sinal-6-saidas-5-a-1000mhz-sinal-digital-vhf-uhf-_JM
+	
+	1x8
+	https://produto.mercadolivre.com.br/MLB-2132472943-tap-divisor-holland-antena-vhf-uhf-net-tv-cabo-8-saidas-_JM
+	https://produto.mercadolivre.com.br/MLB-2721034838-divisor-18-5-1000-mhz-wl-6808-v-_JM
+
+diplixer
+	Vai juntar sinal da antena da rua + antena do telhado
+
+
+Nenhuma malha pode enconstar no nucleo condutor (cobre)

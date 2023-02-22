@@ -49,3 +49,40 @@ TP LINK
 
 DLINK
 	D-Link DGS-1024C
+
+SWITCH
+	Qual porta colocar internet?
+
+	TP-Link TL-SG1024D
+		mercado livre muito mais barato
+		https://www.mercadolivre.com.br/switch-tp-link-tl-sg1024d/p/MLB12474056
+		R$ 761,00
+			
+		R$ 921,05
+		https://www.kabum.com.br/produto/129456/switch-tp-link-24-portas-gigabit-de-mesa-tl-sg1024d
+		https://www.americanas.com.br/produto/3449171045
+		https://www.americanas.com.br/produto/4601794862
+		gigabit
+		é gerenciável?
+			parece que nao
+	
+	vale apena vlan?
+
+	Switchs
+		produto.mercadolivre.com.br/MLB-1630065070-switch-8-portas-tp-link-gigabit-101001000mbps-ls1008g-_JM
+		produto.mercadolivre.com.br/MLB-1618921052-switch-gerenciavel-easy-smart-gigabit-de-8-portas-tl-sg108e-_JM
+	
+	Switch vs Router Gigabit
+		youtube.com/watch?v=oxf_xrdMm4o
+
+	PORTAS
+		Ver a possibilidade de sair uma porta do switch (e essa porta com varias regras definidas) e ir para um hub, assim não precisa comprar um switch com varias portas
+	IPS
+		Se os equipamentos de rede tiver essa função, da pra ver o trafego da rede
+	Internet > 100mb
+		Se for uma internet acima de 100mb que é quando vc contrata da operadora 200mega por exemplo eles já te dão um modem que suporta isso, mas depois do modem você tem que usar equipamentos que aceitam isso, suportam isso. Começando pelo cabelo que deve ser acima do cat5e que suporta 1GB
+		Cat 6 ou 7 suporta até 10gb (verificar)
+		Wi-fi
+		Roteador tem que ser 802,11 ac ou Wi-fi Ac para suportar transmitir isso
+		E o dispositivo também, seu celular, computador etc
+		Verificar na operadora se tá vindo acima de 100 mesmo, a minha rede interna pode estar blz mas eles enviam a internet e não vem acima de 100mb porque os equipamentos deles não são giga
