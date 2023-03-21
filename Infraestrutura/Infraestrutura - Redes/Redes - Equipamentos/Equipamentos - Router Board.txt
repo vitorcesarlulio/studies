@@ -166,6 +166,3 @@ ROUTER
     Mesmo sendo DHCP da pra colocar alguns ips fixos (caso alguém queira colocar outro roteador)
 	IP estático para rede onde eu sei quais dispositivos vao se conectar
 	Permitir somente os macs que eu sei que vao se conectar na rede
-	Saber qual canal é melhor?
-		Usar app para cel ou PC Xirrus, escolher o canal que tem menos roteadores (1, 6 ou 11, anatel falou que sao os com menos interferecnia)
-	Largura do canal é automática

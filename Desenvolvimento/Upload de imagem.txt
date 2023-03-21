@@ -1,0 +1,5 @@
+Cria pacote de rede HTTP conecta com servidor, recebe a requisição e o servidor fica bloqueado esperando o arquivo (blocking IO)
+
+Imagina uma foto de 60mb no 4G (10 mb por segundos)
+
+Tem como substituir toda burocracia dando um upload pro S3 da amazon, sem passar pelo seu BE

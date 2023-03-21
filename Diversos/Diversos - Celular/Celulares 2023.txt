@@ -1,0 +1,165 @@
+Moto g9 Power
+	6k MHA
+
+Moto g71
+	29h de autônomia
+	1h de recarga
+
+Moto g60
+	90hz
+	Sistema meio ruim, só vai até Android 12
+	6 ram
+
+Galaxy m21S
+	Tela AMOLED, economiza mais barateria
+	2 dias de uso de bateria
+	Mais em conta da Samsung
+	4k câmeran
+
+C25
+	Android 11
+	
+M51
+	7k mah
+
+Galaxy m62
+	Mais completo
+	7mha
+	Super AMOLED
+	8gb ram
+	Processador melhor
+	Pesado
+	25w de potência para carregar (carregador)
+	Super AMOLED tela
+	Full HD
+	60hz
+
+REDMI
+	Poco x5 pro
+		2023
+		https://www.amazon.com.br/dp/B0BRQPLLFP
+		Camera top
+		AMOLED
+		5kmha
+		67w carregador
+		120hz
+		8gbram
+		5g
+		‎256 GB
+		NFC
+
+	Xiaomi Redmi Note 10 Pro
+		https://www.amazon.com.br/dp/B08Y8QDL32?tag=melhordotech-20&linkCode=ogi&th=1&psc=1
+		2020
+		8 ram
+		nfc?
+		5g?
+		5020 mah
+		Amoled
+
+	Poco m3
+		2020
+		https://www.amazon.com.br/Xiaomi-Poco-Vers%C3%A3o-Global-Preto/dp/B08N5DK9SZ
+		LCD full hd
+		É antigo
+		Processador bom
+		N tem câmera ultra angular 
+		Carregador 18w
+		Os cara fala que ele tem um problema que para e não volta mais, celular morre
+		6k MHA
+		Processador intermediário
+		4ram
+
+	Note 11 pro
+		https://www.kabum.com.br/produto/316487/smartphone-xiaomi-redmi-note-11-pro-5g-6gb-ram-128gb-tela-6-67-azul-cx336azu
+		https://www.amazon.com.br/Note-11-Pro-128-branco/dp/B09Y9G2ZRY/ref=asc_df_B09Y9G2ZRY/
+			esse nao tem 5g, só versão global pelo que entendi
+		29h autônomia 
+		Menos de 1h para carregar
+		
+		Tecnologia: Amoled
+		120hz
+		Memória RAM (GB) 6GB tem de 8 também
+		tem 5g
+		NFC: Sim
+		67w
+		Carregamento sem fio: Não
+		5000mah
+
+	Poco f4
+		normal
+			2022
+			https://www.amazon.com.br/Xiaomi-Poco-128GB-Preto-Brasil/dp/B0B4MB55YK
+			Mesma fita do x4 GT
+			Porém 4.5k mah
+			6ram
+
+		GT
+			https://www.amazon.com.br/Xiaomi-Vers%C3%A3o-Global-Brasil-Stealth/dp/B09ZBNM7B5
+			2022
+			4.5 mah
+			21m cheia bateria
+			CARREGA RAPIDO
+			8ram
+			
+	Xiaomi 11t pro
+		https://www.kabum.com.br/produto/316486/smartphone-xiaomi-redmi-note-11-pro-6gb-ram-128gb-tela-6-67-cinza-cx335cin
+		5000mah
+		20 minutos pra carregar
+		carrega rapido, 60w carregador
+		Amoled
+		120hz
+		Memória RAM (GB) 6GB
+		n tem 5g
+		n grava 4k
+		NFC: Sim
+		MIUI 13
+		Android 11
+		Carregamento sem fio: Não
+
+	Readmi 11t
+		https://www.kabum.com.br/produto/316480/smartphone-xiaomi-redmi-note-11-4gb-ram-128gb-octa-core-camera-quadrupla-50mp-tela-de-6-43-cinza-cx332cin
+		5000mah
+		40m para carregar
+		Tecnologia: Amoled
+		90hz
+		Memória RAM (GB): 4GB
+		n tem 5g
+		n grava 4k
+		NFC: Não
+		MIUI 13
+		Versão Android: 11
+		33W carregador
+	
+	Redmi 10 prime
+		6k mah
+		15h de tela ligada
+		1k
+		29h de autônomia
+		2h para carregador
+		6 ram
+		90hz
+		18w Carregador
+		Ideal seria 32w
+		Camera ultra angular
+		
+		n achei, antigo, 4ram
+
+	Redmi 9t
+		2020
+		https://www.amazon.com.br/Xiaomi-Redmi-Vers%C3%A3o-Global-Ocean/dp/B08SPXDYNV
+		Carregador 18w
+		6k mah
+		4 GB ram
+		Tela IPS
+		Gorila Glass
+		Mesmo processador do poco
+		NFC
+		
+		Os cara fala que ele tem um problema que para e não volta mais, celular morre (eu sei que o poco é ctz, esse eu não sei)
+
+	Fora
+		Redmi 12t
+			4.600mah
+			30 minutos carrega tudo
+			aliexoress

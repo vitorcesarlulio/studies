@@ -1,0 +1,6 @@
+Desabilita as redes wireless no roteador da operadora pq eu tenho unifi
+
+Net só fica como modem
+Quem recebe IP público é o Mikrotik
+Ele vai gerenciar tudo
+Diminui salto

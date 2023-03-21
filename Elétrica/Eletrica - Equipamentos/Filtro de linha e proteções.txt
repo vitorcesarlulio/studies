@@ -1,0 +1,47 @@
+Clamper
+Tem que ser coisa que fica sempre ligada
+
+Pocket
+	10a 127v = 1270W
+	20a 127v = 1778W
+
+	10a 220v = 2200W
+	20a 220v = 3080W
+
+iCLAMPER Pocket Fit 3P 10A
+	Da pra ligar 2 pinos nele normal
+	queimou joga fora e não filtra a linha, rapaiz mas tem que ser muito forte
+
+	voltagem da casa x amperagem do filtro de linha (10 amper)
+	ISSO NO FILTRO DE LINHA TAMBÉM
+
+	10a
+		No 220v
+			2200w
+		No 110v
+			1100w
+
+		DA
+			Forno de Micro Ondas 2000w
+			Freezer Horizontal 500w
+			Geladeira Duplex 500w
+			Liquidificador 200w
+			Máquina de Lavar Roupa 1000w
+			Secador de Cabelo 1000w
+			Air fryer 1500 w
+			Cafeteira Elétrica (Residencial) 600w
+			Ferro Elétrico	1000w
+			Ar condicionado
+				1200 btu 1.450 W
+			Cortinas
+		
+	20a
+		No 220v
+			4400
+
+		No 110v
+			2200
+
+		NÃO DA
+			Fogão Elétrico de 4 Bocas 6000w
+			Forno Elétrico Grande 4500w

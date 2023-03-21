@@ -1,9 +1,6 @@
 A ideia é que aqui contenha apenas tópico, com isso entre nas pastas desses tópicos para ver os pontos de atenção
 
 Compras
-	Sensor vazamente de gás
-	Sensor de temperatura
-
 	Segurança
 		Câmeras
 		DVR
@@ -19,6 +16,9 @@ Compras
 		Cadeiras
 		Bebedouro
 		Aquecedor torneira
+		Tapete anti derrapante (moveis)
+		Porta talheres
+		Talheres
 
 	Lavanderia
 		Maquina de lavar
@@ -34,6 +34,8 @@ Compras
 		Luminarias
 	
 	Geral
+		Sensor vazamente de gás
+		Sensor de temperatura
 		Ar condicionado
 		Suporte TV
 		TV
@@ -42,7 +44,14 @@ Compras
 		Mangueira
 		Ralos
 		Ventilador
-	
+		Filtro de linha e proteções
+		Cabo HDMI
+		Kit Engate Rápido Para Mangueira De Jardim Macho + femea TRAMONTINA
+		Bolinha silicone
+
+	Fachada
+		Número de casa
+
 	Banheiros
 		Chuveiro
 		Acabamento hydra
@@ -50,11 +59,14 @@ Compras
 		Porta papel higiênico
 		Porta toalha
 		Coifa
-	
-	Número de casa
-	
+		Buchas
+		Porta shampoo
+		Porta escovas de dente
+
 	Quarto
 		Mesa
 		Suporte para monitor
 		Monitor
 		Colchão/cama
+		Protetor de colchão
+		Cabides

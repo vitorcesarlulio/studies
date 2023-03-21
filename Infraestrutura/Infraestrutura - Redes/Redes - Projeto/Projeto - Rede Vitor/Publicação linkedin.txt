@@ -1,0 +1,27 @@
+E esse com certeza foi um dos desafios mais legais que eu pude me aventurar. 
+
+Depois de anos de aprendizado, vivenciando muito a teoria (digasse de passagem, que é fundamental) pude colocar a mão na massa e me aventurar.
+
+Os aprendizados foram inúmeros, claro que, algumas frustrações, mas tudo isso faz parte e é o que nos instiga a continuar rs.
+
+Pra quem deseja saber de mais detalhes
+
+Basicamente essa foi uma rede residencial 90% projetada por mim, mas claro, que devo a muitos matérias na internet e amigos!
+
+Agrdecimentos
+@ti avançado
+Geraldo
+Leandro gom
+
+São 22 pontos cabeados cat5e (devido proprietário não ter investido em um cabeamento cat6).
+Todos os pontos foram em keytones RJ45 trazendo maior flexibilidade e longevidade na infra, somando com isso, também foi utilizado um patch cord Legrand de 24 portas.
+Switch Xxxxx para gerenciar todo cabeamento
+Router board Xxxxx para politicas de segurança e ser a responsável por se comunicar com a internet (localhost ≠ internet)
+Também foram utilizados 3 access point Unifi XXXX muito bem posicionados utilizando as tecnologias unifi.
+
+Em resumo, teve muito suor e estudos investido nesse desafio, mas no final, valeu apena.
+
+Na infra também está presente sistema CFTV com 4 câmeras de segurança, cabeamento para TV a cabo e telefonia.
+
+Pra quem ainda não conhece, esse é um repositorio que possuo no GitHub onde registro todos os aprendizados de minha vida. 
+Em específico aqui você encontra minhas anotações sobre o tópico de redes

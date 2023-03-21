@@ -1,0 +1,57 @@
+Talheres
+	Búzios
+		Mais leve, mais fino
+		30g
+
+	Laguna
+		Mais famosa
+		Mais forte
+		40g
+
+	Havana
+		Moderno e clean
+		30g
+		Leve
+		Booom em
+		N acumula sujeira
+
+	Amazonas
+		Profissional
+		Não tem frisos
+		N acumula sujeira
+		65g dobro de peso
+
+	Sonata
+		Muito mais elegante
+		Talher maior
+		85g
+
+	Atlântida
+		Design diferente
+		70g
+
+	Escultura
+		Detalhe no cabo, como se fosse uma folha
+		Talheres muito grandes kkkk
+		85g
+
+	Dalas
+		Brilho + fosco
+		Quadrado
+		Linha bem completa
+
+	Oriente
+		Extremamente grossa
+		80g
+		Existe no brilho e brilho fosco (cabo é fosco)
+
+	América
+
+	Brasil
+		Design diferente
+		Bonito
+
+	Copacabana
+
+	Las Vegas
+	Lado fosco e um lado brilho

@@ -1,0 +1,5 @@
+GYMPASS
+que dá acesso a todas as academias conveniadas de valor igual ou inferior a este valor,
+Ajustes no custo dos planos de adesão (com comunicação prévia por escrito) e isenção de pagamento de multa em caso de cancelamento.
+Essa assinatura do Programa Corporativo Gympass terá prazo indeterminado, salvo cancelamento em contrário pelo RH de sua empresa.
+Que o login, a senha e os Gympass Daily Tokens são pessoais e intransferíveis.

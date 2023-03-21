@@ -1,5 +1,3 @@
-Ler o arquivo de projeto tambem, usar as fotos de referencia
-
 Ligue todos os equipamentos na tomada primeiro, para ver se eles funcionam
 
 Aterramento
@@ -11,17 +9,74 @@ IDENTIFICAÇÃO
 
 Devido as interferências eletromagnéticas deve-se evitar o destrançamento dos pares metálicos por mais de 13mm.
 
-Uma rede local e uma rede para visitantes
-	Ver necessidade de rede só pra equipamentos
-	Só pra câmeras?
-
-Canais (auto Chanel?)
-DBI das antenas -67 (tem que simular na controladora)
-
-Backup
-Vi que tem que deixar o PC ligado
-Tem que ver um período certinho que é meio que certeza que PC vai tá ligado
-Ou colocar uma raso bery
-
 Caso rede fique uma bosta
 Verificar de, pega um cabo que tá indo pro cômodo, usa ele de guia e passa uma cat6 e aí lá no quarto bota um hub
+
+Patchcords
+	30cm tá dando patch cord, com sobra da uns 35
+	Isso na porta mais longe que é a porta 1
+
+	Pegar cat6?
+		Sim
+
+	1.5 se alguma tv entrada de internet for invertida
+
+	Coz
+	1x 1.5m
+	1x 1m
+
+	Sala
+	2x 1.5m (TV e se precisar ligar um PC)
+	1x 1m
+
+	Quarto vitor
+	3x 1.5m
+
+	2x 2.5 metros (PC e notebook)
+
+	Talita
+	3x 1m (em cima da bancada + net do nicho)
+	1x 1.5m (nicho)
+
+	Casal
+	1x 1.5m
+	1x 1m
+
+	Opção 1
+	1.5m 12x = 361.44
+	2.5m 2x = 91.2
+	1m 2x = 44.84
+	497.48
+	
+	Opção 2
+	1.5m 8x = 240.96 OK
+	2.5m 2x = 91.2
+	1m 6x = 134.52
+	466.68
+
+	35cm no cat6
+		300.96
+	40cm no cat5e
+		266.88
+	
+	Casal
+	1 2 metros para TV
+	1 40 Cm para nicho
+
+	Talita
+	1 2 metros para TV
+	1 40 Cm para nicho
+	1 1 metrô bancada
+
+	Vitor
+	1 2 metros para TV
+	1 3 metros para PC
+	1 de 2 metros para caixa tomada
+
+	Cozinha
+	1 2 metros para TV
+	1 40 Cm para nicho
+
+	Sala
+	1 2 metros para TV
+	1 40 Cm para nicho

@@ -1,0 +1,5 @@
+Filas e workers
+Bull é um deles
+Basicamente, no seu front você vai só jogar pra uma fila e avisar que está processando
+Na sua fila você organiza e eu só tenho dúvida se processa algo ou envia para BE
+Dessa forma você não trava ninguém, o front end tá livre, não fica pendurado com BE aí uma opção é p front de tempo em tempo bater na fila ou no BE pra ver a resposta

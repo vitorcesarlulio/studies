@@ -1,0 +1,41 @@
+Alterar contrato
+
+Se existe alguma cláusula que a marcenaria só iniciaria o serviço caso o cliente já deixe adiantando o que deveria estar (cobrir algo, comprar algo)
+	Colocar que todos itens ja foram comprado pelo proprietário 
+		Gavetas
+		Lixeiras
+
+	Pontos pendentes ao cliente
+		Porta talheres
+		Tapete interno nos armários
+		divisão de prateleiras
+
+Colocar no contrato que a execução dos moveis deve seguir exatamente o que está no projeto e/ou que foi verificado em conferencia em obra.
+ 
+Pagamento
+	Informar que no outro contrato já houve um pagamento no valor de R$ 19.760.00 pago dia 04/10/2021
+	Inserir no contrato que esse pagamento será repassado para marcenaria e ela será responsável de pagar os fornecedores
+	
+	É possível arredondar o valor?
+
+	Acréscimo total de R$ 8.718,88 será dividido da seguinte forma
+	R$ 1.600,00 será pago caso seja entregue no prazo (fabricação e instalação) a cozinha e sob aprovação do cliente. Será pago no PIX em 1x.
+	
+	O restante do valor R$ 7.718.88 será divido em 3x. 
+		Mediante assinatura do contrato R$ 2.572.96. Será pago no PIX
+
+Prazo
+	Qual o prazo de fabricação (passar uma data ou quantidade de dias uteis ou não)?
+	Qual o prazo de execução em obra dos móveis (passar uma data ou quantidade de dias uteis ou não)?
+
+Horário de instalação na obra
+
+CPF meu está errado alterar 
+	357.968.868-51
+	Se for usar CNPJ vou precisar pegar dados do Gesso
+
+Recebimento dos cheques*
+	Vai mudar caso a forma de pagamento seja alterada
+
+Incluir que a marcenaria só iniciara o serviço (assinar contrato) somente após o cliente disponibilizar os materiais necessários
+Por exemplo LED tals

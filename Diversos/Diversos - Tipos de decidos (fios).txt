@@ -1,0 +1,18 @@
+Tipos de fios
+	Fio cardado
+
+	Comum
+		Não passa por processo de limpeza
+		Não passa pela penteadeira
+		Fibra curta
+
+	Fio penteado
+
+	Fio fica penteado
+
+	Fio retorcido
+		Entrelaçado, mais resistente
+
+	Fio tinto
+	Ele é tingido antes de fazer o tecido
+	Ao contrário é uma fibra que é pintada depois, que fica áspera

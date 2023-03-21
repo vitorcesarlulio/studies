@@ -1,0 +1,40 @@
+Preparar PC para windows 11
+Atualizar BIOS
+Utilize as portas traseiras, que são direto da placa mãe
+
+CPU z
+Pegar modelo da placa mãe e BIOS
+
+Pendrive de 32 recomendado
+
+Nem toda BIOS lê ntfs então usar fat 32 mesmo na formatação 
+
+Opções BIOS
+CSM Support
+Suporte para hardwares mais antigos, você pode desligar. Se sua placa de vídeo for antiga pode ser que não de vídeo aí você tem que tirar bateria da placa mãe pra resetar BIOS
+
+System mode
+Secure bot enabled
+Secure boot mode > Restore factory Keys
+
+Io ports
+Abode 4G decoding Enabled
+Re size bar support
+Para placa de vídeo 
+
+Ligar Xmp da memória 
+
+Midia creation tool da Microsoft 
+
+Na formatação tira computador da rede pra entrar com conta local
+Coloca um nome sem espaço sem nada
+E depois loga na conta Microsoft
+
+Ou
+Coloca qualquer conta e erra
+
+Coloca não em tudo em telemetria tals
+
+Verifica atualizações
+
+Desabilita o hibernar

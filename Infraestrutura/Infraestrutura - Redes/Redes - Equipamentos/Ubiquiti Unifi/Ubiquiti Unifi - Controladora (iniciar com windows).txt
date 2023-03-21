@@ -1,0 +1,11 @@
+https://dannyda.com/2021/05/23/how-to-automatically-start-unifi-network-controller-on-windows-how-to-start-unifi-network-controller-and-upgrade-update-automatically/
+Agendador de tarefas
+
+Caminho do java
+	C:\Program Files\Java\jre1.8.0_341\bin\java.exe
+	
+	achar java windows
+		for %i in (javac.exe) do @echo.   %~$PATH:i
+
+argumento
+	-jar "C:\Users\vitor\Ubiquiti UniFi\lib\ace.jar" ui

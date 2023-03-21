@@ -208,13 +208,42 @@ RACK
 		Cuidado pode ser que na onde passa o cabo tenha alguma rebarba de metal e risque, corte o cabo
 
 	4. Aterramento
-	
+		liga tudo no rack
+		Diz no documento da furkawa que o correto não é ligar tudo num ponto só, e sim em pontos separados da carcaça (não tudo no mesmo parafuso)
+		E aí o rack liga na tomada (terra)
+
 	5. Organização dos fios dentro do rack + inicio crimpagem
 	
 	6. Crimpagem Patch panel
 		Nunca corte os cabos todos de um mesmo tamanho, vai fazendo e cortando
 		
 		De preferência pode deixar sobrar bem, pq depois você vai prender eles no suporte do patch panels eles vai dá um encurtada/esticara
+	
+	7. Patchcords
+		Pode ser cat6 mesmo, só tem que esperar ta tudo montado pra medir certinho o tamanho dos cabos
+		CAT6 funciona mesmo que toda infra foi cat5e
+		tem que ser grande, se não nao chega nas portas mais longe kkkk (porta 1 geralmente e a porta 24)
+		Tem que ver se vai usar guia de cabo pra esconder as sobras, se não, ai da pra pega um cabo menor
+		
+		NAO ESQUEÇA de contar o patchord do modem para switch COMPRE COR DIFERENTE ESSE vermelho pra causar medo
+		das fontes POE
+		
+		Vendedores
+			https://www.cabospatchcord.com.br/cabo-rede-50-cm-patch-cord-cat6-utp-furukawa
+			https://www.centralcabos.com.br/patch-cord-cat5e-azul-sohoplus-0-50-metros/p
+			https://www.eletronicasantana.com.br/patch-cord-cat5e-u-utp-t568ab-5m-furukawa-9005386/p
+			https://www.cabospatchcord.com.br/cabo-de-rede-50-centimetros-patch-cord-cat5e-utp-furukawa
+			https://www.cabospatchcord.com.br/cabo-de-rede-40-centimetros-patch-cord-cat5e-utp-furukawa
+
+		autorizado
+			https://lojaonline.telcabos.com.br/patch-cord-u-utp-multilan-cat-5e-cm-t568a-b-0-5m-azul-03806
+
+		Peça no padrão A (ou o que foi crimpado toda infra da casa)
+
+	8. Tampa porta RJ45
+		https://produto.mercadolivre.com.br/MLB-2120819260-kit-com-10-tampas-protetoras-plug-anti-poeira-p-porta-rj45-_JM
+		
+		Evitar poeira
 	
 	X. Bandeja
 		Se o rack for de 570mm de profundidade, utilizar bandeja de 400mm
@@ -250,11 +279,12 @@ RACK
 	
 	X. Nobreak
 		existe nobreak de rack
-		
-	Aterramento 
-		liga tudo no rack
-		Diz no documento da furkawa que o correto não é ligar tudo num ponto só, e sim em pontos separados da carcaça (não tudo no mesmo parafuso)
-		E aí o rack liga na tomada (terra)
+
+	TEMPERATURA
+		https://produto.mercadolivre.com.br/MLB-774331168-kit-de-ventilaco-para-rack-2-ventil-padro-univl-bivolt-pat-_JM
+		https://produto.mercadolivre.com.br/MLB-1689716209-ventilador-cooler-ventoinha-120x120x38-110220v-bivolt-grade-_JM
+		https://www.raicrom.com.br/rede-e-internet/kit-de-ventilacao-com-2-cooler-prack-gforce
+		https://www.infinitycomercial.com.br/MLB-843266954-kit-de-ventilaco-para-rack-2-ventiladores-padro-univ-19-_JM
 
 TEMPERATURA
 	18 a 27c temperatura da sala (https://datacenterfrontier.com/evolving-data-center-cooling-ranges-standards/)

@@ -1,0 +1,55 @@
+CABO HDMI
+	Marcas
+		Rosso
+			mais caro de todos, mas melhor
+		PIX
+			mais top, unico problema é que não tem de 3m o cabo mais pika deles
+		ELG
+			em jogos nao se sai bem
+			no restante já é bom
+	1.4
+		Suporta largura de banda de 10.2gbs
+	2.0
+		Suporta largura de banda de 18gbs
+		8k: limitado
+		4k: sim
+		2.0b = high dinamic range, cores mais vivas
+	2.1
+		Suporta largura de banda de 48gbs
+		8k: sim
+		120ghz
+		4k: sim
+		https://www.kabum.com.br/cgi-local/site/produtos/descricao_ofertas.cgi?codigo=101214
+		verficicar, pois pode ter lado certo de ligar o cabo
+		
+		Requisitos
+			LEMBRANDO QUE tudo isso deve ter no seu video + na sua TV + no seu dispositivo (PC por exemplo)
+
+			HDR ou HDR dinâmico
+
+			EARC ou ARC
+				retorno de áudio (home)
+
+			VRR
+				Taxa variável de transação de quadro
+
+			QMS
+
+			QFT
+
+			ALLM
+		
+		Marcas
+			PIX
+				Funciona nas tecnologias anteriores
+				Melhor
+				https://www.edcabos.com/cabo-hdmi/cabo-hdmi-2-1-8k-pix-1-5-metros-chp-2121--p
+				https://www.amazon.com.br/Cabo-HDMI-2-1-8K-Pix-2-1/dp/B07P19ZP5D/ref=asc_df_B07P19ZP5D
+				https://www.kabum.com.br/cgi-local/site/produtos/descricao_ofertas.cgi?codigo=101214
+
+				marca pix muito bom, linha black edition, mas sao muito falsificados
+				rosso muito bom
+
+			ELG
+				https://www.amazon.com.br/CABO-ETHERNET-HS8K20-Preto2-metros/dp/B07Y2MZ4L6
+				Teve problemas na Samsung
