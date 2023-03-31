@@ -1,0 +1,9 @@
+Cabo USB é só para alimentar o extensor
+Peça maior fica pra fora e menor fica de frente com o aparelho
+
+Identificar quem não é idoso que tá usando vaga de idoso (e outras vagas)
+
+Bateria do controle, até uns 9V, abaixo já começa cagar, sinal
+Tem um fiozinho preto que é uma antena receptora aí você pode aumentar ela ou só direcionar melhor 
+
+Tem uma saída de 3.3V

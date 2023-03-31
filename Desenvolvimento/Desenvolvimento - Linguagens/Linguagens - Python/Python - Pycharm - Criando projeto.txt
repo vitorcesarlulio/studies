@@ -1,0 +1,17 @@
+Envs
+	Virtual env
+		vai ter uma pasta wnv no seu projeto e tudo externo vai ficar nela
+	Pip
+
+Instalar libs
+	pip install pymsql
+
+Criando requeriments.txt
+	arquivo de texto para listar suas libs
+	pip freeze > requeriments.txt
+	ou
+	pip-chill > requeriments.txt
+		ele vai tirar libs de terceiros
+	
+	instalando
+		pip install requeriments.txt

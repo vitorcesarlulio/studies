@@ -1,0 +1,7 @@
+Som > Avançado> Modo padrão 
+É só o tamanho do arquivo que vai sair do seu PC e ir para uma mesa controladora tals
+Na teoria, você não vai trabalhar com pacotes tão grande pra deixar na última opção 32bits etc
+Você deixando em 16 bits já tá bom, você não vai ter arquivos tão grandes assim
+
+Modo exclusivo
+Habilita as duas opções

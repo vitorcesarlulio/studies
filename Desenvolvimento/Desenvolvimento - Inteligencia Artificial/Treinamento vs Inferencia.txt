@@ -1,0 +1,7 @@
+Treinamento
+É o treinamento da rede neural mesmo
+Bilhões de parâmetros, tem dado pra caramba
+Precisa de um hardware top
+
+Inferência
+Depois de treinada rede neural, é o consumo da IA

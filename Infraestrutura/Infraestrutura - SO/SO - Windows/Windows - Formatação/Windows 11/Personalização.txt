@@ -1,0 +1,22 @@
+Fixar no menu iniciar
+Dispositivos e impressora
+
+Alterar configurações de conta de controle de usuário 
+Desce barrinha pra não ficar dando notificação na hora de instalar programa
+
+Google
+Configuração do site > notificação desabilitar
+
+Win aero twik
+Desabilitar programas rodando no background
+Disabled Cortana
+Telemetria
+
+This is win 11
+Personalizar várias coisas
+Desinstalar apps
+
+
+Personalizar> Temas > Som > aba Sons 
+Desabilite o que desejar
+Desabilite não inciar som com windows

@@ -1,3 +1,10 @@
+Tipos de câmera
+AHD
+CVI (protocolo da Intelbras)
+Analógica (CVBR)
+DVI (câmeras High vision)
+Camera IP
+
 Camera não mais que 0.5a
 Uma fonte colmeia de 5 amper já da umas 8 câmeras
 

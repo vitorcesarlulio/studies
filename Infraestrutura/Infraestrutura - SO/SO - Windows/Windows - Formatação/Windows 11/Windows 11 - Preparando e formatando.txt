@@ -38,3 +38,36 @@ Coloca não em tudo em telemetria tals
 Verifica atualizações
 
 Desabilita o hibernar
+
+sistema > multitarefas 
+	ajuustar janelas
+		DISABLED - quando eu ajustar uma janela, mostrar o que eu posso ajustar ao lado dela
+	
+	ENABLED - Sacudir a barra de titulos da janela
+		quando vc tem varias janelas abertas, se vc chacualha uma as de baixo sao minimizadas
+
+Sistema > sobre
+	configurações avançadas do sistema
+		remoto
+		desabilite
+
+Acessibilidade
+	efeitos visuais
+	desabilitar - efeitos de transparencia
+	desabilitar - efeitos de animação
+
+Privacidade e segurança
+	desabilita tudo
+	
+	Microfone e camera os unicos habilitados e para certos apps ainda
+
+Opções de pasta
+	aba Modo de exibição
+		Enabled - diminuir o espaço entre os itens 
+
+Configura~~oes barra de tarefas
+	desabilitar visao de tarefas e wiggets e batpapo
+	
+Desabilitar serviços
+	Cliente de rastreamento de link distribuido
+	Experiencias do usuario conectado

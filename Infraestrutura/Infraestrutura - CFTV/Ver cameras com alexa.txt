@@ -1,0 +1,29 @@
+Colocar tag NFC atrás do vídeo porteiro para liberar (mas aí eu acho que tem que íntegrar com Alexa, vishi BO)
+
+Acho que única forma de abrir vídeo porteiro pela Alexa é uma botoeira com sonoff
+
+Camera na TV e integração vídeo porteiro
+Basicamente tudo se resumo em ligar o DVR na central de alarma e usar sonoff 
+
+Opção I
+Meio gambiarra
+https://youtu.be/Re28-s_c5pM
+Cara parece que baixo um app da Alexa (não sei se era o original não) abertos sonoros chama
+
+E um outro app IP can viewer pra cadastrar as câmeras
+
+Ai na Alexa tem que mudar pra conta dos EUA e pesquisar skill abertos sonoros
+
+Ai você vai em criar rotina, quando você falar ver câmeras aí você pesquisa o dispositivo, que é o IP Cam viewer
+
+Opção II
+Gambiarra mais ainda
+Usa um central de alerta e um sonoff
+E aí a central de alarme fica conectada ao DVR
+E no DVR você programa pra que quando tiver um pulso na central de alarme abre uma câmera 
+E aí ele usa um app que tem que ficar rodando no PC e esse app se integra com alexa
+
+Opção III
+Iftt
+Se add no app que chegou notificação e aí joga isso pra Alexa
+Mas só serve pra ela fala que tem alguem no portão

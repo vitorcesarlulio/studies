@@ -32,3 +32,5 @@ ARMAZENAMENTO
 			Muito top, fazer umas cenas das câmeras com alexa
 			https://youtu.be/mdL8JNhaKNA
 			https://youtu.be/6JVsEY-sxyQ
+	
+	Tem DVR que não suporte os tipos de câmeras

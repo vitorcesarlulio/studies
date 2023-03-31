@@ -1,0 +1,32 @@
+Primeira coisa, saber tamanho do cabo
+
+Adaptador para RJ45 para VGA
+
+Adaptador HDMI 60 metros (ativo)
+Tem o transmissor (da onde vai sair a imagem) e receptor (onde vai exibir a imagem)
+Precisa de fonte
+2 cabos HDMI
+Cabo de rede Cat6
+
+Adaptador passivo
+Não é qualquer aparelho que funciona
+Justamente por ser passivo
+Aparelhos mais simples (TV Box)
+
+Adaptador azul da caixa amarela
+Se for cat6 funciona
+Também tem transmissor tals
+Até 10 metros tranquilo
+28 metros passou também
+
+No sinal BNC da pra colocar um aparador BNC para AV mas imagem deve ficar uma bosta
+
+Conversor SDI HDMI
+Eu acredito que é quando você liga câmera direto em uma tela
+Ligar a câmera pra aparecer no PC
+Só que câmera não de segurança kkkk
+Tem uma estabilidade maior o cabo SDI
+É mais numa vibe de eventos tals
+Câmeras de TV, sistemas de placa de captura
+
+Tem que tomar cuidado nesses adaptador de cabo de rede porquê as vezes o conversor pede padrão específico de crimpagem pra funcionar
