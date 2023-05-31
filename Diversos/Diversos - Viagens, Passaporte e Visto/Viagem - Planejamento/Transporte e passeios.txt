@@ -1,0 +1,7 @@
+transporte e passeios
+		listar quais lugares você vai visitar e a distância entre eles
+		Se for um trajeto tranquilo de ser percorrido a pé, melhor ainda
+		você deve saber quais são os valores das tarifas de transporte público, se existem alternativas para fazer o trajeto e ponderar sobre a escolha
+		Também é possível usar aplicativos de transporte ou o site World Taximeter para simular preços de corridas de táxi. 
+		
+		Muitas atrações costumam ter um dia com entrada gratuita

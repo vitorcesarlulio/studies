@@ -1,0 +1,35 @@
+Passagens
+		Escolher assentos
+		Horario de ida
+		proximo horario do almoço
+		volta, depois do almoço
+
+		latam n precisa fazer checkin
+
+		A Ásia é o continente onde a média das passagens é mais cara.
+		O combustível também puxa esse valor para cima, pois representa cerca de 30% dos gastos de uma companhia aérea. Essas informações são da Abear, a Associação Brasileira das Empresas Aéreas. 
+
+		Fuja da alta temporada
+			Os meses de férias escolares (dezembro, janeiro e julho) costumam ser agitados entre as cidades brasileiras, enquanto que o período de junho a setembro é forte na Europa por causa do verão. 
+
+		Viajar em baixa temporada
+			o preço das passagens é menor
+			a hospedagem é mais em conta
+			a cidade fica menos lotada e o custo dos passeios e atividades turísticas também caem
+
+		Monitore os preços
+			https://www.skyscanner.com.br/
+			https://google.com/flights?hl=pt-BR
+			https://www.checkmybus.com.br/
+
+		evite o deslocamento nos fins de semana e feriados, pois nesses períodos os valores são maiores
+		Se você tem a possibilidade de partir e voltar no meio da semana, fora dos horários de pico
+
+		Leve menos bagagem
+			As companhias aéreas costumam cobrar pelo despacho de malas e, na maioria dos casos, você pode definir essa opção no momento da compra da passagem (é mais barato do que no aeroporto). Para evitar custos extras com excesso de bagagem, aposte na ideia de que menos é mais.
+			
+			Em lugares frios, invista em malha termica e vá com as roupas pesadas
+			
+			Pode ser mais rentavel lavar as roupas no destino do que pagar execesso
+		
+		Abuse dos programas de pontos e milhas

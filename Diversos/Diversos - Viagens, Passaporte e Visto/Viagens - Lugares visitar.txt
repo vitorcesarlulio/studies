@@ -13,7 +13,7 @@ Salvador (Brasil)
 Bogotá, na Colômbia
 Europa
 Grã-Bretanha, os encantos bucólicos do condado inglês de Devon e da cidade de Portree, na ilha escocesa de Skye,
-Marselha (França), Copenhague (Dinamarca), Skellefteå (Suécia) e Valencia (Espanha) 
+, Copenhague (Dinamarca), Skellefteå (Suécia) e Valencia (Espanha) 
 italiana da Calábria, a antiga cidade grega de Salónica, a região portuguesa do Alentejo e o arquipélago da Madeira.
 esqui checa de Dolni Morava e a cidade-fortaleza lituana de Kaunas fazem parte da lista, assim como o esplendor histórico da capital turca Istambul.
 
@@ -762,6 +762,10 @@ EUROPA
 	PAÍS - FRANÇA
 		COMUNA - SAINT-TROPEZ
 			não vai comer nmg e vai gastar grana
+		
+		Palácio de Versalhes
+		
+		Marselha
 	
 	PAÍS - INGLATERRA
 		goodwood festival
@@ -887,6 +891,9 @@ PAÍS - CANADÁ
 		Ver melhor data
 
 PAÍS - RÚSSIA
+	Peter Hoff Russia
+			muito bonito
+
 	• Catedral de São Basílio
 
 	Rosa Khutor Alpine Resort

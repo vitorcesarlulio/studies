@@ -1,0 +1,15 @@
+Criando Ambiente virtual em python
+
+No windows rode powershell como adm
+Set-ExecutionPolicy Unrestricted -Force
+
+Criando ambiente virtual
+python -m venv env-<environment_name>
+
+ai ele cria uma pasta
+
+agora vc deve ativalo
+entra na pasta scripts e executa o arquivo activete
+
+para ver se esta funcionando de um
+pip list

@@ -1,0 +1,29 @@
+E esse com certeza foi um dos desafios mais legais que eu pude me aventurar [...]
+
+Depois de anos de aprendizado, vivenciando muito a teoria (diga-se de passagem, que é fundamental) pude colocar a mão na massa e me aventurar.
+
+Os aprendizados foram inúmeros, claro que, algumas frustrações, mas tudo isso faz parte e é o que nos instiga a continuar rs.
+
+Basicamente essa foi uma rede residencial 90% projetada por mim, mas claro, que devo a muitas matérias na internet e amigos!
+
+𝗔𝗴𝗿𝗮𝗱𝗲𝗰𝗶𝗺𝗲𝗻𝘁𝗼𝘀
+Ramon Valentim
+Geraldo Cascaes
+Leandro gom
+
+𝗖𝗮𝗿𝗮𝗰𝘁𝗲𝗿í𝘀𝘁𝗶𝗰𝗮𝘀 𝗱𝗮 𝗿𝗲𝗱𝗲
+• 22 pontos cabeados cat5e (devido proprietário não ter investido em um cabeamento cat6).
+• Todos os pontos foram em keystones RJ45, trazendo maior flexibilidade e longevidade na infra
+• Patch Panel Legrand de 24 portas;
+• Switch TP-Link TL-SG1024D para gerenciar todo cabeamento;
+• Roteador MikroTik RB750GR3 HEX para políticas de segurança e ser a responsável por se comunicar com a internet
+• Access Point Ubiquiti Unifi AC UAP-AC-LITE muito bem posicionados utilizando as tecnologias Unifi para projetar raio dos APs PEGAR FOTO
+
+Em resumo, teve muito suor e estudos investidos nesse desafio, mas no final, valeu a pena.
+
+Na infra também está presente sistema CFTV com 4 câmeras de segurança, cabeamento para TV a cabo e telefonia.
+
+Pra quem ainda não conhece, esse é um repositório que possui no GitHub onde registro todos os aprendizados de minha vida. 
+Em específico aqui você encontra minhas anotações sobre o tópico de redes
+https://github.com/vitorcesarlulio/studies/tree/main/Infraestrutura/Infraestrutura%20-%20Redes
+

@@ -1,0 +1,11 @@
+gov
+	niveis de usuario
+	bronze
+		nao ta habilitado para declaração pre prenchida
+		so dados comuns
+	prata
+		validações mais seguras
+		validação facial, internet banking
+	ouro
+		validação do TSe
+		faz com que vc n precise de certificado digital
