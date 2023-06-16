@@ -1,0 +1,10 @@
+Camera
+	4:3 foto para feed
+	16:9 storyes do insta
+
+ajustes camera
+	gravar em 4k 60 fps (mas de noite fica escuro) 4k 24fps fic amelhor no escuro
+		mas na camera da pra fazer isso, ele só nao salva
+	video hdr
+	formatos
+		alta eficiencia

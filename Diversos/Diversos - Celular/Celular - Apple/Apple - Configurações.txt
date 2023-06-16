@@ -1,0 +1,119 @@
+O QUE FAZER AO CHEGAR IPHONE
+
+OK Bloqueio automatico
+	Ajustes > Tela e Brilho > Bloqueio automatico
+
+OK Mostrar % bateria
+	Ajustes > Bateria > Nivel de bateria
+
+OK layout escuro
+
+OK - Desativar perguntas de rastreamento
+	ajustes > Privacidade e Segurança > Rastreamento
+		desmarque "permitir solitações"
+
+	isso tbm faz com que apps nao pegue seus dados
+
+OK - Publicidades da apple
+	Privacidade e Segurança > Publicidades da apple
+		anuncios personalizados desativa
+
+OK - Desativar brilho automatico
+	Acessibilidade > Tela e tamanho do Texto > lá no final desmarque Brilho automatico
+
+OK - Desativar avaliar apps
+	ajustes > app store
+	classificações e Avaliações
+
+OK - Desativar alçabilidade
+	é um modo tipo de espiar um outro app
+		ajustes > acessibilidade > toque > alcabilidade
+	
+OK - Desativar central de controle com cel bloqueado
+	FAZER ISSO!
+	evita alguem desativar localização tals
+	ajustes > face id e código
+		central de controle
+		reposnder com texto
+OK True tone
+	Ajuste > Tela e Brilho
+	adapta cores para diferentes tipos de luz que bate no celular
+	mas não compensa muito não e é diferente de luz noturna
+
+OK Backup
+	ajustes > clica na sua foto > icloud > backup icloud
+	
+	Desativar
+		Siri
+		Game center
+
+OK - Modo anti furto
+	https://www.youtube.com/watch?v=hFlbBYc-PdA&list=WL&index=1&pp=gAQBiAQB
+
+	ajustes > tempo de uso
+		criar uma senha
+
+		depois vai em conteudo e privacidade
+			isso bloqueia tudo
+
+			alteração de codigo nao permitir
+			alteraçãode conta não permitir
+				nao da pra alterar a conta
+			alteração de dados de celulares nao permitir
+				ele nao consegue desativar os dados moveis
+	
+	
+	Privacidade e segurança
+		serviços de localização
+		ativa compartilhar localização
+		vai em buscar iphone, marca todas as opções
+
+OK - Desintalar apps inuteis
+	apple tv
+	casa
+	bolsa
+	apple watch
+	livros
+	tem o excel da apple number
+	tem o word da apple note acho
+
+OK - Desabilitar siri
+	ajustes > siri e busca
+	desabilita tudo
+
+OK - Notificações na tela de bloqueio
+	ajustes > notificações > pre visualização > sempre
+
+OK - bloqueador de ununcios para safari
+	firefox focus instala ele
+	vai em configurões dele e desabilita enviar dados de uso
+	
+	ajustes > safari > Extensoes > permitir estes bloqueadores de conteudo
+		seleciona o app
+
+OK - evitar erro de transferencia de foto para windows
+	ajustes > fotos > transferir para mac ou pc manter original colcoa
+	pra ele evitar de converter
+
+OK - deabilitar dados moveis no app fotos
+	ajustes > fotos > dados celulares > desabilita
+
+ativar luz noturna automatica
+
+Contatos de emergencia
+	Ajustes > sos de emergencia
+	
+	Ficha médica
+
+Economia de bateria
+	ajustes > notificações
+		desmarque dos apps que voce não deseja
+
+modo foco
+
+adicionar opções central de controle
+	só pesquisar central de controle nos ajustes
+
+adicionar carteiras
+	ajustes > carteira e apple pay
+		clique duplo no botao lateral

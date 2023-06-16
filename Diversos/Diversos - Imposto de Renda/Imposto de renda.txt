@@ -29,6 +29,17 @@ E pra regularizar isso é um BO, começa pela reservista
 https://servicos.receita.fazenda.gov.br/servicos/cpf/consultasituacao/ConsultaPublicaExibir.asp
 	Consultar CPF
 
+	Regular
+		o CPF não tem pendências.
+	Pendente de regularização
+		isso acontece se você deixar de enviar a declaração do IR Pessoa Física (imposto de renda) nos cinco anos antecedentes e, com isso, precisa de regularização.
+	Suspenso
+		este status é apresentado se o cadastro se encontra incompleto ou incorreto.
+	Cancelado
+		nesse caso, seu documento foi roubado, perdido ou cancelado por razão de multiplicidade, seja por decisão judicial ou administrativa.
+	CPF de pessoa falecida
+		este status ocorre quando há falecimento e a Receita Federal faz o registro.
+
 Regularizar (só é permitida para situação cadastral suspensa)
 	https://servicos.receita.fazenda.gov.br/Servicos/CPF/regularizar/Default.asp
 

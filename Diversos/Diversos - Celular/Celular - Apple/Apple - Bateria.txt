@@ -1,0 +1,18 @@
+nao tem % minimo para carregar iphone, pode deixar zerar
+
+maximo sim, 80%
+
+1% ao mes cai a bateria
+80% a 85% ta na hora de trocar bateria
+
+Modo pouca energia
+	economizar o maixmo de energia possivel
+	bloqueio automatico em 30 s
+	busca de emails
+	atualizacao 2 plano
+	transferencias automaticas
+	efeitos visuais
+	fotos icloud
+	5g
+	fica mais lento
+	donwloads automaticos
