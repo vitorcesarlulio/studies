@@ -2,6 +2,15 @@ O QUE FAZER AO CHEGAR IPHONE
 
 Se iPhone for antigo, é bacana desabilitar atualização automática
 
+OK - Ajustes > Seu icloud >  Senha e segurança
+	Autenticação de dois fatores 
+	Clica em editar em telefone e adiciona mais um número de confiança
+	
+OPCIONAL
+	Fotos do iCloud
+		Fotos 
+		Desativar fotos do iCloud
+
 OK Verificar se o iPhone é novo, original
 	Ajustes > Geral > Sobre
 	Número de série, copia
@@ -142,6 +151,25 @@ OK - Adicionar conta do google nos contatos
 	ai vc pode sinc emails, contatos, calendario, anotações
 	
 	No caso do hotmail, coloquei pra sinc so email
+
+	Vincular contas (para sincronizar contatos tals)
+	Ajustes > emails > contas  > adicionar contas
+	E aí só lembrando
+	
+	Aí vai em notificações, habilita notificações
+	Pq ele não ativa sozinho
+
+OK - Ajustes > Privacidade e segurança> Serviços de localização> Serviços do sistema> 
+	Ative ícone na barra de estado
+	Assim você vê se tá usando localização
+	
+	melhoria de produtos
+	desabilitar
+
+	Locais importantes
+	Desabilita 
+	Vai ajudar a economizar bateria
+	Voltando 1
 
 OK Always on
 	Tela fica ligada
