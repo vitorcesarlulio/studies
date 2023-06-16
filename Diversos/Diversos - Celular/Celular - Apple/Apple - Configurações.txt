@@ -1,7 +1,29 @@
 O QUE FAZER AO CHEGAR IPHONE
 
+Se iPhone for antigo, é bacana desabilitar atualização automática
+
+OK Verificar se o iPhone é novo, original
+	Ajustes > Geral > Sobre
+	Número de série, copia
+	Checkcoverage.apple.com
+
+OK - Colocar senha alfanumérica
+
+OK - fechamento automatico de abas
+	ajustes > safari > fechar abas > após um dia
+	ai no armazenamento do iphone "outros" ou dados referentes ao dispositivo, voce deixa mais leve
+
 OK Bloqueio automatico
 	Ajustes > Tela e Brilho > Bloqueio automatico
+
+OK - Notificar bateria 80%
+	app atalhos > automação > criar automação pessoal > nivel de bateria
+	arras até 80% e coloca acima de 80% (81%)
+	ai o que vai ser feito, vc deinfi
+	acho que um som msm (de forno)
+	se for falar algo, coloca pra falar com voz da siri
+
+	desmarque "perguntar ao executar"
 
 OK Mostrar % bateria
 	Ajustes > Bateria > Nivel de bateria
@@ -98,6 +120,37 @@ OK - evitar erro de transferencia de foto para windows
 OK - deabilitar dados moveis no app fotos
 	ajustes > fotos > dados celulares > desabilita
 
+OK - Silenciar chamadas desconhecidas
+	ajustes > telefone > silenciar desconhecidos > ativar
+	Obs.: eu n fiz isso pq ele vai silenciar de gente que eu n tenho contato
+
+OK - Redução de pontos brancos
+	nao é diminuir brilho
+	é mais pra de noite
+	
+	ajustes > acessidbilida > atalhos de acessibilidade > reduzir ponto branco
+		SE FIZER ISSO VAI SUBSTIRUIR O SOS
+	
+	3 cliques no botão de volume inferior
+	
+	No caso só ir em Ajustes > Acessibilidade > Tela e tamanho de texto > pontos brancos
+
+OK - Adicionar conta do google nos contatos
+	sincronizar dados de email e os contatos do android vão para iphone
+	
+	contatos > contas > adicionar conta
+	ai vc pode sinc emails, contatos, calendario, anotações
+	
+	No caso do hotmail, coloquei pra sinc so email
+
+OK Always on
+	Tela fica ligada
+	Aí Apple lançou uma opção pra ocultar papel de parede, aí fica só hora tals
+	PREFERI N LIGAR
+
+OK Ocultar fotos
+	Vai nas configs do app de fotos e desabilita mostrar album de itens ocultos
+
 ativar luz noturna automatica
 
 Contatos de emergencia
@@ -117,3 +170,21 @@ adicionar opções central de controle
 adicionar carteiras
 	ajustes > carteira e apple pay
 		clique duplo no botao lateral
+
+Sono
+	Configura pra desativar notificações tals
+
+ajustes > acessidbilida > atalhos de acessibilidade
+	ver isso o que tem de legal
+
+Retransmissão privada (VPN)
+	icloud > Retransmissão privada
+	ela oculta seu IP
+
+app saude
+	tendencias de saudes
+
+OK - Atalho de acessibilidade
+	Escolhe qual app quer abrir com 3 cliques
+	Toque > Tocas atrás 
+	Quando der 3 toques atrás ele faz algo 

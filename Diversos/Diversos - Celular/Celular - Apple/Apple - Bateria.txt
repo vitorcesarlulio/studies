@@ -1,3 +1,34 @@
+Baterias de íon e lotions
+
+Pode carregar 1x só de noite pode e várias vezes por dia também 
+
+Percentual
+Somente entre 0 e 80%
+Acima de 80%
+Proliedades químicas da bateria
+De 0 a 80% é um carregamento rápido
+E de 80% a 100% é um carregamento mais lento
+Causa estresse na bateria, claro que com o tempo
+
+Apple oferece carregamento otimizado da bateria
+Previne para não carregar iPhone dos 80%
+
+As baterias vão ficando velhas, gastas
+
+Depois de 500 ciclos
+A bateria chega em 80% de capacidade máxima
+Ciclos e maneira que usa iPhone degrada bateria
+
+Um ciclo é contado quando você descarrega o iPhone em 100%
+Tanto de 100% a 0% quanto de 50% a 0% + 50% a 0% só que esse ciclo é menos pior, capacidade máxima cai mais de vagar
+
+Qualquer carregador e qualquer cabo original Apple
+Se for de outras marcas, só com selo MFI
+
+Super aquecimento é a pior coisa
+Deixa ele carregando SEM USAR
+Algumas capinhas esquentam ele
+
 nao tem % minimo para carregar iphone, pode deixar zerar
 
 maximo sim, 80%
@@ -16,3 +47,14 @@ Modo pouca energia
 	5g
 	fica mais lento
 	donwloads automaticos
+
+Não precisa carregar 24 tals, pá é íon e lotions
+
+Não usar enquanto carrega, fica quente
+
+Carregador sem fio, afeta um pouco, p esquenta 
+
+Carregadores que pode confiar
+Ugreen
+Baseus
+Benk

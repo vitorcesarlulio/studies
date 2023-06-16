@@ -8,3 +8,16 @@ ajustes camera
 	video hdr
 	formatos
 		alta eficiencia
+
+controle de macro
+	camera > controle de macro
+	o que isso faz?
+		ele vem desativado ele faz alternancia para modo macro onde ele utiliza a camera ultra grande angular ele faz essa alternancia para focar em um objeto muito proximo e quando ele faz essa alternancia vc nota um efeito de transição
+	
+Ajustes > Camera > Habilitar grade
+
+camera > estilo fotos graficos
+	vibrante um dos mais legais
+	
+	ai na camera vai aparecer uma opção nova, ai vc pode ate ajustar
+	ela vai aparecer só de vc escolher um estilo

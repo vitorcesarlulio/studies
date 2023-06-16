@@ -1,0 +1,11 @@
+Calculadora
+Desliza da esquerda para direita para apagar algum número 
+
+Scanear
+Vai na opção de notas e tem uma opção pra scanear aí vira um PDF
+
+Dropar imagens
+Ao invés de copiar, só segura a imagem (qualquer lugar) e com outro dedo vai até seu app e solta lá 
+
+Mover apps
+Segura 1 e vai clicando nos outros, aí você arrasta todos eles

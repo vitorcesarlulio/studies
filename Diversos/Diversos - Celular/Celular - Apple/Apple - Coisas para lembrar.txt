@@ -1,0 +1,10 @@
+OK - Redução de pontos brancos
+	nao é diminuir brilho
+	é mais pra de noite
+	
+	ajustes > acessidbilida > atalhos de acessibilidade > reduzir ponto branco
+		SE FIZER ISSO VAI SUBSTIRUIR O SOS
+	
+	3 cliques no botão de volume inferior
+	
+	No caso só ir em Ajustes > Acessibilidade > Tela e tamanho de texto > pontos brancos
