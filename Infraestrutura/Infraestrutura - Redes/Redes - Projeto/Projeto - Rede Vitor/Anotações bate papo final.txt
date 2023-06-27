@@ -1,0 +1,56 @@
+Separou em canais cada AP
+Não deixar automático 
+1, 6 e 11
+
+Largura do canal
+Costuma colocar 20
+Channel
+
+Tirar chrome cast
+
+Sempre conectar para 5ghz
+
+Atualizar os pacotes do mikrotik
+System > packges > check update
+Stable
+Download e install
+Ai tem uns pacotes 
+
+Firmiware
+Mesmo caminho 
+System > Routerboard
+Upgrade firmware
+
+Vai em system > reboot
+
+45 dias fazer isso
+
+Tirar do 2g geral
+
+Cozinha aumentou potencia
+Ver se vai da bom la video porteiro
+
+75% de experiência ta top
+Menos que isso tem que trocar ele de ap
+
+No mikrotik
+Files clique em backup
+
+Clica na opção Terminal
+Export file=nome do arquivo
+Vai file e baixa
+
+Alterar período de bkp
+E baixar os arquivos
+Se formatar pc e não tiver esse arquivo fumo
+
+Mikrotik
+1 sempre porta internet
+Porta 3 porta de acesso inicial
+
+Um novo no auto assistente ele joga na 2
+
+Luzes switch
+Laranja Negociação
+
+Pode ta trabalhando em 10gb

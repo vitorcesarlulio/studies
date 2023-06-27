@@ -1,0 +1,63 @@
+REDES CASA
+No dia, separar notebook e pedir celular da minha irmã
+Fazer pix para ele 150
+Depois das configurações 300
+Eu já fiz 150
+Ai Talita tem que enviar 300 pra mim
+
+Que possiveis probelmas eu posso ter?
+	Troca de um equipamento, modem da operadora, queimou algum ap, alguma outra coisa
+
+	Atualizações?
+		devo atualizar? de quanto em quanto tempo verificar?
+		ultima versão sempre da BO (Colocar 2 versão antes)
+
+O que tem de segurança?
+	firewall
+	Bloqueio de porta, algo do tipo
+	Eu faço alguns desenvolvimentos tals, as vezes preciso de algumas portas tals, não afetaria né?
+
+Informações uteis da rede wirelles e dos demais dispositivos
+	Tem alguma coisa que eu posso fuçar? as vezes até me atentar? tirar insights
+
+Switch
+	Como funciona as luizinhas da porta de rede + do switch?
+
+Router
+	Porque porta 3 do modem?
+
+	Esse routerboard possibilita failover e Loaderbalance (curiosidade)?
+	Subrede (varias redes) seria isso né? é a mesma cosia que VLan?
+	Rede 192.168.91.10 - 91.254
+	Rede 192.168.92.10 - 92.254
+
+	geralmente para dispositivos diferentes né (impressora vs PCS)
+
+	o que é nat?
+
+	quais os usuarios para acessar o router? como acessar?
+	limitar faixa de IP? pra que conectar 192.0.0.1 até 192.0.0.255
+	vale apena definir uns IPs fixos?
+
+wirelles
+	Saber qual canal é melhor?
+		Usar app para cel ou PC Xirrus, escolher o canal que tem menos roteadores (1, 6 ou 11, anatel falou que sao os com menos interferecnia)
+		Largura do canal é automática
+
+		Beamforming
+		Airtime Fairness
+
+		Band steering 5Ghz
+			Fazer com os dispositivos prefiram conectar na rede 5g
+			PRIVILEGIAR 5 GHz n desligar 2.4
+		
+		Quanto mais SSID mais recurso você está consumindo da rede
+			4 a 8 já é suficiente
+			
+		Canais (auto Chanel?)
+		DBI das antenas -67 (tem que simular na controladora)
+
+Backup
+	Vi que tem que deixar o PC ligado
+	Tem que ver um período certinho que é meio que certeza que PC vai tá ligado
+	Ou colocar uma raso bery

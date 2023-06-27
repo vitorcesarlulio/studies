@@ -1,0 +1,59 @@
+PONTOS
+	Quarto pai
+		CABO AZUL
+			1 Televisão (Smart TV)
+			1 Net/IPTV
+			1 sobra (bancada mãe)
+			~ 50m cabo
+		CABO BRANCO
+			1 TV
+	
+	Quarto Talita
+		CABO AZUL
+			1 Televisão (Smart TV)
+			1 Net/IPTV (TEM QUE VER SE CABE NO CONDUITE)
+			1 Notebook (bancada)
+			1 sobra (bancada)
+			~ 38m cabo
+		CABO BRANCO
+			1 TV
+	
+	Quarto Vitor
+		CABO AZUL
+			1 Televisão (Smart TV)
+			1 Net/IPTV (TEM QUE VER SE CABE NO CONDUITE)
+			1 PC
+			1 Sobra (bancada)
+			1 Sobra (bancada)
+			~ 25m cabo
+		CABO BRANCO
+			1 TV
+	
+	Sala
+		CABO AZUL
+			1 Televisão (Smart TV)
+			1 Net/IPTV
+			1 Sobra (liga um notebook)
+			1 Sobra (ligar um dispositivo, receiver)
+			~ 20m cabo
+		CABO BRANCO
+			1 TV
+	
+	Cozinha
+		CABO AZUL
+			1 Televisão
+			1 Net/IPTV
+			1 Sobra
+			~ 15m cabo
+		CABO BRANCO
+			1 TV
+	
+	total cabeamento: 150m acho que da tranquilo
+	
+	Dispositivos Wireless
+	1 Smartphone - Vitor
+	1 Smartphone - Pai
+	1 Smartphone - Mãe
+	1 Smartphone - Irmã
+	1 Alexa 
+	1 Hub Zigby	

@@ -1,3 +1,14 @@
+Ver se placa tá presa
+Faróis
+
+Óleo
+
+Combustível
+
+Inforca gato
+
+Ferramentas
+
 Nível de óleo
 	Motor frio
 	lugar plano
@@ -16,6 +27,8 @@ Bateria
 
 Nível de agua para-brisa
 	coloca aditivo correto, detergente pode manchar pintura do carro
+
+Agua do radiador
 
 Nível fluido de freio
 	abaixo do máximo acima do mínimo

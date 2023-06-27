@@ -1,0 +1,41 @@
+Google agenda vs Calendário Apple
+	Google agenda para tarefas e lembretes não é muito ideal, agenda Sim
+
+Calendario Apple
+	https://www.youtube.com/watch?v=NrOe0iaaRi4
+
+	é possivel criar diferentes calendarios ai vc só marca se quer exibir eles ou não
+	
+	ai tem uns default
+		aniversarios
+		feriados
+		sugestoes siri
+			umas paradas de emails tals
+	
+	ai tem uma aba convites lá
+		entre novos e ja aceitos
+	
+	calendario pequeno no canto inferior esquerdo
+		se voce aumentar ele (puxar para cima) vc fica com varios calendarios pequenos de varios meses
+	
+	Atalhos
+		T
+			today, vai para o dia de hoje
+	
+	
+	Tem como criar eventos com linguagem natural
+		"pegar minha mae no aeroporto amanha as 16h"
+	
+	Os eventos de viagem é bom
+		ele te da opções de quanto tempo vai levar tals
+		tem bastante opções
+	
+	Tem uma opção de fuso horario, muito boa
+		vc cria aqui no BR sai no horario do cara na Europa
+	
+	Compartilhar calendario
+		Todo mundo ve a mesma coisa
+		tem opção de tornar ele publico
+		Ai vai gerar um link para pessoa assinar o calendario, ela só vai ver*
+	
+	No app tem como sincronizar eventos nao muito antigos

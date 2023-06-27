@@ -14,3 +14,8 @@ Tem duplicados
 Aí você clica em combinar
 
 OK - Tem app suporte apple
+
+Desativar localização de apps para poupar bateria 
+Ajustes > Privacidade e segurança> Serviços de localização
+Desmarque para os apps que não precisam de sua localização 
+Deixa só durante o uso

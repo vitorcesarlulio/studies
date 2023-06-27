@@ -1,0 +1,19 @@
+Tem como definir lembretes baseado em ações
+por exemplo na localização
+Ao chegar em um local ou ao sair
+Ao entrar no carro ou ao sair
+
+Adicionar uma lista que é um grupo de lembretes
+Pessoais
+Carro
+Família
+Seguir os da agenda
+
+Dentro das categorias tem os lembretes 
+Podem ser recorrentes ou não 
+
+Geralmente se você colocou localização você não coloca horário 
+
+Lembrete ele fica na tela de bloqueio sempre
+Você pode limpar, mas ele não vai sair no app
+Toque e segura e marca como concluído

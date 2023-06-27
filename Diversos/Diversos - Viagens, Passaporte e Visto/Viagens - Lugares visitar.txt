@@ -1,42 +1,15 @@
 Nos mergulhos na hora de tirar uma foto, para de respirar 
 
-
-Melbourne (Austrália)
-Auckland (Nova Zelândia)
-Bangkok (Tailândia)
-Queenstown (Nova Zelândia)
-Florianópolis (Brasil)
 Porto Seguro (Brasil)
-Perth (Austrália)
 Salvador (Brasil)
 
 Bogotá, na Colômbia
 Europa
 Grã-Bretanha, os encantos bucólicos do condado inglês de Devon e da cidade de Portree, na ilha escocesa de Skye,
-, Copenhague (Dinamarca), Skellefteå (Suécia) e Valencia (Espanha) 
-italiana da Calábria, a antiga cidade grega de Salónica, a região portuguesa do Alentejo e o arquipélago da Madeira.
 esqui checa de Dolni Morava e a cidade-fortaleza lituana de Kaunas fazem parte da lista, assim como o esplendor histórico da capital turca Istambul.
+italiana da Calábria, a antiga cidade grega de Salónica, a região portuguesa do Alentejo e o arquipélago da Madeira.
 
-jAPAO
-ilhas japonesas de Setouchi e Kyushu.
-
-capital sul-coreana de Seul
 província indonésia de Bali e a ilha central de Boracay, nas Filipinas.
-
-Queenstown, na Nova Zelândia
-
-rilha Trans-Bhutan do Butão e as históricas Rotas da Seda do Uzbequistão
-
-Catar e sua capital Doha
-
-Ras Al Khaimah, nos Emirados Árabes Unidos, também.
-
-capital queniana de Nairobi e a capital ruandesa de Kigali
-
-ranschhoek da África do Sul
-
-Parque Nacional do Baixo Zambeze da Zâmbia
-
 
 Instituto politécnico de Leiria
 15 de abril
@@ -45,23 +18,19 @@ Roupas
 Ross dress for less
 Burlinton 
 
-
 RESTAURANTES
 	Jangada
+	Restaurante vila del capo
+		Alto serra de são pedro
 
 PROGRAMAS
 	• trustedhousesitters
 	• Au pair
 	• portland bible college
 
-PAÍS - MÉXICO
-	Jamaica e da Riviera Nayarit
-
-MALDIVAS
-	Hoteis
-		Sun Siyam Iru Veli
-
 PAÍS - BRASIL
+	@cabanasmantiqueira
+
 	ESTADO - SÃO PAULO
 		CIDADE - BERTIOGA
 			Condomínio Morada da Praia
@@ -452,11 +421,11 @@ PAÍS - BRASIL
 			Praia grande
 				Ondas
 
-Chegada da praia é um pouco mais difícil 
+			Chegada da praia é um pouco mais difícil 
 
-Estrutura um pouco mais simples, pq é difícil a entrada
+			Estrutura um pouco mais simples, pq é difícil a entrada
 
-Menos opções gastronômicas tanto de dia quanto de noite
+			Menos opções gastronômicas tanto de dia quanto de noite
 
 		Cabo frio
 			Cabo frio tem mais coisa de noite
@@ -480,6 +449,36 @@ Menos opções gastronômicas tanto de dia quanto de noite
 
 	ESTADO - MINAS GERAIS
 		• Parque Nacional do Caparaó - sitioperseverancaa
+
+		Chalé nas Alturas
+		Município: Itamonte - MG
+		Ideal para: casal
+		Mais detalhes em: @chalenasalturas
+
+		Casa São Xico
+		Município: São Francisco Xavier - SP
+		Ideal para: 4 pessoas
+		Mais detalhes em: @casa_saoxico
+
+		Villaggio Girotto
+		Município: Marmelópolis - MG
+		Ideal para: casal
+		Mais detalhes em: @villaggiogirotto
+
+		Raposaria
+		Município: Córrego do Bom Jesus - MG
+		Ideal para: casal
+		Mais detalhes em: @raposaria
+
+		Refúgio Pukara
+		Município: São Bento do Sapucaí - SP
+		Ideal para: casal
+		Mais detalhes em: @refugiopukara
+
+		Vila APM
+		Município: Delfim Moreira - MG
+		Ideal para: casal
+		Mais detalhes em: @vilaapm
 
 	ESTADO - SANTA CATARINA
 		• Urubici
@@ -719,6 +718,41 @@ PAÍS - EUA
 
 DUBAI
 
+PAÍS - MÉXICO
+	Jamaica e da Riviera Nayarit
+
+PAÍS - MALDIVAS
+	Hoteis
+		Sun Siyam Iru Veli
+
+PAÍS - Emirados Árabes Unidos
+	Ras Al Khaimah
+		
+PAÍS - Uzbequistão
+	históricas Rotas da Seda
+
+PAÍS - Catar
+	Doha
+
+PAÍS - Dinamarca
+	Copenhague
+
+PAÍS - Butão
+	rilha Trans-Bhutan
+	
+CONTINENTE AFRICANO
+	PAÍS - Ruanda
+		Kigali
+
+	PAÍS - África do Sul
+		ranschhoek 
+
+	PAÍS - Zâmbia
+		Parque Nacional do Baixo Zambeze
+	
+	PAÍS - Qqueniana
+		Nairobi
+
 ÁSIA
 	
 	Índia e Bangladesh não consomem muita carne
@@ -778,6 +812,8 @@ EUROPA
 			vinho
 
 	PAÍS - ESPANHA
+		Valencia
+
 		CIUDAD - Málaga
 		restaurante mais antigo do mundo
 		Racimo de Oro (melhores do mundo)
@@ -869,6 +905,8 @@ PAÍS - AUSTRÁLIA
 	• Sidney
 	• Camberra
 	Grande Barreira de Corais da Austrália e a cidade portuária de Fremantle
+	Melbourne
+	Perth
 
 PAÍS - ÁFRICA
 	• huanda (gurilas)
@@ -962,11 +1000,27 @@ PAÍS - VIETNÃ
 	• Hang don doong
 		Caverna muito top
 
+PAÍS - TAILÂNDIA
+	Bangkok ()
+
+PAÍS - NOVA ZELÂNDIA
+	Auckland
+	Queenstown
+
 PAÍS - MALDIVAS
 	Hotel - Cinnamon Dhonveli Maldives
 	
 PAÍS - EGITO
 	abu simbel
+
+PAÍS - JAPÃO
+	ilhas japonesas de Setouchi e Kyushu.
+
+PAÍS - COREA DO SUL
+	Seul
+
+PAÍS - Suécia
+	Skellefteå
 
 CARRO
 	• arrancada Interlagos 

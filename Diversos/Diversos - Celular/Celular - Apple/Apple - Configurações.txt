@@ -2,6 +2,16 @@ O QUE FAZER AO CHEGAR IPHONE
 
 Se iPhone for antigo, é bacana desabilitar atualização automática
 
+OPCIONAL - Colocar nome na tela de bloqueio do iPhone
+	Ajustes > Foco
+	Canto superior direito clique na opção +
+	Personalizado
+	Coloque um nome
+	Tudo deve funcionar como já funciona, não é pra entrar em modo não perturbe tals, é só para aparecer o nome mesmo
+	Clique na opção pessoas e coloque em "não silenciar"
+	Faz a mesma coisa para os apps
+	Só que aí você vai ter que mudar os focos lá na central de controle
+
 OK - Ajustes > Seu icloud >  Senha e segurança
 	Autenticação de dois fatores 
 	Clica em editar em telefone e adiciona mais um número de confiança
@@ -158,8 +168,11 @@ OK - Adicionar conta do google nos contatos
 	
 	Aí vai em notificações, habilita notificações
 	Pq ele não ativa sozinho
+	
+OK - sincronizar o calendário do Google no iPhone
+	ajustes > calendario > contas > adicionar conta e coloca a do google
 
-OK - Ajustes > Privacidade e segurança> Serviços de localização> Serviços do sistema> 
+OK - Ajustes > Privacidade e segurança> Serviços de localização > Serviços do sistema> 
 	Ative ícone na barra de estado
 	Assim você vê se tá usando localização
 	
@@ -179,6 +192,10 @@ OK Always on
 OK Ocultar fotos
 	Vai nas configs do app de fotos e desabilita mostrar album de itens ocultos
 
+OK - adicionar carteiras
+	ajustes > carteira e apple pay
+		clique duplo no botao lateral
+
 ativar luz noturna automatica
 
 Contatos de emergencia
@@ -194,10 +211,6 @@ modo foco
 
 adicionar opções central de controle
 	só pesquisar central de controle nos ajustes
-
-adicionar carteiras
-	ajustes > carteira e apple pay
-		clique duplo no botao lateral
 
 Sono
 	Configura pra desativar notificações tals
