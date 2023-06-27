@@ -30,6 +30,84 @@ Vai enviar características do carro
 
 
 
+Película no vidro para n quebrar com pedras
+
+Golf 1.6 manual sportline
+	Motor
+		cambio 5 marchas (mesmo do gol e fox)
+		Cambio curto, 100 km/h ta em 3k giro
+		motor confiável 
+			1.6 8v 4c
+			104 cv
+			torque 15 kgfm
+			0-100 11.1 s
+			velocidade máxima 190
+			peso 1k191
+		Econômico 
+			Cidade: 6.2 Álcool e 9,4 Gasolina
+			Estrada: 8.1 Álcool e 12.1 Gasolina
+
+		
+	Exterior
+		coluna das portas não é dividida (estética)
+		seta no retrovisor
+	
+	Interior
+		volante regulagem de altura de profundidade
+		Ar condicionado digital
+		porta óculos
+		porta mala 330 l, iluminação
+		apoio de braco frente
+		
+GOLF MK 4,5 2.0 AUTOMÁTICO
+	Esse é top
+	
+	Visado de roubo
+	
+	Motor
+		2.0 8v
+		120 cv
+		18,4 torque
+		6 marcha at
+		0-100 10,8s
+		196km
+		1k300 kg
+		Econômico 
+			Cidade: 6.0 Álcool e 9,2 Gasolina
+			Estrada: 7,9 Álcool e 11,5 Gasolina
+
+	Exterior
+		seta no retrovisor
+		Aerofolio
+		Seta traseira é cada uma de uma cor mesmo
+
+	Interior
+		Apoio de braco
+		Airbag
+		porta óculos
+		porta mala 330 l, iluminação
+
+VECTRA 2.0 GT-X 2011
+	Motor
+		2.0 8v 4c
+		140 cv
+		torque 19 kgfm
+		cambio 5m
+		0-100 10.2 s
+		velocidade máxima 190
+		peso 1k300
+		Econômico 
+			Cidade: 5.9 Álcool e 8,3 Gasolina
+			Estrada: 7.7 Álcool e 11.0 Gasolina
+
+	Exterior
+		Antena Shark
+	
+	Interior
+		Controle de retrovisor
+		Ar condicionado digital
+		apoio de braco frente e atras
+		porta mala 345 l, iluminação
 
 
 
