@@ -32,3 +32,7 @@ FAZER ANTES DE PEGAR PC
 	
 	Ver quanto tá batendo de CPU etc
 		ver a sessão de banch mark desse arquivo
+	
+	Tem git? tudo comitado?
+	
+	gravacoes anydesk

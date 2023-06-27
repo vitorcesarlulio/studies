@@ -24,6 +24,7 @@ Para placa de vídeo
 
 Ligar Xmp da memória 
 
+
 Midia creation tool da Microsoft 
 
 Na formatação tira computador da rede pra entrar com conta local
