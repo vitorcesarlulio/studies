@@ -58,3 +58,34 @@ Carregadores que pode confiar
 Ugreen
 Baseus
 Benk
+
+Super economia de bateria
+	desativar 5g
+	e as vezes 5g nem é mais rapido que 4g
+	Ajustes > Celular > Opções de dados Celulares > Voz e dados > 4g
+
+	Limtar fps
+		só linha pro
+		ajustes > acessibilidade > movimenot > limitar taxa de quadros
+		fica em 60hz
+		
+	geral > atualização em segundo plano
+		tire os que achar necessario
+		alguns são importantes
+
+	no app fotos
+		desabilitar fazer upload de forma com dados moveis
+
+	Ajustes > tela e brilho
+		tela sempre ativa
+		desabilita
+		da pra vc deixar, tirando so papel de parede
+
+	pepel de parede dinamico
+		gasta muita bateria
+
+	modo escuro economia bateria	
+		tela oled, onde é preto a tela ta apagada
+
+	ajustes > privacidade e segurança > serviço de localização
+		marque os apps que não quer

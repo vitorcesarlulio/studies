@@ -82,6 +82,7 @@ SOFTWARES
 		Skype
 
 	PESSOAL
+		Ledger live
 		Chrome Canary
 			Google de testes
 		WhatsApp

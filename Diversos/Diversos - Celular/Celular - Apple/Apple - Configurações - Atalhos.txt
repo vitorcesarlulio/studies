@@ -45,3 +45,20 @@ Shazam para YT Music
 
 Shazam para Spotify
 	https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbl9NOHJaSDFORUFnRk1YVVlmeGFBX0Nxb0kyUXxBQ3Jtc0tuYnlxTEEyV3B1d2M0ZjMwSVhhaDlrMkpvV2NPSW5LODNabFJKV0xIUkFhUFJzUVV2cVg5M0tHYUIwRkRfTnpRcnBtbElZaHprejBvcmZ4SExqN0tnb3dCY1F0d0NrV0U1VjlMS3REZFI4S0dJbmg1NA&q=https%3A%2F%2Fwww.icloud.com%2Fshortcuts%2F5a9f749996714e40b78ce68236b72f87&v=efIHD8FWA9Y
+
+Apple frames
+	cria uma borda ai parece que vc tirou uma foto do iphone de cima
+	https://www.icloud.com/shortcuts/27859fb445ef4fc7a39f4bdaf177ac89
+
+Limpa speakers contra agua
+	https://shortcutsgallery.com/shortcuts/water-eject-%F0%9F%92%A7/
+
+make pdf
+	exportar bloco de notas como pdf
+	escreve seu texto
+	https://www.icloud.com/shortcuts/7354e5bbc4ba4d0497341925b52bc504
+
+music finder
+	abre ja os apps, spotfy tals
+	Apple frames
+	https://www.icloud.com/shortcuts/b51c0586c6844f28b0f16a2ced9f518e

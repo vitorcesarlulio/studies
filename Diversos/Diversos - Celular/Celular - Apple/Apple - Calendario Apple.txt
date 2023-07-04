@@ -1,3 +1,6 @@
+sincronizar o calendário do Google no iPhone
+	ajustes > calendario > contas > adicionar conta e coloca a do google
+
 Google agenda vs Calendário Apple
 	Google agenda para tarefas e lembretes não é muito ideal, agenda Sim
 

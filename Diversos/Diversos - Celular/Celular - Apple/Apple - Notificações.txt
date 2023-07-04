@@ -1,0 +1,9 @@
+Melhorando notificações
+
+Ajustes > Notificações 
+Selecione um app e desmarque a opção tela de bloqueio
+
+Avisos
+É o numerozinho que fica no appq
+
+Em acessibilidade tem como ligar flash

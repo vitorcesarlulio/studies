@@ -36,3 +36,4 @@ FAZER ANTES DE PEGAR PC
 	Tem git? tudo comitado?
 	
 	gravacoes anydesk
+	backup dispositivos de redes (unifi)

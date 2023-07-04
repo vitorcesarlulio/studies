@@ -1,0 +1,14 @@
+Criar atalhos de teclado
+Uma boa prática seria colocar a última letra do apelido do atalho
+Por exemplo, um atalho para cpf, você da o nome dele de cpff
+Ou sempre começar com algum caracter
+-cpf
+
+Ajustes > Geral > Teclado > Substituição de texto
+
+Navegar entre texto
+Segure na barra e pode ir movendo o cursos
+Se você clicar no teclado e arrastar, você consegue selecionar uma palavra
+Colocar pontos etc
+Ao inves de tocar no 123 e tocar no .
+Fique seguranndo, depois de colocar ponto ele vai voltar sozinho

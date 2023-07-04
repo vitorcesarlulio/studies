@@ -2,6 +2,20 @@ O QUE FAZER AO CHEGAR IPHONE
 
 Se iPhone for antigo, é bacana desabilitar atualização automática
 
+
+
+
+
+Ajustes > Privacidade e segurança > relatório de privacidade dos Apps
+
+OK No app de tempo
+	Vai nos … depois nos …
+	Ai tem como você habilitar pra avisar quando der uma chuva tals
+	Vai usar mais bateria mad é bacana
+
+OK - Impedir de encerrar ligação pelo botão de ligar
+	Acessibilidade > Toque > impedir bloqueio para encerrar ligação
+
 OPCIONAL - Colocar nome na tela de bloqueio do iPhone
 	Ajustes > Foco
 	Canto superior direito clique na opção +
