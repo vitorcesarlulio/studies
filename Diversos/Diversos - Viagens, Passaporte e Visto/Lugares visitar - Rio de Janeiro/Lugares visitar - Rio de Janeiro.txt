@@ -29,6 +29,9 @@ RESTAURANTES
 	
 	Joaquina
 		Restaurante em frente a praia
+	
+	Bar Zeca pagodinho
+		o mais perto é no flamengo
 
 PASSEIOS
 	Contato para passeios +55 21 98100-8815
@@ -36,11 +39,6 @@ PASSEIOS
 	Combos de passeio
 		https://ingressos.aquariomarinhodorio.com.br/
 
-	https://www.instagram.com/botafogopraiashopping/
-
-	Bar no shopping em copacabana
-		https://www.instagram.com/brewteco/
-	
 	Maracanã
 		66 inteira
 		Visita obrigatória para os fãs de futebol, este é um dos maiores estádios de futebol do mundo.
@@ -102,7 +100,7 @@ PASSEIOS
 			
 			Conhecida por sua agitada vida noturna, com muitos bares, boates e festas de rua.
 
-	Mirante morro do namar
+	Mirante Dona Marta
 		muito top
 	
 	Pedra da gavia
@@ -146,6 +144,11 @@ PASSEIOS
 
 		Museu de Arte Moderna
 			Um excelente local para os amantes da arte moderna.
+
+	Feira de São Cristóvão
+	
+	Real Gabinete Português
+
 Bairros
 	Bairro Santa Teresa
 		Bairro boêmio com vista panorâmica, casarões coloniais e um bondinho sobre os Arcos da Lapa.
@@ -167,6 +170,9 @@ Praias
 	
 	Praia de ipanema
 		Conhecida por sua elegância e qualidades sociais, duas montanhas chamadas de "Dois Irmãos" (Dois Irmãos) erguem-se no extremo oeste da praia.
+	
+	pedra do telegrafo
+		muito pika, mas muito longe
 
 DICAS
 	QUANDO IR PARA RIO?

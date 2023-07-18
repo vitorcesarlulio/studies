@@ -1,0 +1,3 @@
+Basicamente os restaurantes cadastra os hoararios com menor movimento e voce paga 50% da conta
+	mas tem uns detalhes, as vezes nem tudo ta incluso
+	os horarios são meio cedo
