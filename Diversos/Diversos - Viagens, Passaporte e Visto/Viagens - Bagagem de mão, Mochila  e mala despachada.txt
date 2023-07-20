@@ -32,6 +32,7 @@ Bagagem de mão
 
 	
 	Proibidos
+		n pode levar navalha
 		Objetos cortantes e pontiagudos;
 		MacBook Pro de 15 polegadas;
 		Samsung Galaxy Note7;
