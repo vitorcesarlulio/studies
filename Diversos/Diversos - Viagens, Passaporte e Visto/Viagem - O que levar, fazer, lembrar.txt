@@ -1,3 +1,5 @@
+Busão
+	perguntar pro motorista se vai fazer parada
 Antes do Voo
     capinha de impacto
 	    proteger cel

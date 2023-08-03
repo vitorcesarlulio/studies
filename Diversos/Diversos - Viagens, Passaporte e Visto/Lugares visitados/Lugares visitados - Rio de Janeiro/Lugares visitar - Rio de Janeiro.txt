@@ -9,31 +9,104 @@ MEDIA GRANA
 
 RESTAURANTES
 	Braseiro
+		Pertinho de copa
 		restaurante bom, barato e bom
-	
-	Confeitaria Colombo
-		Café histórico com arquitetura deslumbrante da Belle Époque.
-	
-	Aprazível
-		Deliciosa culinária brasileira servida em um ambiente de jardim tropical.
-	
-	Garota de Ipanema
-		Berço da famosa música Bossa Nova, "Garota de Ipanema", é um ótimo lugar para comida tradicional brasileira.
+		Rua Domingos Ferreira 214, Rio de Janeiro, Estado do Rio de Janeiro 22050-012 Brasil
 	
 	Churrascaria Palace
 		Para saborear o tradicional churrasco brasileiro.
-
-	Restaurante frash good
-		Barato
-		Barzinho legal de noite
+		FAIXA DE PREÇO
+		R$ 169 - R$ 193
+		Em copacabana
 	
 	Joaquina
 		Restaurante em frente a praia
+		em copacabana
+		FAIXA DE PREÇO
+		R$ 289 - R$ 433
 	
-	Bar Zeca pagodinho
-		o mais perto é no flamengo
+	Fresh & Good Restaurante
+		19 minutos do hotel
+		sem infos de preço
+		Barato
+		Barzinho legal de noite
+	
+	Confeitaria Colombo
+		Tem um em copacabana e um lá no museu do amanha
+		Café histórico com arquitetura deslumbrante da Belle Époque.
+
+	Garota de Ipanema
+		Perto de cobacabana
+		18 minuto do hotel
+		Berço da famosa música Bossa Nova, "Garota de Ipanema", é um ótimo lugar para comida tradicional brasileira.
+	
+	Aprazível
+		30 minutos de carro do hotel
+		FAIXA DE PREÇO
+		R$ 200 - R$ 400
+		Deliciosa culinária brasileira servida em um ambiente de jardim tropical.
+	
+	Rocinha - Novo visual
+		https://www.instagram.com/novo_visual_restaurante/
+	
+	Boteco Zeca pagodinho
+		praia do flamengo, perto do aeroporto
+	
+	O Leblon
+		é um restaurante de frutos do mar localizado na praia de Leblon. Ele é conhecido por seus pratos frescos e saborosos.
+
+	Adega do Tijolo
+		a Adega do Tijolo é um restaurante italiano localizado no bairro de Botafogo. Ele é conhecido por sua comida caseira e sua carta de vinhos.
+	
+	Casa da Feijoada
+		a Casa da Feijoada é um restaurante especializado em feijoada. Ele é localizado no bairro da Lapa.
+	Jobim
+		o Jobim é um restaurante de cozinha internacional localizado no bairro de Copacabana. Ele é conhecido por sua vista da praia.
+	Porcão
+		o Porcão é um restaurante de carnes localizado no bairro de Ipanema. Ele é conhecido por suas carnes grelhadas.
+	
+	Aconchego Carioca
+		um restaurante de comida brasileira tradicional, localizado no bairro de Botafogo.
+	Bar do Mineiro
+		um boteco tradicional carioca, localizado no bairro de Copacabana.
+	Bráz Pizzaria
+		uma das melhores pizzarias da cidade, localizada no bairro de Botafogo.
+	Rubayat
+		um restaurante de alta gastronomia, localizado no bairro de Ipanema.
+	Zé do Pipo
+		um restaurante de frutos do mar, localizado no bairro de Copacabana.
+	
+	Carretao churrascaria
 
 PASSEIOS
+	Olegario maciel
+	Rua na barra de tijuca
+
+
+	Urca
+		Bar urca
+		Bar flutuante 
+		Shopping rio sul
+		Cervante
+
+	Leblon
+		Dias de ferreira
+		Bel monte barzinho
+
+	Barra da tijuca
+	Quioske pp
+	K8
+
+	Metro vai ate barra da tijuca
+
+	Drena rio
+		Maluco bom pra trilha da gavea
+		Simpático 
+
+	Praia da joatinga
+	Só é mais difícil de chegar
+	Pedra do sal samba raiz
+
 	Contato para passeios +55 21 98100-8815
 
 	Combos de passeio
@@ -61,6 +134,13 @@ PASSEIOS
 		roda gigabte
 			muito grande
 			da pra ver todo RJ
+	
+	Passeios de barco
+		até que compensa, tem angra dos reis, varios lugares
+		fica dia inteiro fora
+		pode compensar alugar uma lancha ao inves de ir no barco, cheio de gente, menos privativo.
+		Na lancha voce para onde quer tals
+		R$ uns 700 cada para uma lancha de 3 pessoas
 
 	Espaço cultural da marinha
 		Proximo ao aquario tals
@@ -112,6 +192,13 @@ PASSEIOS
 
 	Pão de Açúcar
 		Outro marco icônico, você pode pegar um teleférico até o topo para ter uma vista deslumbrante da cidade.
+		classico beatch club
+		em cima do pão de açucar
+		no por do sol muito top
+		bondinho.com.br
+		120 bilhete da direito a 4 trechos
+		2 ida 2 de volta
+		valido por 7 dias
 
 	Cristo Redentor
 		Uma das Novas Sete Maravilhas do Mundo, esta estátua oferece uma vista deslumbrante do Rio.
