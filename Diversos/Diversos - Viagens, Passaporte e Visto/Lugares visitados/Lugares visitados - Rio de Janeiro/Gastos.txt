@@ -1,0 +1,28 @@
+R$ 60,88 	Passagem busto
+R$ 50 		Starbucks
+R$ 45 		Uber vinda aeroporto
+R$ 60 		Almoço
+R$ 30 		Cerveja
+R$ 30 		Cerveja
+R$ 6 		Coco
+R$ 75 		Janta/almoço 
+R$ 15 		Uber centro
+R$ 16,50 	Barzinho
+R$ 44 		Barzinho
+R$ 30 		Uber volta
+R$ 50 		Almoço 
+R$ 220 	Passeio
+R$ 30 		Caixa de som
+R$ 92 		Janta
+R$ 106 	Confeitaria 
+R$ 23 		Passeio centro
+R$ 33 		Maraca
+R$ 20 		Açaí 
+R$ 23 		Uber asa delta
+R$ 700 	Asa delta
+R$ 250 	Fotos asa delta
+R$ 216 	Brindes
+R$ 80 		Pão de Açúcar 
+R$ 14 		Uber Pão de Açúcar
+
+Total: R$ 2.319,00

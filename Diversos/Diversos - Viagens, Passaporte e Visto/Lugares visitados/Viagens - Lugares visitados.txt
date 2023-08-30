@@ -9,12 +9,25 @@ PAÍS - BRASIL
 				Tudo é perto dele, praça da sé, 25 de março, Efigênia
 			
 			Sutton
-	ESTADO - 
+	
+		CIDADE - APARECIDA
+			Santuario aparecida do norte
+		
+		CIDADE - CAMPOS DO JORDÃO
+
+	ESTADO - PERNAMBUCO
 		CIDADE - RECIFE
 	
-	Cidade - Florianópolis
+	ESTADO - RIO DE JANEIRO
+		CIDADE - RIO DE JANEIRO
+		CIDADE - PARATY
+	
+	
+	ESTADO - SANTA CARATINA
+		CIDADE - FLORIANÓPOLIS
 
 PAIS - ARGENTINA
 	CIDADE - 
+
 PAIS - PARAGUAY
 	CIDADE - 

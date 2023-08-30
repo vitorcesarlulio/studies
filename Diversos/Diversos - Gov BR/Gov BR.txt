@@ -9,3 +9,12 @@ gov
 	ouro
 		validação do TSe
 		faz com que vc n precise de certificado digital
+
+Migrar conta prata
+CNH
+Bancos parceiros
+Sistema SIGEPE (funcionarios publicos)
+
+Ouro
+Justiça eleitoral
+Certificação digital
