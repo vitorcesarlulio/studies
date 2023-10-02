@@ -1,6 +1,3 @@
-Limpar furinhos chuveiro
-Filtro maquina de lavar roupas
-Ralo da pia
 De baixo da pia (pedra onde vai fixada a cuba)
 Tampas de panela a panelas (desparafusar)
 
@@ -13,3 +10,268 @@ Tapete desinfetante
 
 LIMPAR PEDRA DE BAIXO DA PIA
 	Pega uma escova e dobra ela pra esquerda, as cerdas ficam voltadas pra você
+	
+Rua
+	Limpar calçada (limpeza pesada)
+	Portão
+		Lavar e passar brilho (dentro e fora)
+
+Garagem
+	lavagem do piso.
+	Limpar luminarias
+	Interruptores, tomadas
+
+Sala
+	Limpeza de pisos (varrer, passar pano ou aspirar).
+	Limpeza de janelas e cortinas
+	Limpeza de porta
+	Limpeza sofás
+	Limpeza estantes
+	Limpeza dentro estante
+	Limpeza de eletrônicos (TV, aparelho de som).
+	Limpeza de itens decorativos.
+	Limpeza de rodapés e cantos.
+	Limpeza lustre
+	Limpeza lampada
+	Limpeza interruptores
+	Limpeza completa esquadria
+		trilhos
+	Lavagem de almofadas e sofás, se forem removíveis.
+
+Cozinha
+	Limpeza do fogão e forno.
+	Limpeza da geladeira (interno e externo).
+	Limpeza do micro-ondas.
+	Limpeza da pia e torneira.
+	Limpeza de armários (interno e externo).
+		nicho entrada
+		puxadores
+	Limpeza de pisos
+	Limepeza pedra e brilho
+	Limpeza de eletrodomésticos menores (liquidificador, torradeira).
+	Forno e grelhas.
+		tirar carvao queimado churrasqueira
+	Limpeza lustre
+	Limpeza lampada
+	Limpeza de utensílios como panelas, frigideiras e tábuas de corte.
+	Limpeza de gavetas e organizadores de talheres.
+	Limpeza do exaustor e troca ou limpeza do filtro.
+		Limpeza lampada
+	Lixeira: higienização interna e externa.
+	Limpeza e organização da despensa.
+	Limpeza TV
+	Limepeza painel
+	Limpemza estante
+	limpeza dentro da estante
+	Limpeza cadeira
+		onde pega na cadeira
+	Limpeza mesa
+	Limpeza puxadores porta
+	Limpeza interruptores
+	Limpeza completa esquadria
+		trilhos
+
+Banheiro cozinha
+	Limpeza do vaso sanitário.
+	Limpeza da pia e torneira.
+	Limpeza do box.
+		tirar gordura do box
+	Limpeza vidro domus
+	Limpeza forro
+	Limpeza de pisos e azulejos.
+		Rejunte dos azulejos.
+	Limpeza de espelhos.
+		em cima do armario tambem
+	Limpeza pedra box e passar brilho
+	Limpar furinhos chuveiro
+	Limpeza completa esquadria
+		trilhos
+	
+Corredor
+	Limpeza de pisos
+	Interruptor e tomada
+	Luzes
+
+Quarto Vitor
+	Limpeza de pisos (varrer, passar pano e aspirar).
+	Limpeza de janelas e cortinas.
+	Limpeza de guarda-roupas (interno e externo).
+	Limpeza de móveis e superfícies.
+	Limpeza de itens decorativos.
+	Limpeza completa esquadria
+		trilhos
+	Limpeza por fora do ar
+	Limpeza cabeceira
+
+Banheiro Talita
+	Limpeza do vaso sanitário.
+	Limpeza da pia e torneira.
+	Limpeza do box.
+		tirar gordura do box
+	Limpeza vidro domus
+	Limpeza forro
+	Limpeza de pisos e azulejos.
+		Rejunte dos azulejos.
+	Limpeza de janelas.
+	Limpeza de espelhos.
+		em cima do armario tambem
+	Limpeza pedra box e passar brilho
+	Limpar furinhos chuveiro
+
+Quarto Talita
+	Limpeza de pisos (varrer, passar pano e aspirar).
+	Limpeza de janelas e cortinas.
+	Limpeza de guarda-roupas (interno e externo).
+	Limpeza de móveis e superfícies.
+	Limpeza de itens decorativos.
+	Limpeza completa esquadria
+		trilhos
+	Limpeza por fora do ar
+	Limepeza espelho
+	Limpeza cabeceira
+
+Quarto Casal
+	Limpeza de pisos (varrer, passar pano e aspirar).
+	Limpeza de janelas e cortinas.
+	Limpeza de guarda-roupas (interno e externo).
+	Limpeza de móveis e superfícies.
+	Limpeza de itens decorativos.
+	Limpeza completa esquadria
+		trilhos
+	Limpeza por fora do ar
+	Limepeza espelho
+	Limpar ventilador
+
+Banheiro Casal
+	Limpeza do vaso sanitário.
+	Limpeza da pia e torneira.
+	Limpeza do box.
+		tirar gordura do box
+	Limpeza vidro domus
+	Limpeza forro
+	Limpeza de pisos e azulejos.
+		Rejunte dos azulejos.
+	Limpeza de espelhos.
+		em cima do armario tambem
+	Limpeza pedra box e passar brilho
+	Limpar furinhos chuveiro
+	Limpeza completa esquadria
+		trilhos
+
+Lavanderia
+	Filtro maquina de lavar roupas
+	Armarios, interno e externo
+	Pias
+	Chão
+	Azuleijos lavanderia
+	Porta
+
+Quintal interno
+	Limpar armario
+	Lavar piso
+	Luminarias
+
+Geral
+	Calhas e ralos: podem acumular folhas e sujeira, impedindo a passagem da água.
+	Limpeza de pet places, se houver animais de estimação.
+	Limpeza e manutenção de plantas e floreiras.
+	Limpeza de portas e maçanetas.
+	Limpeza de interruptores e tomadas.
+	Desinfecção de controles remotos e aparelhos eletrônicos.
+
+
+CRONOGRAMA
+Of course! Here's the cleaning schedule translated into Portuguese:
+
+**Diariamente:**
+- Cozinha:
+  - Limpeza da pia e torneira.
+  - Limpeza do fogão e forno.
+  - Limpeza do micro-ondas.
+  - Limpeza de eletrodomésticos menores (liquidificador, torradeira).
+- Banheiros (todos):
+  - Limpeza do vaso sanitário.
+  - Limpeza da pia e torneira.
+  - Limpeza do box.
+- Geral:
+  - Limpeza de locais dos pets, se houver animais de estimação.
+
+**Semanalmente (a cada 7 dias):**
+- Todos os Cômodos:
+  - Limpeza de pisos (varrer, passar pano ou aspirar).
+  - Limpeza de interruptores e tomadas.
+  - Desinfecção de controles remotos e aparelhos eletrônicos.
+- Sala:
+  - Limpeza de janelas e cortinas.
+  - Limpeza de sofás.
+  - Limpeza de eletrônicos (TV, aparelho de som).
+- Cozinha:
+  - Limpeza da geladeira (interno e externo).
+  - Limpeza de gavetas e organizadores de talheres.
+  - Lixeira: higienização interna e externa.
+- Geral:
+  - Limpeza de portas e maçanetas.
+
+**Quinzenalmente (a cada 15 dias):**
+- Sala:
+  - Limpeza de estantes.
+  - Limpeza de itens decorativos.
+  - Limpeza de rodapés e cantos.
+- Cozinha:
+  - Limpeza de armários (interno e externo).
+  - Limpeza do exaustor e troca ou limpeza do filtro.
+- Todos os Banheiros:
+  - Limpeza de pisos e azulejos.
+  - Limpeza de espelhos.
+- Todos os Quartos:
+  - Limpeza de janelas e cortinas.
+  - Limpeza de guarda-roupas (interno e externo).
+  - Limpeza de móveis e superfícies.
+  - Limpeza de itens decorativos.
+- Geral:
+  - Limpeza de plantas e floreiras.
+
+**Mensalmente:**
+- Rua:
+  - Limpar calçada (limpeza pesada).
+  - Portão (Lavar e passar brilho - dentro e fora).
+- Garagem:
+  - Lavagem do piso.
+  - Limpar luminárias.
+- Sala:
+  - Limpeza de janelas e cortinas.
+  - Lavagem de almofadas e sofás, se forem removíveis.
+- Cozinha:
+  - Limpeza e organização da despensa.
+  - Limpeza do painel.
+- Lavanderia:
+  - Limpeza do filtro da máquina de lavar roupas.
+  - Limpeza das pias.
+  - Limpeza do chão.
+- Quintal Interno:
+  - Lavagem do piso.
+  - Limpeza das luminárias.
+- Geral:
+  - Limpeza de calhas e ralos.
+
+**Trimestralmente (a cada 3 meses):**
+- Cozinha:
+  - Limpeza e polimento da pia.
+- Banheiros (todos):
+  - Limpeza do vidro domus.
+  - Limpeza do forro.
+  - Limpeza do rejunte dos azulejos.
+- Todos os Quartos:
+  - Limpeza externa do ar condicionado.
+- Lavanderia:
+  - Limpeza dos azulejos.
+  - Limpeza da porta.
+- Quintal Interno:
+  - Limpeza do armário.
+
+**Semestralmente (a cada 6 meses):**
+- Todos os Cômodos:
+  - Limpeza completa da esquadria e trilhos.
+  - Limpeza do lustre e lâmpada.
+
+Lembre-se, isso é um guia geral baseado na lista fornecida e no tráfego típico ou uso que tais áreas podem experimentar. Dependendo da situação específica ou preferências individuais, a frequência pode ser ajustada.

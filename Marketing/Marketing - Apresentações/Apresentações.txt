@@ -1,3 +1,17 @@
+Em uma apresentação fazer esquema de quem é cego
+Falar como é você tals
+
+Modelo
+	Integrantes
+	Problematica
+	Metodologia
+		Scrum, trello
+	Mockup
+		Figma
+		1 host, 1 hospedagem, 1 app
+		Paga só 1x
+		Em flutter
+
 Usar chatgpt em alguma apresentação
 Como montar uma boa apresentação
 Como seria pra você um bom sistema?
