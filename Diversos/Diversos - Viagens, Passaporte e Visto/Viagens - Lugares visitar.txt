@@ -4,10 +4,6 @@ Porto Seguro (Brasil)
 Salvador (Brasil)
 
 Bogotá, na Colômbia
-Europa
-Grã-Bretanha, os encantos bucólicos do condado inglês de Devon e da cidade de Portree, na ilha escocesa de Skye,
-esqui checa de Dolni Morava e a cidade-fortaleza lituana de Kaunas fazem parte da lista, assim como o esplendor histórico da capital turca Istambul.
-italiana da Calábria, a antiga cidade grega de Salónica, a região portuguesa do Alentejo e o arquipélago da Madeira.
 
 província indonésia de Bali e a ilha central de Boracay, nas Filipinas.
 
@@ -72,10 +68,16 @@ PAÍS - BRASIL
 				Kilt
 				Arca
 					Lugar de rave, mas ai tem que pegar um organizador pika
+				https://instagram.com/matizbars
 
 			RESTAURANTES
 				fazenda churrascada
 				sal gastronomia
+				Jequitiba
+				Varedito
+				Ponto A
+				sushi_vaz
+					Um dos sushi mais pika
 
 			TINERARIOS
 				Pegar busão cair no tiete
@@ -151,6 +153,10 @@ PAÍS - BRASIL
 				Standart music
 				Avenue Club
 				Galleria Bar
+				
+			Outros
+				sorveteriadocentrosp
+					top tem uns sovete salgado
 
 			Shoppings
 				1º JK Iguatemi
@@ -538,9 +544,16 @@ PAÍS - ARGENTINA
 	Rapa Nui do Chile
 	Ilha de Páscoa
 	Ilhas Galápagos
+	
+	Ushuaia
+		top neve
 
 	• Buenos Aires
 		Bernardino Rivadavia Museum of Natural Science
+		tem muito cafe la entao n compensa pegar cafe incluso, pega um airbnb
+
+		bastante metro
+
 	• Patagônia
 		Patagônia Experience
         Passeio de noite vendo as constelação e entender o universo
@@ -778,7 +791,13 @@ CONTINENTE AFRICANO
 	
 
 EUROPA
+	PAÍS - ESTONIA
+		A ex-república soviética, de apenas 1,3 milhão de habitantes, é considerada a sociedade mais digital de todo o planeta. 99% dos serviços públicos são oferecidos pela internet. É tudo online
+
 	Comer Percebes
+	
+	Grã-Bretanha
+		os encantos bucólicos do condado inglês de Devon e da cidade de Portree, na ilha escocesa de Skye, esqui checa de Dolni Morava e a cidade-fortaleza lituana de Kaunas fazem parte da lista, assim como o esplendor histórico da capital turca Istambul. Italiana da Calábria, a antiga cidade grega de Salónica, a região portuguesa do Alentejo e o arquipélago da Madeira.
 
 	PAÍS - Turquia
 		Yuvarlakçay Defne Restaurant

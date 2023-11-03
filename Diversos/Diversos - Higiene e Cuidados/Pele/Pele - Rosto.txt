@@ -1,21 +1,72 @@
+Faca um teste primeiro com produto, sua pele pode ser sensível a ele
+
+Tratamentos especificos
+Como séruns ou cremes com retinol, ácido hialurônico, ou vitamina C para tratar problemas específicos como rugas, manchas ou perda de firmeza.
+
+Sabonete ou Gel de Limpeza Facial
+Remover impurezas, excesso de oleosidade e resíduos de maquiagem. Para peles oleosas, sabonetes com ácido salicílico podem ajudar a controlar a oleosidade.
+
+Esfoliante Facial
+Remover células mortas e desobstruir poros, promovendo a renovação celular. Deve ser usado com moderação, geralmente 1-2 vezes por semana.
+
+Tônico Facial
+Restaurar o pH da pele, refinar poros e preparar a pele para receber os tratamentos subsequentes. Existem tônicos adstringentes para peles oleosas e tônicos hidratantes para peles secas.
+
+Água Micelar
+Limpa a pele removendo impurezas e maquiagem
+Não requer enxágue e é suave para a pele
+
+Hidratante Facial
+Manter a pele hidratada, protegida e nutrida. Escolha uma fórmula que seja adequada para o seu tipo de pele (leve para peles oleosas, mais rica para peles secas).
+
+Protetor Solar
+Proteger a pele contra danos causados pelo sol, como manchas e envelhecimento precoce. Deve ser usado diariamente, independentemente do clima.
+
+Creme para a Área dos Olhos
+Hidratar e tratar a delicada área ao redor dos olhos. Pode ajudar a reduzir olheiras, bolsas e linhas finas.
+Hidrata e trata a delicada pele ao redor dos olhos
+Pode ajudar a reduzir olheiras e inchaço
+   
+Máscaras Faciais
+Proporcionar tratamento intensivo. Pode variar desde hidratação até tratamento de acne. Geralmente usadas 1-2 vezes por semana.
+
+Trata problemas específicos da pele (como cravos, oleosidade, ou desidratação)
+Proporciona uma limpeza profunda e/ou hidratação
+
+Serum
+Sérum Secativo para Acne
+Acelerar a cicatrização de espinhas, reduzir inflamação e controlar a oleosidade.
+
+Tratar problemas específicos da pele como manchas, rugas ou falta de luminosidade. Serums geralmente têm uma alta concentração de ingredientes ativos.
+Proporciona hidratação intensiva
+Pode conter ingredientes ativos para tratar problemas específicos da pele
+   
+Óleos Faciais
+Nutrir e balancear a pele, especialmente para peles secas ou maduras.
+Proporciona hidratação adicional e pode ter propriedades calmantes
+Ideal para peles secas ou sensíveis
+
+Protetor Labial
+Hidrata e protege a pele delicada dos lábios
+Pode conter SPF para proteção solar
+
 1. Sabonete
 	limpeza de pele mesmo
-
 	tem que ter acido silico
+	
+	Gel De Limpeza Facial Effaclar Concentrado 300g La Roche Posay
+		https://www.mercadolivre.com.br/gel-de-limpeza-facial-effaclar-concentrado-300g-la-roche-posay/p/MLB19620491
 	
 	Gel De Limpeza Profunda Peles Oleosas E Acneicas Depore Concentrate - 250ml
 		https://www.adatina.com/gel-limpeza-profunda-pele-oleosa-com-acne-depore-concentrate/p?
 
-	Gel De Limpeza Facial Effaclar Concentrado 300g La Roche Posay
-		https://www.mercadolivre.com.br/gel-de-limpeza-facial-effaclar-concentrado-300g-la-roche-posay/p/MLB19620491
-
-	Darrow Actine - Gel de Limpeza
-		R$ 50
-		https://www.belezanaweb.com.br/darrow-actine-gel-de-limpeza-facial-140g
-
 	Limpeza Facial Garnier Uniform & Matte Vitamina C Antioleosidade
 		R$ 25,00
 		https://www.amazon.com.br/Limpeza-Facial-Garnier-Uniform-Matte/dp/B085PHWHJ7/ref=asc_df_B085PHWHJ7/
+	
+	Darrow Actine - Gel de Limpeza
+		R$ 50
+		https://www.belezanaweb.com.br/darrow-actine-gel-de-limpeza-facial-140g
 
 2. Tonico facial
 	sem alcool e que controle oleosidade
