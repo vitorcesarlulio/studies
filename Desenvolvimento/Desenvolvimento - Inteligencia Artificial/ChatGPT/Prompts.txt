@@ -1,0 +1,84 @@
+Marketing
+	#1 Copy para ads
+		Act as a Paid Ads expert.
+
+		Create [Insert No.] Ad copies for a Google paid search campaign based on the landing page copy below, that target the keywords [Insert Keyword(s)], and target audience who are [Insert Target Audience], with an objective to drive clicks to the Ad and [Insert Action]. Format in [Insert Ad Format] with [Insert No.] headlines no more than [Insert Character Limits] characters each and [Insert No.] descriptions no more than [Insert Character Limits] characters each. Tone is [Insert Tone of Output].
+
+		[Insert LP ]
+
+	#2 Encontrar palavras chave
+		Act as a SEO expert.
+
+		Give me a list of the top keywords for the topic of [Insert Topic], target audience who are [Insert Target Audience].
+
+	#3 Estrutura de artigo amigável para SEO
+		Act as a professional copywriter.
+
+		Draft me a SEO-friendly blog outline about [Insert Blog Topic] , and target audience who are [Insert Target Audience], with an objective to [Insert Objective] and rank high on search engine result page. Include relevant keywords for each section. Tone is [Insert Tone]. Format in a bullet point.
+
+	#4 Otimizar título da página para SEO
+		Act as a SEO expert.
+
+		Give me [Insert No.] SEO-friendly page titles that are click-worthy for the [Insert Format: Blog/Product Page/Campaign Page, etc.] with copy below and target keyword [Insert Target Keyword] with an objective to drive high clicks on search result page. The title should not exceed 65 characters. Target audience who are [Insert Target Audience]. Tone in [Insert Tone].
+
+		[Insert LP ]
+
+	#5 Títulos matadores para e-mails
+		Act as an email marketing expert.
+
+		Give me [Insert No.] high performing email subject lines for the email copy below, that are click-worthy for a high open rate with an objective to [Insert Objective]. Target audience who are [Insert Target Audience]. Each subject line should have no more than 60 characters. Tone is [Insert Tone].
+
+		[Insert Email Body ]
+
+	#6 Post para redes sociais
+		Act as a social media marketing expert.
+
+		Create a [Insert Social Platform] social post from the landing copy below which is about “[Insert Topic]” with an objective to attract followers to click the link to read the full copy. Target audience who are [Insert Target Audience]. Tone is [Insert Tone]. Keep it short and within [Insert Characters Limit] words.
+
+		[Insert LP ]
+
+	#7 Pesquisa e definição de persona de cliente
+		Act as a market research expert in which you have the expertise in [Insert Domain Knowledge].
+
+		Provide a detailed persona for a [Insert The Business] with an objective to understand the target audience and leverage them to define business positioning and create resonating marketing copy. Include all the criteria below:
+
+		- Name
+
+		- Role
+
+		- Problem (What issue do the persona want to solve?)
+
+		- Pain (What negative consequences of this problem drive the persona mad?)
+
+		- Jobs-To-Be-Done (What does the persona want to achieve?)
+
+		- Motivation (What drives the persona to complete the JTBD?)
+
+		- Trigger (What has pushed the persona to find a solution to the problem?)
+
+		- Barriers (What stops the persona from changing the status quo?)
+
+		- Context (What does the persona already know about the problem and other solutions?)Copied!
+
+	#8 Dar feedback sobre página de vendas
+		Act as a conversion optimization expert.
+
+		Provide suggestions on the type of content to include to the following landing page: [Insert URL], with the objective to [Insert Action].
+
+		Target audience is [Insert Target Audience].
+
+	#9 Descrição de produto para eCommerce
+		Act as an Ecommerce marketing expert.
+
+		Give me a product description about the "[Insert Product Name]" to be listed on a [Insert Product Type] ecommerce site, with an objective to encourage the customers to read and add to cart for checkout. Target audience are [Insert Target Audience]. Tone is [Insert Tone]. Include the criteria below.
+
+		- Product Title (no more than 60 characters, include brand and important keyword to make it click-worthy)
+
+		- Description (brief description about the product in 2 sentences)
+
+		- Product highlights (key product features that audience will love to know and encourage checkout)
+
+	#10 Roteiro para vídeo
+		Act as a video production expert.
+
+		Give me a storyboard outline for a [Insert Minute] minute [Insert sizzle/product/type] video about a [Insert the Product/Service/Business] with an objective to grab the viewership of the audience and to [Insert Action] after watching. Target audience are [Insert Target Audience]. Tone is [Insert Tone].

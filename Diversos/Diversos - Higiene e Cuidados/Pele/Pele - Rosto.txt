@@ -1,60 +1,14 @@
 Faca um teste primeiro com produto, sua pele pode ser sensível a ele
 
-Tratamentos especificos
-Como séruns ou cremes com retinol, ácido hialurônico, ou vitamina C para tratar problemas específicos como rugas, manchas ou perda de firmeza.
-
-Sabonete ou Gel de Limpeza Facial
-Remover impurezas, excesso de oleosidade e resíduos de maquiagem. Para peles oleosas, sabonetes com ácido salicílico podem ajudar a controlar a oleosidade.
-
-Esfoliante Facial
-Remover células mortas e desobstruir poros, promovendo a renovação celular. Deve ser usado com moderação, geralmente 1-2 vezes por semana.
-
-Tônico Facial
-Restaurar o pH da pele, refinar poros e preparar a pele para receber os tratamentos subsequentes. Existem tônicos adstringentes para peles oleosas e tônicos hidratantes para peles secas.
-
-Água Micelar
-Limpa a pele removendo impurezas e maquiagem
-Não requer enxágue e é suave para a pele
-
-Hidratante Facial
-Manter a pele hidratada, protegida e nutrida. Escolha uma fórmula que seja adequada para o seu tipo de pele (leve para peles oleosas, mais rica para peles secas).
-
-Protetor Solar
-Proteger a pele contra danos causados pelo sol, como manchas e envelhecimento precoce. Deve ser usado diariamente, independentemente do clima.
-
-Creme para a Área dos Olhos
-Hidratar e tratar a delicada área ao redor dos olhos. Pode ajudar a reduzir olheiras, bolsas e linhas finas.
-Hidrata e trata a delicada pele ao redor dos olhos
-Pode ajudar a reduzir olheiras e inchaço
-   
-Máscaras Faciais
-Proporcionar tratamento intensivo. Pode variar desde hidratação até tratamento de acne. Geralmente usadas 1-2 vezes por semana.
-
-Trata problemas específicos da pele (como cravos, oleosidade, ou desidratação)
-Proporciona uma limpeza profunda e/ou hidratação
-
-Serum
-Sérum Secativo para Acne
-Acelerar a cicatrização de espinhas, reduzir inflamação e controlar a oleosidade.
-
-Tratar problemas específicos da pele como manchas, rugas ou falta de luminosidade. Serums geralmente têm uma alta concentração de ingredientes ativos.
-Proporciona hidratação intensiva
-Pode conter ingredientes ativos para tratar problemas específicos da pele
-   
-Óleos Faciais
-Nutrir e balancear a pele, especialmente para peles secas ou maduras.
-Proporciona hidratação adicional e pode ter propriedades calmantes
-Ideal para peles secas ou sensíveis
-
-Protetor Labial
-Hidrata e protege a pele delicada dos lábios
-Pode conter SPF para proteção solar
-
-1. Sabonete
+1. Sabonete ou Gel de Limpeza Facial
+	Remover impurezas, excesso de oleosidade e resíduos de maquiagem. Para peles oleosas, sabonetes com ácido salicílico podem ajudar a controlar a oleosidade.
 	limpeza de pele mesmo
-	tem que ter acido silico
-	
+	tem que ter Ácido salicílico
+		 Tem no sabonete actine
+
 	Gel De Limpeza Facial Effaclar Concentrado 300g La Roche Posay
+		Excelente para pele oleosa e acneica, contém água termal que acalma a pele.
+		Pode ser um pouco secante para peles normais a secas.
 		https://www.mercadolivre.com.br/gel-de-limpeza-facial-effaclar-concentrado-300g-la-roche-posay/p/MLB19620491
 	
 	Gel De Limpeza Profunda Peles Oleosas E Acneicas Depore Concentrate - 250ml
@@ -68,10 +22,60 @@ Pode conter SPF para proteção solar
 		R$ 50
 		https://www.belezanaweb.com.br/darrow-actine-gel-de-limpeza-facial-140g
 
+	Cetaphil Gentle Skin Cleanser
+		Muito suave, ideal para peles sensíveis, não resseca a pele.
+		Pode não ser suficientemente eficaz para peles muito oleosas.
+
+	Neutrogena Hydro Boost Gel de Limpeza
+		Hidrata enquanto limpa, contém ácido hialurônico, bom para todos os tipos de pele.
+		Pode não ser suficiente para peles muito oleosas.
+		https://www.sweetcare.pt/br/neutrogena-hydro-boost-gel-agua-limpeza-enxaguamento-p-006997ne
+		R$ 50,00
+
+	Exfoliante
+		Remover células mortas e desobstruir poros, promovendo a renovação celular. Deve ser usado com moderação, geralmente 1-2 vezes por semana.
+
+		The Ordinary AHA 30% + BHA 2% Peeling Solution
+			Alta concentração de ácidos, resultados eficazes em renovação celular.
+			Pode ser muito forte para peles sensíveis, uso restrito a uma ou duas vezes por semana.
+
+		Clinique Pep-Start 2-in-1 Exfoliating Cleanser
+			Limpa e esfolia suavemente, ideal para uso diário.
+			Menos eficaz para esfoliação intensa.
+
+		Skinceuticals Micro-Exfoliating Scrub
+			Microesferas para uma esfoliação física suave, ideal para peles mistas.
+			Esfoliação física pode não ser recomendada para peles com acne ativa.
+
+		Dermalogica Daily Microfoliant Exfoliator
+			Formulado para peles sensíveis, proporciona uma esfoliação suave.
+			Ajuda a iluminar a pele e a reduzir a aparência de poros.
+			Preço elevado.
+			Pode não ser suficientemente eficaz para peles com muitas imperfeições
+
+		Odacite Jojoba Pearls Daily Hydra-Exfoliant
+			Esfoliação suave adequada para peles oleosas.
+			Contém pérolas de jojoba que são suaves para a pele.
+			Preço médio-alto.
+			Pode não ser suficientemente exfoliante para peles com textura áspera
+
 2. Tonico facial
+	Restaurar o pH da pele, refinar poros e preparar a pele para receber os tratamentos subsequentes. Existem tônicos adstringentes para peles oleosas e tônicos hidratantes para peles secas.
 	sem alcool e que controle oleosidade
-	 serve para regular a oleosidade, eliminar os poros e outras impurezas presentes na pele
-	
+	serve para regular a oleosidade, eliminar os poros e outras impurezas presentes na pele
+
+	Agua micelar da neutrogena
+		Vai ajudar tirar oleosidade, deixar pele limpinha
+		R$ 50,00
+
+	Pixi Glow Tonic
+		Contém ácido glicólico para ajudar na renovação celular, bom para todos os tipos de pele.
+		Pode irritar peles muito sensíveis.
+		Formula suave com 5% de ácido glicólico que ajuda a esfoliar e renovar a pele.
+		Cult-favorite, muitas pessoas adoram este produto.
+		Pode não ser suficientemente forte para peles com muitas imperfeições.
+		O ácido glicólico pode ser irritante para peles sensíveis
+
 	tônico antiacne
 		https://www.sallve.com.br/products/tonico-antiacne
 	
@@ -85,19 +89,50 @@ Pode conter SPF para proteção solar
 	nivea tonico adstringente
 		R$ 30
 
+	Thayers Witch Hazel Toner
+		Ingredientes naturais, muito suave, ideal para peles sensíveis.
+		Pode não ser suficiente para peles muito oleosas.
+
+	Bioderma Sébium Pore Refiner
+		Especialmente bom para peles oleosas, ajuda a refinar os poros.
+		Pode ser secante para peles normais a secas.
+
+Peeling, mascara facial
+	Proporcionar tratamento intensivo. Pode variar desde hidratação até tratamento de acne. Geralmente usadas 1-2 vezes por semana.
+	Trata problemas específicos da pele (como cravos, oleosidade, ou desidratação)
+	Proporciona uma limpeza profunda e/ou hidratação
+
+	Dermalogica Rapid Reveal Peel
+		Fórmula profissional para peeling que ajuda a revelar uma pele mais radiante e reduzir a aparência de linhas finas e rugas.
+		Adequado para todos os tipos de pele.
+		Preço elevado.
+		Pode ser muito forte para peles sensíveis
+	
+	Acure Brightening Facial Scrub
+		Esfoliação suave que ajuda a remover impurezas e iluminar a pele.
+		Preço acessível.
+		Pode ser menos eficaz em peles muito oleosas ou com problemas de acne
+
 3. Hidratante facial
 	sempre hidrate a pele, olseosidade não é sinonimo de hidratação
+	Manter a pele hidratada, protegida e nutrida. Escolha uma fórmula que seja adequada para o seu tipo de pele (leve para peles oleosas, mais rica para peles secas).
+	
+	Cerave bem falado para Pele seca
 	
 	BIODERMA Sébium Pore Refiner Bioderma - Sérum Redutor de Poros - 30ml
 		https://www.epocacosmeticos.com.br/sebium-pore-refiner-bioderma-creme-redutor/p
 	
 	Neutrogena Hydro Boost Water Gel - Hidratante Facial 50g
 		https://www.belezanaweb.com.br/neutrogena-hydro-boost-water-gel-hidratante-facial-50g/
-
-	hydro boost
 		textura diferente de todos
 		absorve mais
 		R$ 68
+		Hidratação leve e eficaz, bom para todos os tipos de pele.
+		Pode não ser suficientemente nutritivo para peles muito secas.
+	
+	CeraVe Moisturizing Cream
+		Contém ceramidas e ácido hialurônico, excelente para peles secas.
+		Textura mais pesada, pode não ser ideal para peles oleosas.
 
 	Nivea facial
 		R$ 30
@@ -128,10 +163,15 @@ Pode conter SPF para proteção solar
 
 	Lá Roche posay
 		Cicaplast baume b5
-		Ele é mais oleoso, em pasta, então fica mais no rosto, é semelhante o em óleo 
+		Ele é mais oleoso, em pasta, então fica mais no rosto, é semelhante o em óleo
+
+	La Roche-Posay Toleriane Double Repair Moisturizer
+		Hidrata e repara a barreira da pele, sem perfume, bom para peles sensíveis.
+		Pode ser um pouco pesado para peles muito oleosas.
 
 4. Protetor solar
 	para nao gerar manchas e prevenir o envelhecimento cutaneo. Protegem ajudam controlar oleosidade
+	Proteger a pele contra danos causados pelo sol, como manchas e envelhecimento precoce. Deve ser usado diariamente, independentemente do clima.
 	
 	La Roche-Posay Anthelios Airlicium Fluido FPS 50 - Protetor Solar Facial 40ml
 		https://www.belezanaweb.com.br/la-rocheposay-anthelios-airlicium-fluido-fps-50-protetor-solar-facial-40ml/
@@ -143,8 +183,15 @@ Pode conter SPF para proteção solar
 	Pode ser bacana consultar um medico para receitar o ideal
 	use de noite
 	controle de acne e olesidade
+	Acelerar a cicatrização de espinhas, reduzir inflamação e controlar a oleosidade.
+	Tratar problemas específicos da pele como manchas, rugas ou falta de luminosidade. Serums geralmente têm uma alta concentração de ingredientes ativos.
+	Proporciona hidratação intensiva
+	Pode conter ingredientes ativos para tratar problemas específicos da pele
+	
+	microclear da neutrogena secativo de espinha
 	
 	La Roche-Posay Effaclar Ultra Concentrado - Sérum Antiacne 30ml
+		Ele é tipo um peling, tira primeira camada da pele para crescer segunda. Ele vem depois da limpeza
 		https://www.belezanaweb.com.br/la-rocheposay-effaclar-ultra-concentrado-serum-antiacne-30ml/
 	
 	Principia Sérum com mix de 4 ativos: 5% de niacinamida, 4% de ácido glicólico, 3% de ácido tranexâmico e 2% de ácido salicílico.
@@ -157,14 +204,70 @@ Pode conter SPF para proteção solar
 		R$ 200
 		https://www.amazon.com.br/Roche-Posay-Hyalu-B5-Repair-Anti-Idade/dp/B09XWM9F7F
 
+Óleos Faciais
+	Nutrir e balancear a pele, especialmente para peles secas ou maduras.
+	Proporciona hidratação adicional e pode ter propriedades calmantes
+	Ideal para peles secas ou sensíveis
+	
+	Serum vitamina C pessoal usa muito
+		Serve para reposição
+	
+	Skinceuticals C E Ferulic
+		Alta concentração de vitamina C, eficaz contra linhas finas e manchas.
+		Preço elevado.
+
+	The Ordinary Niacinamide 10% + Zinc 1%
+		Excelente para controlar a oleosidade e melhorar a textura da pele.
+		Algumas pessoas podem não responder bem à niacinamida.
+
+	Estée Lauder Advanced Night Repair
+		Ajuda na reparação e hidratação da pele durante a noite.
+		Preço elevado.
+
 Outros
-	água micelar
-		emaquilante para retirar a maquiagem
+	Água Micelar
+		Limpa a pele removendo impurezas e maquiagem
+		Não requer enxágue e é suave para a pele
 	
 	Niacinamida
 		Vitamina essencial do complexo B, a Niacinamida possui muitos benefícios para a pele: a substância estimula a renovação celular, favorece a uniformização do tom da pele, é antioxidante, previne o envelhecimento e ajuda a controlar a oleosidade excessiva.
 	
-Anti Rugas com vitamina b5
-	Sérum Hidratante Principia 2% Ácidos Hialurônicos + B5
-		R$ 50
-		https://www.amazon.com.br/S%C3%A9rum-Hidratante-Principia-%C3%81cidos-Hialur%C3%B4nicos/dp/B08N18SRNJ/ref=asc_df_B08N18SRNJ/
+	Glytone Enhance Brightening Complex
+		Especialmente formulado para peles propensas a acne.
+		Ajuda a clarear manchas escuras e a melhorar a textura da pele.
+		Preço elevado.
+		Pode ser muito forte para peles sensíveis
+	
+
+Tratamentos especificos
+	Como séruns ou cremes com retinol, ácido hialurônico, ou vitamina C para tratar problemas específicos como rugas, manchas ou perda de firmeza.
+
+	Anti Rugas com vitamina b5
+		Sérum Hidratante Principia 2% Ácidos Hialurônicos + B5
+			R$ 50
+			https://www.amazon.com.br/S%C3%A9rum-Hidratante-Principia-%C3%81cidos-Hialur%C3%B4nicos/dp/B08N18SRNJ/ref=asc_df_B08N18SRNJ/
+	
+	Creme para a Área dos Olhos
+		Hidratar e tratar a delicada área ao redor dos olhos. Pode ajudar a reduzir olheiras, bolsas e linhas finas.
+		Hidrata e trata a delicada pele ao redor dos olhos
+		Pode ajudar a reduzir olheiras e inchaço
+
+		Olay Eyes Ultimate Eye Cream
+			Reduz olheiras, bolsas e linhas finas, preço acessível.
+			Pode não ser tão eficaz em casos de olheiras muito profundas.
+
+		Kiehl’s Creamy Eye Treatment with Avocado
+			Muito nutritivo, hidratação intensa, bom para peles secas.
+			Preço elevado, textura pode ser pesada para alguns.
+
+		Estée Lauder Advanced Night Repair Eye
+			Hidratação e reparação intensa, combate linhas finas.
+			Preço muito elevado.
+
+	Máscaras Faciais
+		Origins Clear Improvement Active Charcoal Mask
+			Excelente para limpeza profunda dos poros, bom para peles oleosas.
+			Pode ser secante para peles normais a secas.
+
+		Laneige Water Sleeping Mask
+			Hidratação intensa durante a noite, deixa
