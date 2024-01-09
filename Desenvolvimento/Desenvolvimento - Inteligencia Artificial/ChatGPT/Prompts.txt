@@ -1,3 +1,6 @@
+Estrategias
+	A partir dessa explicação, poderia me dar 10 provocações (perguntas, hipoteses) para eu aprimorar esse meu prompt para facilitar sua compreensão?
+
 Marketing
 	#1 Copy para ads
 		Act as a Paid Ads expert.
