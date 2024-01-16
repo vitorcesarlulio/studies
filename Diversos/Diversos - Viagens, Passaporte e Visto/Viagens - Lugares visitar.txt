@@ -1,18 +1,12 @@
+User bard para montar roteiro
+duração da sua viagem, atividades que você gostaria de priorizar e onde ficará 
+por onde começar? o que fazer
+
 Nos mergulhos na hora de tirar uma foto, para de respirar 
-
-Porto Seguro (Brasil)
-Salvador (Brasil)
-
-Bogotá, na Colômbia
-
-província indonésia de Bali e a ilha central de Boracay, nas Filipinas.
 
 Instituto politécnico de Leiria
 15 de abril
 Monte Roraima
-Roupas
-Ross dress for less
-Burlinton
 
 Perfil no insta com uns lugares bem brisa
 https://twitter.com/anc_aesthetics?lang=en
@@ -28,6 +22,7 @@ PAÍS - BRASIL
 	ESTADO - SÃO PAULO
 		CIDADE - AGUAS DE SÃO PEDRO
 			https://www.instagram.com/lsvillas?igshid=NGVhN2U2NjQ0Yg%3D%3D
+			day use
 
 		CIDADE - ITATIBA
 			https://www.instagram.com/zooparque.itatiba?igsh=cGZxbDl2MHd0ZXQw
@@ -307,6 +302,9 @@ PAÍS - BRASIL
 			• Hotéis
 				fazenda areia que canta
 
+			Recanto das cahoeiras
+				Um day use
+
 		CIDADE - ILHA BELA
 			• Hotéis
 				Villa hostels
@@ -320,6 +318,12 @@ PAÍS - BRASIL
 
 		CIDADE - SÃO PEDRO
 			• Rampa Leste São Pedro
+	
+	ESTADO - RIO GRANDE DO NORTE
+		Natal (dunas)
+	
+	ESTADO - ALAGOAS
+		Maceio
 
 	ESTADO - RIO GRANDE DO SUL (RS)
 		CIDADE - São Francisco de Paula
@@ -520,6 +524,8 @@ PAÍS - BRASIL
 
 	ESTADO - BAHIA
         • Chapada Diamantina
+		Porto Seguro
+		Salvador
 
 	ESTADO - AMAPA
         • Barcelos mais carinho
@@ -536,6 +542,9 @@ PAÍS - BRASIL
 		MANAUS
 			• Árvore mais grande da Amazônia
 			• Encontro do rio negro
+	
+	ESTADO - RORAIMA
+		Monte Roraima
 
 PAÍS - CANADA
 	capital de Ontário, Toronto
@@ -547,6 +556,9 @@ PAÍS - CHILE
 		Valle de la Luna
 		lagunas escondidas de baltinache
 
+PAÍS - COLÔMBIA
+	Bogotá
+
 PAÍS - ARGENTINA
 	Salta, no noroeste montanhoso da Argentina
 	vila de El Chaltén, no Parque Nacional Los Glaciares do país
@@ -557,16 +569,34 @@ PAÍS - ARGENTINA
 	
 	Ushuaia
 		top neve
+	
+	Salta (com Jujuy)
+	Salta e Jujuy estão localizadas no noroeste da Argentina. Tem opções de voos diretos que saem do Brasil. A região faz parte dos Andes e tem uma cultura diferente das demais regiões do país. É um destino com montanhas, vales e desertos. Inclusive, tem um dos maiores desertos de sal do mundo (Salinas Grandes).
+	4 dias de viagem: R$ 3.000,00 por pessoa
 
-	• Buenos Aires
+	Buenos Aires
 		Bernardino Rivadavia Museum of Natural Science
 		tem muito cafe la entao n compensa pegar cafe incluso, pega um airbnb
 
 		bastante metro
+		
+		Pela facilidade de locomoção e variedade de bons restaurantes, sem dúvida, a capital da Argentina é o destino queridinho dos brasileiros. Vale a pena conhecer a vila medieval (Campanópolis), comer uma boa parrilla no Don Julio, fazer um City tour na cidade e assistir a um show de tango.
+		
+		5 dias de viagem: R$ 2.500,00 por pessoa
 
-	• Patagônia
+	Patagônia
 		Patagônia Experience
         Passeio de noite vendo as constelação e entender o universo
+	
+		Bariloche
+		A cidade faz parte da Patagônia Argentina, e sem dúvida, é um dos nossos lugares favoritos da América do Sul. Tem cenários que parecem filme e que lembra muito a Europa. É incrível mesmo!
+		Dos destinos argentinos, é o mais caro, principalmente na época da alta temporada (neve). Mas se for comparar com outros destinos de neve, é ainda o mais em conta!
+		Villa La Angostura é uma cidade vizinha que vale a pena ser visitada!
+		5 dias de viagem: R$ 5.500,00 por pessoa
+
+	Mendoza
+	Uma região localizada no centro-norte da Argentina, do lado do Chile e com voos diretos do Brasil. Muito conhecida pela produção de azeites e vinhos (setor do enoturismo muito forte). Também é procurada pelos amantes de aventura, por estar próxima do Monte Aconcágua (montanha mais alta da América do Sul).
+	4 dias de viagem: R$ 3.500,00 por pessoa
 
 PAÍS - COLOMBIA
 	• Medellín
@@ -608,6 +638,8 @@ PAÍS - EUA
 		PRIVALIA
 		Lyft
 		dress-for-less
+		dress for less
+		Burlinton
 
 	STATE - INDIANA
 		CITY - INDIANÁPOLIS
@@ -795,9 +827,13 @@ CONTINENTE AFRICANO
 		Nairobi
 
 ÁSIA
+	PAÍS - INDONÉSIA
+		ilha de Bali
+
+	PAÍS - FILIPINAS
+		Boracay
 	
 	Índia e Bangladesh não consomem muita carne
-
 
 	PAÍS - ÍNDIA
 		Nova Deli
