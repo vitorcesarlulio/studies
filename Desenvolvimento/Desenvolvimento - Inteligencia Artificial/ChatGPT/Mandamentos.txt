@@ -1,0 +1,10 @@
+Mandamentos CHATGPT:
+	Ser especifico;
+	Usarás para pensar, aprender, escrever e ter ideias;
+	
+	Pedir algo e falar: "O que voce precisa saber para me respoonder do melhor jeito possivel";
+	Quero tomar a decisão - "Que modelos mentais podem ser uteis para me ajudar a tomar essa decisao."
+	
+	Use o historico de contexto - adaptaGPT (faz com que as respostas sejam precisas, de maneira q vc n precise repetir sempre a mesma coisa)
+	
+	Use o gpt-4, versao paga que é melhor,

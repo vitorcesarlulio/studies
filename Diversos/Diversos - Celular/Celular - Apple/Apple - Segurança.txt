@@ -1,0 +1,25 @@
+Proteção de Dispositivo Roubado
+	adiciona uma camada de segurança quando o iPhone está longe de locais conhecidos, como casa ou trabalho, e ajuda a proteger suas contas e informações pessoais em caso de roubo
+
+	Esses requisitos ajudam a impedir que alguém que roubou seu dispositivo e sabe o código de acesso faça alterações críticas em sua conta ou dispositivo.
+
+	Ele vai pedir face id quando:
+	acessar senhas e cartões de crédito armazenados. Senha nao vai funcionar, apenas face id
+		* Usar as senhas ou chaves‑senha salvas nas Chaves
+		* Usar os métodos de pagamento salvos no Safari (preenchimento automático)
+		* Desativar o Modo Perdido
+		* Apagar conteúdo e ajustes 
+		* Solicitar um novo Apple Card
+		* Ver o número do cartão virtual do Apple Card
+		* Realizar algumas ações do Apple Cash e conta Savings no app Carteira (por exemplo, transferências da conta Savings ou Apple Cash)
+		* Usar o iPhone para configurar um novo dispositivo (por exemplo, Início Rápido
+
+	Alteraçao de senha, você também precisa aguardar 1 hora e, em seguida, executar uma segunda autenticação pelo Face ID ou Touch ID. 
+		* Alterar a senha do ID Apple
+		* Finalizar sessão do ID Apple
+		* Atualizar os ajustes de segurança da conta do ID Apple (como adicionar ou remover um dispositivo confiável, Chave Reserva ou Contato de Recuperação)
+		* Adicionar ou remover o Face ID ou Touch ID
+		* Alterar a senha do iPhone
+		* Redefinir todos os ajustes
+		* Desativar o recurso Buscar 
+		* Desativar a Proteção de Dispositivo Roubado

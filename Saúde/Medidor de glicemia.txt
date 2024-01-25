@@ -1,0 +1,50 @@
+Accu-check active
+	configurar ele facinho 10 segundos
+	Importante pois vai marcar hora e data do teste
+	S
+		liga ele
+	M
+		modifica
+		Deixa 24h
+	S
+		confirma
+	M
+		voce ve os ultimos resultados
+
+	S
+		voce tem acesso as medias
+
+	Fique atento com icone de bateria, quer dizer que esta fraca
+	Bateria 2032
+	Você tem 50 de autonomia 
+	Quando você troca tem 1000 dê autonomia 
+
+	Erros
+		Troque o chipe quando pega um potinho de fitas, aparelhos modernos não vai precisar
+		
+		E-1
+			Erro na meitura da fita
+			O sensor pode estar sujo, ou danificaod
+			Pra limpar ele passe álcool isopropílico 
+			Agua nao, pq estraga
+			Fita mal inserida
+			Umidade da fita
+			ver se a fita foi feita para accu-check
+			Validade da fita
+
+		E-6
+			Mal encaixado
+
+		E-2
+			Quando voce colcoou a fita, ele pediu pra coletar sangue, vc tirou a fita e nao colocou de novo
+
+	Usando
+		Pega lancetador
+		Coloca lanceta
+		2,3,4 é a profundidade do furo
+		Pele mais grossa
+
+		Medindo
+		Anote quando foi, tipo, em jejum, 1h dps dó almoço 
+
+		Se você colocar pouco sangue o teste pode ser falso
