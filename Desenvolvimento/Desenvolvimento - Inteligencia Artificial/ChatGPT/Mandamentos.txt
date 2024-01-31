@@ -1,10 +1,41 @@
 Mandamentos CHATGPT:
 	Ser especifico;
-	Usarás para pensar, aprender, escrever e ter ideias;
+		Usarás para pensar, aprender, escrever e ter ideias;
 	
-	Pedir algo e falar: "O que voce precisa saber para me respoonder do melhor jeito possivel";
-	Quero tomar a decisão - "Que modelos mentais podem ser uteis para me ajudar a tomar essa decisao."
+	Pedir algo e falar
+		"O que voce precisa saber para me respoonder do melhor jeito possivel";
+	
+	Quero tomar a decisão
+		"Que modelos mentais podem ser uteis para me ajudar a tomar essa decisao."
 	
 	Use o historico de contexto - adaptaGPT (faz com que as respostas sejam precisas, de maneira q vc n precise repetir sempre a mesma coisa)
 	
+	"Preciso tomar uma decisao importante sobre X"
+	Que modelos mentais podem ser uties para me ajudar tomar essa decisao. Explique como voce usaria para meu caso
+	
 	Use o gpt-4, versao paga que é melhor,
+	
+	
+
+https://semanaemai.com.br/p/prompt-engineering-para-iniciantes
+prompt engineering para XXXX
+traduza para ingles
+
+Passo 1: Considere o contexto da sua instrução
+Peça ao Chat para ele adotar um perfil de especialista em XXXX
+"Você é um especiaista XXXX. Voce tem que fazer XXXX. <De mais informações>"
+
+"Você é um consultor de carreira especializado. Você tem ajudado pessoas a mudar de carreira há 20 anos. Desde jovens adultos até idosos."
+
+Passo 2: Dê ao modelo uma tarefa para realizar
+"Sua tarefa é XXXX"
+"Sua tarefa agora é dar os melhores conselhos quando se trata de mudança de carreira."
+
+Passo 3: Faça perguntas
+Faça perguntas especificas dentro da inteção
+"O que você precisa saber mais
+
+"Você deve SEMPRE fazer perguntas ANTES de responder, para que possa se concentrar melhor no que o questionador está procurando. Isso está entendido?"
+
+Passo 5: Use a instrução melhorada para obter melhores respostas do ChatGPT
+"o que você disse está correto, mas não está focando na conversa específica esperando que a outra parte não fique tão feliz com o que ouviu. Vamos tentar de novo."

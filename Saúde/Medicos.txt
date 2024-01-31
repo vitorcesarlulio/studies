@@ -8,33 +8,33 @@ Porem pode dar restrição ao tentar agendar outra consulta para mesma especiali
 	andre
 
 	AGENDADO
-		Camila de Mello Mathos
-		06/02 12h00
-		rua tuiti em frente joao 23
-		
-	VISTO AGENDA
 		DRA. THAMARA ANGELINY CARVALHO
 		Essa é top
 		nova, mas muito atenciosa
-		07/02 9h40
+		14/02 10h00
 		https://www.doctoralia.com.br/janaina-petenuci/endocrinologista-medico-clinico-geral/sao-paulo
+		
+	VISTO AGENDA
+		Camila de Mello Mathos
+		06/02 12h00
+		rua tuiti em frente joao 23
 
 		Dra. Cintia Yukimi Yamashiro
 		https://www.doctoralia.com.br/cintia-yukimi-yamashiro/endocrinologista/sumare
 		provavelmente vai ser difiicl achar horario
 		AGENDA FECHADA PARA ESSE CONVENIO
 		n tem pressa para consulta
-		
+
 		Dra. Christianne Haydee Scavone Kairalla
 		https://www.doctoralia.com.br/christianne-haydee-scavone-kairalla/endocrinologista/sumare
 		teve alguns bos, mas parece que ela é boa
 		AGENDA FECHADA PARA ESSE CONVENIO
 		
 		Andre luis
-		Talita irma
-		falou que é bom da os exames certinhos
-		+55 19 99743-8883
-		Só começo de março entrar em contato porque ta lotado
+			Talita irma
+			falou que é bom da os exames certinhos
+			+55 19 99743-8883
+			Só começo de março entrar em contato porque ta lotado
 
 DR. VITOR JOSE FANTINATO PANSANI
 mais ou menos
