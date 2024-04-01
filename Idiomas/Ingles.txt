@@ -28,6 +28,7 @@ APLICATIVOS
 	https://gliglish.com/
 		De graça com uma IA, conversasao
 
+
 TESTE TOEIC
 	O TOEIC (Test of English for International Communication) é um teste padronizado de inglês orientado para profissionais e empresas. O Exame TOEIC está atualmente separado em dois testes, um que avalia as capacidades receptivas (leitura e compreensão oral) e um que avalia a produção de inglês (oralidade e escrita).
 

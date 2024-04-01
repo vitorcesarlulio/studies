@@ -28,3 +28,15 @@ VisBugGenericName
 
 SwiftRead
 	leia mais rápido, aprenda mais
+
+O Scribe usa IA para documentar seus fluxos de trabalho e criar guias passo a passo para treinar colegas com facilidade
+	https://chromewebstore.google.com/detail/scribe-ai-documentation-s/okfkdaglfjjjfefdcppliegebpoegaii
+ 
+DeepL Translate traduz instantaneamente páginas da web para ajudá-lo a superar rapidamente as barreiras linguísticas
+	https://chromewebstore.google.com/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj
+ 
+Coupert encontra os melhores códigos promocionais em toda a web e os aplica automaticamente quando você finaliza a compra.
+	https://chromewebstore.google.com/detail/coupert-automatic-coupon/mfidniedemcgceagapgdekdbmanojomk
+
+Transcrever reuniao
+	https://chromewebstore.google.com/detail/tactiq-resumo-da-reuni%C3%A3o/fggkaccpbmombhnjkjokndojfgagejfb?utm_source=tactiq-product&utm_medium=meeting-chat-notification&utm_campaign=link&pli=1

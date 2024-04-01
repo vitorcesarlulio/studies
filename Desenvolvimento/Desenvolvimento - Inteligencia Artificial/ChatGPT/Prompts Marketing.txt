@@ -1,0 +1,70 @@
+09 PROMPTS:
+
+Prompt 01: Crie 10 ideias de promessas altamente persuasivas para um infoproduto que ajuda [DOR ESPECÍFICA DA PERSONA].
+
+Prompt 02: Com base na promessa a seguir [RESPOSTA DO PROMPT 01] crie 5 variações ainda melhores.
+
+Prompt 03: Com base nessa promessa [RESPOSTA DO PROMPT 02], crie 3 textos persuasivos para usar como complemento da promessa principal. Eles devem ter no mínimo 50 palavras.
+
+Prompt 04: Liste e quebre as objeções das 5 principais dores do [PERSONA + DESEJO].
+
+Prompt 05: Crie uma prova lógica usando informações científicas da importância de [OBJETIVO DA PERSONA]. Crie um texto com no mínimo 100 palavras.
+
+Prompt 06: Crie um nome para o método único de solução baseado na promessa [RESPOSTA DO PROMPT 02]. Deixe claro porque essa é a melhor solução. Explique o método em um texto de 50 palavras.
+
+Prompt 07: Crie os tópicos de um treinamento baseado na promessa: [RESPOSTA DO PROMPT 02 E 03]. Torne os tópicos e subtópicos interessantes.
+
+Prompt 08: Crie os tópicos de 5 bônus do treinamento baseado na promessa: [RESPOSTA DO PROMPT 02 E 03]. Torne os tópicos e subtópicos interessantes. Não repita as respostas da pergunta anterior.
+
+Prompt 09: Crie um FAQ com 10 perguntas e respostas baseado no [DESEJO DA PERSONA]. Leve em consideração a promessa: [RESPOSTA DO PROMPT 02]
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+EXEMPLO: PRODUTO DE EMAGRECIMENTO PARA MULHERES 40+
+
+PROMESSA
+
+[PROMPT 1] Crie 10 ideias de promessas altamente persuasivas para um infoproduto que ajuda as mulheres com mais de 40 anos a emagrecerem em tempo recorde.
+
+[PROMPT 2] Com base na promessa a seguir "Corpo dos Sonhos Após os 40: O Plano Definitivo para Emagrecer 5 Quilos em 4 Semanas, e Redefinir sua Autoestima." crie 5 variações ainda melhores.
+
+SUB PROMESSA
+
+[PROMPT 3] Com base nessa promessa "Corpo dos Sonhos Após os 40: O Plano Definitivo para Emagrecer 5 Quilos em 4 Semanas e Elevar sua Autoestima ao Máximo.", crie 3 textos persuasivos para usar como complemento da promessa principal. Eles devem ter no mínimo 50 palavras.
+
+OBJEÇÕES MAIS COMUNS
+
+[PROMPT 4] Liste e quebre as objeções das 5 principais dores das mulheres com mais de 40 que estão tentando emagrecer.
+
+CRIAR UM ARGUMENTO LÓGICO PARA VENDER
+
+[PROMPT 5] Crie uma prova lógica usando informações científicas da importância de emagrecer depois dos 40 (mulheres). Crie um texto com no mínimo 100 palavras.
+
+
+
+CRIAR UM MÉTODO ÚNICO
+
+
+[PROMPT 6] Crie um nome para o método único de solução baseado na promessa "Queime Gordura 24/7: O Plano Definitivo para Mulheres com Mais de 40 Anos que querem perder 10 quilos em apenas 30 dias". Deixe claro porque essa é a melhor solução possível. Além do nome, explique o método em um texto de 50 palavras.
+
+
+
+CRIAR IDEIA DE UM TREINAMENTO COMPLETO
+
+
+[PROMPT 7] Crie os tópicos de um treinamento baseado na promessa: ""Queime Gordura 24/7: O Plano Definitivo para Mulheres com Mais de 40 Anos que querem perder 10 quilos em apenas 30 dias". torne os tópicos e subtópicos interessantes.
+
+
+
+IDEIA DE 5 BÔNUS
+
+
+[PROMPT 8] Crie os tópicos de 5 bônus do treinamento baseado na promessa: ""Queime Gordura 24/7: O Plano Definitivo para Mulheres com Mais de 40 Anos que querem perder 10 quilos em apenas 30 dias". torne os tópicos e subtópicos interessantes. leve em consideração os tópicos da resposta anterior.
+
+
+CRIAR UM FAQ
+
+
+[PROMPT 9] Crie um FAQ com 10 perguntas e respostas baseado nas principais que uma mulher com mais de 40 anos que quer emagrecer teria. Leve em consideração a promessa: "Queime Gordura 24/7: O Plano Definitivo para Mulheres com Mais de 40 Anos que querem perder 10 quilos em apenas 30 dias".
+

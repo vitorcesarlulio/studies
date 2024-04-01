@@ -1,0 +1,99 @@
+E sim, precisa declarar bitcoin. Uma vez que fazem parte do patrimônio de uma pessoa e são um investimento como qualquer outro, é necessário colocar a grana virtual no Imposto de Renda também desde 2019.
+
+Pelas regras atuais, qualquer pessoa física que precisa declarar o IR e possui criptomoedas tem a obrigação de prestar informações sobre esses investimentos — independentemente do valor.
+
+O brasil exige declara
+nao confunda declarar com pagar
+
+sao 3 tipos
+1 exchange
+	ela quem faz, quando ela tem cede no brasil
+	mas se a corretora for internacional, a receita não tem acesso
+
+2
+	vc declara que comprou, você não paga nada só avisa
+
+3
+	declaração de venda
+	vc só paga o que passar de 35 mil reais, esse valor por mes
+	uma margem muito boa
+
+	todo mes você pode sacar 35 mil isento de IR
+
+Declaraão de IR
+	ela quer ver sua declaração patrimonial
+	vc sair de 50k de patrimonio e ir para 500k
+
+	se vc tem declarado que comprou 10k reais da cripto
+	e vendi esses 10k em varios meses que eu declarei esses meses
+	esses 10k reais viraram 380k reais
+	isso n tem problema
+	
+	orblema de nao declarar é que vc vai ficar fugindo da receita
+	e cada vez mais a receita ta por dentro
+	como voce vai explicar pra receita seu patrimonio
+
+Documento da Receita (perguntao)
+	IN 18888
+	Perguntas e Respostas Dirf 2024
+
+	imagina q em 2019 vc comprou 1btc e ele valia 300 dol, vc vai declar ele todos anos, nesse mesmo valor
+	só quando vc vender, ai sim voce vai falar quanto foi
+
+	deve ser declaro como bens e direito
+
+	codigos
+		81
+			btc, só para btc
+			declare sempre, mas a receita fala que no minimo 5k reais
+			pq se ela valorizar mt, vai ficar muito mais facil de voce explicar isso
+
+		82
+			todos os demais criptos
+		89
+			fãs tokens
+			Link
+			BNB
+		
+		esses 5k é declaração anual de seus bens
+	
+	Alinação
+		tudo compra venda, permuta, doação, staking, transferencia
+	
+	sempre que vender um valor superior a 35k no mes
+	o que movimentar ate 35k vc n paga
+	
+	guarde extrato da corretora que doposita e que saca
+	as declarações tbm
+
+Tipos de declaração
+	Declaração GCAP
+		toda vez que vc vende uma cripto, vc tem que pagar imposto sob a renda
+		vc compro por 10k vendeu por 40k
+		vc vai pagar imposto sob 30k a diferença
+		abaixo de 35k vc nao paga imposto
+
+	Declaração anual
+		vc fala pra receita o que vc tem de ativos, de bens
+		coloca marido, imposto, pq ai a receita deixa de cobrar imposto
+		
+		as criptos entram aqui
+		vc tem que falar o seguinte
+		dia 01/01/2021 eu tinha essas criptos
+		dia 31/12/2021 eu tinha essa e essa
+		declaração anual sao os bens, uma cripto é um bem seu
+
+		aqui entra os arquivos do gcap
+		meio que pra vc falar que em 4 meses vc sacou abaixo de 35k, mas 1 mes vc sacou 50k
+		ai vc paga so esse 1 mes
+
+	declaração voluntraria
+		se ela espessare o ano todo para declaraão o cara podia esquecer
+		n ia ter o mesmo valor
+	
+	Voce pode ser multado de 168 reais (atraso) até milhares de reais (agil de mafe)
+
+Declaranaod
+	Toda venda de cripto, faça GCAP
+	Imagina que você não declara em partes, ai você fez um patrimonio de 50k, como você explica? 
+	Se você fosse declarandode 5k em 5k

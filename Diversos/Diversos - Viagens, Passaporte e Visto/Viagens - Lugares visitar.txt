@@ -26,10 +26,11 @@ PAÍS - BRASIL
 	@cabanasmantiqueira
 
 	ESTADO - SÃO PAULO
-		CIDADE - AGUAS DE SÃO PEDRO
-			https://www.instagram.com/lsvillas?igshid=NGVhN2U2NjQ0Yg%3D%3D
-			day use
+		CIDADE - LIMEIRA
+			FLORYBAL - CHOCOLATES CASEIRO DE GRAMADO 
 
+		CIDADE - SÃO ROQUE
+			Dream Car Museum (Museu do Carro)
 		CIDADE - ITATIBA
 			https://www.instagram.com/zooparque.itatiba?igsh=cGZxbDl2MHd0ZXQw
 
@@ -67,6 +68,22 @@ PAÍS - BRASIL
 			Loja de queijo
 
 		CIDADE - SÃO PAULO
+			https://www.instagram.com/animaliapark/
+				Maior parque animal
+			
+			Cooworking santandar
+			Hotel ibis vermelho
+				O melhor
+			Movit 
+				Pegar as linhas do metro
+				Fala onde ta e onde quer ir
+
+			top
+				Entrar no metro
+				
+			Conhecer
+				hipica
+
 			BARES/BALADAS
 				Bahamas
 				Café photo 
@@ -79,6 +96,8 @@ PAÍS - BRASIL
 				https://instagram.com/matizbars
 
 			RESTAURANTES
+				NTMU Steakhouse
+					Top carinha do Google vai, uma vibe bem fim de tarde
 				fazenda churrascada
 				sal gastronomia
 				Jequitiba
@@ -89,6 +108,7 @@ PAÍS - BRASIL
 				https://instagram.com/skyhallbar
 				@cachoeira_grande
 					Legal fica em SP restaurante
+				zona011bar
 
 			TINERARIOS
 				Pegar busão cair no tiete
@@ -308,8 +328,7 @@ PAÍS - BRASIL
 			• Hotéis
 				fazenda areia que canta
 
-			Recanto das cahoeiras
-				Um day use
+
 
 		CIDADE - ILHA BELA
 			• Hotéis
@@ -682,6 +701,8 @@ PAÍS - EUA
 			Ross, burlington e marshels
 			Muito difícil andar de carro, poucas vagas, é perigosos, ideal seria bike
 				East
+			Brickell City Centre
+				Lugar bonito
 
 		CITY - BOCA RATON
 
@@ -695,6 +716,10 @@ PAÍS - EUA
 
 	STATE - NEVADA
 		CITY - LAS VEGAS
+			so pdoe pagamento do hotel com cartao de credito no seu nome e e isso é em todos hostel
+			até motel de filme lá é caro
+			tudo muito caro
+
 			Las Vegas Strip
 			Trato feito
 			clube de tiro
@@ -821,6 +846,9 @@ PAÍS - Butão
 	rilha Trans-Bhutan
 	
 CONTINENTE AFRICANO
+	https://www.krugershalati.com/
+		Hotel em um trem abandonado
+
 	PAÍS - Tanzania
 		sinto que é um destino que ainda tende a "estourar"! Tem o lado do Safari que é incrível e super diferente e o lado de Zanzibar que tem praias lindíssimas. Em um país da pra viver duas experiências super diferentes.
 	PAÍS - Ruanda
@@ -1133,60 +1161,3 @@ PAÍS - COREA DO SUL
 
 PAÍS - Suécia
 	Skellefteå
-
-CARRO
-	• arrancada Interlagos 
-	• arrancada Tremembé
-	• arrancada racevaley
-	• arrancada Velopark 
-	• Autonor - 20 anos da maior feira de tecnologia automotiva
-	• encontros de carro 
-	• volksfest (começo de agosto)
-	• festival de cerveja artesanal (junho)
-	• encontro de carros água de Lindóia (20 junho)
-	• encontro carro bgt SP
-	• feirões automóvel
-	• Salão do automóvel Genebra 7 de março
-
-TECNOLOGIA
-	• Maior e-commerce da América latina (julho)
-	• evento Facebook (28 junho)
-	• evento Google 
-	• evento YouTube
-	• Social Media Week São Paulo (09 a 13 de Setembro São Paulo)
-	• Brazil Independent Game Festival (BIG) (22 a 30 de Junho)
-	• Campus Party (12 a 17 de fevereiro, São Paulo)
-	• Conferência Ethos 360º
-	• Customer Success Day
-	• Digitalks
-	• Eventos da Academia Trianons
-	• Imersão Executiva em Transformação Digital de Negócios (01 e 02 de fevereiro, São Paulo)
-	• Innovation Pay
-	• Intercon
-	• MercadoLivre Experience (31 de agosto, São Paulo)
-	• Mercos Experience Dias (12 e 13 de setembro, Joinville)
-	• Proxxima (07 e 08 de maio, São Paulo)
-	• Rakuten Expo Dia (10 de outubro, em São Paulo)
-	• Ramp Up Tour
-	• RD Summit e RD on the Road
-	• Redes WeGov
-	• Social Media Happy Hour
-	• UHULL Connect (22 e 23 de março, Salvador)
-	• UXConf (16, 17 e 18 de maio, Porto Alegre)
-	• VTEX Day (30 e 31 de maio, em São Paulo)
-	• Wired Festival
-	• ABECS – CMEP (26 e 27 de março, São Paulo)
-	• APIX  (5 e 6 de junho, São Paulo)
-	• AWS Summit (27 de junho, em São Paulo)
-	• Big Data Week
-	• Cards Future Payment (28 a 31 de outubro, São Paulo)
-	• Cred-Tech
-	• Ciab Febraban
-	• CNASI – Congresso de segurança da informação, auditoria e governança de TIC 1(0 e 11 de junho, São Paulo)
-	• Congresso Security Leaders
-	• DevCamp (16 de agosto, Campinas)
-	• The Developer’s Conference (TDC)
-	• Fintech Conference
-	• Futurecom (28 a 31 de outubro, São Paulo)
-	• E3
-	• CES 2019
