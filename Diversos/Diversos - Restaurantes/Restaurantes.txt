@@ -7,3 +7,6 @@ Colorline Cruise na Noruega.
 
 Restaurante vila del capo
 	Alto serra de são pedro
+
+Encontrar restaurantes
+	https://www.theinfatuation.com/

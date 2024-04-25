@@ -15,3 +15,7 @@ Argennti Joias
 Prata 925
 Prata bem clarinha
 Veneziana bem fininha
+
+
+celestia.pratas
+	prata 925 baratas, parece boa
