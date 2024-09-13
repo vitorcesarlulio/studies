@@ -32,35 +32,3 @@ Meliuz
 	Nota fiscal tem que testar ver se da certo tbm (é pra dar)
 	Tem limite de qtde por produto, 10 por pessoa exemplo
 	Tem uns produtos bem aleatorios kkkk (deve ser uma parceria)
-
-CARTOES CAIXA
-	https://www.caixa.gov.br/voce/cartoes/programa-pontos/Paginas/default.aspx
-	
-	Para resgatar os pontos tem que ser por algum dos programas:
-	Azul
-	Smiles
-	LATAM Pass
-	TAP
-	Miles&Go
-	Dotz
-
-	Cartão CAIXA Visa Infinite
-		Nacional
-			U$ 1,00 (1 dólar) = 2,3 pontos
-
-		Internacional
-			U$ 1,00 (1 dólar) = 3,2 pontos
-
-		O resgate pode ser efetuado de acordo com as condições descritas na tabela de quantidade mínima de pontos para resgate.
-		
-		CONCLUSÕES
-			Da mais pontos
-			Visa tem bastente beneficios, seguro compra
-
-	Cartão CAIXA Mastercard Black
-		Nacional
-			U$ 1,00 (1 dólar) = 2,1 pontos
-
-		CONCLUSÕES
-			Da menos pontos
-			Tem Mastercard surpreenda
