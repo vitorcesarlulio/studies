@@ -1,0 +1,27 @@
+RAIOS
+UVB
+	Pode alterar o DNA celular e dar cancer de pele do tipo 1 ao tipo 5 de fitzpatrick
+	Tipo 6 tem muito pigmento então ele se protege
+
+	Proteção conta UVB é feita por FPS 
+
+	Recomendação é um FPS >= 30 pra todo mundo
+	
+UVA
+	Pode causar envelhecimento da pele
+	Aumentar nivel de manchas
+	3, 4, 5 e 6 de fitzpatrick
+	
+	Protetor de alto spectro para manchinhas
+	no brasil todos aprovados pela anvisa sao
+	tem FPS e 1/3 do FPS é o PPD que protege contra UVA
+
+luz visivel
+	3, 4, 5 e 6 de fitzpatrick
+	Oxido de ferro que protege é o que da cor
+
+MAS QUAL ESCOLHER
+fitzpatrick 3 se preocupa com envelhecimento tem um pouco de melasma 
+Ideal seria protetor solar que tenha cor ou um protetor solar e uma base por cima
+
+Se for para atividade fisica deveria ser um protetor que demore para sair (em bastao)

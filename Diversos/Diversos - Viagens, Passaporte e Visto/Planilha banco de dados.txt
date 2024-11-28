@@ -1,0 +1,13 @@
+Tem que ter colunas
+
+
+
+evento
+colocar oq geralmente tem la, trilha? que mais? perguntar pro chat
+
+Pegar localização sozinha, tipo uma busca algo assim, passa só cidade
+
+Continente
+Pais
+Estado
+Cidade
