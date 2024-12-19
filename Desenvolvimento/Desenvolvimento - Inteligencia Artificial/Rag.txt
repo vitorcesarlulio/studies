@@ -1,0 +1,54 @@
+Rag permite atualizar base llm com as informações mais atuais possíveis
+Conectar o llm com uma fonte de dados externa
+
+Imagina um braco de maquina de pelúcia
+Vc tem seu llm grande, obeso e ai o bracinho da maquina de pelicia vai na sua fonte e atualiza o llm
+
+Rag faz a conexão, ele pluga onde tiver seu dado
+Um pdf, um mysql
+
+Ai voce carrega isso em memoria 
+
+Ai por exemplo imagina que é tudo pdf vc vai transformar eles em uma coisa so, num pdf so e depois vai dividir em chuncks tipo pedacinhos
+Esses chuncks que voce passa pra llm 
+Mas pq?
+
+Vc faz o embading dos chanks 
+O documento é em formato de texto, mas computador n entende texto
+Ai voce transforma em numero
+Voce faz tokenizacao
+Codigo 72 é igual a bola
+
+O modelo entende palavra por palavra mas n entende o contexto 
+Banco, pode ser de dados, se sentar varios tipos 
+
+Ai voce joga pra um modelo de embedding
+Ele é pretreinado
+Voce joga os tokens e ele cria uma representação
+N tem LLM que n tenha embadding
+
+Etapa de retrival
+Faz a busca
+Quando o user faz uma pergunta pro rag o sistema fica responsável de pegar a pergunta e ir nos chuncks pesquisar
+Vai pesquisar os chuncks que mais se aproximam do usuário 
+Como preencher folha ponto
+Esse sistema vai pesquisar nos chuncks pedacos que ensinam como preencher folha ponto
+
+E vai retornar uns chuncks semelhantes 
+
+Ai dentro do retrivel tem sistema de ranqueamento que vai ranquear desses chuncks e vai elencar os mais relevantes 
+
+Ai esses chuncks vao para llm junto com a pergunta do user 
+Llm so vai precisar se basear nos chuncks e responder com base nos documentos reais (o pdf por exemplo), internos da empresa nao no conhecimento q ele adquiriu num treinamento que pode ser que esteja desatualizado
+
+Ai imagina q o pdf mudou, beleza o processo de retrivel vai pesquisar trunks do pdf mais atualizado
+
+
+Tem um tecnica que vai contra rag
+Finetuning é zika
+Massss voce retreina um modelo e isso leva tempo, 4 semanas por exemplo
+Ai imagina que ou da ruim, n treinou legal
+Ou entao, voce treinou mas ja ta desatualizado a informação
+
+Rag ele é uma cola na hora da prova
+Mas ele é dependente do contexto pois ele n aprendeu aquilo, so pegou contexto e consultou

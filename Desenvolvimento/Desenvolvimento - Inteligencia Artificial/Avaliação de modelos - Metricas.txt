@@ -1,0 +1,8 @@
+Avaliação de um modelo
+Geralmente a galera usa algumas métricas que ai você nao precisa acompanhar manualmente o que deu certo e o que nao deu
+Voce joga pro sistema fazer uma avaliação e ele te retorna uma metrica de 0 a 1 
+1 perfeito 0 erro tudo
+Ai a partir disso da pra gerar uma matriz de confusão 
+
+Precision é uma metrica 
+Recall

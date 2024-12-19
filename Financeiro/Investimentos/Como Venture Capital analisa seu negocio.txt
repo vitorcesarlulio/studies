@@ -1,0 +1,30 @@
+Como Venture Capital analisa seu negocio
+5 dimensoes na analise de produto por VC
+Product/value fit
+Resolve problemas e entrega valor superior?
+O VC vai olhar feedback de clientes, retenção inicial, engajamento 
+Produto é util e essencial?
+Etendender a diferença em relacao a outras soluções
+
+Product/market fit
+Gera valor, atrai e retem clientes
+O vc vai olhar satisfação, retenção, crescimento (cohorts)
+Satisfação e retrncao maiores variaveis
+Crescimento: existe um mercado que compra solucao ao inves da empresa ficar vendendo? Pode ser comprvado com crescimento de receita dos users
+
+Product/zeigeist fit
+Alinhamento com tendencia e timing
+Conexao com tendencia, crescimento de mercado
+É o hype 
+Porque importa? Faca essa pergunta
+
+Product go to market fit
+Sinergia enttre produto e canal de distribuição 
+Avalia a vibilidade de escala
+LTV/CAC sles efficienty CAC payback
+Produto e canal de distribuição estao alinhados?
+Canal pronto para ser escalado sob um custo eficiente?
+O posicionamento do produto frente ao mercado è concorrentes é adequado?
+
+Product/VentureScale Fit
+TAM, benchmark international comparações com empresas publicas
