@@ -1,0 +1,9 @@
+Reconhecer Corpo Hospital (Se for hospital)
+
+Reconhecer corpo funeraria
+
+Definir Urna
+
+Definir terra do cemiterio
+
+Missa 7º Dia

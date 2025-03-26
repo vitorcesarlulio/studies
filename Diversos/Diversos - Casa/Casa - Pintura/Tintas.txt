@@ -1,0 +1,26 @@
+3 tipos de tinta
+1 linha: premium 
+2 linha: standard 
+3 linha: economica
+
+Marcas e loja a linha premium é piguimentada em loja porque nao tem como a loja comprar 2k cores pra estocar
+Entao é comprada as bases pra fazer piguimentacao na loja
+
+Dentro das tintas tem 3 bases
+
+Base A
+Base pra cor clara
+Base B
+Base pra cor media
+Base C
+Base pra cor escura
+
+Vai muita piguimentacao pra fazer algumas cores
+A base pra cor escura vem mais transparente 
+Qual tipo de cor voce quer
+
+Cores muito vivas é mais caro
+
+O que da cobertura em uma parede é o branco
+Tinta amarela sai mais caro da mais manutenção
+Precisa de mais demao

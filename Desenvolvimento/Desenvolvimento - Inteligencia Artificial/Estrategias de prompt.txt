@@ -1,0 +1,3 @@
+Prompt bem elaborado é essencial pra obter saidas precisas e relevantes de LLM
+
+Contextualização dinâmica
